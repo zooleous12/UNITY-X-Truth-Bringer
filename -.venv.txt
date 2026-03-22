@@ -1,0 +1,273 @@
+-.venv
+                ª   ª   .gitignore
+                ª   ª   pyvenv.cfg
+                ª   ª   
+                ª   +---Lib
+                ª   ª   +---site-packages
+                ª   ª       +---charset_normalizer
+                ª   ª       ª   ª   api.py
+                ª   ª       ª   ª   legacy.py
+                ª   ª       ª   ª   md.cp313-win_amd64.pyd
+                ª   ª       ª   ª   models.py
+                ª   ª       ª   ª   py.typed
+                ª   ª       ª   ª   
+                ª   ª       ª   +---cli
+                ª   ª       ª   ª       __main__.py
+                ª   ª       ª   ª       
+                ª   ª       ª   +---__pycache__
+                ª   ª       ª           api.cpython-313.pyc
+                ª   ª       ª           legacy.cpython-313.pyc
+                ª   ª       ª           md.cpython-313.pyc
+                ª   ª       ª           version.cpython-313.pyc
+                ª   ª       ª           __init__.cpython-313.pyc
+                ª   ª       ª           
+                ª   ª       +---charset_normalizer-3.4.4.dist-info
+                ª   ª       ª   ª   INSTALLER
+                ª   ª       ª   ª   RECORD
+                ª   ª       ª   ª   top_level.txt
+                ª   ª       ª   ª   
+                ª   ª       ª   +---licenses
+                ª   ª       ª           LICENSE
+                ª   ª       ª           
+                ª   ª       +---pillow-12.0.0.dist-info
+                ª   ª       ª   ª   INSTALLER
+                ª   ª       ª   ª   top_level.txt
+                ª   ª       ª   ª   WHEEL
+                ª   ª       ª   ª   zip-safe
+                ª   ª       ª   ª   
+                ª   ª       ª   +---licenses
+                ª   ª       ª           LICENSE
+                ª   ª       ª           
+                ª   ª       +---pip
+                ª   ª       ª   ª   py.typed
+                ª   ª       ª   ª   __init__.py
+                ª   ª       ª   ª   __main__.py
+                ª   ª       ª   ª   __pip-runner__.py
+                ª   ª       ª   ª   
+                ª   ª       ª   +---_internal
+                ª   ª       ª   ª   ª   build_env.py
+                ª   ª       ª   ª   ª   cache.py
+                ª   ª       ª   ª   ª   configuration.py
+                ª   ª       ª   ª   ª   exceptions.py
+                ª   ª       ª   ª   ª   main.py
+                ª   ª       ª   ª   ª   self_outdated_check.py
+                ª   ª       ª   ª   ª   wheel_builder.py
+                ª   ª       ª   ª   ª   __init__.py
+                ª   ª       ª   ª   ª   
+                ª   ª       ª   ª   +---cli
+                ª   ª       ª   ª   ª   +---__pycache__
+                ª   ª       ª   ª   +---commands
+                ª   ª       ª   ª   ª   +---__pycache__
+                ª   ª       ª   ª   +---distributions
+                ª   ª       ª   ª       +---__pycache__
+                ª   ª       ª   +---_vendor
+                ª   ª       ª   ª       README.rst
+                ª   ª       ª   ª       vendor.txt
+                ª   ª       ª   ª       __init__.py
+                ª   ª       ª   ª       
+                ª   ª       ª   +---__pycache__
+                ª   ª       ª           __init__.cpython-313.pyc
+                ª   ª       ª           __main__.cpython-313.pyc
+                ª   ª       ª           __pip-runner__.cpython-313.pyc
+                ª   ª       ª           
+                ª   ª       +---pip-25.3.dist-info
+                ª   ª       ª   ª   entry_points.txt
+                ª   ª       ª   ª   INSTALLER
+                ª   ª       ª   ª   METADATA
+                ª   ª       ª   ª   RECORD
+                ª   ª       ª   ª   REQUESTED
+                ª   ª       ª   ª   WHEEL
+                ª   ª       ª   ª   
+                ª   ª       ª   +---licenses
+                ª   ª       ª           AUTHORS.txt
+                ª   ª       ª           LICENSE.txt
+                ª   ª       ª           
+                ª   ª       +---reportlab
+                ª   ª       ª   ª   rl_config.py
+                ª   ª       ª   ª   rl_settings.py
+                ª   ª       ª   ª   __init__.py
+                ª   ª       ª   ª   
+                ª   ª       ª   +---fonts
+                ª   ª       ª   ª       00readme.txt
+                ª   ª       ª   ª       bitstream-vera-license.txt
+                ª   ª       ª   ª       callig15.afm
+                ª   ª       ª   ª       callig15.pfb
+                ª   ª       ª   ª       cobo____.pfb
+                ª   ª       ª   ª       cob_____.pfb
+                ª   ª       ª   ª       com_____.pfb
+                ª   ª       ª   ª       coo_____.pfb
+                ª   ª       ª   ª       DarkGarden-changelog.txt
+                ª   ª       ª   ª       DarkGarden-copying-gpl.txt
+                ª   ª       ª   ª       DarkGarden-copying.txt
+                ª   ª       ª   ª       DarkGarden-readme.txt
+                ª   ª       ª   ª       DarkGarden.sfd
+                ª   ª       ª   ª       DarkGardenMK.afm
+                ª   ª       ª   ª       DarkGardenMK.pfb
+                ª   ª       ª   ª       hb-test.ttf
+                ª   ª       ª   ª       sy______.pfb
+                ª   ª       ª   ª       Vera.ttf
+                ª   ª       ª   ª       VeraBd.ttf
+                ª   ª       ª   ª       VeraBI.ttf
+                ª   ª       ª   ª       VeraIt.ttf
+                ª   ª       ª   ª       zd______.pfb
+                ª   ª       ª   ª       zx______.pfb
+                ª   ª       ª   ª       zy______.pfb
+                ª   ª       ª   ª       _abi____.pfb
+                ª   ª       ª   ª       _ab_____.pfb
+                ª   ª       ª   ª       _ai_____.pfb
+                ª   ª       ª   ª       _a______.pfb
+                ª   ª       ª   ª       _ebi____.pfb
+                ª   ª       ª   ª       _eb_____.pfb
+                ª   ª       ª   ª       _ei_____.pfb
+                ª   ª       ª   ª       _er_____.pfb
+                ª   ª       ª   ª       
+                ª   ª       ª   +---graphics
+                ª   ª       ª   ª       renderbase.py
+                ª   ª       ª   ª       renderPDF.py
+                ª   ª       ª   ª       renderPM.py
+                ª   ª       ª   ª       renderPS.py
+                ª   ª       ª   ª       renderSVG.py
+                ª   ª       ª   ª       shapes.py
+                ª   ª       ª   ª       svgpath.py
+                ª   ª       ª   ª       testdrawings.py
+                ª   ª       ª   ª       testshapes.py
+                ª   ª       ª   ª       transform.py
+                ª   ª       ª   ª       utils.py
+                ª   ª       ª   ª       widgetbase.py
+                ª   ª       ª   ª       __init__.py
+                ª   ª       ª   ª       
+                ª   ª       ª   +---lib
+                ª   ª       ª   ª       abag.py
+                ª   ª       ª   ª       arciv.py
+                ª   ª       ª   ª       attrmap.py
+                ª   ª       ª   ª       boxstuff.py
+                ª   ª       ª   ª       codecharts.py
+                ª   ª       ª   ª       colors.py
+                ª   ª       ª   ª       corp.py
+                ª   ª       ª   ª       enums.py
+                ª   ª       ª   ª       extformat.py
+                ª   ª       ª   ª       fontfinder.py
+                ª   ª       ª   ª       fonts.py
+                ª   ª       ª   ª       formatters.py
+                ª   ª       ª   ª       geomutils.py
+                ª   ª       ª   ª       logger.py
+                ª   ª       ª   ª       normalDate.py
+                ª   ª       ª   ª       pagesizes.py
+                ª   ª       ª   ª       pdfencrypt.py
+                ª   ª       ª   ª       PyFontify.py
+                ª   ª       ª   ª       pygments2xpre.py
+                ª   ª       ª   ª       randomtext.py
+                ª   ª       ª   ª       rltempfile.py
+                ª   ª       ª   ª       rl_accel.py
+                ª   ª       ª   ª       rl_safe_eval.py
+                ª   ª       ª   ª       rparsexml.py
+                ª   ª       ª   ª       sequencer.py
+                ª   ª       ª   ª       styles.py
+                ª   ª       ª   ª       testutils.py
+                ª   ª       ª   ª       validators.py
+                ª   ª       ª   ª       yaml.py
+                ª   ª       ª   ª       
+                ª   ª       ª   +---pdfbase
+                ª   ª       ª   ª       acroform.py
+                ª   ª       ª   ª       pdfdoc.py
+                ª   ª       ª   ª       pdfform.py
+                ª   ª       ª   ª       pdfpattern.py
+                ª   ª       ª   ª       rl_codecs.py
+                ª   ª       ª   ª       _can_cmap_data.py
+                ª   ª       ª   ª       _fontdata.py
+                ª   ª       ª   ª       _fontdata_enc_macroman.py
+                ª   ª       ª   ª       _fontdata_enc_standard.py
+                ª   ª       ª   ª       _fontdata_enc_winansi.py
+                ª   ª       ª   ª       _fontdata_widths_courier.py
+                ª   ª       ª   ª       _fontdata_widths_courieroblique.py
+                ª   ª       ª   ª       _fontdata_widths_helveticaboldoblique.py
+                ª   ª       ª   ª       _fontdata_widths_symbol.py
+                ª   ª       ª   ª       _fontdata_widths_timesbold.py
+                ª   ª       ª   ª       _fontdata_widths_timesroman.py
+                ª   ª       ª   ª       _fontdata_widths_zapfdingbats.py
+                ª   ª       ª   ª       __init__.py
+                ª   ª       ª   ª       
+                ª   ª       ª   +---pdfgen
+                ª   ª       ª   ª       canvas.py
+                ª   ª       ª   ª       pdfimages.py
+                ª   ª       ª   ª       textobject.py
+                ª   ª       ª   ª       
+                ª   ª       ª   +---__pycache__
+                ª   ª       ª           rl_config.cpython-313.pyc
+                ª   ª       ª           rl_settings.cpython-313.pyc
+                ª   ª       ª           __init__.cpython-313.pyc
+                ª   ª       ª           
+                ª   ª       +---reportlab-4.4.5.dist-info
+                ª   ª       ª   ª   INSTALLER
+                ª   ª       ª   ª   METADATA
+                ª   ª       ª   ª   RECORD
+                ª   ª       ª   ª   REQUESTED
+                ª   ª       ª   ª   top_level.txt
+                ª   ª       ª   ª   WHEEL
+                ª   ª       ª   ª   
+                ª   ª       ª   +---licenses
+                ª   ª       ª           LICENSE
+                ª   ª       ª           
+                ª   ª       +---watchdog
+                ª   ª       ª   ª   events.py
+                ª   ª       ª   ª   version.py
+                ª   ª       ª   ª   watchmedo.py
+                ª   ª       ª   ª   
+                ª   ª       ª   +---observers
+                ª   ª       ª   ª       api.py
+                ª   ª       ª   ª       fsevents.py
+                ª   ª       ª   ª       inotify.py
+                ª   ª       ª   ª       inotify_buffer.py
+                ª   ª       ª   ª       kqueue.py
+                ª   ª       ª   ª       read_directory_changes.py
+                ª   ª       ª   ª       __init__.py
+                ª   ª       ª   ª       
+                ª   ª       ª   +---utils
+                ª   ª       ª   ª       bricks.py
+                ª   ª       ª   ª       dirsnapshot.py
+                ª   ª       ª   ª       echo.py
+                ª   ª       ª   ª       patterns.py
+                ª   ª       ª   ª       process_watcher.py
+                ª   ª       ª   ª       
+                ª   ª       ª   +---__pycache__
+                ª   ª       ª           events.cpython-313.pyc
+                ª   ª       ª           __init__.cpython-313.pyc
+                ª   ª       ª           
+
+
+
+                ª   ª               
+                ª   +---Scripts
+                ª           activate
+                ª           activate.fish
+                ª           deactivate.bat
+                ª           normalizer.exe
+                ª           pip3.exe
+                ª           python.exe
+
+  ª                       
+                +---Whisper_Deck
+                ª       Context_MasterInjection.base64
+                ª       Context_MasterInjection.png
+                ª       
+                +---wisper
+                    ª   build_deck.py
+                    ª   decode_context.py
+                    ª   encode1_context.py
+                    ª   sync_deck.py
+                    ª   wisper.pyproj
+                    ª   wisper.pyproj.user
+                    ª   
+                    +---.vs
+                        ª   slnx.sqlite
+                        ª   
+                        +---wisper
+                        ª   +---CopilotIndices
+                        ª       +---18.0.955.22606
+                        ª               SemanticSymbols.db
+                        ª               
+                        +---wisper.slnx
+                            +---v18
+                                    .wsuo
+                                    
+
