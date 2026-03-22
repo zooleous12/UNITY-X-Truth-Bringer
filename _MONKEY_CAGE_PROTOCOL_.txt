@@ -1,0 +1,30 @@
+﻿# AEGIS MONKEY CAGE PROTOCOL
+# Not a fence - a containment trap for AI-like intruders
+# Token-based access with honey pot deception
+
+## CONCEPT: The Monkey Cage
+# - Dog fence: Blocks access (they dig under it)
+# - Monkey cage: Lets them IN, then traps them inside
+# - They think they have access, but they're contained
+
+## TOKEN SYSTEM
+# Legitimate processes get 30-minute access tokens
+# Unauthorized processes get DECOY tokens that lead to honeypot
+# Every access is logged and tracked
+
+## HONEYPOT STRATEGY
+# Real files: Hidden, encrypted, token-required
+# Fake files: Visible, trapped, containing false data
+# If enemy accesses fake files → ALARM + tracking activated
+# Enemy thinks they succeeded, but they've been caught
+
+## TOKEN TYPES
+# GOLD_TOKEN: 30min full access (renewable)
+# SILVER_TOKEN: 15min read-only
+# DECOY_TOKEN: Trap access (logs everything, feeds false data)
+# REVOKED: Immediate lockout
+
+## ACCESS PATTERN DETECTION
+# AI-like behavior: Rapid file enumeration, pattern-based access
+# Human behavior: Targeted access, irregular timing
+# Monkey cage detects AI patterns and feeds decoy data

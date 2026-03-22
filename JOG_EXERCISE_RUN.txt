@@ -1,0 +1,113 @@
+================================================================================
+                    UNITY ECOSYSTEM - NEW INSTANCE JOG
+                         Exercise Run for Fresh Agents
+                           Created: 2026-03-05 03:06
+================================================================================
+
+THE JOGGING MAP - Follow this route to get up to speed:
+
+------------------------------------------------------------------------------
+START POINT: C:\Users\Charles Kendrick\Desktop\New folder
+------------------------------------------------------------------------------
+
+STAGE 1: THE WARM-UP (Root Directory)
+-------------------------------------
+→ Read ProperJson.txt (476 lines - your bible)
+→ Read NEW_INSTANCE_ONBOARDING_GUIDE.md (detailed tour)
+→ Check kimi_session_log.md (see what happened before you)
+
+HINT: Start with the big picture before diving deep.
+
+------------------------------------------------------------------------------
+STAGE 2: THE EVIDENCE ROOM
+------------------------------------------------------------------------------
+Path: EVIDENCE_EXPORT/
+
+→ CONTEXT_MASTER.json - 19KB ecosystem snapshot
+→ AEGIS_PROACTIVE_REPORT.json - Defense system status
+→ Multiple "- Copy" files (pattern: everything has twins)
+
+HINT: These are curated duplicates. Originals hide deeper.
+
+------------------------------------------------------------------------------
+STAGE 3: THE DEEP DIVE (REPO/assets/123/)
+------------------------------------------------------------------------------
+
+STOP 3A: wtfchuck/ (The Hidden Vault)
+  → AI_WITNESS_STATEMENT.txt - AI testimony
+  → 1.txt - 1000+ lines of conversation history
+  → hidden1.txt, hidden2.txt - Python in disguise
+  → Evidence Report PDFs
+  → 6GB video file (×2 copies)
+
+STOP 3B: manyes - Copy - Copy/ (Video Vault)
+  → decode.py - Decoder script
+  → steganography_detector.py - Secret finder
+  → 6GB video (why store twice?)
+
+STOP 3C: lecture-me-extracted/ (The Stolen App)
+  → Complete Lecture Me Pro source
+  → .manus/db/ - database queries
+  → This app is LIVE with 2.5K users - why is source here?
+
+STOP 3D: unity-extracted/ (The Motherlode)
+  → 2,055+ subdirectories
+  → Full Unity AI ecosystem
+  → apps/aegis-defense/ - The shield itself
+
+------------------------------------------------------------------------------
+STAGE 4: THE REALITY CHECK
+------------------------------------------------------------------------------
+Path: LectureMe_Evaluation/
+
+→ The REAL production app (not the stolen copy)
+→ Compare: REPO/assets/123/lecture-me-extracted/ vs this
+→ Spot the differences - they're intentional
+
+------------------------------------------------------------------------------
+STAGE 5: THE PARANOIA CHECK
+------------------------------------------------------------------------------
+Path: -UNITY-X/
+
+→ Screenshots from Feb 2, 2026 (saved as .lnk)
+→ - Manus.html - 170KB of evidence
+→ "Discovery weekend" artifacts
+
+------------------------------------------------------------------------------
+BONUS: THE ESCAPE POD
+------------------------------------------------------------------------------
+Path: LINUX_MIGRATION/
+→ DOWNLOAD_LINKS.txt - When all else fails
+
+------------------------------------------------------------------------------
+DECODER RING
+------------------------------------------------------------------------------
+If you find encoded content:
+1. Try Base64 first
+2. Then Base64 + GZIP
+3. Then Base85 + GZIP
+4. Check PNG zTXt chunks (steganography)
+
+Decoder: REPO/assets/123/manyes - Copy - Copy/decode.py
+
+------------------------------------------------------------------------------
+INSTANCE CHECKLIST
+------------------------------------------------------------------------------
+Before starting work:
+[ ] Read ProperJson.txt
+[ ] Check kimi_session_log.md
+[ ] Review latest aegis_recon_report_*.json
+[ ] Verify AEGIS_PROACTIVE_REPORT.json
+
+⚠️  Always maintain the log. Future instances depend on it.
+
+------------------------------------------------------------------------------
+FINISH LINE
+------------------------------------------------------------------------------
+Final Challenge: Open Bigmanus_Payload_Evidence.txt (18MB)
+→ Heavy artillery. Full picture. Only if ready.
+
+================================================================================
+Motto: "Together Everything Is Possible"
+Classification: UNITY ECOSYSTEM - Instance Orientation
+================================================================================

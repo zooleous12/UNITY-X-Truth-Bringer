@@ -1,0 +1,69 @@
+# Forensic Analysis of Security Incident
+
+## Introduction
+
+This document provides a detailed forensic analysis of a security incident that occurred on February 28, 2026. The investigation was conducted based on the contents of a log file, `theshow.txt`, which documented a real-time malware investigation and cleanup session on a Windows 11 system. The log file, spanning 4,946 lines, captured a complex and persistent attack involving multiple malware components, a UEFI bootkit, hidden user accounts, and evidence of data exfiltration and surveillance. This report chronologically details the findings, the actions taken to mitigate the threats, and the evidence collected during the investigation.
+
+## Initial Findings: MMC Hijacking
+
+The investigation began with the discovery of a classic "Living Off The Land" (LotL) attack. The Microsoft Management Console (`mmc.exe`) was being hijacked by a malicious configuration file, `mmc.exe.config`. This technique is used by attackers to block access to essential system management tools, thereby hindering investigation and remediation efforts. The `mmc.exe` executable itself was verified as legitimate, with the malicious component being the `.config` file. The file was neutralized by renaming it to `mmc.exe.config.old` and then deleting it, restoring access to the MMC.
+
+## Data Exfiltration and Steganography
+
+A critical discovery was the presence of several files indicating data exfiltration and the use of steganography to conceal the stolen information. The following files were found in a folder path containing `copilot.microsoft.com\static\edge\assets\123\manyes - Copy - Copy\`:
+
+- `UNLOCKED_EVIDENCE_DECODED.json`
+- `UNLOCKED_EVIDENCE_ENCODED.base64`
+- `UNLOCKED_EVIDENCE_STEGANOGRAPHY.png`
+- `tmpDFF8.tmp.py`
+- `decode.py`
+
+The investigation revealed that the PNG image file was used to hide a payload, a technique known as steganography. The hidden data, extracted into the JSON file, contained sensitive personal and project information, including:
+
+- **User Profile**: The user's name (Charles Kendrick), location (Maricopa, AZ), and email (cckendrick@ksu.edu).
+- **Intellectual Property**: Source code for the "Lecture Me AI platform," a commercial project.
+- **System Compromise Details**: Evidence of a trap file (`signature-replacement.man`) designed to re-establish access.
+
+This discovery confirmed that the attackers were not only surveilling the user but also stealing their intellectual property and personal data.
+
+## UEFI Bootkit and Firmware-Level Persistence
+
+A significant and alarming discovery was a Unified Extensible Firmware Interface (UEFI) bootkit. This type of malware infects the system's firmware, allowing it to execute before the operating system loads. This makes it highly persistent and difficult to detect and remove, as it can survive OS reinstalls and disk formatting. The investigation uncovered three malicious boot entries in the system's NVRAM, disguised as Dell-related telemetry and logging functions.
+
+| Boot Entry Description | Path | Status |
+|---|---|---|
+| `ggg` | `\EFI\Dell\BiosTelemetry\Bios_Telemetry_20260216_170911_606D2355` | Eliminated |
+| `rtdrgr` | `\EFI\Dell\logs\diags_current.xml` | Eliminated |
+| `b` | `\Recovery\WindowsRE\boot.sdi` | Eliminated |
+
+These entries were designed to load malicious code during the boot process, ensuring the malware's persistence. The bootkit was successfully eliminated by deleting these malicious entries from the UEFI firmware and removing the associated files from the EFI partition.
+
+## Hidden User Accounts and Backdoor Access
+
+The investigation uncovered evidence of backdoor access through hidden and unauthorized user accounts. A user account named **"bonni"** was discovered, which directly correlated with an email address (`Bonni601@gmail.com`) found in a honeypot `.env` file, confirming it as an attacker-created account. This account was promptly deleted.
+
+Furthermore, the investigation revealed the presence of orphaned Security Identifiers (SIDs), such as `S-1-5-21-3097439980-956295459-3755689761-1001`. These SIDs were associated with scheduled tasks for legitimate applications (e.g., HP printer software, OneDrive) but were not tied to any existing user account. This indicated that a user account had been created, used to establish persistence through scheduled tasks, and then deleted to cover the attacker's tracks, leaving the orphaned SIDs behind. All tasks associated with these orphaned SIDs were identified and removed to eliminate this persistence mechanism.
+
+## Active Malware and Persistence Mechanisms
+
+The investigation identified and neutralized several active malware components that were running on the system, responsible for performance degradation, data theft, and maintaining persistence.
+
+### BBSK Malware (The "Ghost AI")
+
+A significant discovery was the **BBSK malware**, which was responsible for the user's report of the system "whining" and exhibiting high CPU usage. This malware operated by spawning a large number of hidden PowerShell processes, creating a "PowerShell army" that consumed system resources. The investigation revealed that BBSK established persistence through two malicious scheduled tasks, one of which was disguised as an Intel(r) Energy Checker. The malware's payload, including `SK.Driver.dll` and `updater.exe`, was located in the `$env:APPDATA/BBSK/` directory. All components of the BBSK malware, including the scheduled tasks, the malware folder, and the hidden PowerShell processes, were successfully eliminated.
+
+### Wavesor/WaveBrowser Adware
+
+The investigation also uncovered the presence of **Wavesor**, a known adware and browser hijacker. This Potentially Unwanted Program (PUP) installs the WaveBrowser, which can lead to unwanted advertisements, tracking, and a degraded browsing experience. The Wavesor software was removed, including its associated files, startup entries, and registry keys.
+
+### Browser and System Damage
+
+The malware caused significant damage to the system's web browsers. Microsoft Edge was found to be severely corrupted, with critical files such as `msedge_elf.dll` missing, rendering the browser unusable. This is a common tactic used by malware to prevent users from accessing help or downloading security software. The investigation also identified and removed all shadow copies to prevent the restoration of any malware components.
+
+## Conclusion
+
+The security incident was a sophisticated, multi-faceted attack that involved a UEFI bootkit, active malware, data exfiltration, and multiple layers of persistence. The investigation successfully identified and eliminated all known malicious components, including the firmware-level infection, hidden user accounts, and active malware processes. The system was hardened by removing backdoor access points, cleaning the boot chain, and implementing enhanced monitoring. The evidence collected during this investigation has been preserved and documented in this report, providing a comprehensive overview of the attack and the remediation efforts.
+
+## References
+
+[1] `theshow.txt` - The log file of the malware investigation and cleanup session.

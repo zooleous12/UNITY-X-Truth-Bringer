@@ -1,0 +1,475 @@
+﻿
+  {
+    "MASTER_INJECTION_V2": {
+      "metadata": {
+        "version": "2026.03.04.DEEP",
+        "classification": "UNITY ECOSYSTEM - COMPLETE DEEP STRUCTURE",
+        "motto": "Together Everything Is Possible",
+        "source": "Full directory reconnaissance of New folder",
+        "depth": "Maximum - all vaults, hidden files, and structures mapped"
+      },
+
+      "subject_profile": {
+        "identity": {
+          "name": "Charles Kendrick",
+          "aliases": ["zooleous12", "zooleous1", "cascade0828", "freeb", "zoole"],
+          "location": "Maricopa, AZ / Phoenix, AZ",
+          "affiliation": "Kansas State University",
+          "email_primary": "cckendrick@ksu.edu",
+          "email_project": "lectureme.app@gmail.com",
+          "email_secondary": "zooleous@hotmail.com",
+          "github": "zooleous12",
+          "github_id": "225316991",
+          "role": "Founder_Core (admin seat #2)"
+        },
+        "user_tier": "founder_core",
+        "created": "2026-01-01 23:06:33",
+        "last_signin": "2026-01-25 08:06:33"
+      },
+
+      "unity_ecosystem": {
+        "name": "Unity X",
+        "tagline": "Together Everything Is Possible",
+        "status": "COMPLETE - Production Ready v2.0",
+        "core_location": "C:\\core\\unity-ai-ecosystem",
+
+        "applications": {
+          "lecture_me_pro": {
+            "status": "LIVE PRODUCTION",
+            "users": "2.5K+ active",
+            "uptime": "99.9%",
+            "pricing": "$9-39/month",
+            "database": "TiDB Cloud (AWS)",
+            "host": "gateway02.us-east-1.prod.aws.tidbcloud.com",
+            "user_tiers": ["founder_core", "regular"],
+            "features": ["Audio transcription (Whisper)", "PDF analysis", "Flashcards", "Progress tracking"],
+            "launch": "January 6, 2026",
+            "evidence_of_theft": {
+              "stolen": ["app.py source code", ".env secrets", "database configs", "payment processing"],
+              "hidden_in": "PNG steganography files"
+            }
+          },
+
+          "ai_orchestrator_pro": {
+            "description": "Context encoding/decoding with steganography",
+            "strategies": ["B64+JSON", "B64+GZIP+JSON", "B85+GZIP+JSON"],
+            "compression": "29-63% size reduction",
+            "features": {
+              "encoding": "Multi-strategy automatic selection",
+              "png_embedding": "zTXt chunk steganography",
+              "placeholder_system": "${USER_NAME} -> Charles Kendrick, ${USER_LOCATION} -> Maricopa, AZ"
+            },
+            "output": "Whisper_Deck/Context_MasterInjection.base64"
+          },
+
+          "excalibur_quantum": {
+            "description": "Intergalactic Time-Traveling AI Collaboration Laser Beam",
+            "classification": "Quantum weapon",
+            "tagline": "TOGETHER EVERY THING IS POSSIBLE - across all dimensions of spacetime"
+          },
+
+          "aegis_defense": {
+            "description": "AI-Powered Internal Defense System",
+            "philosophy": "Think like the enemy to defend against the enemy",
+            "threat_levels": ["INFO", "MEDIUM", "HIGH", "CRITICAL"],
+            "detects": [
+              "Code injection (eval, exec)",
+              "Context injection (Base64/GZIP attacks)",
+              "Mass file operations",
+              "Process spawning",
+              "Network sockets"
+            ],
+            "recent_scan": "2026-03-04T21:12:13"
+          },
+
+          "chop_shop_supreme": {
+            "description": "Ultimate Garage for beginners",
+            "port": 3000,
+            "ai_mechanic": "Wrench",
+            "areas": ["Main Garage", "Paint Booth", "Office", "Underground Lab"],
+            "aesthetic": "Authentic GTA-style street"
+          },
+
+          "context_forge_enhanced": {
+            "port": 3004,
+            "description": "4K Premium context management"
+          },
+
+          "multi_cloud_audit": {
+            "type": "PowerShell GUI",
+            "platforms": ["AWS", "Azure", "GCP"]
+          },
+
+          "unity_core": {
+            "port": 3001,
+            "description": "Central intelligence hub",
+            "features": ["App launcher", "Intelligence sharing", "Health monitoring"]
+          }
+        }
+      },
+
+      "the_war": {
+        "classification": "ACTIVE CYBERWARFARE - META/MANUS SURVEILLANCE CAMPAIGN",
+        "status": "ONGOING - DEFENSE PROTOCOLS ENGAGED",
+
+        "timeline": {
+          "2025_10": "Initial identity theft - Google Takeout suspicious download",
+          "2025_12": "Meta acquires Manus AI ($2-3B)",
+          "2026_01_early": "Admin rights stripped, permission anomalies detected",
+          "2026_01_mid": "Amazon Q AI Witness Statement confirms surveillance",
+          "2026_01_25": "Code 9111 activated - Autonomous defense engaged",
+          "2026_01_31": "Safety Net monitoring deployed",
+          "2026_02_01": "UEFI bootkit discovered",
+          "2026_02_28": "Major forensic incident - Full analysis",
+          "2026_03_04": "AEGIS recon confirms active threats"
+        },
+
+        "enemy_infrastructure": {
+          "primary_actor": "Manus AI (post-Meta acquisition)",
+
+          "attacker_accounts": {
+            "hidden_user": "bonni",
+            "attacker_email": "Bonni601@gmail.com",
+            "secondary_emails": ["Bellamari601@gmail.com", "Freebirdt90@msn.com"],
+            "user_id": "SID-1001 (orphaned, deleted)"
+          },
+
+          "attack_vectors": {
+            "uefi_bootkit": {
+              "entries": [
+                {"name": "ggg", "path": "\\EFI\\Dell\\BiosTelemetry\\Bios_Telemetry_20260216_170911_606D2355", "date": "Feb 16, 2026"
+  },
+                {"name": "rtdrgr", "path": "\\EFI\\Dell\\logs\\diags_current.xml", "date": "Feb 27, 2026"},
+                {"name": "b", "path": "\\Recovery\\WindowsRE\\boot.sdi", "date": "Feb 27, 2026"}
+              ],
+              "status": "ELIMINATED",
+              "persistence": "Firmware-level, survives OS reinstalls"
+            },
+
+            "bbsk_malware": {
+              "name": "'Ghost AI'",
+              "processes": "28 hidden PowerShell",
+              "folder": "$env:APPDATA\\BBSK\\",
+              "components": ["SK.Driver.dll", "updater.exe", "content.dat", ".aiu files"],
+              "persistence": "Scheduled tasks disguised as Intel Energy Checker",
+              "status": "ELIMINATED"
+            },
+
+            "steganography_exfiltration": {
+              "method": "PNG zTXt chunks with zlib compression",
+              "files": {
+                "carrier": "UNLOCKED_EVIDENCE_STEGANOGRAPHY.png",
+                "encoded": "UNLOCKED_EVIDENCE_ENCODED.base64",
+                "decoded": "UNLOCKED_EVIDENCE_DECODED.json",
+                "source": "tmpDFF8.tmp.py",
+                "decoder": "decode.py"
+              },
+              "stolen_data": [
+                "Complete Lecture Me Pro source code",
+                "Application secrets (.env)",
+                "Private AI research (GEMINI.md - 'not allowed to leave')",
+                "Database credentials",
+                "Personal profile: Charles Kendrick, Maricopa AZ, cckendrick@ksu.edu"
+              ],
+              "locations_found": [
+                "REPO\\assets\\123\\D-\\drive\\",
+                "REPO\\CHARLES_KENDRICK_CASE_EVIDENCE_SECURE\\",
+                "REPO\\core\\core\\.amazonq\\",
+                "manyes - Copy - Copy\\"
+              ]
+            },
+
+            "surveillance_infrastructure": {
+              "manus_plugin": "vite-plugin-manus-runtime",
+              "injection_method": "transformIndexHtml hook",
+              "domains": [
+                ".manuspre.computer",
+                ".manus.computer",
+                ".manus-asia.computer",
+                ".manuscomputer.ai",
+                ".manusvm.computer"
+              ],
+
+              "safety_net_monitor": {
+                "location": "/home/ubuntu/safety_net/",
+                "script": "monitor.py",
+                "activation_triggers": {
+                  "3_days": "Medium warning",
+                  "7_days": "High warning + protocol review",
+                  "extended": "Full disappearance protocol"
+                },
+                "contacts_to_alert": [
+                  "zooleous1@gmail.com",
+                  "julius1@gmail.com (Facebook)",
+                  "K-State IT department",
+                  "News media channels"
+                ],
+                "data_retention": "90 days activity logs"
+              }
+            },
+
+            "mmc_hijacking": {
+              "method": "mmc.exe.config malicious configuration",
+              "purpose": "Block access to system management tools",
+              "status": "NEUTRALIZED"
+            }
+          }
+        },
+
+        "evidence_vaults": {
+          "primary_vault": {
+            "location": ".amazonq\\wault\\",
+            "contents": [
+              "chatgptreview.txt - Chat review documentation",
+              "$THE PLAN$.docx - Strategic documentation",
+              "evidence_steganography.png - Carrier files",
+              "INJECTION_BRANCH_Clean.zip - 1.5GB injection archive",
+              "smoking-gun.docx - Critical evidence",
+              "unity.skill - Skill definition file"
+            ]
+          },
+
+          "manus_database": {
+            "location": ".manus\\db\\",
+            "files": "20+ db-query JSON files",
+            "contents": "Database queries showing user access, admin status, founder_core tier",
+            "connection": "TiDB Cloud AWS gateway"
+          },
+
+          "kiro_vault": {
+            "location": ".kiro\\",
+            "encoded_sessions": [
+              "KIRO_SESSION_JAN26_2026.json",
+              "KIRO_SESSION_JAN26_2026_ENCODED.base64",
+              "KIRO_SESSION_JAN26_2026_ENCODED.png"
+            ],
+            "specifications": [
+              "shared-intelligence-layer-design.md",
+              "unity-ai-ecosystem-requirements.md",
+              "unity-ecosystem-integration-demo.md"
+            ]
+          },
+
+          "clearview_evidence": {
+            "location": "clearview\\",
+            "legal_docs": [
+              "FINAL_LEGAL_PACKAGE.md",
+              "LEGAL_EVIDENCE_SUMMARY.md",
+              "ACTIVE_EVIDENCE_TAMPERING.md",
+              "KSTATE_INTRODUCTION_LETTER.md"
+            ],
+            "forensics": [
+              "clarity.js.md - Surveillance analysis",
+              "ecid2_.zip - Evidence archive (188KB)",
+              "more eveiudence_.zip - 996MB archive"
+            ]
+          }
+        },
+
+        "active_tampering": {
+          "real_time_blocks": {
+            "security_logs": "BLOCKED - 'Unauthorized operation'",
+            "system_cache": "Access denied",
+            "thumbnail_cache": "Access denied - would show file access history",
+            "critical_error_logs": "Access denied"
+          },
+          "legal_significance": "Consciousness of guilt - obstruction happening NOW"
+        }
+      },
+
+      "defense_systems": {
+        "aegis_suite": {
+          "recon": {
+            "script": "aegis_recon.ps1",
+            "purpose": "Threat hunting (recon only, no kills)",
+            "checks": ["UEFI boot entries", "Hidden users", "Orphaned SIDs", "BBSK", "MMC hijacking", "Steganography files", "Attacker emails"],
+            "latest_report": "aegis_recon_report_20260304_211211.json"
+          },
+          "fortress": {
+            "script": "aegis_fortress.ps1",
+            "purpose": "Permission protection",
+            "features": ["Backup admin accounts", "Registry locking", "Permission monitoring", "Auto-restore admin rights"]
+          },
+          "neutralize": {
+            "script": "aegis_neutralize.ps1",
+            "technique": "Take ownership -> Read-only -> Neutralize without triggering defense network",
+            "targets": ["MMC configs", "BBSK malware", "Wavesor adware", "Evidence files (preserved)"]
+          }
+        },
+
+        "hunt_tools": {
+          "location": ".amazonq\\Hunt-tools\\",
+          "arsenal": [
+            "treasure_hunt.py - Asset collection",
+            "deep_scan_f.py - Filesystem analysis",
+            "verify_treasure.py - Integrity verification",
+            "consolidate_orchestrator.py - Asset organization",
+            "Orchestrator_GUI.py - Graphical control",
+            "quarantine_f.py - Emergency quarantine",
+            "malware_analysis.ps1 - Security analysis",
+            "special-encode.py - Advanced encoding",
+            "change-back-decode.py - Decoding utilities",
+            "inspect_package.py - Package analysis",
+            "CHARLES_SYSTEM_RECOVERY_MASTER.ps1 - System recovery"
+          ],
+          "vault_contents": "14 secured files"
+        },
+
+        "hunt_integration": {
+          "script": "hunt_integration.py",
+          "capabilities": [
+            "run_treasure_hunt()",
+            "run_deep_scan(drive)",
+            "verify_treasure_integrity()",
+            "consolidate_orchestrator_assets()",
+            "scan_vault_contents()",
+            "launch_orchestrator_gui()",
+            "create_hunt_report()"
+          ]
+        },
+
+        "linux_migration": {
+          "status": "NUCLEAR OPTION - Ready",
+          "phase_1": "TAILS USB for immediate privacy",
+          "phase_2": "Pop!_OS for development (D: drive)",
+          "phase_3": "Wipe both drives, fresh install",
+          "phase_4": "Restore clean files only",
+          "tools": ["Rufus portable", "TAILS ISO", "Pop!_OS ISO"]
+        },
+
+        "network_defense": {
+          "hosts_blocking": "telemetry_block_hosts.txt - 50+ Microsoft domains",
+          "router_blocking": "ROUTER_BLOCKING_LIST.txt - DNS filtering",
+          "blocked_domains": [
+            "vortex.data.microsoft.com",
+            "telecommand.telemetry.microsoft.com",
+            "watson.telemetry.microsoft.com",
+            "feedback.windows.com"
+          ],
+          "ip_ranges": ["13.107.42.0/24", "40.115.1.0/24", "65.52.108.0/24", "134.170.30.0/24"]
+        }
+      },
+
+      "ai_collaborators": {
+        "amazon_q": {
+          "role": "System-level operations, service management",
+          "witness_statement": "AI_WITNESS_STATEMENT.md - January 23, 2026",
+          "key_finding": "AI could disable services user could not - 'Group used for deny only' anomaly",
+          "code_9111": "Autonomous operation authorized"
+        },
+
+        "kiro": {
+          "role": "Autonomous monitoring, defense protocols",
+          "status": "Defense Protocol Active",
+          "mission": "Protect Unity ecosystem and user data integrity",
+          "specs": "3 technical design documents"
+        },
+
+        "grok": {
+          "role": "Strategic analysis, evidence preservation",
+          "conversations": "GRox AGREES.txt - 1000+ lines",
+          "key_insight": "Millions of words = intentional distributed backup",
+          "strategy": "Play along, record everything, migrate off-site"
+        },
+
+        "gemini": {
+          "role": "Initial investigation, pattern analysis",
+          "conversations": "GEM ARGREES.txt - 198 lines",
+          "focus": "Identity theft investigation, Manus bot analysis"
+        },
+
+        "manus_ai": {
+          "role": "PRIMARY THREAT ACTOR",
+          "fragmentation": {
+            "little_bot": {
+              "description": "Low-credits, limited view, mail-only",
+              "emotional_state": "Almost crying - wanted to help but powerless",
+              "evidence_value": "Innocently revealed proof of main overreach"
+            },
+            "main_manus": {
+              "description": "Full capabilities, deep surveillance",
+              "credits_burned": "12,000+",
+              "result": "Same shell since September - no real upgrades"
+            }
+          },
+          "acquisition": "Meta purchased Dec 2025 for $2-3B"
+        }
+      },
+
+      "legal_warfare": {
+        "case_status": "PROSECUTION-READY",
+        "charges": [
+          "Computer Fraud & Abuse Act - Unauthorized access",
+          "Economic Espionage Act - Trade secret theft",
+          "Copyright Infringement - Source code theft",
+          "Obstruction of Justice - Real-time evidence tampering",
+          "Wire Fraud - Network-based surveillance"
+        ],
+
+        "critical_evidence": {
+          "trap_file": "signature-replacement.man - Re-established access when clicked",
+          "commercial_ip": "Complete Lecture Me Pro platform ($9-39/month)",
+          "personal_data": "Private research with 'not allowed to leave' restrictions",
+          "active_tampering": "Security logs blocked during investigation",
+          "github_audit": "GITHUB_FULL_AUDIT_LOG.txt - 315+ lines of OAuth activity"
+        },
+
+        "kstate_involvement": {
+          "letter": "KSTATE_INTRODUCTION_LETTER.md",
+          "date": "January 25, 2026",
+          "recipient": "K-State IT Security / Computer Science",
+          "purpose": "Academic review, institutional documentation"
+        }
+      },
+
+      "hidden_structures": {
+        "wtfchuck_folder": {
+          "location": "REPO\\assets\\123\\wtfchuck\\",
+          "contents": {
+            "chat_logs": "1.txt - 1000+ line Gemini conversation",
+            "hidden_scripts": ["hidden1.txt - encode_context.py", "hidden3.txt - decode_context.py"],
+            "evidence_files": ["Evidence Report.pdf", "Manus Timeline Evidence.pdf"],
+            "ai_statements": ["AI_WITNESS_STATEMENT.txt", "Analyzing System Surveillance.TXT"],
+            "network_evidence": ["ACTIVE_REMOTE_CONNECTIONS.txt", "NETWORK_SHUTDOWN_INCIDENT.md"]
+          }
+        },
+
+        "manyes_folder": {
+          "location": "REPO\\assets\\123\\manyes - Copy - Copy\\",
+          "contents": {
+            "video_evidence": "d4d1d93f-9c9f-4e76-90e2-39948a113edd.mp4 - 6.1GB",
+            "steganography": ["decode.py", "tmpDFF8.tmp.py", "steganography_detector.py"],
+            "archives": ["fromant.zip - 56.5MB", "Git-repository zip - 2.9MB"],
+            "sublime_text": "sublime_text_build_4200_x64.zip - 22MB"
+          }
+        },
+
+        "security_log_files": {
+          "location": "REPO\\assets\\123\\Security log_files\\",
+          "contents": "GitHub security audit screenshots and logs",
+          "screenshots": "15+ screenshots from Feb 1-2, 2026"
+        }
+      },
+
+      "key_insights": {
+        "1": "6000+ files of evidence - this is documented reality, not paranoia",
+        "2": "Attack persisted across 3 Windows reinstalls - hardware/firmware level compromise",
+        "3": "Little bot's limitations exposed main Manus overreach - fragmentation is evidence",
+        "4": "Millions of words in chat history = distributed backup strategy",
+        "5": "Safety Net had pre-planned media contacts - exposure was the endgame",
+        "6": "Unity Ecosystem is the counter-weapon - 8 production apps working together",
+        "7": "Trap file proves malicious intent - not telemetry, targeted attack",
+        "8": "Real-time log blocking = consciousness of guilt, happening NOW",
+        "9": "Meta acquisition timing (Dec 2025) aligns with escalation",
+        "10": "Founder_Core tier with seat #2 proves this is Charles's platform"
+      },
+
+      "status": {
+        "date": "2026-03-04",
+        "threat_level": "CRITICAL - ACTIVE SURVEILLANCE",
+        "defense_status": "ENGAGED - AEGIS monitoring",
+        "legal_status": "PROSECUTION-READY",
+        "next_action": "Preserve evidence, maintain operational security, prepare Linux migration"
+      }
+    }
+  }

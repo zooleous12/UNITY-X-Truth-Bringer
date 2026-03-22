@@ -1,0 +1,46 @@
+╔══════════════════════════════════════════════════════════════════╗
+║           🏃 UNITY ECOSYSTEM - QUICK START CARD                   ║
+║                   New Instance Exercise Run                       ║
+╚══════════════════════════════════════════════════════════════════╝
+
+📖 READ FIRST:
+   • ProperJson.txt (476 lines - THE BIBLE)
+   • kim i_session_log.md (what happened before)
+   • NEW_INSTANCE_ONBOARDING_GUIDE.md (full jogging map)
+
+🗺️ THE 5-STAGE ROUTE:
+
+[1] _DECOY_/          → Trap or treasure? 🎭
+   Hint: "IMPORTANT_DO_NOT_READ.txt" - Do you dare?
+
+[2] EVIDENCE_EXPORT/  → Curated duplicates 📁
+   Hint: Everything has a twin. Count the "- Copy" files.
+
+[3] REPO/assets/123/  → Deep dive 🔍
+   ├─ wtfchuck/       → AI witness statements, 6GB video (×2!)
+   ├─ manyes/         → Steganography tools, decoder.py
+   ├─ lecture-me/     → Stolen app source (check .manus/db/)
+   └─ unity-extracted/→ 2000+ subdirs, AEGIS defense
+   
+   Hint: hidden1.txt is Python. That "tmp" file isn't temporary.
+
+[4] LectureMe_Evaluation/ → Real production app 🚀
+   Hint: Compare to stolen version. Spot the differences.
+
+[5] -UNITY-X/         → Paranoia check 🛡️
+   Hint: Feb 2, 2026 screenshots. Follow the .lnk breadcrumbs.
+
+🗝️ DECODER PRIORITY:
+   Base64 → B64+GZIP → B85+GZIP → PNG zTXt chunks
+   Decoder: REPO/assets/123/manyes/decode.py
+
+⚠️  HEAVY ARTILLERY:
+   Bigmanus_Payload_Evidence.txt (18MB) - Full picture
+
+🐧 ESCAPE POD:
+   LINUX_MIGRATION/ - When all else fails
+
+═══════════════════════════════════════════════════════════════════
+Motto: "Together Everything Is Possible"
+Created: 2026-03-05 | Classification: UNITY ORIENTATION
+═══════════════════════════════════════════════════════════════════
