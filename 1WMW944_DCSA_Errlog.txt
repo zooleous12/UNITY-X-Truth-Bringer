@@ -1,0 +1,69 @@
+﻿2025-12-24, 00:12:50:586 SendRequest(1015): DTPSHIM returned empty data
+2025-12-24, 01:58:05:837 TimerProc: Collect periodic WERBsodEvent from DTP and save it to DDV DB...
+2025-12-24, 01:58:05:837 WriteDataProfile(): request(51) from DDVShim
+2025-12-24, 01:58:05:857 SendRequest(51): DTPSHIM returned empty data
+2025-12-24, 03:41:41:030 TimerProc: Collect periodic WERBsodEvent from DTP and save it to DDV DB...
+2025-12-24, 03:41:41:030 WriteDataProfile(): request(51) from DDVShim
+2025-12-24, 03:41:41:048 SendRequest(51): DTPSHIM returned empty data
+2025-12-24, 07:07:21:672 TimerProc: Collect periodic WERBsodEvent from DTP and save it to DDV DB...
+2025-12-24, 07:07:21:675 WriteDataProfile(): request(51) from DDVShim
+2025-12-24, 07:07:21:692 SendRequest(51): DTPSHIM returned empty data
+2025-12-24, 08:07:21:736 TimerProc: Collect periodic WERBsodEvent from DTP and save it to DDV DB...
+2025-12-24, 08:07:21:738 WriteDataProfile(): request(51) from DDVShim
+2025-12-24, 08:07:21:762 SendRequest(51): DTPSHIM returned empty data
+2025-12-24, 09:07:21:796 TimerProc: Collect periodic WERBsodEvent from DTP and save it to DDV DB...
+2025-12-24, 09:07:21:796 WriteDataProfile(): request(51) from DDVShim
+2025-12-24, 09:07:21:824 SendRequest(51): DTPSHIM returned empty data
+2025-12-24, 10:07:21:852 TimerProc: Collect periodic WERBsodEvent from DTP and save it to DDV DB...
+2025-12-24, 10:07:21:854 WriteDataProfile(): request(51) from DDVShim
+2025-12-24, 10:07:21:880 SendRequest(51): DTPSHIM returned empty data
+2025-12-24, 11:07:21:902 TimerProc: Collect periodic WERBsodEvent from DTP and save it to DDV DB...
+2025-12-24, 11:07:21:902 WriteDataProfile(): request(51) from DDVShim
+2025-12-24, 11:07:21:923 SendRequest(51): DTPSHIM returned empty data
+2025-12-24, 11:37:00:195 [24152](24156) DDVDataCollector DPS_ServiceCtrlHandlerEx: (SERVICE_CONTROL_SHUTDOWN)...
+2025-12-24, 11:37:00:207 [24152](24244) DDVDataCollector DPS_ServiceStart: Stop DDVDataCollector 7.8.5.1719...
+2025-12-24, 11:37:00:227 [24152](24244) DDVDataCollector DPS_ServiceStart: DDVDataCollector 7.8.5.1719 has stopped.
+2025-12-24, 11:37:00:227 [24152](24156) DDVDataCollector DDVDataCollectorWinMain:() Exit.
+2025-12-24, 11:40:37:093 [11932](12036) DDVDataCollector DDVDataCollectorWinMain:() Start...
+2025-12-24, 11:40:37:107 [11932](9768) DDVDataCollector DPS_ServiceStart: Start DDVDataCollector 7.8.5.1719...
+2025-12-24, 11:40:37:233 [11932](9768) DDVDataCollector DPS_ServiceStart: DDVDataCollector 7.8.5.1719 is running.
+2025-12-24, 11:40:37:233 IsOOBECompleted: DetermineOOBECompletedByAPI(): OOBE completed
+2025-12-24, 11:40:41:292 ServiceWorkerThread: Notify the caller to kick-start the shim instantiation
+2025-12-24, 11:40:47:990 PostDDVDataCollectorMessage(): SetEvent(g_hDTPClientSdkAvailableEvent) succeeds
+2025-12-24, 11:40:47:992 PostDDVDataCollectorMessage(): SetEvent(g_hDTPClientSdkAvailableEvent) succeeds
+2025-12-24, 11:40:48:226 WmiGetBatteryChemistry: unknown type 2
+2025-12-24, 11:40:48:254 WriteDataProfile(): request(2) from DDVShim
+2025-12-24, 11:40:48:917 ePSA Novel API is supported
+2025-12-24, 11:40:48:928 A3-Over-Wmi is supported
+2025-12-24, 11:40:48:954 DDVDataCollector: Common timers have been loaded into Master timer table
+2025-12-24, 11:40:49:003 InitializeEPSA(): LegacyEpsa=1 NovelEpsa=0 (SUCCESS=0,ERROR=1,FAIL-SAFE=2,DLL_LOAD_FAILURE=3)
+2025-12-24, 11:40:49:130 IntelPerf.dll (Code 128): InitCoreConfiguration: Can not access CPUs Model Specific Registers (MSRs).
+2025-12-24, 11:40:49:187 LoadDdvPlugins: loadplugin NvidiaPerf.dll failed
+2025-12-24, 11:40:49:242 LoadDdvPlugins: loadplugin AtiPerf.dll failed
+2025-12-24, 11:40:49:243 CheckUTF8File(): CreateFileW(c:\Program Files\Dell\DellDataVault\customer.ini) failed! err=0x2
+2025-12-24, 11:40:49:284 Init periodic-data-alert before constructing objects.
+2025-12-24, 11:40:49:642 WriteDataProfile(): request(32) from DDVShim
+2025-12-24, 11:40:54:153 WriteDataProfile(): request(37) from DDVShim
+2025-12-24, 11:40:54:456 SendRequest(37): DTPSHIM returned empty data
+2025-12-24, 11:40:54:458 WriteDataProfile(): request(17) from DDVShim
+2025-12-24, 11:40:56:035 WriteDataProfile(): request(17) from DDVShim
+2025-12-24, 11:41:00:498 WriteDataProfile(): request(50) from DDVShim
+2025-12-24, 11:41:00:548 SendRequest(50): DTPSHIM returned empty data
+2025-12-24, 11:41:00:572 Dell Data Vault InitProfilerObjects() succeeded.
+2025-12-24, 11:41:10:568 TimerProc: Collect BsodEvent from DTP after DDV start, save it to DDV DB, and raise BsodAlert if needed...
+2025-12-24, 11:41:10:568 WriteDataProfile(): request(20) from DDVShim
+2025-12-24, 11:41:10:610 SendRequest(20): DTPSHIM returned empty data
+2025-12-24, 11:41:10:610 TimerProc: Collect first WERBsodAlert by request from DTP after DDV start, and raise WERBsodAlert if needed...
+2025-12-24, 11:41:10:767 TimerProc: Collect first WERBsodEvent from DTP after DDV start, and save it to DDV DB...
+2025-12-24, 11:41:10:767 WriteDataProfile(): request(51) from DDVShim
+2025-12-24, 11:41:10:832 SendRequest(51): DTPSHIM returned empty data
+2025-12-24, 12:41:00:558 TimerProc: Collect periodic WERBsodEvent from DTP and save it to DDV DB...
+2025-12-24, 12:41:00:558 WriteDataProfile(): request(51) from DDVShim
+2025-12-24, 12:41:00:600 SendRequest(51): DTPSHIM returned empty data
+2025-12-24, 16:20:49:303 TimerProc: Collect periodic WERBsodEvent from DTP and save it to DDV DB...
+2025-12-24, 16:20:49:318 WriteDataProfile(): request(51) from DDVShim
+2025-12-24, 16:20:49:356 SendRequest(51): DTPSHIM returned empty data
+2025-12-24, 16:38:14:316 [11932](12036) DDVDataCollector DPS_ServiceCtrlHandlerEx: (SERVICE_CONTROL_STOP)...
+2025-12-24, 16:38:14:316 [11932](9768) DDVDataCollector DPS_ServiceStart: Stop DDVDataCollector 7.8.5.1719...
+2025-12-24, 16:38:14:364 [11932](9768) DDVDataCollector DPS_ServiceStart: DDVDataCollector 7.8.5.1719 has stopped.
+2025-12-24, 16:38:14:412 [11932](12036) DDVDataCollector DDVDataCollectorWinMain:() Exit.

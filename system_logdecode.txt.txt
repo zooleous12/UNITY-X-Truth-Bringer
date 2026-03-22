@@ -1,0 +1,1812 @@
+﻿
+
+TimeGenerated : 1/27/2026 
+                11:51:09 PM
+EntryType     : Error
+Source        : BTHUSB
+EventID       : 16
+Message       : The mutual 
+                authenticat
+                ion 
+                between 
+                the local 
+                Bluetooth 
+                adapter 
+                and a 
+                device 
+                with 
+                Bluetooth 
+                adapter 
+                address (98
+                :5f:d3:31:8
+                2:cc) 
+                failed.
+
+TimeGenerated : 1/27/2026 
+                11:51:09 PM
+EntryType     : Information
+Source        : BTHUSB
+EventID       : 37
+Message       : An 
+                incoming au
+                thenticatio
+                n request 
+                from a 
+                remote 
+                device (98:
+                5f:d3:31:82
+                :cc) was 
+                rejected.
+
+TimeGenerated : 1/27/2026 
+                6:45:41 PM
+EntryType     : Information
+Source        : Microsoft-W
+                indows-Kern
+                el-General
+EventID       : 1
+Message       : Possible 
+                detection 
+                of CVE: 202
+                6-01-28T01:
+                45:41.87939
+                67Z
+                Additional 
+                Information
+                : 2026-01-2
+                8T01:45:41.
+                8791277Z
+                
+                This Event 
+                is 
+                generated 
+                when an 
+                attempt to 
+                exploit a 
+                known vulne
+                rability (2
+                026-01-28T0
+                1:45:41.879
+                3967Z) is 
+                detected.
+                This Event 
+                is raised 
+                by a User 
+                mode 
+                process.
+                
+
+TimeGenerated : 1/27/2026 
+                6:45:41 PM
+EntryType     : Error
+Source        : Microsoft-W
+                indows-HAL
+EventID       : 21
+Message       : The 
+                hardware 
+                real-time 
+                clock was 
+                not set 
+                because 
+                evaluation 
+                of the 
+                ACPI Time 
+                and Alarm 
+                Device 
+                method 
+                failed.  
+                Status: 
+                3221225659.
+
+TimeGenerated : 1/27/2026 
+                6:45:41 PM
+EntryType     : Error
+Source        : Microsoft-W
+                indows-HAL
+EventID       : 20
+Message       : The 
+                hardware 
+                real-time 
+                clock was 
+                not 
+                queried 
+                because 
+                evaluation 
+                of the 
+                ACPI Time 
+                and Alarm 
+                Device 
+                method 
+                failed.  
+                Status: 
+                3221225659.
+
+TimeGenerated : 1/27/2026 
+                6:45:41 PM
+EntryType     : Information
+Source        : Microsoft-W
+                indows-Kern
+                el-General
+EventID       : 24
+Message       : The descrip
+                tion for 
+                Event ID 
+                '24' in 
+                Source 'Mic
+                rosoft-Wind
+                ows-Kernel-
+                General' 
+                cannot be 
+                found.  
+                The local 
+                computer 
+                may not 
+                have the 
+                necessary 
+                registry in
+                formation 
+                or message 
+                DLL files 
+                to display 
+                the 
+                message, 
+                or you may 
+                not have 
+                permission 
+                to access 
+                them.  The 
+                following i
+                nformation 
+                is part of 
+                the 
+                event:'0', 
+                '420', 
+                '0', '0', 
+                '0'
+
+TimeGenerated : 1/27/2026 
+                6:45:41 PM
+EntryType     : Information
+Source        : Microsoft-W
+                indows-Time
+                -Service
+EventID       : 35
+Message       : The time 
+                service is 
+                now synchro
+                nizing the 
+                system 
+                time with 
+                the time 
+                source time
+                .windows.co
+                m,0x9 (ntp.
+                m|0x9|0.0.0
+                .0:123->40.
+                119.6.228:1
+                23) with 
+                reference 
+                id 38256289
+                68. 
+                Current 
+                local 
+                stratum 
+                number is 
+                4.
+
+TimeGenerated : 1/27/2026 
+                6:45:41 PM
+EntryType     : Information
+Source        : Microsoft-W
+                indows-Time
+                -Service
+EventID       : 37
+Message       : The time 
+                provider 
+                NtpClient 
+                is 
+                currently 
+                receiving 
+                valid time 
+                data from t
+                ime.windows
+                .com,0x9 (n
+                tp.m|0x9|0.
+                0.0.0:123->
+                40.119.6.22
+                8:123).
+
+TimeGenerated : 1/27/2026 
+                4:52:50 PM
+EntryType     : Information
+Source        : Microsoft-W
+                indows-Wind
+                owsUpdateCl
+                ient
+EventID       : 19
+Message       : Installatio
+                n Successfu
+                l: Windows 
+                successfull
+                y 
+                installed 
+                the 
+                following 
+                update: 
+                Security In
+                telligence 
+                Update for 
+                Microsoft 
+                Defender 
+                Antivirus 
+                - 
+                KB2267602 
+                (Version 1.
+                443.878.0) 
+                - Current 
+                Channel 
+                (Broad)
+
+TimeGenerated : 1/27/2026 
+                4:52:31 PM
+EntryType     : Information
+Source        : Microsoft-W
+                indows-Wind
+                owsUpdateCl
+                ient
+EventID       : 43
+Message       : Installatio
+                n Started: 
+                Windows 
+                has 
+                started 
+                installing 
+                the 
+                following 
+                update: 
+                Security In
+                telligence 
+                Update for 
+                Microsoft 
+                Defender 
+                Antivirus 
+                - 
+                KB2267602 
+                (Version 1.
+                443.878.0) 
+                - Current 
+                Channel 
+                (Broad)
+
+TimeGenerated : 1/27/2026 
+                4:52:22 PM
+EntryType     : Information
+Source        : Microsoft-W
+                indows-Wind
+                owsUpdateCl
+                ient
+EventID       : 44
+Message       : Windows 
+                Update 
+                started dow
+                nloading 
+                an update.
+
+TimeGenerated : 1/27/2026 
+                4:49:18 PM
+EntryType     : Information
+Source        : Microsoft-W
+                indows-Http
+                Service
+EventID       : 113
+Message       : Attempted 
+                to add URL 
+                (http://*:2
+                869/upnp/ev
+                enting/) 
+                to URL 
+                group (1830
+                26289334152
+                06920). 
+                Status: 0. 
+                Process Id 
+                6344 
+                Executable 
+                path \Devic
+                e\HarddiskV
+                olume3\Wind
+                ows\System3
+                2\svchost.e
+                xe, User 
+                S-1-5-19
+
+TimeGenerated : 1/27/2026 
+                4:49:18 PM
+EntryType     : Information
+Source        : Microsoft-W
+                indows-Http
+                Service
+EventID       : 114
+Message       : Removed 
+                URL (http:/
+                /*:2869/upn
+                p/eventing/
+                ) from URL 
+                group (1830
+                26289033504
+                35845). 
+                Process Id 
+                6344 
+                Executable 
+                path \Devic
+                e\HarddiskV
+                olume3\Wind
+                ows\System3
+                2\svchost.e
+                xe, User 
+                S-1-5-19
+
+TimeGenerated : 1/27/2026 
+                4:49:18 PM
+EntryType     : Information
+Source        : Microsoft-W
+                indows-Http
+                Service
+EventID       : 113
+Message       : Attempted 
+                to add URL 
+                (http://*:2
+                869/upnp/ev
+                enting/) 
+                to URL 
+                group (1830
+                26289033504
+                35845). 
+                Status: 0. 
+                Process Id 
+                6344 
+                Executable 
+                path \Devic
+                e\HarddiskV
+                olume3\Wind
+                ows\System3
+                2\svchost.e
+                xe, User 
+                S-1-5-19
+
+TimeGenerated : 1/27/2026 
+                4:49:18 PM
+EntryType     : Information
+Source        : Microsoft-W
+                indows-Http
+                Service
+EventID       : 114
+Message       : Removed 
+                URL (http:/
+                /*:2869/upn
+                p/eventing/
+                ) from URL 
+                group (1830
+                26289119403
+                70435). 
+                Process Id 
+                6344 
+                Executable 
+                path \Devic
+                e\HarddiskV
+                olume3\Wind
+                ows\System3
+                2\svchost.e
+                xe, User 
+                S-1-5-19
+
+TimeGenerated : 1/27/2026 
+                3:21:09 PM
+EntryType     : Information
+Source        : Microsoft-W
+                indows-Time
+                -Service
+EventID       : 158
+Message       : The time 
+                provider 'V
+                MICTimeProv
+                ider' has 
+                indicated 
+                that the 
+                current 
+                hardware 
+                and 
+                operating e
+                nvironment 
+                is not 
+                supported 
+                and has 
+                stopped. 
+                This 
+                behavior 
+                is 
+                expected 
+                for VMICTim
+                eProvider 
+                on non-Hype
+                rV-guest en
+                vironments.
+                 This may 
+                be the 
+                expected 
+                behavior 
+                for the 
+                current 
+                provider 
+                in the 
+                current 
+                operating e
+                nvironment 
+                as well.
+
+TimeGenerated : 1/27/2026 
+                3:12:41 PM
+EntryType     : Information
+Source        : Microsoft-W
+                indows-Kern
+                el-General
+EventID       : 11
+Message       : The descrip
+                tion for 
+                Event ID 
+                '11' in 
+                Source 'Mic
+                rosoft-Wind
+                ows-Kernel-
+                General' 
+                cannot be 
+                found.  
+                The local 
+                computer 
+                may not 
+                have the 
+                necessary 
+                registry in
+                formation 
+                or message 
+                DLL files 
+                to display 
+                the 
+                message, 
+                or you may 
+                not have 
+                permission 
+                to access 
+                them.  The 
+                following i
+                nformation 
+                is part of 
+                the event:'
+                80', '\??\G
+                LOBALROOT\D
+                evice\Hardd
+                iskVolumeSh
+                adowCopy2\W
+                indows\Syst
+                em32\config
+                \SOFTWARE',
+                 '{77b33900
+                -fbc0-11f0-
+                953f-5cb26d
+                870383}', '
+                {77b338ff-f
+                bc0-11f0-95
+                3f-5cb26d87
+                0383}', '0x
+                c00000a2', 
+                '7'
+
+TimeGenerated : 1/27/2026 
+                3:12:40 PM
+EntryType     : Information
+Source        : Microsoft-W
+                indows-Kern
+                el-General
+EventID       : 11
+Message       : The descrip
+                tion for 
+                Event ID 
+                '11' in 
+                Source 'Mic
+                rosoft-Wind
+                ows-Kernel-
+                General' 
+                cannot be 
+                found.  
+                The local 
+                computer 
+                may not 
+                have the 
+                necessary 
+                registry in
+                formation 
+                or message 
+                DLL files 
+                to display 
+                the 
+                message, 
+                or you may 
+                not have 
+                permission 
+                to access 
+                them.  The 
+                following i
+                nformation 
+                is part of 
+                the event:'
+                79', '\??\G
+                LOBALROOT\D
+                evice\Hardd
+                iskVolumeSh
+                adowCopy2\W
+                indows\Syst
+                em32\config
+                \DRIVERS', 
+                '{77b338fd-
+                fbc0-11f0-9
+                53f-5cb26d8
+                70383}', '{
+                77b338fc-fb
+                c0-11f0-953
+                f-5cb26d870
+                383}', '0xc
+                00000a2', 
+                '7'
+
+TimeGenerated : 1/27/2026 
+                3:12:40 PM
+EntryType     : Information
+Source        : Microsoft-W
+                indows-Kern
+                el-General
+EventID       : 11
+Message       : The descrip
+                tion for 
+                Event ID 
+                '11' in 
+                Source 'Mic
+                rosoft-Wind
+                ows-Kernel-
+                General' 
+                cannot be 
+                found.  
+                The local 
+                computer 
+                may not 
+                have the 
+                necessary 
+                registry in
+                formation 
+                or message 
+                DLL files 
+                to display 
+                the 
+                message, 
+                or you may 
+                not have 
+                permission 
+                to access 
+                them.  The 
+                following i
+                nformation 
+                is part of 
+                the event:'
+                78', '\??\G
+                LOBALROOT\D
+                evice\Hardd
+                iskVolumeSh
+                adowCopy2\W
+                indows\Syst
+                em32\config
+                \SYSTEM', '
+                {77b338fa-f
+                bc0-11f0-95
+                3f-5cb26d87
+                0383}', '{7
+                7b338f9-fbc
+                0-11f0-953f
+                -5cb26d8703
+                83}', '0xc0
+                0000a2', 
+                '7'
+
+TimeGenerated : 1/27/2026 
+                3:04:05 PM
+EntryType     : Information
+Source        : Microsoft-W
+                indows-Time
+                -Service
+EventID       : 158
+Message       : The time 
+                provider 'V
+                MICTimeProv
+                ider' has 
+                indicated 
+                that the 
+                current 
+                hardware 
+                and 
+                operating e
+                nvironment 
+                is not 
+                supported 
+                and has 
+                stopped. 
+                This 
+                behavior 
+                is 
+                expected 
+                for VMICTim
+                eProvider 
+                on non-Hype
+                rV-guest en
+                vironments.
+                 This may 
+                be the 
+                expected 
+                behavior 
+                for the 
+                current 
+                provider 
+                in the 
+                current 
+                operating e
+                nvironment 
+                as well.
+
+TimeGenerated : 1/27/2026 
+                2:47:01 PM
+EntryType     : Information
+Source        : Microsoft-W
+                indows-Time
+                -Service
+EventID       : 158
+Message       : The time 
+                provider 'V
+                MICTimeProv
+                ider' has 
+                indicated 
+                that the 
+                current 
+                hardware 
+                and 
+                operating e
+                nvironment 
+                is not 
+                supported 
+                and has 
+                stopped. 
+                This 
+                behavior 
+                is 
+                expected 
+                for VMICTim
+                eProvider 
+                on non-Hype
+                rV-guest en
+                vironments.
+                 This may 
+                be the 
+                expected 
+                behavior 
+                for the 
+                current 
+                provider 
+                in the 
+                current 
+                operating e
+                nvironment 
+                as well.
+
+TimeGenerated : 1/27/2026 
+                2:29:57 PM
+EntryType     : Information
+Source        : Microsoft-W
+                indows-Time
+                -Service
+EventID       : 158
+Message       : The time 
+                provider 'V
+                MICTimeProv
+                ider' has 
+                indicated 
+                that the 
+                current 
+                hardware 
+                and 
+                operating e
+                nvironment 
+                is not 
+                supported 
+                and has 
+                stopped. 
+                This 
+                behavior 
+                is 
+                expected 
+                for VMICTim
+                eProvider 
+                on non-Hype
+                rV-guest en
+                vironments.
+                 This may 
+                be the 
+                expected 
+                behavior 
+                for the 
+                current 
+                provider 
+                in the 
+                current 
+                operating e
+                nvironment 
+                as well.
+
+TimeGenerated : 1/27/2026 
+                2:22:06 PM
+EntryType     : Information
+Source        : Microsoft-W
+                indows-Wind
+                owsUpdateCl
+                ient
+EventID       : 19
+Message       : Installatio
+                n Successfu
+                l: Windows 
+                successfull
+                y 
+                installed 
+                the 
+                following 
+                update: 9WZ
+                DNCRFJ3PR-M
+                ICROSOFT.WI
+                NDOWSALARMS
+
+TimeGenerated : 1/27/2026 
+                2:22:04 PM
+EntryType     : Information
+Source        : Microsoft-W
+                indows-Wind
+                owsUpdateCl
+                ient
+EventID       : 43
+Message       : Installatio
+                n Started: 
+                Windows 
+                has 
+                started 
+                installing 
+                the 
+                following 
+                update: 9WZ
+                DNCRFJ3PR-M
+                ICROSOFT.WI
+                NDOWSALARMS
+
+TimeGenerated : 1/27/2026 
+                2:22:00 PM
+EntryType     : Information
+Source        : Microsoft-W
+                indows-Kern
+                el-General
+EventID       : 16
+Message       : The descrip
+                tion for 
+                Event ID 
+                '16' in 
+                Source 'Mic
+                rosoft-Wind
+                ows-Kernel-
+                General' 
+                cannot be 
+                found.  
+                The local 
+                computer 
+                may not 
+                have the 
+                necessary 
+                registry in
+                formation 
+                or message 
+                DLL files 
+                to display 
+                the 
+                message, 
+                or you may 
+                not have 
+                permission 
+                to access 
+                them.  The 
+                following i
+                nformation 
+                is part of 
+                the event:'
+                134', '\??\
+                C:\ProgramD
+                ata\Microso
+                ft\Windows\
+                AppReposito
+                ry\Packages
+                \Microsoft.
+                WindowsAlar
+                ms_11.2512.
+                0.0_x64__8w
+                ekyb3d8bbwe
+                \Activation
+                Store.dat',
+                 '0', '0'
+
+TimeGenerated : 1/27/2026 
+                2:21:52 PM
+EntryType     : Information
+Source        : Microsoft-W
+                indows-Wind
+                owsUpdateCl
+                ient
+EventID       : 19
+Message       : Installatio
+                n Successfu
+                l: Windows 
+                successfull
+                y 
+                installed 
+                the 
+                following 
+                update: 9N0
+                DX20HK701-M
+                icrosoft.Wi
+                ndowsTermin
+                al
+
+TimeGenerated : 1/27/2026 
+                2:21:51 PM
+EntryType     : Information
+Source        : Microsoft-W
+                indows-Kern
+                el-General
+EventID       : 16
+Message       : The descrip
+                tion for 
+                Event ID 
+                '16' in 
+                Source 'Mic
+                rosoft-Wind
+                ows-Kernel-
+                General' 
+                cannot be 
+                found.  
+                The local 
+                computer 
+                may not 
+                have the 
+                necessary 
+                registry in
+                formation 
+                or message 
+                DLL files 
+                to display 
+                the 
+                message, 
+                or you may 
+                not have 
+                permission 
+                to access 
+                them.  The 
+                following i
+                nformation 
+                is part of 
+                the event:'
+                103', '\??\
+                C:\Users\zo
+                ole\AppData
+                \Local\Pack
+                ages\Micros
+                oft.Windows
+                Terminal_8w
+                ekyb3d8bbwe
+                \Settings\s
+                ettings.dat
+                ', '1', '1'
+
+TimeGenerated : 1/27/2026 
+                2:21:51 PM
+EntryType     : Information
+Source        : Microsoft-W
+                indows-Wind
+                owsUpdateCl
+                ient
+EventID       : 43
+Message       : Installatio
+                n Started: 
+                Windows 
+                has 
+                started 
+                installing 
+                the 
+                following 
+                update: 9N0
+                DX20HK701-M
+                icrosoft.Wi
+                ndowsTermin
+                al
+
+TimeGenerated : 1/27/2026 
+                2:21:49 PM
+EntryType     : Information
+Source        : Microsoft-W
+                indows-Kern
+                el-General
+EventID       : 16
+Message       : The descrip
+                tion for 
+                Event ID 
+                '16' in 
+                Source 'Mic
+                rosoft-Wind
+                ows-Kernel-
+                General' 
+                cannot be 
+                found.  
+                The local 
+                computer 
+                may not 
+                have the 
+                necessary 
+                registry in
+                formation 
+                or message 
+                DLL files 
+                to display 
+                the 
+                message, 
+                or you may 
+                not have 
+                permission 
+                to access 
+                them.  The 
+                following i
+                nformation 
+                is part of 
+                the event:'
+                137', '\??\
+                C:\ProgramD
+                ata\Microso
+                ft\Windows\
+                AppReposito
+                ry\Packages
+                \Microsoft.
+                WindowsTerm
+                inal_1.23.2
+                0211.0_x64_
+                _8wekyb3d8b
+                bwe\Activat
+                ionStore.da
+                t', '0', 
+                '0'
+
+TimeGenerated : 1/27/2026 
+                2:21:29 PM
+EntryType     : Information
+Source        : Microsoft-W
+                indows-Wind
+                owsUpdateCl
+                ient
+EventID       : 44
+Message       : Windows 
+                Update 
+                started dow
+                nloading 
+                an update.
+
+TimeGenerated : 1/27/2026 
+                2:21:20 PM
+EntryType     : Error
+Source        : Microsoft-W
+                indows-Wind
+                owsUpdateCl
+                ient
+EventID       : 20
+Message       : Installatio
+                n Failure: 
+                Windows 
+                failed to 
+                install 
+                the 
+                following 
+                update 
+                with error 
+                0x80073d02:
+                 9NBLGGH4LS
+                1F-Microsof
+                t.StorePurc
+                haseApp.
+
+TimeGenerated : 1/27/2026 
+                2:21:19 PM
+EntryType     : Information
+Source        : Microsoft-W
+                indows-Wind
+                owsUpdateCl
+                ient
+EventID       : 43
+Message       : Installatio
+                n Started: 
+                Windows 
+                has 
+                started 
+                installing 
+                the 
+                following 
+                update: 9NB
+                LGGH4LS1F-M
+                icrosoft.St
+                orePurchase
+                App
+
+TimeGenerated : 1/27/2026 
+                2:21:18 PM
+EntryType     : Information
+Source        : Microsoft-W
+                indows-Kern
+                el-General
+EventID       : 16
+Message       : The descrip
+                tion for 
+                Event ID 
+                '16' in 
+                Source 'Mic
+                rosoft-Wind
+                ows-Kernel-
+                General' 
+                cannot be 
+                found.  
+                The local 
+                computer 
+                may not 
+                have the 
+                necessary 
+                registry in
+                formation 
+                or message 
+                DLL files 
+                to display 
+                the 
+                message, 
+                or you may 
+                not have 
+                permission 
+                to access 
+                them.  The 
+                following i
+                nformation 
+                is part of 
+                the event:'
+                140', '\??\
+                C:\ProgramD
+                ata\Microso
+                ft\Windows\
+                AppReposito
+                ry\Packages
+                \Microsoft.
+                StorePurcha
+                seApp_22512
+                .1401.1.0_x
+                64__8wekyb3
+                d8bbwe\Acti
+                vationStore
+                .dat', 
+                '0', '0'
+
+TimeGenerated : 1/27/2026 
+                2:20:31 PM
+EntryType     : Information
+Source        : Microsoft-W
+                indows-Wind
+                owsUpdateCl
+                ient
+EventID       : 44
+Message       : Windows 
+                Update 
+                started dow
+                nloading 
+                an update.
+
+TimeGenerated : 1/27/2026 
+                2:20:31 PM
+EntryType     : Information
+Source        : Microsoft-W
+                indows-Wind
+                owsUpdateCl
+                ient
+EventID       : 44
+Message       : Windows 
+                Update 
+                started dow
+                nloading 
+                an update.
+
+TimeGenerated : 1/27/2026 
+                2:19:44 PM
+EntryType     : Information
+Source        : Microsoft-W
+                indows-Wind
+                owsUpdateCl
+                ient
+EventID       : 44
+Message       : Windows 
+                Update 
+                started dow
+                nloading 
+                an update.
+
+TimeGenerated : 1/27/2026 
+                2:16:27 PM
+EntryType     : Information
+Source        : Microsoft-W
+                indows-Wind
+                owsUpdateCl
+                ient
+EventID       : 44
+Message       : Windows 
+                Update 
+                started dow
+                nloading 
+                an update.
+
+TimeGenerated : 1/27/2026 
+                2:16:21 PM
+EntryType     : Information
+Source        : Microsoft-W
+                indows-Wind
+                owsUpdateCl
+                ient
+EventID       : 44
+Message       : Windows 
+                Update 
+                started dow
+                nloading 
+                an update.
+
+TimeGenerated : 1/27/2026 
+                2:16:10 PM
+EntryType     : Information
+Source        : Microsoft-W
+                indows-Wind
+                owsUpdateCl
+                ient
+EventID       : 44
+Message       : Windows 
+                Update 
+                started dow
+                nloading 
+                an update.
+
+TimeGenerated : 1/27/2026 
+                2:16:01 PM
+EntryType     : Information
+Source        : Microsoft-W
+                indows-Wind
+                owsUpdateCl
+                ient
+EventID       : 44
+Message       : Windows 
+                Update 
+                started dow
+                nloading 
+                an update.
+
+TimeGenerated : 1/27/2026 
+                2:15:57 PM
+EntryType     : Information
+Source        : Microsoft-W
+                indows-Wind
+                owsUpdateCl
+                ient
+EventID       : 44
+Message       : Windows 
+                Update 
+                started dow
+                nloading 
+                an update.
+
+TimeGenerated : 1/27/2026 
+                2:15:46 PM
+EntryType     : Information
+Source        : Microsoft-W
+                indows-Wind
+                owsUpdateCl
+                ient
+EventID       : 44
+Message       : Windows 
+                Update 
+                started dow
+                nloading 
+                an update.
+
+TimeGenerated : 1/27/2026 
+                2:15:09 PM
+EntryType     : Information
+Source        : Microsoft-W
+                indows-Wind
+                owsUpdateCl
+                ient
+EventID       : 44
+Message       : Windows 
+                Update 
+                started dow
+                nloading 
+                an update.
+
+TimeGenerated : 1/27/2026 
+                2:13:19 PM
+EntryType     : Information
+Source        : Microsoft-W
+                indows-Wind
+                owsUpdateCl
+                ient
+EventID       : 44
+Message       : Windows 
+                Update 
+                started dow
+                nloading 
+                an update.
+
+TimeGenerated : 1/27/2026 
+                2:13:01 PM
+EntryType     : Information
+Source        : Microsoft-W
+                indows-Wind
+                owsUpdateCl
+                ient
+EventID       : 44
+Message       : Windows 
+                Update 
+                started dow
+                nloading 
+                an update.
+
+TimeGenerated : 1/27/2026 
+                2:12:55 PM
+EntryType     : Information
+Source        : Microsoft-W
+                indows-Wind
+                owsUpdateCl
+                ient
+EventID       : 44
+Message       : Windows 
+                Update 
+                started dow
+                nloading 
+                an update.
+
+TimeGenerated : 1/27/2026 
+                2:12:37 PM
+EntryType     : Information
+Source        : Microsoft-W
+                indows-Time
+                -Service
+EventID       : 37
+Message       : The time 
+                provider 
+                NtpClient 
+                is 
+                currently 
+                receiving 
+                valid time 
+                data from t
+                ime.windows
+                .com,0x9 (n
+                tp.m|0x9|0.
+                0.0.0:123->
+                40.119.6.22
+                8:123).
+
+TimeGenerated : 1/27/2026 
+                2:12:37 PM
+EntryType     : Information
+Source        : Microsoft-W
+                indows-Time
+                -Service
+EventID       : 158
+Message       : The time 
+                provider 'V
+                MICTimeProv
+                ider' has 
+                indicated 
+                that the 
+                current 
+                hardware 
+                and 
+                operating e
+                nvironment 
+                is not 
+                supported 
+                and has 
+                stopped. 
+                This 
+                behavior 
+                is 
+                expected 
+                for VMICTim
+                eProvider 
+                on non-Hype
+                rV-guest en
+                vironments.
+                 This may 
+                be the 
+                expected 
+                behavior 
+                for the 
+                current 
+                provider 
+                in the 
+                current 
+                operating e
+                nvironment 
+                as well.
+
+TimeGenerated : 1/27/2026 
+                2:09:49 PM
+EntryType     : Error
+Source        : DCOM
+EventID       : 10001
+Message       : The descrip
+                tion for 
+                Event ID 
+                '10001' in 
+                Source 
+                'DCOM' 
+                cannot be 
+                found.  
+                The local 
+                computer 
+                may not 
+                have the 
+                necessary 
+                registry in
+                formation 
+                or message 
+                DLL files 
+                to display 
+                the 
+                message, 
+                or you may 
+                not have 
+                permission 
+                to access 
+                them.  The 
+                following i
+                nformation 
+                is part of 
+                the event:'
+                "C:\Windows
+                \system32\b
+                ackgroundTa
+                skHost.exe"
+                 -ServerNam
+                e:OobeHost.
+                AppXdcwkjpb
+                46w3zw4hbmx
+                5jfxajhymjk
+                a0d.mca', '
+                2147942403'
+                , 'Microsof
+                tWindows.Cl
+                ient.OOBE_1
+                000.26100.2
+                8.0_x64__cw
+                5n1h2txyewy
+                !OobeHost.A
+                ppX57bnpdhb
+                2y2keeh7gnj
+                g18wys2747n
+                jp.mca', 'U
+                navailable'
+                , 'Unavaila
+                ble'
+
+TimeGenerated : 1/27/2026 
+                12:00:00 PM
+EntryType     : Information
+Source        : EventLog
+EventID       : 6013
+Message       : The system 
+                uptime is 
+                328707 
+                seconds.
+
+TimeGenerated : 1/27/2026 
+                9:16:26 AM
+EntryType     : Information
+Source        : Microsoft-W
+                indows-Kern
+                el-Power
+EventID       : 105
+Message       : The descrip
+                tion for 
+                Event ID 
+                '105' in 
+                Source 'Mic
+                rosoft-Wind
+                ows-Kernel-
+                Power' 
+                cannot be 
+                found.  
+                The local 
+                computer 
+                may not 
+                have the 
+                necessary 
+                registry in
+                formation 
+                or message 
+                DLL files 
+                to display 
+                the 
+                message, 
+                or you may 
+                not have 
+                permission 
+                to access 
+                them.  The 
+                following i
+                nformation 
+                is part of 
+                the event:'
+                true', 
+                '39729', 
+                '41735'
+
+TimeGenerated : 1/27/2026 
+                9:16:19 AM
+EntryType     : Information
+Source        : Microsoft-W
+                indows-Kern
+                el-Power
+EventID       : 105
+Message       : The descrip
+                tion for 
+                Event ID 
+                '105' in 
+                Source 'Mic
+                rosoft-Wind
+                ows-Kernel-
+                Power' 
+                cannot be 
+                found.  
+                The local 
+                computer 
+                may not 
+                have the 
+                necessary 
+                registry in
+                formation 
+                or message 
+                DLL files 
+                to display 
+                the 
+                message, 
+                or you may 
+                not have 
+                permission 
+                to access 
+                them.  The 
+                following i
+                nformation 
+                is part of 
+                the event:'
+                false', 
+                '41735', 
+                '41735'
+
+TimeGenerated : 1/27/2026 
+                6:58:08 AM
+EntryType     : Information
+Source        : Microsoft-W
+                indows-Kern
+                el-General
+EventID       : 16
+Message       : The descrip
+                tion for 
+                Event ID 
+                '16' in 
+                Source 'Mic
+                rosoft-Wind
+                ows-Kernel-
+                General' 
+                cannot be 
+                found.  
+                The local 
+                computer 
+                may not 
+                have the 
+                necessary 
+                registry in
+                formation 
+                or message 
+                DLL files 
+                to display 
+                the 
+                message, 
+                or you may 
+                not have 
+                permission 
+                to access 
+                them.  The 
+                following i
+                nformation 
+                is part of 
+                the event:'
+                126', '\??\
+                C:\ProgramD
+                ata\Microso
+                ft\Windows\
+                AppReposito
+                ry\Packages
+                \MSTeams_26
+                005.204.424
+                9.1621_x64_
+                _8wekyb3d8b
+                bwe\Activat
+                ionStore.da
+                t', '0', 
+                '0'
+
+TimeGenerated : 1/27/2026 
+                6:49:22 AM
+EntryType     : Information
+Source        : Microsoft-W
+                indows-Http
+                Service
+EventID       : 113
+Message       : Attempted 
+                to add URL 
+                (http://*:2
+                869/upnp/ev
+                enting/) 
+                to URL 
+                group (1830
+                26289119403
+                70435). 
+                Status: 0. 
+                Process Id 
+                6344 
+                Executable 
+                path \Devic
+                e\HarddiskV
+                olume3\Wind
+                ows\System3
+                2\svchost.e
+                xe, User 
+                S-1-5-19
+
+TimeGenerated : 1/27/2026 
+                6:49:22 AM
+EntryType     : Information
+Source        : Microsoft-W
+                indows-Http
+                Service
+EventID       : 114
+Message       : Removed 
+                URL (http:/
+                /*:2869/upn
+                p/eventing/
+                ) from URL 
+                group (1830
+                26289033504
+                35844). 
+                Process Id 
+                6344 
+                Executable 
+                path \Devic
+                e\HarddiskV
+                olume3\Wind
+                ows\System3
+                2\svchost.e
+                xe, User 
+                S-1-5-19
+
+TimeGenerated : 1/27/2026 
+                6:49:22 AM
+EntryType     : Information
+Source        : Microsoft-W
+                indows-Http
+                Service
+EventID       : 113
+Message       : Attempted 
+                to add URL 
+                (http://*:2
+                869/upnp/ev
+                enting/) 
+                to URL 
+                group (1830
+                26289033504
+                35844). 
+                Status: 0. 
+                Process Id 
+                6344 
+                Executable 
+                path \Devic
+                e\HarddiskV
+                olume3\Wind
+                ows\System3
+                2\svchost.e
+                xe, User 
+                S-1-5-19
+
+TimeGenerated : 1/27/2026 
+                6:49:22 AM
+EntryType     : Information
+Source        : Microsoft-W
+                indows-Http
+                Service
+EventID       : 114
+Message       : Removed 
+                URL (http:/
+                /*:2869/upn
+                p/eventing/
+                ) from URL 
+                group (1830
+                26289334152
+                06919). 
+                Process Id 
+                6344 
+                Executable 
+                path \Devic
+                e\HarddiskV
+                olume3\Wind
+                ows\System3
+                2\svchost.e
+                xe, User 
+                S-1-5-19
+
+TimeGenerated : 1/27/2026 
+                6:49:18 AM
+EntryType     : Information
+Source        : Microsoft-W
+                indows-Http
+                Service
+EventID       : 113
+Message       : Attempted 
+                to add URL 
+                (http://*:2
+                869/upnp/ev
+                enting/) 
+                to URL 
+                group (1830
+                26289334152
+                06919). 
+                Status: 0. 
+                Process Id 
+                6344 
+                Executable 
+                path \Devic
+                e\HarddiskV
+                olume3\Wind
+                ows\System3
+                2\svchost.e
+                xe, User 
+                S-1-5-19
+
+TimeGenerated : 1/27/2026 
+                6:49:18 AM
+EntryType     : Information
+Source        : Microsoft-W
+                indows-Http
+                Service
+EventID       : 114
+Message       : Removed 
+                URL (http:/
+                /*:2869/upn
+                p/eventing/
+                ) from URL 
+                group (1830
+                26289334152
+                06918). 
+                Process Id 
+                6344 
+                Executable 
+                path \Devic
+                e\HarddiskV
+                olume3\Wind
+                ows\System3
+                2\svchost.e
+                xe, User 
+                S-1-5-19
+
+TimeGenerated : 1/27/2026 
+                6:49:18 AM
+EntryType     : Information
+Source        : Microsoft-W
+                indows-Http
+                Service
+EventID       : 113
+Message       : Attempted 
+                to add URL 
+                (http://*:2
+                869/upnp/ev
+                enting/) 
+                to URL 
+                group (1830
+                26289334152
+                06918). 
+                Status: 0. 
+                Process Id 
+                6344 
+                Executable 
+                path \Devic
+                e\HarddiskV
+                olume3\Wind
+                ows\System3
+                2\svchost.e
+                xe, User 
+                S-1-5-19
+
+TimeGenerated : 1/27/2026 
+                3:11:53 AM
+EntryType     : Error
+Source        : DCOM
+EventID       : 10001
+Message       : The descrip
+                tion for 
+                Event ID 
+                '10001' in 
+                Source 
+                'DCOM' 
+                cannot be 
+                found.  
+                The local 
+                computer 
+                may not 
+                have the 
+                necessary 
+                registry in
+                formation 
+                or message 
+                DLL files 
+                to display 
+                the 
+                message, 
+                or you may 
+                not have 
+                permission 
+                to access 
+                them.  The 
+                following i
+                nformation 
+                is part of 
+                the event:'
+                "C:\Windows
+                \system32\b
+                ackgroundTa
+                skHost.exe"
+                 -ServerNam
+                e:OobeHost.
+                AppXdcwkjpb
+                46w3zw4hbmx
+                5jfxajhymjk
+                a0d.mca', '
+                2147942403'
+                , 'Microsof
+                tWindows.Cl
+                ient.OOBE_1
+                000.26100.2
+                8.0_x64__cw
+                5n1h2txyewy
+                !OobeHost.A
+                ppX6bj56gpf
+                gc90p49thdx
+                snj5be6r7f6
+                yq.mca', 'U
+                navailable'
+                , 'Unavaila
+                ble'
+
+
+

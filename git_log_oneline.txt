@@ -1,0 +1,3 @@
+c0d9732 Checkpoint: Fixed app name references from 'Lecture Me Pro' to 'Lecture Me - College Edition'. Investigated database: 82 users total (81 test users from vitest, 1 real user - Charles Kendrick). Zero payment records. Cleaned up temp files.
+70850b6 Checkpoint: Lecture Me Pro - Fully restored from archive with all features working. Database: 10 tables created and migrated. UI: Enhanced landing page with animated hero, glowing mascot card, gradient text, feature cards, pricing section, and purple theme throughout. All 78 tests passing across 14 test files. Assets moved to S3 CDN. Stripe integration gracefully handles missing key.
+9b7aedc Initial project bootstrap

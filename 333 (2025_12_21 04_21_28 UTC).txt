@@ -1,0 +1,27 @@
+{
+  "starred": false,
+  "editors_can_edit_access": true,
+  "last_modified_by_any_user": "2021-12-28T17:06:31.516Z",
+  "last_modified_by_me": "2021-12-28T17:06:31.516Z",
+  "content_last_modified": "2021-12-28T17:06:31.516Z",
+  "created": "2022-01-12T05:06:37.424Z",
+  "permissions": [
+    {
+      "id": "15934826628772629527",
+      "name": "Mr Kendrick",
+      "type": "user",
+      "role": "owner",
+      "value": "zooleous1@gmail.com",
+      "kind": "drive#permission",
+      "photo_link": "https://lh3.googleusercontent.com/a/ACg8ocL9gB3G7d2_4tQqCycGIn4bch4MR_X380K1kUjKYggYDkpTcA=s64",
+      "email_address": "zooleous1@gmail.com",
+      "domain": "gmail.com",
+      "deleted": false,
+      "pending_owner": false
+    }
+  ],
+  "title": "Tor Browser",
+  "drive_id": "10AITrSAvMefQs3Ca2PJGGwcNjG-RYP-Y",
+  "mime_type": "application/vnd.google-apps.folder",
+  "download_url": "https://drive.google.com/drive/folders/10AITrSAvMefQs3Ca2PJGGwcNjG-RYP-Y"
+}
