@@ -1,0 +1,50 @@
+{
+  "protoPayload": {
+    "@type": "type.googleapis.com/google.cloud.audit.AuditLog",
+    "authenticationInfo": {
+      "principalEmail": "zooleous1@gmail.com"
+    },
+    "requestMetadata": {
+      "callerIp": "2607:fb91:8eca:8437:ac39:d497:70b9:50cc",
+      "callerSuppliedUserAgent": "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/145.0.0.0 Safari/537.36,gzip(gfe),gzip(gfe)",
+      "requestAttributes": {},
+      "destinationAttributes": {}
+    },
+    "methodName": "google.api.serviceusage.v1.ServiceUsage.BatchEnableServices",
+    "authorizationInfo": [
+      {
+        "resource": "projectnumbers/856730730553/services/iam.googleapis.com",
+        "permission": "serviceusage.services.enable",
+        "granted": true,
+        "resourceAttributes": {},
+        "permissionType": "ADMIN_WRITE"
+      },
+      {
+        "resource": "projectnumbers/856730730553/services/monitoring.googleapis.com",
+        "permission": "serviceusage.services.enable",
+        "granted": true,
+        "resourceAttributes": {},
+        "permissionType": "ADMIN_WRITE"
+      }
+    ],
+    "resourceName": "projects/still-totality-486106-e2/services"
+  },
+  "insertId": "l43lume1ds58",
+  "resource": {
+    "type": "audited_resource",
+    "labels": {
+      "service": "",
+      "project_id": "still-totality-486106-e2",
+      "method": "google.api.serviceusage.v1.ServiceUsage.BatchEnableServices"
+    }
+  },
+  "timestamp": "2026-02-25T13:54:52.954730Z",
+  "severity": "NOTICE",
+  "logName": "projects/still-totality-486106-e2/logs/cloudaudit.googleapis.com%2Factivity",
+  "operation": {
+    "id": "operations/acat.p2-856730730553-c48cde83-ea9e-4820-a2fa-4340f6820f15",
+    "producer": "serviceusage.googleapis.com",
+    "first": true
+  },
+  "receiveTimestamp": "2026-02-25T13:54:53.890771311Z"
+}
