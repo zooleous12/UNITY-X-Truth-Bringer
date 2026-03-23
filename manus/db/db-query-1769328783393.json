@@ -1,0 +1,28 @@
+{
+  "query": "SELECT id, email, name, userTier, seatNumber, createdAt, lastSignedIn FROM users WHERE email LIKE '%zooloeus%' OR email LIKE '%zooleous%' ORDER BY email;",
+  "command": "mysql --batch --raw --column-names --default-character-set=utf8mb4 --host gateway02.us-east-1.prod.aws.tidbcloud.com --port 4000 --user 2i5TmjbdggBomPL.2dc94dae1d94 --database H2re5XMjr4CodhxEwdsje5 --execute SELECT id, email, name, userTier, seatNumber, createdAt, lastSignedIn FROM users WHERE email LIKE '%zooloeus%' OR email LIKE '%zooleous%' ORDER BY email;",
+  "rows": [
+    {
+      "id": "1110004",
+      "email": "zooleous1@gmail.com",
+      "name": "Mr Kendrick",
+      "userTier": "founder_core",
+      "seatNumber": "1",
+      "createdAt": "2026-01-09 08:18:59",
+      "lastSignedIn": "2026-01-21 06:18:52"
+    },
+    {
+      "id": "1830001",
+      "email": "zooleous5@gmail.com",
+      "name": "zooleous5",
+      "userTier": "founder_core",
+      "seatNumber": "4",
+      "createdAt": "2026-01-18 08:07:58",
+      "lastSignedIn": "2026-01-20 20:37:28"
+    }
+  ],
+  "messages": [],
+  "stdout": "id\temail\tname\tuserTier\tseatNumber\tcreatedAt\tlastSignedIn\n1110004\tzooleous1@gmail.com\tMr Kendrick\tfounder_core\t1\t2026-01-09 08:18:59\t2026-01-21 06:18:52\n1830001\tzooleous5@gmail.com\tzooleous5\tfounder_core\t4\t2026-01-18 08:07:58\t2026-01-20 20:37:28\n",
+  "stderr": "",
+  "execution_time_ms": 347
+}

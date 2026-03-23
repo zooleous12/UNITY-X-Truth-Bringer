@@ -1,0 +1,24 @@
+{
+  "query": "\nSELECT \n  'zooleous1@gmail.com' as email,\n  (SELECT COUNT(*) FROM courses WHERE userId = 1110004) as courses,\n  (SELECT COUNT(*) FROM study_materials WHERE userId = 1110004) as materials,\n  (SELECT COUNT(*) FROM flashcards WHERE userId = 1110004) as flashcards,\n  (SELECT COUNT(*) FROM material_questions WHERE userId = 1110004) as questions\nUNION ALL\nSELECT \n  'zooleous5@gmail.com' as email,\n  (SELECT COUNT(*) FROM courses WHERE userId = 1830001) as courses,\n  (SELECT COUNT(*) FROM study_materials WHERE userId = 1830001) as materials,\n  (SELECT COUNT(*) FROM flashcards WHERE userId = 1830001) as flashcards,\n  (SELECT COUNT(*) FROM material_questions WHERE userId = 1830001) as questions;\n",
+  "command": "mysql --batch --raw --column-names --default-character-set=utf8mb4 --host gateway02.us-east-1.prod.aws.tidbcloud.com --port 4000 --user 2i5TmjbdggBomPL.2dc94dae1d94 --database H2re5XMjr4CodhxEwdsje5 --execute \nSELECT \n  'zooleous1@gmail.com' as email,\n  (SELECT COUNT(*) FROM courses WHERE userId = 1110004) as courses,\n  (SELECT COUNT(*) FROM study_materials WHERE userId = 1110004) as materials,\n  (SELECT COUNT(*) FROM flashcards WHERE userId = 1110004) as flashcards,\n  (SELECT COUNT(*) FROM material_questions WHERE userId = 1110004) as questions\nUNION ALL\nSELECT \n  'zooleous5@gmail.com' as email,\n  (SELECT COUNT(*) FROM courses WHERE userId = 1830001) as courses,\n  (SELECT COUNT(*) FROM study_materials WHERE userId = 1830001) as materials,\n  (SELECT COUNT(*) FROM flashcards WHERE userId = 1830001) as flashcards,\n  (SELECT COUNT(*) FROM material_questions WHERE userId = 1830001) as questions;\n",
+  "rows": [
+    {
+      "email": "zooleous1@gmail.com",
+      "courses": "1",
+      "materials": "5",
+      "flashcards": "0",
+      "questions": "0"
+    },
+    {
+      "email": "zooleous5@gmail.com",
+      "courses": "1",
+      "materials": "0",
+      "flashcards": "0",
+      "questions": "0"
+    }
+  ],
+  "messages": [],
+  "stdout": "email\tcourses\tmaterials\tflashcards\tquestions\nzooleous1@gmail.com\t1\t5\t0\t0\nzooleous5@gmail.com\t1\t0\t0\t0\n",
+  "stderr": "",
+  "execution_time_ms": 351
+}

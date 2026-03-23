@@ -1,0 +1,13 @@
+{
+  "query": "\n-- Delete associated data for user ID 1830001\nDELETE FROM flashcards WHERE userId = 1830001;\nDELETE FROM material_questions WHERE userId = 1830001;\nDELETE FROM study_materials WHERE userId = 1830001;\nDELETE FROM courses WHERE userId = 1830001;\nDELETE FROM weakness_analyses WHERE userId = 1830001;\n\n-- Delete the user\nDELETE FROM users WHERE email = 'zooleous5@gmail.com';\n\n-- Confirm deletion\nSELECT 'zooleous5@gmail.com deleted, Founder Seat #4 freed' as result;\n",
+  "command": "mysql --batch --raw --column-names --default-character-set=utf8mb4 --host gateway02.us-east-1.prod.aws.tidbcloud.com --port 4000 --user 2i5TmjbdggBomPL.2dc94dae1d94 --database H2re5XMjr4CodhxEwdsje5 --execute \n-- Delete associated data for user ID 1830001\nDELETE FROM flashcards WHERE userId = 1830001;\nDELETE FROM material_questions WHERE userId = 1830001;\nDELETE FROM study_materials WHERE userId = 1830001;\nDELETE FROM courses WHERE userId = 1830001;\nDELETE FROM weakness_analyses WHERE userId = 1830001;\n\n-- Delete the user\nDELETE FROM users WHERE email = 'zooleous5@gmail.com';\n\n-- Confirm deletion\nSELECT 'zooleous5@gmail.com deleted, Founder Seat #4 freed' as result;\n",
+  "rows": [
+    {
+      "result": "zooleous5@gmail.com deleted, Founder Seat #4 freed"
+    }
+  ],
+  "messages": [],
+  "stdout": "result\nzooleous5@gmail.com deleted, Founder Seat #4 freed\n",
+  "stderr": "",
+  "execution_time_ms": 646
+}

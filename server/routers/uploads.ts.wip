@@ -1,0 +1,161 @@
+/**
+ * Copyright (c) 2026 Charles Kendrick. All Rights Reserved.
+ * 
+ * Lecture Me - College Edition - Upload Router
+ * Handles audio and PDF file uploads to S3 storage
+ */
+
+import { router, protectedProcedure } from "../_core/trpc";
+import { z } from "zod";
+import { storagePut } from "../storage";
+import { getDb } from "../db";
+import * as schema from "../../drizzle/schema";
+import { eq, desc } from "drizzle-orm";
+
+export const uploadsRouter = router({
+  /**
+   * Upload audio file (lecture recording)
+   */
+  uploadAudio: protectedProcedure
+    .input(
+      z.object({
+        fileName: z.string(),
+        fileData: z.string(), // Base64 encoded audio data
+        courseId: z.number().optional(),
+        title: z.string().optional(),
+        contentType: z.string().default("audio/webm"),
+      })
+    )
+    .mutation(async ({ ctx, input }) => {
+      const userId = ctx.user.id;
+      
+      // Decode base64 to buffer
+      const buffer = Buffer.from(input.fileData, "base64");
+      
+      // Generate unique file key
+      const timestamp = Date.now();
+      const sanitizedFileName = input.fileName.replace(/[^a-zA-Z0-9.-]/g, "_");
+      const fileKey = `audio/${userId}/${timestamp}-${sanitizedFileName}`;
+      
+      // Upload to S3
+      const { key, url } = await storagePut(fileKey, buffer, input.contentType);
+      
+      // Save to database
+      const db = await getDb();
+      const [material] = await db
+        .insert(schema.studyMaterials)
+        .values({
+          userId,
+          courseId: input.courseId || null,
+          type: "audio",
+          title: input.title || input.fileName,
+          fileUrl: url,
+          fileKey: key,
+          fileName: input.fileName,
+          fileSize: buffer.length,
+          processingStatus: "pending",
+          createdAt: new Date(),
+          updatedAt: new Date(),
+        })
+        .returning();
+      
+      return {
+        success: true,
+        materialId: material.id,
+        url,
+        message: "Audio uploaded successfully. Transcription will begin shortly.",
+      };
+    }),
+
+  /**
+   * Upload PDF file (textbook, notes, etc.)
+   */
+  uploadPDF: protectedProcedure
+    .input(
+      z.object({
+        fileName: z.string(),
+        fileData: z.string(), // Base64 encoded PDF data
+        courseId: z.number().optional(),
+        title: z.string().optional(),
+      })
+    )
+    .mutation(async ({ ctx, input }) => {
+      const userId = ctx.user.id;
+      
+      // Decode base64 to buffer
+      const buffer = Buffer.from(input.fileData, "base64");
+      
+      // Generate unique file key
+      const timestamp = Date.now();
+      const sanitizedFileName = input.fileName.replace(/[^a-zA-Z0-9.-]/g, "_");
+      const fileKey = `pdf/${userId}/${timestamp}-${sanitizedFileName}`;
+      
+      // Upload to S3
+      const { key, url } = await storagePut(fileKey, buffer, "application/pdf");
+      
+      // Save to database
+      const db = await getDb();
+      const [material] = await db
+        .insert(schema.studyMaterials)
+        .values({
+          userId,
+          courseId: input.courseId || null,
+          type: "pdf",
+          title: input.title || input.fileName,
+          fileUrl: url,
+          fileKey: key,
+          fileName: input.fileName,
+          fileSize: buffer.length,
+          processingStatus: "pending",
+          createdAt: new Date(),
+          updatedAt: new Date(),
+        })
+        .returning();
+      
+      return {
+        success: true,
+        materialId: material.id,
+        url,
+        message: "PDF uploaded successfully. Analysis will begin shortly.",
+      };
+    }),
+
+  /**
+   * Get upload history for current user
+   */
+  getUploads: protectedProcedure
+    .input(
+      z.object({
+        type: z.enum(["audio", "pdf", "all"]).default("all"),
+        limit: z.number().default(20),
+      })
+    )
+    .query(async ({ ctx, input }) => {
+      const userId = ctx.user.id;
+      const db = await getDb();
+      
+      let uploads;
+      
+      if (input.type === "all") {
+        uploads = await db
+          .select()
+          .from(schema.studyMaterials)
+          .where(eq(schema.studyMaterials.userId, userId))
+          .orderBy(desc(schema.studyMaterials.createdAt))
+          .limit(input.limit);
+      } else {
+        uploads = await db
+          .select()
+          .from(schema.studyMaterials)
+          .where(eq(schema.studyMaterials.userId, userId))
+          .where(eq(schema.studyMaterials.type, input.type))
+          .orderBy(desc(schema.studyMaterials.createdAt))
+          .limit(input.limit);
+      }
+      
+      return {
+        uploads,
+        total: uploads.length,
+      };
+    }),
+});

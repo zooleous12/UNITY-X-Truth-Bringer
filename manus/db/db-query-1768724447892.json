@@ -1,0 +1,9 @@
+{
+  "query": "UPDATE users \nSET \n  userTier = CASE \n    WHEN id <= 10 THEN 'founder_core'\n    WHEN id <= 20 THEN 'beta_tester'\n    ELSE 'regular'\n  END,\n  seatNumber = id,\n  lifetimeFree = CASE WHEN id <= 10 THEN TRUE ELSE FALSE END,\n  founderBadge = CASE \n    WHEN id <= 10 THEN CONCAT('Founder #', id)\n    WHEN id <= 20 THEN CONCAT('Beta Tester #', id)\n    ELSE NULL\n  END,\n  subscriptionTier = CASE \n    WHEN id <= 10 THEN 'founder'\n    WHEN id <= 20 THEN 'beta'\n    ELSE subscriptionTier\n  END\nWHERE id <= 20;",
+  "command": "mysql --batch --raw --column-names --default-character-set=utf8mb4 --host gateway02.us-east-1.prod.aws.tidbcloud.com --port 4000 --user 2i5TmjbdggBomPL.2dc94dae1d94 --database H2re5XMjr4CodhxEwdsje5 --execute UPDATE users \nSET \n  userTier = CASE \n    WHEN id <= 10 THEN 'founder_core'\n    WHEN id <= 20 THEN 'beta_tester'\n    ELSE 'regular'\n  END,\n  seatNumber = id,\n  lifetimeFree = CASE WHEN id <= 10 THEN TRUE ELSE FALSE END,\n  founderBadge = CASE \n    WHEN id <= 10 THEN CONCAT('Founder #', id)\n    WHEN id <= 20 THEN CONCAT('Beta Tester #', id)\n    ELSE NULL\n  END,\n  subscriptionTier = CASE \n    WHEN id <= 10 THEN 'founder'\n    WHEN id <= 20 THEN 'beta'\n    ELSE subscriptionTier\n  END\nWHERE id <= 20;",
+  "rows": [],
+  "messages": [],
+  "stdout": "",
+  "stderr": "",
+  "execution_time_ms": 118
+}

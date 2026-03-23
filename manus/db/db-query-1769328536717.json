@@ -1,0 +1,210 @@
+{
+  "query": "SELECT c.id, c.userId, c.name, c.code, c.semester, c.createdAt, u.email, u.name as userName FROM courses c LEFT JOIN users u ON c.userId = u.id ORDER BY c.createdAt DESC LIMIT 20;",
+  "command": "mysql --batch --raw --column-names --default-character-set=utf8mb4 --host gateway02.us-east-1.prod.aws.tidbcloud.com --port 4000 --user 2i5TmjbdggBomPL.2dc94dae1d94 --database H2re5XMjr4CodhxEwdsje5 --execute SELECT c.id, c.userId, c.name, c.code, c.semester, c.createdAt, u.email, u.name as userName FROM courses c LEFT JOIN users u ON c.userId = u.id ORDER BY c.createdAt DESC LIMIT 20;",
+  "rows": [
+    {
+      "id": "150012",
+      "userId": "2430035",
+      "name": "Biology 101",
+      "code": "BIO101",
+      "semester": "NULL",
+      "createdAt": "2026-01-21 07:15:09",
+      "email": "video@test.com",
+      "userName": "Video Test User"
+    },
+    {
+      "id": "150011",
+      "userId": "2430030",
+      "name": "Test Course",
+      "code": "TEST101",
+      "semester": "NULL",
+      "createdAt": "2026-01-21 07:15:08",
+      "email": "materialdetail@test.com",
+      "userName": "Material Detail Test User"
+    },
+    {
+      "id": "150009",
+      "userId": "2430026",
+      "name": "Biology 101",
+      "code": "BIO101",
+      "semester": "NULL",
+      "createdAt": "2026-01-21 07:14:48",
+      "email": "video@test.com",
+      "userName": "Video Test User"
+    },
+    {
+      "id": "150008",
+      "userId": "2430021",
+      "name": "Test Course",
+      "code": "TEST101",
+      "semester": "NULL",
+      "createdAt": "2026-01-21 07:14:46",
+      "email": "materialdetail@test.com",
+      "userName": "Material Detail Test User"
+    },
+    {
+      "id": "150006",
+      "userId": "2430017",
+      "name": "Biology 101",
+      "code": "BIO101",
+      "semester": "NULL",
+      "createdAt": "2026-01-21 07:14:27",
+      "email": "video@test.com",
+      "userName": "Video Test User"
+    },
+    {
+      "id": "150005",
+      "userId": "2430012",
+      "name": "Test Course",
+      "code": "TEST101",
+      "semester": "NULL",
+      "createdAt": "2026-01-21 07:14:26",
+      "email": "materialdetail@test.com",
+      "userName": "Material Detail Test User"
+    },
+    {
+      "id": "150003",
+      "userId": "2430006",
+      "name": "Biology 101",
+      "code": "BIO101",
+      "semester": "NULL",
+      "createdAt": "2026-01-21 07:14:04",
+      "email": "video@test.com",
+      "userName": "Video Test User"
+    },
+    {
+      "id": "150002",
+      "userId": "2430003",
+      "name": "Test Course",
+      "code": "TEST101",
+      "semester": "NULL",
+      "createdAt": "2026-01-21 07:14:03",
+      "email": "materialdetail@test.com",
+      "userName": "Material Detail Test User"
+    },
+    {
+      "id": "120007",
+      "userId": "2250157",
+      "name": "Biology 101",
+      "code": "BIO101",
+      "semester": "NULL",
+      "createdAt": "2026-01-20 23:14:50",
+      "email": "video@test.com",
+      "userName": "Video Test User"
+    },
+    {
+      "id": "120006",
+      "userId": "2250153",
+      "name": "Test Course",
+      "code": "TEST101",
+      "semester": "NULL",
+      "createdAt": "2026-01-20 23:14:48",
+      "email": "materialdetail@test.com",
+      "userName": "Material Detail Test User"
+    },
+    {
+      "id": "120004",
+      "userId": "2250015",
+      "name": "Biology 101",
+      "code": "BIO101",
+      "semester": "NULL",
+      "createdAt": "2026-01-20 23:00:55",
+      "email": "video@test.com",
+      "userName": "Video Test User"
+    },
+    {
+      "id": "120003",
+      "userId": "2250010",
+      "name": "Test Course",
+      "code": "TEST101",
+      "semester": "NULL",
+      "createdAt": "2026-01-20 23:00:54",
+      "email": "materialdetail@test.com",
+      "userName": "Material Detail Test User"
+    },
+    {
+      "id": "90010",
+      "userId": "2040038",
+      "name": "Biology 101",
+      "code": "BIO101",
+      "semester": "NULL",
+      "createdAt": "2026-01-18 20:32:57",
+      "email": "video@test.com",
+      "userName": "Video Test User"
+    },
+    {
+      "id": "90008",
+      "userId": "2040031",
+      "name": "Test Course",
+      "code": "TEST101",
+      "semester": "NULL",
+      "createdAt": "2026-01-18 20:32:56",
+      "email": "materialdetail@test.com",
+      "userName": "Material Detail Test User"
+    },
+    {
+      "id": "90007",
+      "userId": "2040030",
+      "name": "Biology 101",
+      "code": "BIO101",
+      "semester": "NULL",
+      "createdAt": "2026-01-18 20:32:47",
+      "email": "video@test.com",
+      "userName": "Video Test User"
+    },
+    {
+      "id": "90005",
+      "userId": "2040019",
+      "name": "Test Course",
+      "code": "TEST101",
+      "semester": "NULL",
+      "createdAt": "2026-01-18 20:26:12",
+      "email": "materialdetail@test.com",
+      "userName": "Material Detail Test User"
+    },
+    {
+      "id": "90003",
+      "userId": "2040011",
+      "name": "Test Course",
+      "code": "TEST101",
+      "semester": "NULL",
+      "createdAt": "2026-01-18 20:25:05",
+      "email": "materialdetail@test.com",
+      "userName": "Material Detail Test User"
+    },
+    {
+      "id": "90002",
+      "userId": "2040003",
+      "name": "Test Course",
+      "code": "TEST101",
+      "semester": "NULL",
+      "createdAt": "2026-01-18 20:23:23",
+      "email": "materialdetail@test.com",
+      "userName": "Material Detail Test User"
+    },
+    {
+      "id": "60001",
+      "userId": "1830001",
+      "name": "Computer Science 101",
+      "code": "CS101",
+      "semester": "Spring 2026",
+      "createdAt": "2026-01-18 08:25:08",
+      "email": "zooleous5@gmail.com",
+      "userName": "zooleous5"
+    },
+    {
+      "id": "30001",
+      "userId": "1110004",
+      "name": "Communication ",
+      "code": "",
+      "semester": "Spring 2026",
+      "createdAt": "2026-01-18 07:42:19",
+      "email": "zooleous1@gmail.com",
+      "userName": "Mr Kendrick"
+    }
+  ],
+  "messages": [],
+  "stdout": "id\tuserId\tname\tcode\tsemester\tcreatedAt\temail\tuserName\n150012\t2430035\tBiology 101\tBIO101\tNULL\t2026-01-21 07:15:09\tvideo@test.com\tVideo Test User\n150011\t2430030\tTest Course\tTEST101\tNULL\t2026-01-21 07:15:08\tmaterialdetail@test.com\tMaterial Detail Test User\n150009\t2430026\tBiology 101\tBIO101\tNULL\t2026-01-21 07:14:48\tvideo@test.com\tVideo Test User\n150008\t2430021\tTest Course\tTEST101\tNULL\t2026-01-21 07:14:46\tmaterialdetail@test.com\tMaterial Detail Test User\n150006\t2430017\tBiology 101\tBIO101\tNULL\t2026-01-21 07:14:27\tvideo@test.com\tVideo Test User\n150005\t2430012\tTest Course\tTEST101\tNULL\t2026-01-21 07:14:26\tmaterialdetail@test.com\tMaterial Detail Test User\n150003\t2430006\tBiology 101\tBIO101\tNULL\t2026-01-21 07:14:04\tvideo@test.com\tVideo Test User\n150002\t2430003\tTest Course\tTEST101\tNULL\t2026-01-21 07:14:03\tmaterialdetail@test.com\tMaterial Detail Test User\n120007\t2250157\tBiology 101\tBIO101\tNULL\t2026-01-20 23:14:50\tvideo@test.com\tVideo Test User\n120006\t2250153\tTest Course\tTEST101\tNULL\t2026-01-20 23:14:48\tmaterialdetail@test.com\tMaterial Detail Test User\n120004\t2250015\tBiology 101\tBIO101\tNULL\t2026-01-20 23:00:55\tvideo@test.com\tVideo Test User\n120003\t2250010\tTest Course\tTEST101\tNULL\t2026-01-20 23:00:54\tmaterialdetail@test.com\tMaterial Detail Test User\n90010\t2040038\tBiology 101\tBIO101\tNULL\t2026-01-18 20:32:57\tvideo@test.com\tVideo Test User\n90008\t2040031\tTest Course\tTEST101\tNULL\t2026-01-18 20:32:56\tmaterialdetail@test.com\tMaterial Detail Test User\n90007\t2040030\tBiology 101\tBIO101\tNULL\t2026-01-18 20:32:47\tvideo@test.com\tVideo Test User\n90005\t2040019\tTest Course\tTEST101\tNULL\t2026-01-18 20:26:12\tmaterialdetail@test.com\tMaterial Detail Test User\n90003\t2040011\tTest Course\tTEST101\tNULL\t2026-01-18 20:25:05\tmaterialdetail@test.com\tMaterial Detail Test User\n90002\t2040003\tTest Course\tTEST101\tNULL\t2026-01-18 20:23:23\tmaterialdetail@test.com\tMaterial Detail Test User\n60001\t1830001\tComputer Science 101\tCS101\tSpring 2026\t2026-01-18 08:25:08\tzooleous5@gmail.com\tzooleous5\n30001\t1110004\tCommunication \t\tSpring 2026\t2026-01-18 07:42:19\tzooleous1@gmail.com\tMr Kendrick\n",
+  "stderr": "",
+  "execution_time_ms": 354
+}

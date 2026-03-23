@@ -1,0 +1,13 @@
+{
+  "query": "\n-- Get the user ID first\nSET @userId = (SELECT id FROM users WHERE email = 'zooleous@hotmail.com');\n\n-- Delete associated data\nDELETE FROM flashcards WHERE userId = @userId;\nDELETE FROM material_questions WHERE userId = @userId;\nDELETE FROM study_materials WHERE userId = @userId;\nDELETE FROM courses WHERE userId = @userId;\nDELETE FROM weakness_analyses WHERE userId = @userId;\n\n-- Delete the user\nDELETE FROM users WHERE email = 'zooleous@hotmail.com';\n\n-- Show result\nSELECT 'User deleted, seat freed' as result;\n",
+  "command": "mysql --batch --raw --column-names --default-character-set=utf8mb4 --host gateway02.us-east-1.prod.aws.tidbcloud.com --port 4000 --user 2i5TmjbdggBomPL.2dc94dae1d94 --database H2re5XMjr4CodhxEwdsje5 --execute \n-- Get the user ID first\nSET @userId = (SELECT id FROM users WHERE email = 'zooleous@hotmail.com');\n\n-- Delete associated data\nDELETE FROM flashcards WHERE userId = @userId;\nDELETE FROM material_questions WHERE userId = @userId;\nDELETE FROM study_materials WHERE userId = @userId;\nDELETE FROM courses WHERE userId = @userId;\nDELETE FROM weakness_analyses WHERE userId = @userId;\n\n-- Delete the user\nDELETE FROM users WHERE email = 'zooleous@hotmail.com';\n\n-- Show result\nSELECT 'User deleted, seat freed' as result;\n",
+  "rows": [
+    {
+      "result": "User deleted, seat freed"
+    }
+  ],
+  "messages": [],
+  "stdout": "result\nUser deleted, seat freed\n",
+  "stderr": "",
+  "execution_time_ms": 717
+}

@@ -1,0 +1,9 @@
+{
+  "query": "UPDATE users \nSET \n  userTier = 'regular',\n  seatNumber = NULL,\n  lifetimeFree = FALSE,\n  founderBadge = NULL,\n  subscriptionTier = 'free',\n  seatType = NULL;",
+  "command": "mysql --batch --raw --column-names --default-character-set=utf8mb4 --host gateway02.us-east-1.prod.aws.tidbcloud.com --port 4000 --user 2i5TmjbdggBomPL.2dc94dae1d94 --database H2re5XMjr4CodhxEwdsje5 --execute UPDATE users \nSET \n  userTier = 'regular',\n  seatNumber = NULL,\n  lifetimeFree = FALSE,\n  founderBadge = NULL,\n  subscriptionTier = 'free',\n  seatType = NULL;",
+  "rows": [],
+  "messages": [],
+  "stdout": "",
+  "stderr": "",
+  "execution_time_ms": 201
+}

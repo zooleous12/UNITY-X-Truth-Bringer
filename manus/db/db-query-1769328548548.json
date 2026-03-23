@@ -1,0 +1,28 @@
+{
+  "query": "SELECT u.id, u.email, u.name, COUNT(c.id) as courseCount FROM users u LEFT JOIN courses c ON u.id = c.userId WHERE u.email LIKE '%zooloeus%' OR u.email LIKE '%zooleous%' GROUP BY u.id, u.email, u.name;",
+  "command": "mysql --batch --raw --column-names --default-character-set=utf8mb4 --host gateway02.us-east-1.prod.aws.tidbcloud.com --port 4000 --user 2i5TmjbdggBomPL.2dc94dae1d94 --database H2re5XMjr4CodhxEwdsje5 --execute SELECT u.id, u.email, u.name, COUNT(c.id) as courseCount FROM users u LEFT JOIN courses c ON u.id = c.userId WHERE u.email LIKE '%zooloeus%' OR u.email LIKE '%zooleous%' GROUP BY u.id, u.email, u.name;",
+  "rows": [
+    {
+      "id": "1830001",
+      "email": "zooleous5@gmail.com",
+      "name": "zooleous5",
+      "courseCount": "1"
+    },
+    {
+      "id": "1110004",
+      "email": "zooleous1@gmail.com",
+      "name": "Mr Kendrick",
+      "courseCount": "1"
+    },
+    {
+      "id": "1",
+      "email": "zooleous@hotmail.com",
+      "name": "Charles Kendrick",
+      "courseCount": "0"
+    }
+  ],
+  "messages": [],
+  "stdout": "id\temail\tname\tcourseCount\n1830001\tzooleous5@gmail.com\tzooleous5\t1\n1110004\tzooleous1@gmail.com\tMr Kendrick\t1\n1\tzooleous@hotmail.com\tCharles Kendrick\t0\n",
+  "stderr": "",
+  "execution_time_ms": 348
+}

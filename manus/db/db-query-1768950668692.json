@@ -1,0 +1,9 @@
+{
+  "query": "CREATE TABLE IF NOT EXISTS `material_questions` (\n  `id` int AUTO_INCREMENT NOT NULL,\n  `materialId` int NOT NULL,\n  `userId` int NOT NULL,\n  `question` text NOT NULL,\n  `answer` text NOT NULL,\n  `tokensUsed` int,\n  `responseTime` int,\n  `createdAt` timestamp NOT NULL DEFAULT CURRENT_TIMESTAMP,\n  CONSTRAINT `material_questions_id` PRIMARY KEY(`id`),\n  INDEX `idx_material_questions_materialId` (`materialId`),\n  INDEX `idx_material_questions_userId` (`userId`)\n);",
+  "command": "mysql --batch --raw --column-names --default-character-set=utf8mb4 --host gateway02.us-east-1.prod.aws.tidbcloud.com --port 4000 --user 2i5TmjbdggBomPL.2dc94dae1d94 --database H2re5XMjr4CodhxEwdsje5 --execute CREATE TABLE IF NOT EXISTS `material_questions` (\n  `id` int AUTO_INCREMENT NOT NULL,\n  `materialId` int NOT NULL,\n  `userId` int NOT NULL,\n  `question` text NOT NULL,\n  `answer` text NOT NULL,\n  `tokensUsed` int,\n  `responseTime` int,\n  `createdAt` timestamp NOT NULL DEFAULT CURRENT_TIMESTAMP,\n  CONSTRAINT `material_questions_id` PRIMARY KEY(`id`),\n  INDEX `idx_material_questions_materialId` (`materialId`),\n  INDEX `idx_material_questions_userId` (`userId`)\n);",
+  "rows": [],
+  "messages": [],
+  "stdout": "",
+  "stderr": "",
+  "execution_time_ms": 224
+}

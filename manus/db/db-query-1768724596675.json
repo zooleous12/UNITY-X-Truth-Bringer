@@ -1,0 +1,40 @@
+{
+  "query": "SELECT id, email, name, userTier, seatNumber, founderBadge, seatType, lifetimeFree \nFROM users \nWHERE userTier = 'founder_core' \nORDER BY seatNumber;",
+  "command": "mysql --batch --raw --column-names --default-character-set=utf8mb4 --host gateway02.us-east-1.prod.aws.tidbcloud.com --port 4000 --user 2i5TmjbdggBomPL.2dc94dae1d94 --database H2re5XMjr4CodhxEwdsje5 --execute SELECT id, email, name, userTier, seatNumber, founderBadge, seatType, lifetimeFree \nFROM users \nWHERE userTier = 'founder_core' \nORDER BY seatNumber;",
+  "rows": [
+    {
+      "id": "1110004",
+      "email": "zooleous1@gmail.com",
+      "name": "Mr Kendrick",
+      "userTier": "founder_core",
+      "seatNumber": "1",
+      "founderBadge": "Founder #1",
+      "seatType": "reserved_family",
+      "lifetimeFree": "1"
+    },
+    {
+      "id": "1",
+      "email": "zooleous@hotmail.com",
+      "name": "Charles Kendrick",
+      "userTier": "founder_core",
+      "seatNumber": "2",
+      "founderBadge": "Founder #2",
+      "seatType": "reserved_family",
+      "lifetimeFree": "1"
+    },
+    {
+      "id": "1830001",
+      "email": "zooleous5@gmail.com",
+      "name": "zooleous5",
+      "userTier": "founder_core",
+      "seatNumber": "4",
+      "founderBadge": "Founder #4",
+      "seatType": "reserved_family",
+      "lifetimeFree": "1"
+    }
+  ],
+  "messages": [],
+  "stdout": "id\temail\tname\tuserTier\tseatNumber\tfounderBadge\tseatType\tlifetimeFree\n1110004\tzooleous1@gmail.com\tMr Kendrick\tfounder_core\t1\tFounder #1\treserved_family\t1\n1\tzooleous@hotmail.com\tCharles Kendrick\tfounder_core\t2\tFounder #2\treserved_family\t1\n1830001\tzooleous5@gmail.com\tzooleous5\tfounder_core\t4\tFounder #4\treserved_family\t1\n",
+  "stderr": "",
+  "execution_time_ms": 67
+}

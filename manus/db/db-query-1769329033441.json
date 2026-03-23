@@ -1,0 +1,13 @@
+{
+  "query": "\nSELECT COUNT(*) as total_chinese_users FROM users \nWHERE \n  email LIKE '%.cn' \n  OR email LIKE '%@qq.com' \n  OR email LIKE '%@163.com' \n  OR email LIKE '%@126.com'\n  OR email LIKE '%@sina.com'\n  OR name REGEXP '[\\\\u4e00-\\\\u9fa5]';\n",
+  "command": "mysql --batch --raw --column-names --default-character-set=utf8mb4 --host gateway02.us-east-1.prod.aws.tidbcloud.com --port 4000 --user 2i5TmjbdggBomPL.2dc94dae1d94 --database H2re5XMjr4CodhxEwdsje5 --execute \nSELECT COUNT(*) as total_chinese_users FROM users \nWHERE \n  email LIKE '%.cn' \n  OR email LIKE '%@qq.com' \n  OR email LIKE '%@163.com' \n  OR email LIKE '%@126.com'\n  OR email LIKE '%@sina.com'\n  OR name REGEXP '[\\\\u4e00-\\\\u9fa5]';\n",
+  "rows": [
+    {
+      "total_chinese_users": "0"
+    }
+  ],
+  "messages": [],
+  "stdout": "total_chinese_users\n0\n",
+  "stderr": "",
+  "execution_time_ms": 355
+}

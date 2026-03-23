@@ -1,0 +1,9 @@
+{
+  "query": "SELECT c.* FROM courses c JOIN users u ON c.userId = u.id WHERE u.email LIKE '%@hotmail%' ORDER BY c.createdAt DESC;",
+  "command": "mysql --batch --raw --column-names --default-character-set=utf8mb4 --host gateway02.us-east-1.prod.aws.tidbcloud.com --port 4000 --user 2i5TmjbdggBomPL.2dc94dae1d94 --database H2re5XMjr4CodhxEwdsje5 --execute SELECT c.* FROM courses c JOIN users u ON c.userId = u.id WHERE u.email LIKE '%@hotmail%' ORDER BY c.createdAt DESC;",
+  "rows": [],
+  "messages": [],
+  "stdout": "",
+  "stderr": "",
+  "execution_time_ms": 357
+}

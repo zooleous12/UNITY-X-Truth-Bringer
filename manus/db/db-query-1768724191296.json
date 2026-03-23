@@ -1,0 +1,150 @@
+{
+  "query": "SELECT id, email, name, role, createdAt FROM users ORDER BY createdAt ASC LIMIT 20;",
+  "command": "mysql --batch --raw --column-names --default-character-set=utf8mb4 --host gateway02.us-east-1.prod.aws.tidbcloud.com --port 4000 --user 2i5TmjbdggBomPL.2dc94dae1d94 --database H2re5XMjr4CodhxEwdsje5 --execute SELECT id, email, name, role, createdAt FROM users ORDER BY createdAt ASC LIMIT 20;",
+  "rows": [
+    {
+      "id": "1",
+      "email": "zooleous@hotmail.com",
+      "name": "Charles Kendrick",
+      "role": "admin",
+      "createdAt": "2026-01-01 23:06:33"
+    },
+    {
+      "id": "1110004",
+      "email": "zooleous1@gmail.com",
+      "name": "Mr Kendrick",
+      "role": "user",
+      "createdAt": "2026-01-09 08:18:59"
+    },
+    {
+      "id": "1680002",
+      "email": "dashboard@test.com",
+      "name": "Dashboard Test User",
+      "role": "user",
+      "createdAt": "2026-01-18 04:49:53"
+    },
+    {
+      "id": "1680003",
+      "email": "uploads@test.com",
+      "name": "Uploads Test User",
+      "role": "user",
+      "createdAt": "2026-01-18 04:50:18"
+    },
+    {
+      "id": "1680005",
+      "email": "empty@test.com",
+      "name": "Empty User",
+      "role": "user",
+      "createdAt": "2026-01-18 04:50:18"
+    },
+    {
+      "id": "1680004",
+      "email": "other@test.com",
+      "name": "Other User",
+      "role": "user",
+      "createdAt": "2026-01-18 04:50:18"
+    },
+    {
+      "id": "1710026",
+      "email": "courses@test.com",
+      "name": "Courses Test User",
+      "role": "user",
+      "createdAt": "2026-01-18 05:17:38"
+    },
+    {
+      "id": "1710044",
+      "email": "other@test.com",
+      "name": "Other User",
+      "role": "user",
+      "createdAt": "2026-01-18 05:23:22"
+    },
+    {
+      "id": "1710043",
+      "email": "materialdetail@test.com",
+      "name": "Material Detail Test User",
+      "role": "user",
+      "createdAt": "2026-01-18 05:23:22"
+    },
+    {
+      "id": "1710058",
+      "email": "flashcards@test.com",
+      "name": "Flashcards Test User",
+      "role": "user",
+      "createdAt": "2026-01-18 05:29:49"
+    },
+    {
+      "id": "1710059",
+      "email": "flashcards@test.com",
+      "name": "Flashcards Test User",
+      "role": "user",
+      "createdAt": "2026-01-18 05:30:08"
+    },
+    {
+      "id": "1710072",
+      "email": "flashcards@test.com",
+      "name": "Flashcards Test User",
+      "role": "user",
+      "createdAt": "2026-01-18 05:42:05"
+    },
+    {
+      "id": "1710074",
+      "email": "other@test.com",
+      "name": "Other User",
+      "role": "user",
+      "createdAt": "2026-01-18 05:42:05"
+    },
+    {
+      "id": "1710075",
+      "email": "dashboard@test.com",
+      "name": "Dashboard Test User",
+      "role": "user",
+      "createdAt": "2026-01-18 05:42:05"
+    },
+    {
+      "id": "1710068",
+      "email": "uploads@test.com",
+      "name": "Uploads Test User",
+      "role": "user",
+      "createdAt": "2026-01-18 05:42:05"
+    },
+    {
+      "id": "1710071",
+      "email": "other@test.com",
+      "name": "Other User",
+      "role": "user",
+      "createdAt": "2026-01-18 05:42:05"
+    },
+    {
+      "id": "1710073",
+      "email": "empty@test.com",
+      "name": "Empty User",
+      "role": "user",
+      "createdAt": "2026-01-18 05:42:05"
+    },
+    {
+      "id": "1710069",
+      "email": "courses@test.com",
+      "name": "Courses Test User",
+      "role": "user",
+      "createdAt": "2026-01-18 05:42:05"
+    },
+    {
+      "id": "1710070",
+      "email": "materialdetail@test.com",
+      "name": "Material Detail Test User",
+      "role": "user",
+      "createdAt": "2026-01-18 05:42:05"
+    },
+    {
+      "id": "1830001",
+      "email": "zooleous5@gmail.com",
+      "name": "zooleous5",
+      "role": "user",
+      "createdAt": "2026-01-18 08:07:58"
+    }
+  ],
+  "messages": [],
+  "stdout": "id\temail\tname\trole\tcreatedAt\n1\tzooleous@hotmail.com\tCharles Kendrick\tadmin\t2026-01-01 23:06:33\n1110004\tzooleous1@gmail.com\tMr Kendrick\tuser\t2026-01-09 08:18:59\n1680002\tdashboard@test.com\tDashboard Test User\tuser\t2026-01-18 04:49:53\n1680003\tuploads@test.com\tUploads Test User\tuser\t2026-01-18 04:50:18\n1680005\tempty@test.com\tEmpty User\tuser\t2026-01-18 04:50:18\n1680004\tother@test.com\tOther User\tuser\t2026-01-18 04:50:18\n1710026\tcourses@test.com\tCourses Test User\tuser\t2026-01-18 05:17:38\n1710044\tother@test.com\tOther User\tuser\t2026-01-18 05:23:22\n1710043\tmaterialdetail@test.com\tMaterial Detail Test User\tuser\t2026-01-18 05:23:22\n1710058\tflashcards@test.com\tFlashcards Test User\tuser\t2026-01-18 05:29:49\n1710059\tflashcards@test.com\tFlashcards Test User\tuser\t2026-01-18 05:30:08\n1710072\tflashcards@test.com\tFlashcards Test User\tuser\t2026-01-18 05:42:05\n1710074\tother@test.com\tOther User\tuser\t2026-01-18 05:42:05\n1710075\tdashboard@test.com\tDashboard Test User\tuser\t2026-01-18 05:42:05\n1710068\tuploads@test.com\tUploads Test User\tuser\t2026-01-18 05:42:05\n1710071\tother@test.com\tOther User\tuser\t2026-01-18 05:42:05\n1710073\tempty@test.com\tEmpty User\tuser\t2026-01-18 05:42:05\n1710069\tcourses@test.com\tCourses Test User\tuser\t2026-01-18 05:42:05\n1710070\tmaterialdetail@test.com\tMaterial Detail Test User\tuser\t2026-01-18 05:42:05\n1830001\tzooleous5@gmail.com\tzooleous5\tuser\t2026-01-18 08:07:58\n",
+  "stderr": "",
+  "execution_time_ms": 86
+}

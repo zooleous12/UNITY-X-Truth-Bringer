@@ -1,0 +1,9 @@
+{
+  "query": "UPDATE users \nSET \n  userTier = 'founder_core',\n  seatNumber = CASE \n    WHEN email = 'zooleous1@gmail.com' THEN 1\n    WHEN email = 'zooleous@hotmail.com' THEN 2\n    WHEN email = 'cckendrick@ksu.edu' THEN 3\n    WHEN email = 'zooleous5@gmail.com' THEN 4\n  END,\n  lifetimeFree = TRUE,\n  founderBadge = CASE \n    WHEN email = 'zooleous1@gmail.com' THEN 'Founder #1'\n    WHEN email = 'zooleous@hotmail.com' THEN 'Founder #2'\n    WHEN email = 'cckendrick@ksu.edu' THEN 'Founder #3'\n    WHEN email = 'zooleous5@gmail.com' THEN 'Founder #4'\n  END,\n  subscriptionTier = 'founder',\n  seatType = 'reserved_family'\nWHERE email IN ('zooleous1@gmail.com', 'zooleous@hotmail.com', 'cckendrick@ksu.edu', 'zooleous5@gmail.com');",
+  "command": "mysql --batch --raw --column-names --default-character-set=utf8mb4 --host gateway02.us-east-1.prod.aws.tidbcloud.com --port 4000 --user 2i5TmjbdggBomPL.2dc94dae1d94 --database H2re5XMjr4CodhxEwdsje5 --execute UPDATE users \nSET \n  userTier = 'founder_core',\n  seatNumber = CASE \n    WHEN email = 'zooleous1@gmail.com' THEN 1\n    WHEN email = 'zooleous@hotmail.com' THEN 2\n    WHEN email = 'cckendrick@ksu.edu' THEN 3\n    WHEN email = 'zooleous5@gmail.com' THEN 4\n  END,\n  lifetimeFree = TRUE,\n  founderBadge = CASE \n    WHEN email = 'zooleous1@gmail.com' THEN 'Founder #1'\n    WHEN email = 'zooleous@hotmail.com' THEN 'Founder #2'\n    WHEN email = 'cckendrick@ksu.edu' THEN 'Founder #3'\n    WHEN email = 'zooleous5@gmail.com' THEN 'Founder #4'\n  END,\n  subscriptionTier = 'founder',\n  seatType = 'reserved_family'\nWHERE email IN ('zooleous1@gmail.com', 'zooleous@hotmail.com', 'cckendrick@ksu.edu', 'zooleous5@gmail.com');",
+  "rows": [],
+  "messages": [],
+  "stdout": "",
+  "stderr": "",
+  "execution_time_ms": 58
+}

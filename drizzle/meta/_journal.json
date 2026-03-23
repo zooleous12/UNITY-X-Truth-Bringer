@@ -1,0 +1,62 @@
+{
+  "version": "7",
+  "dialect": "mysql",
+  "entries": [
+    {
+      "idx": 0,
+      "version": "5",
+      "when": 1767295708624,
+      "tag": "0000_little_cassandra_nova",
+      "breakpoints": true
+    },
+    {
+      "idx": 1,
+      "version": "5",
+      "when": 1767295864578,
+      "tag": "0001_wet_millenium_guard",
+      "breakpoints": true
+    },
+    {
+      "idx": 2,
+      "version": "5",
+      "when": 1768039337995,
+      "tag": "0002_colossal_kingpin",
+      "breakpoints": true
+    },
+    {
+      "idx": 3,
+      "version": "5",
+      "when": 1768713246337,
+      "tag": "0003_secret_the_stranger",
+      "breakpoints": true
+    },
+    {
+      "idx": 4,
+      "version": "5",
+      "when": 1768734630527,
+      "tag": "0004_supreme_richard_fisk",
+      "breakpoints": true
+    },
+    {
+      "idx": 5,
+      "version": "5",
+      "when": 1768734651083,
+      "tag": "0005_careless_human_cannonball",
+      "breakpoints": true
+    },
+    {
+      "idx": 6,
+      "version": "5",
+      "when": 1768734684409,
+      "tag": "0006_dazzling_jackpot",
+      "breakpoints": true
+    },
+    {
+      "idx": 7,
+      "version": "5",
+      "when": 1768950649734,
+      "tag": "0007_cold_the_captain",
+      "breakpoints": true
+    }
+  ]
+}

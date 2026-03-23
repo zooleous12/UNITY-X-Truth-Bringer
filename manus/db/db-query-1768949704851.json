@@ -1,0 +1,80 @@
+{
+  "query": "SELECT id, title, type, status, createdAt FROM study_materials ORDER BY createdAt DESC LIMIT 10;",
+  "command": "mysql --batch --raw --column-names --default-character-set=utf8mb4 --host gateway02.us-east-1.prod.aws.tidbcloud.com --port 4000 --user 2i5TmjbdggBomPL.2dc94dae1d94 --database H2re5XMjr4CodhxEwdsje5 --execute SELECT id, title, type, status, createdAt FROM study_materials ORDER BY createdAt DESC LIMIT 10;",
+  "rows": [
+    {
+      "id": "270001",
+      "title": "Lecture 1 - Cell Structure",
+      "type": "audio",
+      "status": "completed",
+      "createdAt": "2026-01-20 22:54:11"
+    },
+    {
+      "id": "240042",
+      "title": "Video Lecture",
+      "type": "video",
+      "status": "pending",
+      "createdAt": "2026-01-18 20:32:57"
+    },
+    {
+      "id": "240041",
+      "title": "Lecture Video",
+      "type": "video",
+      "status": "pending",
+      "createdAt": "2026-01-18 20:32:57"
+    },
+    {
+      "id": "240038",
+      "title": "Biology 101 Lecture",
+      "type": "video",
+      "status": "pending",
+      "createdAt": "2026-01-18 20:32:57"
+    },
+    {
+      "id": "240033",
+      "title": "Lecture 1 - Introduction",
+      "type": "audio",
+      "status": "completed",
+      "createdAt": "2026-01-18 20:32:56"
+    },
+    {
+      "id": "240034",
+      "title": "Chapter 3 Notes",
+      "type": "pdf",
+      "status": "processing",
+      "createdAt": "2026-01-18 20:32:56"
+    },
+    {
+      "id": "240031",
+      "title": "Test Material for Flashcards",
+      "type": "audio",
+      "status": "completed",
+      "createdAt": "2026-01-18 20:32:56"
+    },
+    {
+      "id": "240035",
+      "title": "Unassigned Material",
+      "type": "pdf",
+      "status": "completed",
+      "createdAt": "2026-01-18 20:32:56"
+    },
+    {
+      "id": "240032",
+      "title": "Test Lecture - Introduction",
+      "type": "audio",
+      "status": "completed",
+      "createdAt": "2026-01-18 20:32:56"
+    },
+    {
+      "id": "240036",
+      "title": "Other User's Lecture",
+      "type": "audio",
+      "status": "completed",
+      "createdAt": "2026-01-18 20:32:56"
+    }
+  ],
+  "messages": [],
+  "stdout": "id\ttitle\ttype\tstatus\tcreatedAt\n270001\tLecture 1 - Cell Structure\taudio\tcompleted\t2026-01-20 22:54:11\n240042\tVideo Lecture\tvideo\tpending\t2026-01-18 20:32:57\n240041\tLecture Video\tvideo\tpending\t2026-01-18 20:32:57\n240038\tBiology 101 Lecture\tvideo\tpending\t2026-01-18 20:32:57\n240033\tLecture 1 - Introduction\taudio\tcompleted\t2026-01-18 20:32:56\n240034\tChapter 3 Notes\tpdf\tprocessing\t2026-01-18 20:32:56\n240031\tTest Material for Flashcards\taudio\tcompleted\t2026-01-18 20:32:56\n240035\tUnassigned Material\tpdf\tcompleted\t2026-01-18 20:32:56\n240032\tTest Lecture - Introduction\taudio\tcompleted\t2026-01-18 20:32:56\n240036\tOther User's Lecture\taudio\tcompleted\t2026-01-18 20:32:56\n",
+  "stderr": "",
+  "execution_time_ms": 53
+}
