@@ -1,0 +1,2 @@
+# Only non-stdlib dependency required for advanced context encoding/decoding
+Pillow>=9.0.0
