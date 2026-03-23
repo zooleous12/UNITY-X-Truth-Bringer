@@ -1,0 +1,60 @@
+Perfect. Here’s a diagnostic PowerShell script you can save and run. It will check ADB, Scrcpy, your PATH, device connectivity, and shortcut presence, then print a clean PASS/FAIL report.
+
+🔧 Script: Scrcpy-Diagnostic.ps1
+Write-Host "=== Scrcpy/ADB Diagnostic Report ===`n"
+
+# Check ADB
+try {
+    $adbVersion = adb version
+    Write-Host "✅ ADB found: $adbVersion"
+} catch {
+    Write-Host "❌ ADB not found in PATH"
+}
+
+# Check Scrcpy
+try {
+    $scrcpyVersion = scrcpy --version
+    Write-Host "✅ Scrcpy found: $scrcpyVersion"
+} catch {
+    Write-Host "❌ Scrcpy not found in PATH"
+}
+
+# Check Device Connection
+try {
+    $devices = adb devices
+    if ($devices -match "device`r?`n") {
+        Write-Host "✅ Device connected via ADB"
+    } else {
+        Write-Host "⚠️ No device detected. Check USB/Wi-Fi connection."
+    }
+} catch {
+    Write-Host "❌ Could not run adb devices"
+}
+
+# Check Desktop Shortcut
+$shortcutPath = "$env:USERPROFILE\Desktop\Scrcpy Wireless.lnk"
+if (Test-Path $shortcutPath) {
+    Write-Host "✅ Desktop shortcut exists: $shortcutPath"
+} else {
+    Write-Host "⚠️ No desktop shortcut found"
+}
+
+Write-Host "`n=== Diagnostic Complete ==="
+
+
+
+▶️ How to Run
+- Open Notepad.
+- Paste the script above.
+- Save as:
+C:\Scripts\Scrcpy-Diagnostic.ps1
+- Open PowerShell as Administrator.
+- Run:
+Set-ExecutionPolicy RemoteSigned -Scope CurrentUser
+cd C:\Scripts
+.\Scrcpy-Diagnostic.ps1
+
+
+
+This will give you a clear report of what’s working and what’s missing.
+👉 Do you want me to also make a .bat wrapper for this diagnostic, so you can just double‑click it like your setup script?

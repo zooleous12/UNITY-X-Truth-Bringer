@@ -1,0 +1,3 @@
+/home/ubuntu/lecture-me-pro/server/_core/map.ts
+/home/ubuntu/lecture-me-pro/dist/public/assets/index-PmaYOtvv.js
+/home/ubuntu/lecture-me-pro/dist/public/index.html

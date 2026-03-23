@@ -1,0 +1,80 @@
+[2026-02-23T23:09:28.164Z] Starting dev server with command: pnpm run dev
+[2026-02-23T23:09:28.864Z] 
+[2026-02-23T23:09:28.864Z] > lecture-me-pro@1.0.0 dev /home/ubuntu/lecture-me-pro
+[2026-02-23T23:09:28.865Z] > NODE_ENV=development tsx watch server/_core/index.ts
+[2026-02-23T23:09:28.865Z] 
+[2026-02-23T23:09:30.439Z] [OAuth] Initialized with baseURL: https://api.manus.im
+[2026-02-23T23:09:30.788Z] Server running on http://localhost:3000/
+[2026-02-23T23:11:17.589Z] 6:11:17 PM [vite] (client) page reload index.html
+[2026-02-23T23:11:17.606Z] 6:11:17 PM [vite] (client) page reload public/offline.html
+[2026-02-23T23:11:17.800Z] 6:11:17 PM [tsx] change in ./server/_core/vite.ts Restarting...
+[2026-02-23T23:11:18.118Z] c
+[2026-02-23T23:11:18.119Z] node:internal/modules/run_main:122
+[2026-02-23T23:11:18.119Z] triggerUncaughtException(
+[2026-02-23T23:11:18.119Z] ^
+[2026-02-23T23:11:18.120Z] Error [ERR_MODULE_NOT_FOUND]: Cannot find package 'stripe' imported from /home/ubuntu/lecture-me-pro/server/routers/stripe.ts
+[2026-02-23T23:11:18.120Z] at packageResolve (node:internal/modules/esm/resolve:857:9)
+[2026-02-23T23:11:18.121Z] at moduleResolve (node:internal/modules/esm/resolve:926:18)
+[2026-02-23T23:11:18.121Z] at defaultResolve (node:internal/modules/esm/resolve:1056:11)
+[2026-02-23T23:11:18.121Z] at nextResolve (node:internal/modules/esm/hooks:748:28)
+[2026-02-23T23:11:18.121Z] at resolveBase (file:///home/ubuntu/lecture-me-pro/node_modules/.pnpm/tsx@4.20.6/node_modules/tsx/dist/esm/index.mjs?1771888277915:2:3744)
+[2026-02-23T23:11:18.122Z] at resolveDirectory (file:///home/ubuntu/lecture-me-pro/node_modules/.pnpm/tsx@4.20.6/node_modules/tsx/dist/esm/index.mjs?1771888277915:2:4243)
+[2026-02-23T23:11:18.122Z] at resolveTsPaths (file:///home/ubuntu/lecture-me-pro/node_modules/.pnpm/tsx@4.20.6/node_modules/tsx/dist/esm/index.mjs?1771888277915:2:4984)
+[2026-02-23T23:11:18.122Z] at async resolve (file:///home/ubuntu/lecture-me-pro/node_modules/.pnpm/tsx@4.20.6/node_modules/tsx/dist/esm/index.mjs?1771888277915:2:5355)
+[2026-02-23T23:11:18.122Z] at async nextResolve (node:internal/modules/esm/hooks:748:22)
+[2026-02-23T23:11:18.123Z] at async Hooks.resolve (node:internal/modules/esm/hooks:240:24) {
+[2026-02-23T23:11:18.123Z] code: 'ERR_MODULE_NOT_FOUND'
+[2026-02-23T23:11:18.123Z] }
+[2026-02-23T23:11:18.123Z] 
+[2026-02-23T23:11:18.123Z] Node.js v22.13.0
+[2026-02-23T23:12:01.249Z] 6:12:01 PM [tsx] change in ./server/routers/stripe.ts Rerunning...
+[2026-02-23T23:12:02.900Z] c[OAuth] Initialized with baseURL: https://api.manus.im
+[2026-02-23T23:12:03.215Z] 6:12:03 PM [vite] (client) Re-optimizing dependencies because lockfile has changed
+[2026-02-23T23:12:03.263Z] Server running on http://localhost:3000/
+[2026-02-23T23:12:13.719Z] 6:12:13 PM [tsx] change in ./server/routers/stripe.ts Restarting...
+[2026-02-23T23:12:15.295Z] c[OAuth] Initialized with baseURL: https://api.manus.im
+[2026-02-23T23:12:15.574Z] Server running on http://localhost:3000/
+[2026-02-23T23:12:17.014Z] Dev server process group stopped
+[2026-02-23T23:12:17.016Z] ELIFECYCLE  Command failed.
+[2026-02-23T23:12:17.057Z] Dev server exited with code -15
+[2026-02-23T23:12:20.022Z] Starting dev server with command: pnpm run dev
+[2026-02-23T23:12:20.592Z] 
+[2026-02-23T23:12:20.592Z] > lecture-me-pro@1.0.0 dev /home/ubuntu/lecture-me-pro
+[2026-02-23T23:12:20.593Z] > NODE_ENV=development tsx watch server/_core/index.ts
+[2026-02-23T23:12:20.593Z] 
+[2026-02-23T23:12:22.071Z] [OAuth] Initialized with baseURL: https://api.manus.im
+[2026-02-23T23:12:22.330Z] Server running on http://localhost:3000/
+[2026-02-23T23:12:57.523Z] [baseline-browser-mapping] The data in this module is over two months old.  To ensure accurate Baseline data, please update: `npm i baseline-browser-mapping@latest -D`
+[2026-02-23T23:15:06.181Z] 6:15:06 PM [vite] (client) hmr update /src/index.css
+[2026-02-23T23:15:19.196Z] 6:15:19 PM [vite] (client) page reload index.html
+[2026-02-23T23:15:30.558Z] 6:15:30 PM [vite] (client) hmr update /src/components/InstallPWA.tsx, /src/index.css
+[2026-02-23T23:17:14.539Z] 6:17:14 PM [vite] (client) hmr update /src/pages/Home.tsx, /src/index.css
+[2026-02-23T23:17:34.087Z] 6:17:34 PM [vite] (client) hmr update /src/pages/Dashboard.tsx, /src/index.css
+[2026-02-23T23:17:44.480Z] 6:17:44 PM [vite] (client) hmr update /src/pages/Pricing.tsx, /src/index.css
+[2026-02-23T23:17:53.280Z] 6:17:53 PM [vite] (client) hmr update /src/pages/Home.tsx, /src/index.css
+[2026-02-23T23:18:53.997Z] Dev server process group stopped
+[2026-02-23T23:18:54.000Z] ELIFECYCLE  Command failed.
+[2026-02-23T23:18:54.033Z] Dev server exited with code -15
+[2026-02-23T23:18:57.002Z] Starting dev server with command: pnpm run dev
+[2026-02-23T23:18:57.545Z] 
+[2026-02-23T23:18:57.546Z] > lecture-me-pro@1.0.0 dev /home/ubuntu/lecture-me-pro
+[2026-02-23T23:18:57.546Z] > NODE_ENV=development tsx watch server/_core/index.ts
+[2026-02-23T23:18:57.547Z] 
+[2026-02-23T23:18:59.067Z] [OAuth] Initialized with baseURL: https://api.manus.im
+[2026-02-23T23:18:59.331Z] Server running on http://localhost:3000/
+[2026-02-23T23:19:14.305Z] [baseline-browser-mapping] The data in this module is over two months old.  To ensure accurate Baseline data, please update: `npm i baseline-browser-mapping@latest -D`
+[2026-02-23T23:19:16.462Z] 6:19:16 PM [vite] (client) ✨ new dependencies optimized: framer-motion
+[2026-02-23T23:19:16.463Z] 6:19:16 PM [vite] (client) ✨ optimized dependencies changed. reloading
+[2026-02-23T23:19:40.783Z] 6:19:40 PM [vite] (client) hmr update /src/pages/Home.tsx, /src/index.css
+[2026-02-23T23:20:13.788Z] 6:20:13 PM [vite] (client) hmr update /src/pages/Home.tsx, /src/index.css
+[2026-02-24T11:41:43.797Z] 6:41:43 AM [vite] (client) page reload src/main.tsx
+[2026-02-25T13:23:43.284Z] [Auth] Missing session cookie
+[2026-02-25T13:23:44.532Z] [Auth] Missing session cookie
+[2026-02-27T00:31:30.605Z] Dev server process group stopped
+[2026-02-27T00:31:33.631Z] Starting dev server with command: pnpm run dev
+[2026-02-27T00:31:34.705Z] 
+[2026-02-27T00:31:34.706Z] > lecture-me-pro@1.0.0 dev /home/ubuntu/lecture-me-pro
+[2026-02-27T00:31:34.706Z] > NODE_ENV=development tsx watch server/_core/index.ts
+[2026-02-27T00:31:34.706Z] 
+[2026-02-27T00:31:36.861Z] [OAuth] Initialized with baseURL: https://api.manus.im
+[2026-02-27T00:31:37.592Z] Server running on http://localhost:3000/

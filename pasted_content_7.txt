@@ -1,0 +1,249 @@
+tesseract : The term 'tesseract' is not recognized as the name of a cmdlet, function, script file, or  
+operable program. Check the spelling of the name, or if a path was included, verify that the path is   
+correct and try again.
+At line:1 char:1
++ tesseract --version
++ ~~~~~~~~~
+    + CategoryInfo          : ObjectNotFound: (tesseract:String) [], CommandNotFoundException
+    + FullyQualifiedErrorId : CommandNotFoundException
+
+PS C:\Users\zoole> ffmpeg -version
+ffmpeg : The term 'ffmpeg' is not recognized as the name of a cmdlet, function, script file, or operable
+program. Check the spelling of the name, or if a path was included, verify that the path is correct and try
+again.
+At line:1 char:1
++ ffmpeg -version
++ ~~~~~~
+    + CategoryInfo          : ObjectNotFound: (ffmpeg:String) [], CommandNotFoundException
+    + FullyQualifiedErrorId : CommandNotFoundException
+
+PS C:\Users\zoole> winget install ffmpeg
+Found FFmpeg [Gyan.FFmpeg] Version 8.0.1
+This application is licensed to you by its owner.
+Microsoft is not responsible for, nor does it grant any licenses to, third-party packages.
+Downloading https://github.com/GyanD/codexffmpeg/releases/download/8.0.1/ffmpeg-8.0.1-full_build.zip   
+  ██████████████████████████████   223 MB /  223 MB
+Successfully verified installer hash
+Extracting archive...
+Successfully extracted archive
+Starting package install...
+Path environment variable modified; restart your shell to use the new value.
+Command line alias added: "ffmpeg"
+Command line alias added: "ffplay"
+Command line alias added: "ffprobe"
+Successfully installed
+PS C:\Users\zoole> winget search tesseract
+Name                            Id                           Version        Match              Source
+------------------------------------------------------------------------------------------------------ 
+Tesseract VR                    9N2Q3RN2DWH7                 Unknown                           msstore 
+Tesseract                       Tesseract.Tesseract.Stable   2014.05.12                        winget  
+Tesseract-OCR - open source OC… UB-Mannheim.TesseractOCR     5.4.0.20240606 Moniker: tesseract winget  
+Tesseract-OCR - open source OC… tesseract-ocr.tesseract      5.5.0.20241111 Moniker: tesseract winget  
+Pulover's Macro Creator         Pulover.PuloversMacroCreator 5.4.1          Tag: tesseract     winget  
+gImageReader                    SandroMani.gImageReader      3.4.3          Tag: tesseract     winget  
+NormCap                         dynobo.NormCap               0.6.0          Tag: tesseract     winget  
+PS C:\Users\zoole> winget install tesseract-ocr.tesseract
+Found Tesseract-OCR - open source OCR engine [tesseract-ocr.tesseract] Version 5.5.0.20241111
+This application is licensed to you by its owner.
+Microsoft is not responsible for, nor does it grant any licenses to, third-party packages.
+Downloading https://github.com/tesseract-ocr/tesseract/releases/download/5.5.0/tesseract-ocr-w64-setup-5.5.0.20241111.exe
+  ██████████████████████████████  20.3 MB / 20.3 MB
+Successfully verified installer hash
+Starting package install...
+Successfully installed
+PS C:\Users\zoole> tesseract --version
+tesseract : The term 'tesseract' is not recognized as the name of a cmdlet, function, script file, or 
+operable program. Check the spelling of the name, or if a path was included, verify that the path is   
+correct and try again.
+At line:1 char:1
++ tesseract --version
++ ~~~~~~~~~
+    + CategoryInfo          : ObjectNotFound: (tesseract:String) [], CommandNotFoundException
+    + FullyQualifiedErrorId : CommandNotFoundException
+
+PS C:\Users\zoole> setx PATH "%PATH%;C:\Program Files\Tesseract-OCR"
+
+SUCCESS: Specified value was saved.
+PS C:\Users\zoole> tesseract --version
+tesseract : The term 'tesseract' is not recognized as the name of a cmdlet, function, script file, or 
+operable program. Check the spelling of the name, or if a path was included, verify that the path is   
+correct and try again.
+At line:1 char:1
++ tesseract --version
++ ~~~~~~~~~
+    + CategoryInfo          : ObjectNotFound: (tesseract:String) [], CommandNotFoundException
+    + FullyQualifiedErrorId : CommandNotFoundException
+
+PS C:\Users\zoole> $env:PATH = [System.Environment]::GetEnvironmentVariable("Path","Machine") + ";" + [System.Environment]::GetEnvironmentVariable("Path","User")
+PS C:\Users\zoole> $env:PATH = [System.Environment]::GetEnvironmentVariable("Path","Machine") + ";" + [System.Environment]::GetEnvironmentVariable("Path","User")
+PS C:\Users\zoole> & "C:\Program Files\Tesseract-OCR\tesseract.exe" --version
+tesseract v5.5.0.20241111
+ leptonica-1.85.0
+  libgif 5.2.2 : libjpeg 8d (libjpeg-turbo 3.0.4) : libpng 1.6.44 : libtiff 4.7.0 : zlib 1.3.1 : libwebp 1.4.0 : libopenjp2 2.5.2
+ Found AVX2
+ Found AVX
+ Found FMA
+ Found SSE4.1
+ Found libarchive 3.7.7 zlib/1.3.1 liblzma/5.6.3 bz2lib/1.0.8 liblz4/1.10.0 libzstd/1.5.6
+ Found libcurl/8.11.0 Schannel zlib/1.3.1 brotli/1.1.0 zstd/1.5.6 libidn2/2.3.7 libpsl/0.21.5 libssh2/1.11.0
+PS C:\Users\zoole> ffmpeg -version
+ffmpeg : The term 'ffmpeg' is not recognized as the name of a cmdlet, function, script file, or 
+operable program. Check the spelling of the name, or if a path was included, verify that the path is   
+correct and try again.
+At line:1 char:1
++ ffmpeg -version
++ ~~~~~~
+    + CategoryInfo          : ObjectNotFound: (ffmpeg:String) [], CommandNotFoundException
+    + FullyQualifiedErrorId : CommandNotFoundException
+
+PS C:\Users\zoole> $env:PATH
+C:\WINDOWS\system32;C:\WINDOWS;C:\WINDOWS\System32\Wbem;C:\WINDOWS\System32\WindowsPowerShell\v1.0\;C:\WINDOWS\System32\OpenSSH\;C:\Program Files\dotnet\;C:\Program Files\Git\cmd;C:\WINDOWS\system32;C:\WINDOWS;C:\WINDOWS\System32\Wbem;C:\WINDOWS\System32\WindowsPowerShell\v1.0\;C:\WINDOWS\System32\OpenSSH\;C:\Program Files\dotnet\;C:\Program Files\Git\cmd;c:\Users\zoole\AppData\Roaming\Code\User\globalStorage\github.copilot-chat\debugCommand;c:\Users\zoole\AppData\Roaming\Code\User\globalStorage\github.copilot-chat\copilotCli;C:\WINDOWS\system32;C:\WINDOWS;C:\WINDOWS\System32\Wbem;C:\WINDOWS\System32\WindowsPowerShell\v1.0\;C:\WINDOWS\System32\OpenSSH\;C:\Program Files\dotnet\;C:\Program Files\Git\cmd;C:\Users\zoole\.local\bin;C:\Users\zoole\AppData\Local\Microsoft\WindowsApps;C:\Microsoft VS Code\bin;C:\Microsoft VS Code Insiders\bin;C:\Users\zoole\AppData\Local\Microsoft\WinGet\Links;C:\Users\zoole\AppData\Local\Python\bin;C:\Program Files\Tesseract-OCR;C:\Program Files\Tesseract-OCR
+PS C:\Users\zoole> Get-ChildItem "C:\Users\zoole\AppData\Local\Microsoft\WinGet\Links"
+
+
+    Directory: C:\Users\zoole\AppData\Local\Microsoft\WinGet\Links
+
+
+Mode                 LastWriteTime         Length Name
+----                 -------------         ------ ----
+-a---l        12/21/2025   3:50 AM              0 uv.exe
+-a---l        12/21/2025   3:50 AM              0 uvw.exe
+-a---l        12/21/2025   3:50 AM              0 uvx.exe
+
+
+PS C:\Users\zoole> Get-ChildItem "C:\Users\zoole\AppData\Local\Microsoft\WinGet\Packages\Gyan.FFmpeg*"
+
+
+    Directory: C:\Users\zoole\AppData\Local\Microsoft\WinGet\Packages
+
+
+Mode                 LastWriteTime         Length Name
+----                 -------------         ------ ----
+d-----          1/1/2026   4:06 AM                Gyan.FFmpeg_Microsoft.Winget.Source_8wekyb3d8bbwe   
+
+
+PS C:\Users\zoole> Get-ChildItem "C:\Users\zoole\AppData\Local\Microsoft\WinGet\Packages\Gyan.FFmpeg_Microsoft.Winget.Source_8wekyb3d8bbwe"
+
+
+    Directory: C:\Users\zoole\AppData\Local\Microsoft\WinGet\Packages\Gyan.FFmpeg_Microsoft.Winget.Sou 
+    rce_8wekyb3d8bbwe
+
+
+Mode                 LastWriteTime         Length Name
+----                 -------------         ------ ----
+d-----          1/1/2026   4:06 AM                ffmpeg-8.0.1-full_build
+
+
+PS C:\Users\zoole> Get-ChildItem "C:\Users\zoole\AppData\Local\Microsoft\WinGet\Packages\Gyan.FFmpeg_Microsoft.Winget.Source_8wekyb3d8bbwe\ffmpeg-8.0.1-full_build"
+
+
+    Directory: C:\Users\zoole\AppData\Local\Microsoft\WinGet\Packages\Gyan.FFmpeg_Microsoft.Winget.Sou
+    rce_8wekyb3d8bbwe\ffmpeg-8.0.1-full_build
+
+
+Mode                 LastWriteTime         Length Name
+----                 -------------         ------ ----
+d-----          1/1/2026   4:06 AM                bin
+d-----          1/1/2026   4:06 AM                doc
+d-----          1/1/2026   4:06 AM                presets
+-a----        11/20/2025  11:29 AM          35147 LICENSE
+-a----        11/20/2025  11:29 AM          44660 README.txt
+
+
+PS C:\Users\zoole> Get-ChildItem "C:\Users\zoole\AppData\Local\Microsoft\WinGet\Packages\Gyan.FFmpeg_Microsoft.Winget.Source_8wekyb3d8bbwe\ffmpeg-8.0.1-full_build\bin"
+
+
+    Directory: C:\Users\zoole\AppData\Local\Microsoft\WinGet\Packages\Gyan.FFmpeg_Microsoft.Winget.Sou 
+    rce_8wekyb3d8bbwe\ffmpeg-8.0.1-full_build\bin
+
+
+Mode                 LastWriteTime         Length Name
+----                 -------------         ------ ----
+-a----        11/20/2025  11:29 AM      211091968 ffmpeg.exe
+-a----        11/20/2025  11:29 AM      212614144 ffplay.exe
+-a----        11/20/2025  11:29 AM      210895360 ffprobe.exe
+
+
+PS C:\Users\zoole> setx PATH "%PATH%;C:\Users\zoole\AppData\Local\Microsoft\WinGet\Packages\Gyan.FFmpeg_Microsoft.Winget.Source_8wekyb3d8bbwe\ffmpeg-8.0.1-full_build\bin"
+
+SUCCESS: Specified value was saved.
+PS C:\Users\zoole> $env:PATH = [System.Environment]::GetEnvironmentVariable("Path","Machine") + ";" + [System.Environment]::GetEnvironmentVariable("Path","User")
+PS C:\Users\zoole> ffmpeg -version
+ffmpeg version 8.0.1-full_build-www.gyan.dev Copyright (c) 2000-2025 the FFmpeg developers
+built with gcc 15.2.0 (Rev8, Built by MSYS2 project)
+configuration: --enable-gpl --enable-version3 --enable-static --disable-w32threads --disable-autodetect --enable-fontconfig --enable-iconv --enable-gnutls --enable-lcms2 --enable-libxml2 --enable-gmp --enable-bzlib --enable-lzma --enable-libsnappy --enable-zlib --enable-librist --enable-libsrt --enable-libssh --enable-libzmq --enable-avisynth --enable-libbluray --enable-libcaca --enable-libdvdnav --enable-libdvdread --enable-sdl2 --enable-libaribb24 --enable-libaribcaption --enable-libdav1d --enable-libdavs2 --enable-libopenjpeg --enable-libquirc --enable-libuavs3d --enable-libxevd --enable-libzvbi --enable-liboapv --enable-libqrencode --enable-librav1e --enable-libsvtav1 --enable-libvvenc --enable-libwebp --enable-libx264 --enable-libx265 --enable-libxavs2 --enable-libxeve --enable-libxvid --enable-libaom --enable-libjxl --enable-libvpx --enable-mediafoundation --enable-libass --enable-frei0r --enable-libfreetype --enable-libfribidi --enable-libharfbuzz --enable-liblensfun --enable-libvidstab --enable-libvmaf --enable-libzimg --enable-amf --enable-cuda-llvm --enable-cuvid --enable-dxva2 --enable-d3d11va --enable-d3d12va --enable-ffnvcodec --enable-libvpl --enable-nvdec --enable-nvenc --enable-vaapi --enable-libshaderc --enable-vulkan --enable-libplacebo --enable-opencl --enable-libcdio --enable-openal --enable-libgme --enable-libmodplug --enable-libopenmpt --enable-libopencore-amrwb --enable-libmp3lame --enable-libshine --enable-libtheora --enable-libtwolame --enable-libvo-amrwbenc --enable-libcodec2 --enable-libilbc --enable-libgsm --enable-liblc3 --enable-libopencore-amrnb --enable-libopus --enable-libspeex --enable-libvorbis --enable-ladspa --enable-libbs2b --enable-libflite --enable-libmysofa --enable-librubberband --enable-libsoxr --enable-chromaprint --enable-whisper
+libavutil      60.  8.100 / 60.  8.100
+libavcodec     62. 11.100 / 62. 11.100
+libavformat    62.  3.100 / 62.  3.100
+libavdevice    62.  1.100 / 62.  1.100
+libavfilter    11.  4.100 / 11.  4.100
+libswscale      9.  1.100 /  9.  1.100
+libswresample   6.  1.100 /  6.  1.100
+
+Exiting with exit code 0
+PS C:\Users\zoole> cd "c:\hard saves\complete_workspace_package\main_apps\lecture_me_complete_app"
+PS C:\hard saves\complete_workspace_package\main_apps\lecture_me_complete_app> python -m venv venv
+PS C:\hard saves\complete_workspace_package\main_apps\lecture_me_complete_app> .\venv\Scripts\Activate.ps1
+(venv) PS C:\hard saves\complete_workspace_package\main_apps\lecture_me_complete_app> tesseract --version
+tesseract v5.5.0.20241111
+ leptonica-1.85.0
+  libgif 5.2.2 : libjpeg 8d (libjpeg-turbo 3.0.4) : libpng 1.6.44 : libtiff 4.7.0 : zlib 1.3.1 : libwebp 1.4.0 : libopenjp2 2.5.2
+ Found AVX2
+ Found AVX
+ Found FMA
+ Found SSE4.1
+ Found libarchive 3.7.7 zlib/1.3.1 liblzma/5.6.3 bz2lib/1.0.8 liblz4/1.10.0 libzstd/1.5.6
+ Found libcurl/8.11.0 Schannel zlib/1.3.1 brotli/1.1.0 zstd/1.5.6 libidn2/2.3.7 libpsl/0.21.5 libssh2/1.11.0
+(venv) PS C:\hard saves\complete_workspace_package\main_apps\lecture_me_complete_app> cd 'C:\hard saves\complete_workspace_package\main_apps\lecture_me_complete_app'; .\venv\Scripts\Activate.ps1; pip install -r requirements.txt
+Collecting streamlit>=1.28.0 (from -r requirements.txt (line 5))
+  Using cached streamlit-1.52.2-py3-none-any.whl.metadata (9.8 kB)
+Collecting streamlit-option-menu>=0.3.6 (from -r requirements.txt (line 6))
+  Using cached streamlit_option_menu-0.4.0-py3-none-any.whl.metadata (2.5 kB)
+Collecting openai-whisper>=20231117 (from -r requirements.txt (line 9))
+  Using cached openai_whisper-20250625-py3-none-any.whl
+Collecting torch>=2.0.0 (from -r requirements.txt (line 10))
+  Using cached torch-2.9.1-cp314-cp314-win_amd64.whl.metadata (30 kB)
+Collecting torchaudio>=2.0.0 (from -r requirements.txt (line 11))
+  Using cached torchaudio-2.9.1-cp314-cp314-win_amd64.whl.metadata (6.7 kB)
+Collecting PyPDF2>=3.0.1 (from -r requirements.txt (line 14))
+  Using cached pypdf2-3.0.1-py3-none-any.whl.metadata (6.8 kB)
+Collecting PyMuPDF>=1.23.0 (from -r requirements.txt (line 15))
+  Using cached pymupdf-1.26.7-cp310-abi3-win_amd64.whl.metadata (3.4 kB)
+Collecting opencv-python>=4.8.0 (from -r requirements.txt (line 18))
+  Using cached opencv_python-4.12.0.88-cp37-abi3-win_amd64.whl.metadata (19 kB)
+Collecting opencv-contrib-python>=4.8.0 (from -r requirements.txt (line 19))
+  Using cached opencv_contrib_python-4.12.0.88-cp37-abi3-win_amd64.whl.metadata (20 kB)
+Collecting Pillow>=10.0.0 (from -r requirements.txt (line 20))
+  Using cached pillow-12.0.0-cp314-cp314-win_amd64.whl.metadata (9.0 kB)
+Collecting scikit-image>=0.21.0 (from -r requirements.txt (line 21))
+  Using cached scikit_image-0.26.0-cp314-cp314-win_amd64.whl.metadata (15 kB)
+Collecting pytesseract>=0.3.10 (from -r requirements.txt (line 24))
+  Using cached pytesseract-0.3.13-py3-none-any.whl.metadata (11 kB)
+Collecting easyocr>=1.7.0 (from -r requirements.txt (line 25))
+  Using cached easyocr-1.7.2-py3-none-any.whl.metadata (10 kB)
+Collecting pyttsx3>=2.90 (from -r requirements.txt (line 28))
+  Using cached pyttsx3-2.99-py3-none-any.whl.metadata (6.2 kB)
+Collecting gTTS>=2.4.0 (from -r requirements.txt (line 29))
+  Using cached gTTS-2.5.4-py3-none-any.whl.metadata (4.1 kB)
+Collecting moviepy>=1.0.3 (from -r requirements.txt (line 32))
+  Using cached moviepy-2.2.1-py3-none-any.whl.metadata (6.9 kB)
+Collecting imageio>=2.31.0 (from -r requirements.txt (line 33))
+  Using cached imageio-2.37.2-py3-none-any.whl.metadata (9.7 kB)
+Collecting imageio-ffmpeg>=0.4.9 (from -r requirements.txt (line 34))
+  Using cached imageio_ffmpeg-0.6.0-py3-none-win_amd64.whl.metadata (1.5 kB)
+Collecting nltk>=3.8.1 (from -r requirements.txt (line 37))
+  Using cached nltk-3.9.2-py3-none-any.whl.metadata (3.2 kB)
+Collecting spacy>=3.7.0 (from -r requirements.txt (line 38))
+  Using cached spacy-3.8.11-cp314-cp314-win_amd64.whl.metadata (28 kB)
+Collecting textstat>=0.7.3 (from -r requirements.txt (line 39))
+  Using cached textstat-0.7.12-py3-none-any.whl.metadata (15 kB)
+Collecting pandas>=2.0.0 (from -r requirements.txt (line 42))
+  Using cached pandas-2.3.3-cp314-cp314-win_amd64.whl.metadata (19 kB)
+Collecting numpy>=1.24.0 (from -r requirements.txt (line 43))
+  Using cached numpy-2.4.0-cp314-cp314-win_amd64.whl.metadata (6.6 kB)
+Collecting scipy>=1.10.0 (from -r requirements.txt (line 44))
+  Using cached scipy-1.16.3-cp314-cp314-win_amd64.whl.metadata (60 kB)
+Collecting scikit-learn>=1.3.0 (from -r requirements.txt (line 47))
+  Using cached scikit_learn-1.8.0-cp314-cp314-win_amd64.whl.metadata (11 kB)
+Collecting matplotlib>=3.7.0 (from -r requirements.txt (line 48))
+(Content truncated due to size limit. Use page ranges or line ranges to read remaining content)

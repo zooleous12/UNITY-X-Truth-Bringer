@@ -1,0 +1,509 @@
+python reference guide  
+This document provides a comprehensive and beginner-friendly compilation of over 30 Python commands and techniques designed to assist newcomers with Python programming, script execution, package installation and updates, as well as several commands focused on network analysis and troubleshooting. The commands are organised into relevant categories to facilitate understanding.
+
+1. Introduction to Python  
+These commands assist with Python installation, script execution, and fundamental Python usage.
+
+Check Python Version    
+Alternatively, for Python 3:  
+python3 --version  
+This command displays the installed Python version on the system.
+
+Execute a Python Script  
+python your_script.py  
+Or for Python 3:  
+python3 your_script.py
+
+Launch Python Interactive Mode  
+This opens the Python shell for executing commands interactively:  
+python  
+Or:  
+python3
+
+Exit Python Interactive Shell  
+exit()  
+Or:  
+quit()
+
+Install Python Packages Using pip  
+pip install package_name  
+Example:  
+pip install requests
+
+Upgrade pip (Package Manager)  
+pip install --upgrade pip
+
+Uninstall Python Packages  
+pip uninstall package_name
+
+List Installed Packages  
+pip list
+
+2. Writing and Executing Python Code  
+After installing Python, the following commands demonstrate basic script writing and execution.
+
+Print a Message  
+print("Hello, World!")
+
+Declare and Use Variables  
+name = "Alice"  
+age = 25  
+print(f"My name is {name} and I am {age} years old.")
+
+Implement a Simple Loop  
+for i in range(5):  
+    print(i)
+
+Use Conditional Statements  
+x = 10  
+if x > 5:  
+    print("x is greater than 5")  
+else:  
+    print("x is less than or equal to 5")
+
+Define and Invoke a Function  
+def greet(name):  
+    return f"Hello, {name}!"  
+print(greet("Alice"))
+
+Receive User Input  
+name = input("Enter your name: ")  
+print(f"Hello, {name}!")
+
+3. File Handling  
+File operations are essential in Python programming.
+
+Read a File  
+with open("example.txt", "r") as file:  
+    content = file.read()  
+    print(content)
+
+Write to a File  
+with open("example.txt", "w") as file:  
+    file.write("Hello, World!")
+
+Append to a File  
+with open("example.txt", "a") as file:  
+    file.write("\nAdding more content.")
+
+4. Useful Python Libraries  
+These commands demonstrate how to extend Python’s capabilities using various libraries.
+
+Use the os Module (System Commands)  
+import os  
+print(os.getcwd())  # Display current working directory  
+os.mkdir("new_folder")  # Create a new directory
+
+Install and Use the requests Library (Web Requests)  
+import requests  
+response = requests.get("https://api.github.com")  
+print(response.status_code)
+
+Use the datetime Module  
+from datetime import datetime  
+now = datetime.now()  
+print(f"Current time is {now}")
+
+Use the json Module  
+import json  
+data = {"name": "Alice", "age": 25}  
+json_data = json.dumps(data)  
+print(json_data)
+
+5. Networking and Troubleshooting  
+These Python commands and libraries facilitate network analysis and troubleshooting.
+
+Retrieve IP Address (socket library)  
+import socket  
+hostname = socket.gethostname()  
+ip_address = socket.gethostbyname(hostname)  
+print(f"Hostname: {hostname}")  
+print(f"IP Address: {ip_address}")
+
+Ping a Server (os library)  
+import os  
+hostname = "google.com"  
+response = os.system(f"ping -c 1 {hostname}")  
+if response == 0:  
+    print(f"{hostname} is reachable.")  
+else:  
+    print(f"{hostname} is not reachable.")
+
+Scan Open Ports on a Network (socket library)  
+import socket  
+
+def scan_ports(host, ports):  
+    open_ports = []  
+    for port in ports:  
+        with socket.socket(socket.AF_INET, socket.SOCK_STREAM) as s:  
+            s.settimeout(1)  
+            if s.connect_ex((host, port)) == 0:  
+                open_ports.append(port)  
+    return open_ports  
+
+print(scan_ports("127.0.0.1", range(20, 1025)))
+
+Check Internet Speed (speedtest-cli package)  
+First, install the package:  
+pip install speedtest-cli  
+Then, use it in Python:  
+import speedtest  
+st = speedtest.Speedtest()  
+print("Download speed:", st.download())  
+print("Upload speed:", st.upload())
+
+Parse Network Packets (scapy library)  
+Install Scapy:  
+pip install scapy  
+Then, in Python:  
+from scapy.all import *  
+def packet_callback(packet):  
+    print(packet.summary())  
+sniff(prn=packet_callback, count=10)  # Capture 10 packets
+
+Check Open Connections (psutil library)  
+Install psutil:  
+pip install psutil  
+Then, in Python:  
+import psutil  
+connections = psutil.net_connections()  
+for conn in connections:  
+    print(conn)
+
+6. Debugging and Troubleshooting  
+These commands assist in debugging Python scripts and resolving common errors.
+
+Set a Debugging Breakpoint  
+breakpoint()  # Pauses execution and launches debugger
+
+Print Errors During Execution  
+try:  
+    x = 10 / 0  
+except ZeroDivisionError as e:  
+    print(f"Error: {e}")
+
+Log Messages for Debugging (logging library)  
+import logging  
+logging.basicConfig(level=logging.DEBUG)  
+logging.debug("This is a debug message.")  
+logging.info("This is an info message.")  
+logging.warning("This is a warning message.")  
+logging.error("This is an error message.")
+
+7. Additional Tips and Tricks  
+
+Use a Virtual Environment  
+Create an isolated environment for Python projects:  
+python -m venv env  
+source env/bin/activate  # Linux/macOS  
+env\Scripts\activate     # Windows
+
+List All Python Keywords  
+import keyword  
+print(keyword.kwlist)
+
+Measure Execution Time  
+import time  
+start = time.time()  
+# Insert code to measure here  
+time.sleep(2)  # Simulate delay  
+end = time.time()  
+print(f"Execution time: {end - start} seconds")
+
+Regular practice of these commands will enhance your proficiency in Python and improve your ability to analyse and resolve network-related issues. Please indicate if you require detailed examples for any specific commands.
+
+
+Here’s a comprehensive beginner-friendly list of 30+ Python commands and tricks to help you get started with Python programming, running programs, installing/updating packages, and even a few commands geared toward analyzing and troubleshooting your network. These commands and ideas are grouped into relevant categories for easier understanding.
+
+1. Getting Started with Python
+These commands help you get started with Python installation, running scripts, and the basics of Python usage.
+
+
+Check Python Version
+python --version
+
+Or for Python 3:
+python3 --version
+
+This tells you which version of Python is installed on your system.
+
+
+Run a Python Program
+python your_script.py
+
+Or for Python 3:
+python3 your_script.py
+
+
+
+Run Python in Interactive Mode
+Open the Python shell to execute commands one line at a time.
+python
+
+Or:
+python3
+
+
+
+Exit Python Interactive Shell
+exit()
+
+Or:
+quit()
+
+
+
+Install Python Packages with pip
+pip install package_name
+
+Example:
+pip install requests
+
+
+
+Upgrade pip (Package Manager)
+pip install --upgrade pip
+
+
+
+Uninstall Python Packages
+pip uninstall package_name
+
+
+
+List Installed Packages
+pip list
+
+
+
+
+2. Writing and Running Python Code
+Once you’ve installed Python, here are some basic commands for writing and running scripts.
+
+
+Print a Message
+print("Hello, World!")
+
+
+
+Declare and Use Variables
+
+
+name = "Alice"
+age = 25
+print(f"My name is {name} and I am {age} years old.")
+
+
+Write a Simple Loop
+
+for i in range(5):
+    print(i)
+
+
+Use a Conditional Statement
+
+x = 10
+if x > 5:
+    print("x is greater than 5")
+else:
+    print("x is less than or equal to 5")
+
+
+Define and Call a Function
+
+def greet(name):
+    return f"Hello, {name}!"
+
+print(greet("Alice"))
+
+
+Read Input from the User
+
+name = input("Enter your name: ")
+print(f"Hello, {name}!")
+
+
+3. File Handling
+File handling is essential for working with files in Python.
+
+Read a File
+
+with open("example.txt", "r") as file:
+    content = file.read()
+    print(content)
+
+
+Write to a File
+
+with open("example.txt", "w") as file:
+    file.write("Hello, World!")
+
+
+Append to a File
+
+with open("example.txt", "a") as file:
+    file.write("\nAdding more content.")
+
+
+4. Useful Python Libraries
+These commands utilize libraries to extend Python’s functionality.
+
+Use the os Module (System Commands)
+
+import os
+print(os.getcwd())  # Print the current working directory
+os.mkdir("new_folder")  # Create a new folder
+
+
+Install and Use the requests Library (Web Requests)
+
+import requests
+response = requests.get("https://api.github.com")
+print(response.status_code)
+
+
+Use the datetime Module
+
+from datetime import datetime
+now = datetime.now()
+print(f"Current time is {now}")
+
+
+Use the json Module
+
+import json
+data = {"name": "Alice", "age": 25}
+json_data = json.dumps(data)
+print(json_data)
+
+
+5. Networking and Troubleshooting
+Here are some Python commands and libraries to analyze and troubleshoot your network.
+
+Check Your IP Address (socket library)
+
+import socket
+hostname = socket.gethostname()
+ip_address = socket.gethostbyname(hostname)
+print(f"Hostname: {hostname}")
+print(f"IP Address: {ip_address}")
+
+
+Ping a Server (os library)
+
+import os
+hostname = "google.com"
+response = os.system(f"ping -c 1 {hostname}")
+if response == 0:
+    print(f"{hostname} is reachable.")
+else:
+    print(f"{hostname} is not reachable.")
+
+
+Scan Open Ports on a Network (socket library)
+
+import socket
+
+def scan_ports(host, ports):
+    open_ports = []
+    for port in ports:
+        with socket.socket(socket.AF_INET, socket.SOCK_STREAM) as s:
+            s.settimeout(1)
+            if s.connect_ex((host, port)) == 0:
+                open_ports.append(port)
+    return open_ports
+
+print(scan_ports("127.0.0.1", range(20, 1025)))
+
+
+Check Internet Speed (speedtest-cli package)
+Install the library first:
+
+pip install speedtest-cli
+
+Then use it in Python:
+import speedtest
+st = speedtest.Speedtest()
+print("Download speed:", st.download())
+print("Upload speed:", st.upload())
+
+
+Parse Network Packets (scapy library)
+Install Scapy first:
+
+pip install scapy
+
+Then use it in Python:
+from scapy.all import *
+def packet_callback(packet):
+    print(packet.summary())
+
+sniff(prn=packet_callback, count=10)  # Sniff 10 packets
+
+
+Check Open Connections (psutil library)
+Install psutil first:
+
+pip install psutil
+
+Then use it in Python:
+import psutil
+connections = psutil.net_connections()
+for conn in connections:
+    print(conn)
+
+
+6. Debugging and Troubleshooting
+These commands help debug Python scripts and fix common issues.
+
+Set Up a Debugging Breakpoint
+
+breakpoint()  # Stops execution and starts the debugger
+
+
+Print Errors During Execution
+
+try:
+    x = 10 / 0
+except ZeroDivisionError as e:
+    print(f"Error: {e}")
+
+
+Log Messages for Debugging (logging library)
+
+import logging
+logging.basicConfig(level=logging.DEBUG)
+logging.debug("This is a debug message.")
+logging.info("This is an info message.")
+logging.warning("This is a warning message.")
+logging.error("This is an error message.")
+
+
+7. Extra Tips and Tricks
+
+Use a Virtual Environment
+Create a virtual environment to isolate your Python projects.
+
+python -m venv env
+source env/bin/activate  # On Linux/macOS
+env\Scripts\activate     # On Windows
+
+
+List All Python Keywords
+
+import keyword
+print(keyword.kwlist)
+
+
+Measure Execution Time
+
+import time
+start = time.time()
+# Your code here
+time.sleep(2)  # Simulate a delay
+end = time.time()
+print(f"Execution time: {end - start} seconds")
+
+
+By practicing these commands regularly, you'll strengthen your Python skills and be better equipped to analyze and fix network issues. Let me know if you'd like detailed examples for any specific commands!
+

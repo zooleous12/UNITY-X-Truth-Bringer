@@ -1,0 +1,56 @@
+Thu Nov 20 21:26:58 MST 2025 D/Util: Network SSID: = <unknown ssid>
+ speed :180
+txLinkSpeedMbps:180
+rxLinkSpeedMbps162
+ ipAddress= 192.168.32.47
+Thu Nov 20 21:26:58 MST 2025 D/Util: wifiName=<unknown ssid>, curIpAddress=192.168.32.47
+Thu Nov 20 21:26:58 MST 2025 D/SplashScreen: packageName=com.airbeamtv.panasonicapp packageNamecom.airbeamtv.panasonic
+Thu Nov 20 21:26:58 MST 2025 D/DummyMirrorToTVSDK: DummyMirrorToTVSDK init Mirror for Panasonic TV
+Thu Nov 20 21:26:58 MST 2025 D/DeviceManager: DeviceManager started
+Thu Nov 20 21:26:58 MST 2025 D/SplashScreen: startDLNAService
+Thu Nov 20 21:26:58 MST 2025 D/UpnpSingleton: initInstance
+Thu Nov 20 21:26:58 MST 2025 D/FlingController: startDiscovery
+Thu Nov 20 21:26:58 MST 2025 D/CastController: CastController
+Thu Nov 20 21:26:59 MST 2025 D/DeviceManager:  got a roku device (RemoteDevice) Identity: (RemoteDeviceIdentity) UDN: uuid:29600000-2000-108e-808f-20efbd7b7f71, Descriptor: http://192.168.32.22:8060/dial/dd.xml, Root: true model Name 3810RW friendlyName Roku Streaming Stick+
+Thu Nov 20 21:26:59 MST 2025 D/KRenderer: device Roku Streaming Stick+ has manufacturer Roku manufacturerURL http://www.roku.com/ modelName 3810RW
+Thu Nov 20 21:26:59 MST 2025 D/KRenderer: device Roku Streaming Stick+ does not have AVTransport
+Thu Nov 20 21:26:59 MST 2025 D/KRenderer: device Roku Streaming Stick+ alias  modelName3810RW
+Thu Nov 20 21:26:59 MST 2025 D/RokuRenderer: RokuRenderer Roku Streaming Stick+
+Thu Nov 20 21:26:59 MST 2025 D/DeviceManager: got a unknown device (RemoteDevice) Identity: (RemoteDeviceIdentity) UDN: uuid:29600000-2000-108e-808f-20efbd7b7f71, Descriptor: http://192.168.32.22:8060/dial/dd.xml, Root: true of type urn:roku-com:device:player:1 model Name 3810RW friendlyName Roku Streaming Stick+
+Thu Nov 20 21:26:59 MST 2025 D/DeviceManager:  got a roku device (RemoteDevice) Identity: (RemoteDeviceIdentity) UDN: uuid:295c0005-140f-1029-8084-acae19033cc6, Descriptor: http://192.168.32.20:8060/dial/dd.xml, Root: true model Name 3900RW friendlyName Expressmotel6
+Thu Nov 20 21:26:59 MST 2025 D/KRenderer: device Expressmotel6 has manufacturer Roku manufacturerURL http://www.roku.com/ modelName 3900RW
+Thu Nov 20 21:26:59 MST 2025 D/KRenderer: device Expressmotel6 does not have AVTransport
+Thu Nov 20 21:26:59 MST 2025 D/KRenderer: device Expressmotel6 alias  modelName3900RW
+Thu Nov 20 21:26:59 MST 2025 D/RokuRenderer: RokuRenderer Expressmotel6
+Thu Nov 20 21:26:59 MST 2025 D/DeviceManager:  got a roku device (RemoteDevice) Identity: (RemoteDeviceIdentity) UDN: uuid:28001180-0000-1000-8000-20efbd6573bf, Descriptor: http://192.168.32.23:8060/dial/dd.xml, Root: true model Name 3941X friendlyName Room 107 ALMARA Inn Tucumcari
+Thu Nov 20 21:26:59 MST 2025 D/KRenderer: device Room 107 ALMARA Inn Tucumcari has manufacturer Roku manufacturerURL http://www.roku.com/ modelName 3941X
+Thu Nov 20 21:26:59 MST 2025 D/KRenderer: device Room 107 ALMARA Inn Tucumcari does not have AVTransport
+Thu Nov 20 21:26:59 MST 2025 D/KRenderer: device Room 107 ALMARA Inn Tucumcari alias  modelName3941X
+Thu Nov 20 21:26:59 MST 2025 D/RokuRenderer: RokuRenderer Room 107 ALMARA Inn Tucumcari
+Thu Nov 20 21:26:59 MST 2025 D/DeviceManager: got a unknown device (RemoteDevice) Identity: (RemoteDeviceIdentity) UDN: uuid:28001180-0000-1000-8000-20efbd6573bf, Descriptor: http://192.168.32.23:8060/dial/dd.xml, Root: true of type urn:roku-com:device:player:1 model Name 3941X friendlyName Room 107 ALMARA Inn Tucumcari
+Thu Nov 20 21:26:59 MST 2025 D/DeviceManager: got a unknown device (RemoteDevice) Identity: (RemoteDeviceIdentity) UDN: uuid:295c0005-140f-1029-8084-acae19033cc6, Descriptor: http://192.168.32.20:8060/dial/dd.xml, Root: true of type urn:roku-com:device:player:1 model Name 3900RW friendlyName Expressmotel6
+Thu Nov 20 21:27:00 MST 2025 D/DeviceManager:  got a roku device (RemoteDevice) Identity: (RemoteDeviceIdentity) UDN: uuid:280021c0-0000-1000-8000-0c7955c307b1, Descriptor: http://192.168.32.25:8060/dial/dd.xml, Root: true model Name K805X friendlyName Harrah Small Tv
+Thu Nov 20 21:27:00 MST 2025 D/KRenderer: device Harrah Small Tv has manufacturer onn manufacturerURL https://www.onntvsupport.com/ modelName K805X
+Thu Nov 20 21:27:00 MST 2025 D/KRenderer: device Harrah Small Tv does not have AVTransport
+Thu Nov 20 21:27:00 MST 2025 D/KRenderer: got alias SamsungTV for Harrah Small Tv
+Thu Nov 20 21:27:00 MST 2025 D/KRenderer: device Harrah Small Tv alias SamsungTV modelNameK805X
+Thu Nov 20 21:27:00 MST 2025 D/RokuRenderer: RokuRenderer Harrah Small Tv
+Thu Nov 20 21:27:00 MST 2025 D/DeviceManager: got a unknown device (RemoteDevice) Identity: (RemoteDeviceIdentity) UDN: uuid:280021c0-0000-1000-8000-0c7955c307b1, Descriptor: http://192.168.32.25:8060/dial/dd.xml, Root: true of type urn:roku-com:device:player:1 model Name K805X friendlyName Harrah Small Tv
+Thu Nov 20 21:27:01 MST 2025 D/DeviceManager:  got a roku device (RemoteDevice) Identity: (RemoteDeviceIdentity) UDN: uuid:28002000-0000-1000-8000-287e802a5e98, Descriptor: http://192.168.32.41:8060/dial/dd.xml, Root: true model Name H106X friendlyName 32" TCL Roku TV
+Thu Nov 20 21:27:01 MST 2025 D/KRenderer: device 32" TCL Roku TV has manufacturer TCL manufacturerURL support.tcl.com/us modelName H106X
+Thu Nov 20 21:27:01 MST 2025 D/KRenderer: device 32" TCL Roku TV does not have AVTransport
+Thu Nov 20 21:27:01 MST 2025 D/KRenderer: device 32" TCL Roku TV alias TCLTV modelNameH106X
+Thu Nov 20 21:27:01 MST 2025 D/RokuRenderer: RokuRenderer 32" TCL Roku TV
+Thu Nov 20 21:27:01 MST 2025 D/DeviceManager: got a unknown device (RemoteDevice) Identity: (RemoteDeviceIdentity) UDN: uuid:28002000-0000-1000-8000-287e802a5e98, Descriptor: http://192.168.32.41:8060/dial/dd.xml, Root: true of type urn:roku-com:device:player:1 model Name H106X friendlyName 32" TCL Roku TV
+Thu Nov 20 21:27:18 MST 2025 D/DeviceManager:  got a roku device (RemoteDevice) Identity: (RemoteDeviceIdentity) UDN: uuid:296c0000-180d-104b-809c-103d0a1be7e2, Descriptor: http://192.168.32.105:8060/dial/dd.xml, Root: true model Name 8112X friendlyName 32" TCL Roku TV
+Thu Nov 20 21:27:18 MST 2025 D/KRenderer: device 32" TCL Roku TV has manufacturer TCL manufacturerURL support.tcl.com/us modelName 8112X
+Thu Nov 20 21:27:18 MST 2025 D/KRenderer: device 32" TCL Roku TV does not have AVTransport
+Thu Nov 20 21:27:18 MST 2025 D/KRenderer: device 32" TCL Roku TV alias TCLTV modelName8112X
+Thu Nov 20 21:27:18 MST 2025 D/RokuRenderer: RokuRenderer 32" TCL Roku TV
+Thu Nov 20 21:27:21 MST 2025 D/DeviceManager: got a unknown device (RemoteDevice) Identity: (RemoteDeviceIdentity) UDN: uuid:296c0000-180d-104b-809c-103d0a1be7e2, Descriptor: http://192.168.32.105:8060/dial/dd.xml, Root: true of type urn:roku-com:device:player:1 model Name 8112X friendlyName 32" TCL Roku TV
+Thu Nov 20 21:27:23 MST 2025 D/DeviceManager:  got a roku device (RemoteDevice) Identity: (RemoteDeviceIdentity) UDN: uuid:29780011-6c09-101c-803a-f84faddd314c, Descriptor: http://192.168.32.21:8060/dial/dd.xml, Root: true model Name 7822X friendlyName Bonnar's TV
+Thu Nov 20 21:27:23 MST 2025 D/KRenderer: device Bonnar's TV has manufacturer onn manufacturerURL https://www.onntvsupport.com/ modelName 7822X
+Thu Nov 20 21:27:23 MST 2025 D/KRenderer: device Bonnar's TV does not have AVTransport
+Thu Nov 20 21:27:23 MST 2025 D/KRenderer: device Bonnar's TV alias  modelName7822X
+Thu Nov 20 21:27:23 MST 2025 D/RokuRenderer: RokuRenderer Bonnar's TV
+Thu Nov 20 21:27:23 MST 2025 D/DeviceManager: got a unknown device (RemoteDevice) Identity: (RemoteDeviceIdentity) UDN: uuid:29780011-6c09-101c-803a-f84faddd314c, Descriptor: http://192.168.32.21:8060/dial/dd.xml, Root: true of type urn:roku-com:device:player:1 model Name 7822X friendlyName Bonnar's TV

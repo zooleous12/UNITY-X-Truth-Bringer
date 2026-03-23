@@ -1,0 +1,19 @@
+Tue Sep 30 01:34:20 CDT 2025 D/Util: Network SSID: = <unknown ssid>
+ speed :1200
+txLinkSpeedMbps:1200
+rxLinkSpeedMbps1200
+ ipAddress= 192.168.12.205
+Tue Sep 30 01:34:20 CDT 2025 D/Util: wifiName=<unknown ssid>, curIpAddress=192.168.12.205
+Tue Sep 30 01:34:20 CDT 2025 D/SplashScreen: packageName=com.airbeamtv.rokuapp packageNamecom.airbeamtv.roku
+Tue Sep 30 01:34:20 CDT 2025 D/DummyMirrorToTVSDK: DummyMirrorToTVSDK init Roku Screen Mirroring + Cast
+Tue Sep 30 01:34:20 CDT 2025 D/DeviceManager: DeviceManager started
+Tue Sep 30 01:34:20 CDT 2025 D/SplashScreen: startDLNAService
+Tue Sep 30 01:34:20 CDT 2025 D/UpnpSingleton: initInstance
+Tue Sep 30 01:34:20 CDT 2025 D/FlingController: startDiscovery
+Tue Sep 30 01:34:20 CDT 2025 D/CastController: CastController
+Tue Sep 30 01:34:20 CDT 2025 D/DeviceManager:  got a roku device (RemoteDevice) Identity: (RemoteDeviceIdentity) UDN: uuid:28003080-0000-1000-8000-4c6bb8d72bf5, Descriptor: http://192.168.12.144:8060/dial/dd.xml, Root: true model Name P106X friendlyName 65" TCL Roku TV
+Tue Sep 30 01:34:20 CDT 2025 D/KRenderer: device 65" TCL Roku TV has manufacturer TCL manufacturerURL support.tcl.com/us modelName P106X
+Tue Sep 30 01:34:20 CDT 2025 D/KRenderer: device 65" TCL Roku TV does not have AVTransport
+Tue Sep 30 01:34:20 CDT 2025 D/KRenderer: device 65" TCL Roku TV alias TCLTV modelNameP106X
+Tue Sep 30 01:34:20 CDT 2025 D/RokuRenderer: RokuRenderer 65" TCL Roku TV
+Tue Sep 30 01:34:20 CDT 2025 D/RokuRenderer: isActiveRokuDevice=true

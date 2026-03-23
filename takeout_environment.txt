@@ -1,0 +1,3 @@
+﻿Timestamp: 2025-10-30T06:18:25.9818814-05:00
+TakeoutPath: C:\Users\zoole\Desktop\takeout-20251030T060006Z-1-001
+Script Run As Administrator: True

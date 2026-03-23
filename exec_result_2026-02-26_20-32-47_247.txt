@@ -1,0 +1,1 @@
+"{\n  \"document_cookie_raw\": \"\",\n  \"cookieStore_cookies\": [],\n  \"current_origin\": \"https://lecturmepro-mezkjjof.manus.space\",\n  \"current_domain\": \"lecturmepro-mezkjjof.manus.space\",\n  \"current_protocol\": \"https:\",\n  \"current_url\": \"https://lecturmepro-mezkjjof.manus.space/\"\n}"

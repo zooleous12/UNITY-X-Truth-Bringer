@@ -1,0 +1,77 @@
+, bcrypt, cffi, cryptography, extra-streamlit-components, streamlit-authenticator
+Successfully installed PyJWT-2.10.1 PyYAML-6.0.3 bcrypt-5.0.0 captcha-0.7.1 cffi-2.0.0 cryptography-46.0.3 extra-streamlit-components-0.1.81 pycparser-2.23 streamlit-authenticator-0.4.2       
+(venv) PS C:\hard saves\complete_workspace_package\main_apps\lecture_me_complete_app> ^C
+(venv) PS C:\hard saves\complete_workspace_package\main_apps\lecture_me_complete_app> cd 'C:\hard saves\complete_workspace_package\main_apps\lecture_me_complete_app'; .\venv\Scripts\Activate.ps1; pip install openai-whisper
+Collecting openai-whisper
+  Using cached openai_whisper-20250625.tar.gz (803 kB)
+  Installing build dependencies ... done
+  Getting requirements to build wheel ... done
+  Preparing metadata (pyproject.toml) ... done
+Collecting more-itertools (from openai-whisper)
+  Using cached more_itertools-10.8.0-py3-none-any.whl.metadata (39 kB)
+Collecting numba (from openai-whisper)
+  Using cached numba-0.63.1-cp314-cp314-win_amd64.whl.metadata (3.0 kB)
+Requirement already satisfied: numpy in c:\hard saves\complete_workspace_package\main_apps\lecture_me_complete_app\venv\lib\site-packages (from openai-whisper) (2.4.0)
+Collecting tiktoken (from openai-whisper)
+  Using cached tiktoken-0.12.0-cp314-cp314-win_amd64.whl.metadata (6.9 kB)
+Collecting torch (from openai-whisper)
+  Using cached torch-2.9.1-cp314-cp314-win_amd64.whl.metadata (30 kB)
+Requirement already satisfied: tqdm in c:\hard saves\complete_workspace_package\main_apps\lecture_me_complete_app\venv\lib\site-packages (from openai-whisper) (4.67.1)
+Collecting llvmlite<0.47,>=0.46.0dev0 (from numba->openai-whisper)
+  Downloading llvmlite-0.46.0-cp314-cp314-win_amd64.whl.metadata (5.1 kB)
+Collecting numpy (from openai-whisper)
+  Downloading numpy-2.3.5-cp314-cp314-win_amd64.whl.metadata (60 kB)
+Collecting regex>=2022.1.18 (from tiktoken->openai-whisper)
+  Downloading regex-2025.11.3-cp314-cp314-win_amd64.whl.metadata (41 kB)
+Requirement already satisfied: requests>=2.26.0 in c:\hard saves\complete_workspace_package\main_apps\lecture_me_complete_app\venv\lib\site-packages (from tiktoken->openai-whisper) (2.32.5)   
+Requirement already satisfied: charset_normalizer<4,>=2 in c:\hard saves\complete_workspace_package\main_apps\lecture_me_complete_app\venv\lib\site-packages (from requests>=2.26.0->tiktoken->openai-whisper) (3.4.4)
+Requirement already satisfied: idna<4,>=2.5 in c:\hard saves\complete_workspace_package\main_apps\lecture_me_complete_app\venv\lib\site-packages (from requests>=2.26.0->tiktoken->openai-whisper) (3.11)
+Requirement already satisfied: urllib3<3,>=1.21.1 in c:\hard saves\complete_workspace_package\main_apps\lecture_me_complete_app\venv\lib\site-packages (from requests>=2.26.0->tiktoken->openai-whisper) (2.6.2)
+Requirement already satisfied: certifi>=2017.4.17 in c:\hard saves\complete_workspace_package\main_apps\lecture_me_complete_app\venv\lib\site-packages (from requests>=2.26.0->tiktoken->openai-whisper) (2025.11.12)
+Collecting filelock (from torch->openai-whisper)
+  Using cached filelock-3.20.1-py3-none-any.whl.metadata (2.1 kB)
+Requirement already satisfied: typing-extensions>=4.10.0 in c:\hard saves\complete_workspace_package\main_apps\lecture_me_complete_app\venv\lib\site-packages (from torch->openai-whisper) (4.15.0)
+Collecting sympy>=1.13.3 (from torch->openai-whisper)
+  Using cached sympy-1.14.0-py3-none-any.whl.metadata (12 kB)
+Collecting networkx>=2.5.1 (from torch->openai-whisper)
+  Using cached networkx-3.6.1-py3-none-any.whl.metadata (6.8 kB)
+Requirement already satisfied: jinja2 in c:\hard saves\complete_workspace_package\main_apps\lecture_me_complete_app\venv\lib\site-packages (from torch->openai-whisper) (3.1.6)
+Collecting fsspec>=0.8.5 (from torch->openai-whisper)
+  Using cached fsspec-2025.12.0-py3-none-any.whl.metadata (10 kB)
+Collecting setuptools (from torch->openai-whisper)
+  Using cached setuptools-80.9.0-py3-none-any.whl.metadata (6.6 kB)
+Collecting mpmath<1.4,>=1.1.0 (from sympy>=1.13.3->torch->openai-whisper)
+  Downloading mpmath-1.3.0-py3-none-any.whl.metadata (8.6 kB)
+Requirement already satisfied: MarkupSafe>=2.0 in c:\hard saves\complete_workspace_package\main_apps\lecture_me_complete_app\venv\lib\site-packages (from jinja2->torch->openai-whisper) (3.0.3)
+Requirement already satisfied: colorama in c:\hard saves\complete_workspace_package\main_apps\lecture_me_complete_app\venv\lib\site-packages (from tqdm->openai-whisper) (0.4.6)
+Downloading more_itertools-10.8.0-py3-none-any.whl (69 kB)
+Downloading numba-0.63.1-cp314-cp314-win_amd64.whl (2.8 MB)
+   ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━ 2.8/2.8 MB 34.3 MB/s  0:00:00
+Downloading llvmlite-0.46.0-cp314-cp314-win_amd64.whl (39.2 MB)
+   ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━ 39.2/39.2 MB 33.7 MB/s  0:00:01
+Downloading numpy-2.3.5-cp314-cp314-win_amd64.whl (12.9 MB)
+   ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━ 12.9/12.9 MB 36.4 MB/s  0:00:00
+Downloading tiktoken-0.12.0-cp314-cp314-win_amd64.whl (921 kB)
+   ━━━━━━━━━━━━━━━━━━━━━━━━━━━ 921.1/921.1 kB 20.1 MB/s  0:00:00
+Downloading regex-2025.11.3-cp314-cp314-win_amd64.whl (280 kB)
+Downloading torch-2.9.1-cp314-cp314-win_amd64.whl (110.9 MB)
+   ━━━━━━━━━━━━━━━━━━━━━━━━━━━ 110.9/110.9 MB 33.1 MB/s  0:00:03
+Downloading fsspec-2025.12.0-py3-none-any.whl (201 kB)
+Downloading networkx-3.6.1-py3-none-any.whl (2.1 MB)
+   ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━ 2.1/2.1 MB 27.6 MB/s  0:00:00
+Downloading sympy-1.14.0-py3-none-any.whl (6.3 MB)
+   ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━ 6.3/6.3 MB 35.0 MB/s  0:00:00
+Downloading mpmath-1.3.0-py3-none-any.whl (536 kB)
+   ━━━━━━━━━━━━━━━━━━━━━━━━━━━━ 536.2/536.2 kB 9.2 MB/s  0:00:00
+Downloading filelock-3.20.1-py3-none-any.whl (16 kB)
+Using cached setuptools-80.9.0-py3-none-any.whl (1.2 MB)
+Building wheels for collected packages: openai-whisper
+  Building wheel for openai-whisper (pyproject.toml) ... done
+  Created wheel for openai-whisper: filename=openai_whisper-20250625-py3-none-any.whl size=823067 sha256=e0f41d310006f93c5431558112f8fc96cbdc7a9daa67bb9e5661579cb4d2e574
+  Stored in directory: c:\users\zoole\appdata\local\pip\cache\wheels\09\5f\27\24162afe2dac42b0964f9f73a97504a34c83610bd7b5252ae5
+Successfully built openai-whisper
+Installing collected packages: mpmath, sympy, setuptools, regex, numpy, networkx, more-itertools, llvmlite, fsspec, filelock, torch, tiktoken, numba, openai-whisper
+  Attempting uninstall: numpy
+    Found existing installation: numpy 2.4.0
+    Uninstalling numpy-2.4.0:
+      Successfully uninstalled numpy-2.4.0

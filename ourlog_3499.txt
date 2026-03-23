@@ -1,0 +1,15 @@
+Tue Nov 04 01:43:50 CST 2025 D/UpnpSingleton: initInstance
+Tue Nov 04 01:43:50 CST 2025 D/CastController: CastController
+Tue Nov 04 01:43:50 CST 2025 D/TVDiscoveryManager:  got a roku device (RemoteDevice) Identity: (RemoteDeviceIdentity) UDN: uuid:28003080-0000-1000-8000-4c6bb8d72bf5, Descriptor: http://10.29.17.102:8060/dial/dd.xml, Root: true model Name P106X friendlyName 65" TCL Roku TV
+Tue Nov 04 01:43:50 CST 2025 D/KRenderer: device 65" TCL Roku TV has manufacturer TCL manufacturerURL support.tcl.com/us modelName P106X
+Tue Nov 04 01:43:50 CST 2025 D/RokuRenderer: RokuRenderer 65" TCL Roku TV
+Tue Nov 04 01:43:50 CST 2025 D/TVDiscoveryManager: renderer device is new 65" TCL Roku TV aliasROKU, host=10.29.17.102
+Tue Nov 04 01:43:50 CST 2025 D/TVDiscoveryManager: adding 65" TCL Roku TV as valid rendereralias = ROKU
+Tue Nov 04 01:43:50 CST 2025 D/RokuRenderer: Applist query Response 200
+Tue Nov 04 01:44:10 CST 2025 D/BillingDataSource:: androcmpro004 ProductPurchased = true
+Tue Nov 04 01:44:10 CST 2025 D/BillingDataSource:: androcmpro004 ProductPurchased = true
+Tue Nov 04 01:44:10 CST 2025 D/HomeActivity: cellular network connected
+Tue Nov 04 01:44:10 CST 2025 D/HomeActivity: lost wifi
+Tue Nov 04 01:44:10 CST 2025 D/BillingDataSource:: androcmpro004 ProductPurchased = true
+Tue Nov 04 01:44:10 CST 2025 D/BillingDataSource:: androcmpro004 ProductPurchased = true
+Tue Nov 04 04:20:53 CST 2025 D/RendererFactory: addUPNPDevice not TYPE_MEDIARENDERER or dial

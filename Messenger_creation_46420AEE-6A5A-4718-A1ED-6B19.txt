@@ -1,0 +1,40 @@
+WEBVTT
+Kind: captions
+Language: en
+
+00:00:02.879 --> 00:00:07.190 align:start position:0%
+ 
+You<00:00:03.040><c> know</c><00:00:03.360><c> I'm</c>
+
+00:00:07.190 --> 00:00:07.200 align:start position:0%
+ 
+ 
+
+00:00:07.200 --> 00:00:14.150 align:start position:0%
+ 
+a<00:00:07.919><c> girl.</c><00:00:08.559><c> She</c>
+
+00:00:14.150 --> 00:00:14.160 align:start position:0%
+ 
+ 
+
+00:00:14.160 --> 00:00:17.590 align:start position:0%
+ 
+French.<00:00:14.480><c> I'm</c><00:00:14.639><c> a</c><00:00:14.880><c> tough</c><00:00:15.280><c> boy.</c><00:00:16.000><c> Don't</c><00:00:16.240><c> fuck</c><00:00:16.480><c> with</c>
+
+00:00:17.590 --> 00:00:17.600 align:start position:0%
+French. I'm a tough boy. Don't fuck with
+ 
+
+00:00:17.600 --> 00:00:22.630 align:start position:0%
+French. I'm a tough boy. Don't fuck with
+she<00:00:17.840><c> know</c><00:00:18.080><c> I'm</c><00:00:18.320><c> a</c><00:00:18.960><c> boy.</c><00:00:19.439><c> She</c><00:00:19.920><c> give</c><00:00:20.080><c> me</c><00:00:21.520><c> a</c><00:00:21.840><c> little</c>
+
+00:00:22.630 --> 00:00:22.640 align:start position:0%
+she know I'm a boy. She give me a little
+ 
+
+00:00:22.640 --> 00:00:26.960 align:start position:0%
+she know I'm a boy. She give me a little
+girl.<00:00:23.359><c> She</c><00:00:23.680><c> talking</c><00:00:24.080><c> about</c><00:00:24.480><c> her.</c>
+

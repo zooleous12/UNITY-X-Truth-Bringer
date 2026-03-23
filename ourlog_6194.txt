@@ -1,0 +1,42 @@
+Sun Oct 26 08:31:50 CDT 2025 D/Util: Network SSID: = <unknown ssid>
+ speed :2268
+txLinkSpeedMbps:2268
+rxLinkSpeedMbps2041
+ ipAddress= 192.168.12.218
+Sun Oct 26 08:31:50 CDT 2025 D/Util: wifiName=<unknown ssid>, curIpAddress=192.168.12.218
+Sun Oct 26 08:31:50 CDT 2025 D/SplashScreen: packageName=com.airbeamtv.rokuapp packageNamecom.airbeamtv.roku
+Sun Oct 26 08:31:50 CDT 2025 D/DummyMirrorToTVSDK: DummyMirrorToTVSDK init Roku Screen Mirroring + Cast
+Sun Oct 26 08:31:50 CDT 2025 D/DeviceManager: DeviceManager started
+Sun Oct 26 08:31:50 CDT 2025 D/SplashScreen: startDLNAService
+Sun Oct 26 08:31:50 CDT 2025 D/UpnpSingleton: initInstance
+Sun Oct 26 08:31:50 CDT 2025 D/FlingController: startDiscovery
+Sun Oct 26 08:31:50 CDT 2025 D/CastController: CastController
+Sun Oct 26 08:31:50 CDT 2025 D/HomeFragment: onResume
+Sun Oct 26 08:31:50 CDT 2025 D/HomeFragment: user has no subscription
+Sun Oct 26 08:31:50 CDT 2025 D/HomeFragment: user has no subscription
+Sun Oct 26 08:31:50 CDT 2025 D/HomeFragment: user has no subscription
+Sun Oct 26 08:31:50 CDT 2025 D/HomeFragment: user has no subscription
+Sun Oct 26 08:31:50 CDT 2025 D/HomeFragment: user has no subscription
+Sun Oct 26 08:31:50 CDT 2025 D/DeviceManager: got a UPNP device (RemoteDevice) Identity: (RemoteDeviceIdentity) UDN: uuid:afd965f9-2c7d-4f25-8d02-a9aeb72ffdab, Descriptor: http://192.168.12.103:2869/upnphost/udhisapi.dll?content=uuid:afd965f9-2c7d-4f25-8d02-a9aeb72ffdab, Root: true model Name Xbox One friendlyName XBOX
+Sun Oct 26 08:31:50 CDT 2025 D/KRenderer: device XBOX has manufacturer Microsoft Corporation manufacturerURL https://www.microsoft.com modelName Xbox One
+Sun Oct 26 08:31:50 CDT 2025 D/KRenderer: device name XBOX service name urn:upnp-org:serviceId:RenderingControl uri /upnphost/udhisapi.dll?content=uuid:a934072f-9c11-4ba1-a19b-a5db8d8e01cb
+Sun Oct 26 08:31:50 CDT 2025 D/KRenderer: device name XBOX service name urn:upnp-org:serviceId:AVTransport uri /upnphost/udhisapi.dll?content=uuid:fac1eae9-ab5a-404b-87b9-c29b35e9eae3
+Sun Oct 26 08:31:50 CDT 2025 D/KRenderer: device name XBOX service name urn:upnp-org:serviceId:ConnectionManager uri /upnphost/udhisapi.dll?content=uuid:e2f5c547-fd6a-449b-97b3-8d81526a91f4
+Sun Oct 26 08:31:50 CDT 2025 D/KRenderer: got alias Xbox360 for XBOX
+Sun Oct 26 08:31:50 CDT 2025 D/KRenderer: device XBOX alias Xbox360 modelNameXbox One
+Sun Oct 26 08:31:50 CDT 2025 D/DeviceManager: successfully added RemoteDevice with udn afd965f9-2c7d-4f25-8d02-a9aeb72ffdab device name XBOX device type MediaRenderer modelName Xbox One friendlyName = XBOX host = 192.168.12.103
+Sun Oct 26 08:31:50 CDT 2025 D/Util: wifiName=<unknown ssid>, curIpAddress=192.168.12.218
+Sun Oct 26 08:31:50 CDT 2025 D/HomeActivity: wifi is connected
+Sun Oct 26 08:31:50 CDT 2025 D/DeviceManager:  got a roku device (RemoteDevice) Identity: (RemoteDeviceIdentity) UDN: uuid:28003080-0000-1000-8000-4c6bb8d72bf5, Descriptor: http://192.168.12.144:8060/dial/dd.xml, Root: true model Name P106X friendlyName 65" TCL Roku TV
+Sun Oct 26 08:31:50 CDT 2025 D/KRenderer: device 65" TCL Roku TV has manufacturer TCL manufacturerURL support.tcl.com/us modelName P106X
+Sun Oct 26 08:31:50 CDT 2025 D/KRenderer: device 65" TCL Roku TV does not have AVTransport
+Sun Oct 26 08:31:50 CDT 2025 D/KRenderer: device 65" TCL Roku TV alias TCLTV modelNameP106X
+Sun Oct 26 08:31:50 CDT 2025 D/RokuRenderer: RokuRenderer 65" TCL Roku TV
+Sun Oct 26 08:31:50 CDT 2025 D/RokuRenderer: isActiveRokuDevice=true
+Sun Oct 26 08:31:51 CDT 2025 D/DeviceManager: got a dial device (RemoteDevice) Identity: (RemoteDeviceIdentity) UDN: uuid:770e4509-0c43-4ff3-bd62-2bf765a47006, Descriptor: http://192.168.12.103:2869/upnphost/udhisapi.dll?content=uuid:770e4509-0c43-4ff3-bd62-2bf765a47006, Root: true model Name Xbox One friendlyName XBOX
+Sun Oct 26 08:32:02 CDT 2025 D/HomeFragment: onResume
+Sun Oct 26 08:32:02 CDT 2025 D/HomeFragment: user has no subscription
+Sun Oct 26 08:32:02 CDT 2025 D/HomeFragment: user has no subscription
+Sun Oct 26 08:32:02 CDT 2025 D/HomeFragment: user has no subscription
+Sun Oct 26 08:32:02 CDT 2025 D/HomeFragment: user has no subscription
+Sun Oct 26 08:32:02 CDT 2025 D/HomeFragment: user has no subscription

@@ -1,0 +1,1 @@
+"{\n  \"document_cookie_raw\": \"\",\n  \"cookieStore_cookies\": [],\n  \"origin\": \"https://3000-iny1l3d8n0it6qzul0twe-2c8fde3d.us1.manus.computer\",\n  \"domain\": \"3000-iny1l3d8n0it6qzul0twe-2c8fde3d.us1.manus.computer\"\n}"

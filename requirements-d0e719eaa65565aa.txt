@@ -1,0 +1,3 @@
+# AI Context Orchestrator Dependencies
+# PROPERTY OF CHARLES KENDRICK 12/9/25
+Pillow>=10.0.0

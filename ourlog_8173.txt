@@ -1,0 +1,15 @@
+Thu Nov 06 17:13:26 CST 2025 D/Util: Network SSID: = <unknown ssid>
+ speed :-1
+txLinkSpeedMbps:-1
+rxLinkSpeedMbps-1
+ ipAddress= 0.0.0.0
+Thu Nov 06 17:13:26 CST 2025 D/Util: wifiName=<unknown ssid>, curIpAddress=0.0.0.0
+Thu Nov 06 17:13:26 CST 2025 D/Util: first part of ip = 0, sec Part =0
+Thu Nov 06 17:13:26 CST 2025 D/Util: maybe a chromebook
+Thu Nov 06 17:13:26 CST 2025 D/SplashScreen: packageName=com.airbeamtv.panasonicapp packageNamecom.airbeamtv.panasonic
+Thu Nov 06 17:13:26 CST 2025 D/DummyMirrorToTVSDK: DummyMirrorToTVSDK init Mirror for Panasonic TV
+Thu Nov 06 17:13:26 CST 2025 D/DeviceManager: DeviceManager started
+Thu Nov 06 17:13:26 CST 2025 D/SplashScreen: startDLNAService
+Thu Nov 06 17:13:26 CST 2025 D/UpnpSingleton: initInstance
+Thu Nov 06 17:13:26 CST 2025 D/FlingController: startDiscovery
+Thu Nov 06 17:13:26 CST 2025 D/CastController: CastController

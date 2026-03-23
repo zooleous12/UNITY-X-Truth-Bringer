@@ -1,0 +1,8 @@
+/home/ubuntu/lecture-me-pro/client/src/App.tsx
+/home/ubuntu/lecture-me-pro/client/src/components/UnityStatusIndicator.tsx
+/home/ubuntu/lecture-me-pro/client/src/pages/Home.tsx
+/home/ubuntu/lecture-me-pro/client/src/pages/Community.tsx
+/home/ubuntu/lecture-me-pro/client/src/services/unityCore.ts
+/home/ubuntu/lecture-me-pro/server/lib/founderTiers.ts
+/home/ubuntu/lecture-me-pro/dist/public/assets/index-PmaYOtvv.js
+/home/ubuntu/lecture-me-pro/dist/index.js

@@ -1,0 +1,11 @@
+﻿takeout evidence collection summary - 2025-10-30T06:18:30.3301442-05:00
+TakeoutPath: C:\Users\zoole\Desktop\takeout-20251030T060006Z-1-001
+Ran as Administrator: True
+File timestamps: C:\Users\zoole\OneDrive\Desktop\takeout_file_timestamps.csv
+Scheduled tasks: C:\Users\zoole\OneDrive\Desktop\takeout_scheduled_tasks.csv
+Security events: C:\Users\zoole\OneDrive\Desktop\takeout_security_events.json (4663)
+Logons: C:\Users\zoole\OneDrive\Desktop\takeout_logons.json (4624)
+Handles: Not created
+Environment report: C:\Users\zoole\OneDrive\Desktop\takeout_environment.txt
+Note: Some event queries (4663) require that auditing was previously enabled. If no4663 entries are present, enable File System auditing for future monitoring and use Procmon for live capture.
+Recommended next steps:1) Review Google account security events & revoke unfamiliar access.2) Run full AV scan.3) If you need continuous monitoring, run Sysinternals Procmon filtered to the Takeout path.4) Share exported summaries (redacted) with your incident responder.

@@ -1,0 +1,33 @@
+Wed Oct 22 11:51:59 CDT 2025 D/Util: Network SSID: = <unknown ssid>
+ speed :2268
+txLinkSpeedMbps:2268
+rxLinkSpeedMbps1837
+ ipAddress= 192.168.12.189
+Wed Oct 22 11:51:59 CDT 2025 D/Util: wifiName=<unknown ssid>, curIpAddress=192.168.12.189
+Wed Oct 22 11:51:59 CDT 2025 D/SplashScreen: packageName=com.airbeamtv.rokuapp packageNamecom.airbeamtv.roku
+Wed Oct 22 11:51:59 CDT 2025 D/DummyMirrorToTVSDK: DummyMirrorToTVSDK init Roku Screen Mirroring + Cast
+Wed Oct 22 11:51:59 CDT 2025 D/DeviceManager: DeviceManager started
+Wed Oct 22 11:51:59 CDT 2025 D/SplashScreen: startDLNAService
+Wed Oct 22 11:51:59 CDT 2025 D/UpnpSingleton: initInstance
+Wed Oct 22 11:51:59 CDT 2025 D/FlingController: startDiscovery
+Wed Oct 22 11:51:59 CDT 2025 D/CastController: CastController
+Wed Oct 22 11:52:18 CDT 2025 D/HomeFragment: onResume
+Wed Oct 22 11:52:18 CDT 2025 D/HomeFragment: user has no subscription
+Wed Oct 22 11:52:18 CDT 2025 D/HomeFragment: user has no subscription
+Wed Oct 22 11:52:18 CDT 2025 D/HomeFragment: user has no subscription
+Wed Oct 22 11:52:18 CDT 2025 D/HomeFragment: user has no subscription
+Wed Oct 22 11:52:18 CDT 2025 D/HomeFragment: user has no subscription
+Wed Oct 22 11:52:18 CDT 2025 D/Util: wifiName=<unknown ssid>, curIpAddress=192.168.12.189
+Wed Oct 22 11:52:18 CDT 2025 D/HomeActivity: wifi is connected
+Wed Oct 22 11:52:19 CDT 2025 D/HomeFragment: consent load error = No available form can be built. consent status=1
+Wed Oct 22 11:52:21 CDT 2025 D/GoogleAppstoreReview: Review flow completed successfully
+Wed Oct 22 11:52:24 CDT 2025 D/HomeFragment: onResume
+Wed Oct 22 11:52:24 CDT 2025 D/HomeFragment: user has no subscription
+Wed Oct 22 11:52:24 CDT 2025 D/HomeFragment: user has no subscription
+Wed Oct 22 11:52:24 CDT 2025 D/HomeFragment: user has no subscription
+Wed Oct 22 11:52:24 CDT 2025 D/HomeFragment: user has no subscription
+Wed Oct 22 11:52:24 CDT 2025 D/HomeFragment: user has no subscription
+Wed Oct 22 11:52:34 CDT 2025 D/UpnpSingleton: initInstance
+Wed Oct 22 11:52:34 CDT 2025 D/FlingController: startDiscovery
+Wed Oct 22 11:53:55 CDT 2025 D/UpnpSingleton: initInstance
+Wed Oct 22 11:53:55 CDT 2025 D/FlingController: startDiscovery

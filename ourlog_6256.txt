@@ -1,0 +1,29 @@
+Fri Oct 03 06:49:24 CDT 2025 D/Util: Network SSID: = <unknown ssid>
+ speed :1200
+txLinkSpeedMbps:1200
+rxLinkSpeedMbps1200
+ ipAddress= 192.168.12.206
+Fri Oct 03 06:49:24 CDT 2025 D/Util: wifiName=<unknown ssid>, curIpAddress=192.168.12.206
+Fri Oct 03 06:49:24 CDT 2025 D/SplashScreen: packageName=com.airbeamtv.panasonicapp packageNamecom.airbeamtv.panasonic
+Fri Oct 03 06:49:24 CDT 2025 D/DummyMirrorToTVSDK: DummyMirrorToTVSDK init Mirror for Panasonic TV
+Fri Oct 03 06:49:24 CDT 2025 D/DeviceManager: DeviceManager started
+Fri Oct 03 06:49:24 CDT 2025 D/SplashScreen: startDLNAService
+Fri Oct 03 06:49:24 CDT 2025 D/UpnpSingleton: initInstance
+Fri Oct 03 06:49:24 CDT 2025 D/FlingController: startDiscovery
+Fri Oct 03 06:49:24 CDT 2025 D/CastController: CastController
+Fri Oct 03 06:49:25 CDT 2025 D/DeviceManager: got a UPNP device (RemoteDevice) Identity: (RemoteDeviceIdentity) UDN: uuid:afd965f9-2c7d-4f25-8d02-a9aeb72ffdab, Descriptor: http://192.168.12.103:2869/upnphost/udhisapi.dll?content=uuid:afd965f9-2c7d-4f25-8d02-a9aeb72ffdab, Root: true model Name Xbox One friendlyName XBOX
+Fri Oct 03 06:49:25 CDT 2025 D/KRenderer: device XBOX has manufacturer Microsoft Corporation manufacturerURL https://www.microsoft.com modelName Xbox One
+Fri Oct 03 06:49:25 CDT 2025 D/KRenderer: device name XBOX service name urn:upnp-org:serviceId:RenderingControl uri /upnphost/udhisapi.dll?content=uuid:bfbf54d1-0928-4205-b837-07ee6728e072
+Fri Oct 03 06:49:25 CDT 2025 D/KRenderer: device name XBOX service name urn:upnp-org:serviceId:AVTransport uri /upnphost/udhisapi.dll?content=uuid:1bb703cf-a23c-42fa-8719-0888527d37f3
+Fri Oct 03 06:49:25 CDT 2025 D/KRenderer: device name XBOX service name urn:upnp-org:serviceId:ConnectionManager uri /upnphost/udhisapi.dll?content=uuid:9e01ce76-44da-4ab3-ba9e-46b836b674cb
+Fri Oct 03 06:49:25 CDT 2025 D/KRenderer: got alias Xbox360 for XBOX
+Fri Oct 03 06:49:25 CDT 2025 D/KRenderer: device XBOX alias Xbox360 modelNameXbox One
+Fri Oct 03 06:49:25 CDT 2025 D/DeviceManager: successfully added RemoteDevice with udn afd965f9-2c7d-4f25-8d02-a9aeb72ffdab device name XBOX device type MediaRenderer modelName Xbox One friendlyName = XBOX host = 192.168.12.103
+Fri Oct 03 06:49:25 CDT 2025 D/DeviceManager: got a dial device (RemoteDevice) Identity: (RemoteDeviceIdentity) UDN: uuid:770e4509-0c43-4ff3-bd62-2bf765a47006, Descriptor: http://192.168.12.103:2869/upnphost/udhisapi.dll?content=uuid:770e4509-0c43-4ff3-bd62-2bf765a47006, Root: true model Name Xbox One friendlyName XBOX
+Fri Oct 03 06:49:26 CDT 2025 D/DeviceManager:  got a roku device (RemoteDevice) Identity: (RemoteDeviceIdentity) UDN: uuid:28003080-0000-1000-8000-4c6bb8d72bf5, Descriptor: http://192.168.12.144:8060/dial/dd.xml, Root: true model Name P106X friendlyName 65" TCL Roku TV
+Fri Oct 03 06:49:26 CDT 2025 D/KRenderer: device 65" TCL Roku TV has manufacturer TCL manufacturerURL support.tcl.com/us modelName P106X
+Fri Oct 03 06:49:26 CDT 2025 D/KRenderer: device 65" TCL Roku TV does not have AVTransport
+Fri Oct 03 06:49:26 CDT 2025 D/KRenderer: device 65" TCL Roku TV alias TCLTV modelNameP106X
+Fri Oct 03 06:49:26 CDT 2025 D/RokuRenderer: RokuRenderer 65" TCL Roku TV
+Fri Oct 03 06:49:26 CDT 2025 D/RokuRenderer: isActiveRokuDevice=true
+Fri Oct 03 06:49:26 CDT 2025 D/DeviceManager: got a unknown device (RemoteDevice) Identity: (RemoteDeviceIdentity) UDN: uuid:28003080-0000-1000-8000-4c6bb8d72bf5, Descriptor: http://192.168.12.144:8060/dial/dd.xml, Root: true of type urn:roku-com:device:player:1 model Name P106X friendlyName 65" TCL Roku TV

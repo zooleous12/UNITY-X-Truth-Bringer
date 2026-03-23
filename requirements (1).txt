@@ -1,0 +1,88 @@
+# Lecture Me - AI Study Guide Generator
+# Core Dependencies with Revolutionary Features
+
+# Streamlit for web interface
+streamlit>=1.28.0
+streamlit-option-menu>=0.3.6
+
+# Audio processing
+openai-whisper>=20231117
+torch>=2.0.0
+torchaudio>=2.0.0
+
+# PDF processing
+PyPDF2>=3.0.1
+PyMuPDF>=1.23.0
+
+# Computer Vision and Image Processing (NEW)
+opencv-python>=4.8.0
+opencv-contrib-python>=4.8.0
+Pillow>=10.0.0
+scikit-image>=0.21.0
+
+# OCR and Text Recognition (NEW)
+pytesseract>=0.3.10
+easyocr>=1.7.0
+
+# Text-to-Speech (NEW)
+pyttsx3>=2.90
+gTTS>=2.4.0
+
+# Video Processing (NEW)
+moviepy>=1.0.3
+imageio>=2.31.0
+imageio-ffmpeg>=0.4.9
+
+# Text processing and NLP
+nltk>=3.8.1
+spacy>=3.7.0
+textstat>=0.7.3
+
+# Data handling
+pandas>=2.0.0
+numpy>=1.24.0
+scipy>=1.10.0
+
+# Machine Learning (NEW)
+scikit-learn>=1.3.0
+matplotlib>=3.7.0
+seaborn>=0.12.0
+
+# File handling
+python-docx>=0.8.11
+openpyxl>=3.1.0
+xlsxwriter>=3.1.0
+
+# Audio file handling
+librosa>=0.10.0
+soundfile>=0.12.0
+pydub>=0.25.1
+
+# Web scraping (optional)
+requests>=2.31.0
+beautifulsoup4>=4.12.0
+
+# Utilities
+python-dateutil>=2.8.2
+pytz>=2023.3
+pathlib>=1.0.1
+
+# Development and testing
+pytest>=7.4.0
+pytest-cov>=4.1.0
+
+# Optional: For enhanced AI features
+# openai>=1.0.0  # Uncomment if using OpenAI API
+# anthropic>=0.3.0  # Uncomment if using Claude API
+
+# Optional: For advanced audio processing
+# ffmpeg-python>=0.2.0  # Uncomment if needed for audio conversion
+
+# Optional: For enhanced PDF processing
+# pdfplumber>=0.9.0  # Alternative PDF processor
+# pymupdf4llm>=0.0.5  # Enhanced PDF text extraction
+
+# System dependencies (install separately):
+# - FFmpeg (for audio/video processing)
+# - Tesseract OCR (for text recognition)
+# - System audio drivers (for text-to-speech)

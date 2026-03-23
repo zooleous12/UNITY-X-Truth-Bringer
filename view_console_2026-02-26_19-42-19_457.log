@@ -1,0 +1,20 @@
+[log] Manus helper started
+[warn] [.WebGL-0x561e880e7e80]GL Driver Message (OpenGL, Performance, GL_CLOSE_PATH_NV, High): GPU stall due to ReadPixels
+[error] Amplitude Logger [Error]: Failed to fetch remote config: Error: Failed to fetch
+[log] [PWA] Service Worker registered: https://lecturmepro-mezkjjof.manus.space/
+[warn] <meta name="apple-mobile-web-app-capable" content="yes"> is deprecated. Please include <meta name="mobile-web-app-capable" content="yes">
+[log] page loaded
+> 
+// Check for errors
+const errors = [];
+window.onerror = function(msg) { errors.push(msg); };
+// Return any existing errors
+return JSON.stringify({
+  url: window.location.href,
+  title: document.title,
+  hasRoot: !!document.getElementById('root'),
+  rootChildren: document.getElementById('root')?.children?.length,
+  reactVersion: window.__REACT_DEVTOOLS_GLOBAL_HOOK__?.renderers?.size || 'unknown'
+});
+
+< "{\"url\":\"https://lecturmepro-mezkjjof.manus.space/\",\"title\":\"Lecture Me - AI Study Guide Generator\",\"hasRoot\":true,\"rootChildren\":3,\"reactVersion\":\"unknown\"}"

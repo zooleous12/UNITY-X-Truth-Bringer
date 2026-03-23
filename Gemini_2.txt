@@ -1,0 +1,1889 @@
+Gemini
+
+Landing Page Code Enhancement
+My Stuff
+Image of 
+Image of 
+Image of 
+
+
+Pinned chat
+Landing Page Code Enhancement
+Gemini App for Windows
+PDF Upload and Investor Brief Assistance
+Schedule Daily Work Brief
+AI Pitch Deck Reworked for Investors
+Beach Kissing Video Generation
+Hiding Book Data in Images
+3D Universal Scale Visualization
+Phone Number Action Prompt
+Adding Smoke and Fire
+GT Aggressor Year Identification
+Battery Pack Wiring Guide
+Windows Bootable Flash Drive File System
+PowerShell Basics: Objects, Syntax, and Pipes
+Another Eden Character Choice Advice
+Smoke Shops Selling Oil Burners
+3I/ATLAS: Interstellar Object Debate
+Helmet Research and Marketplace Post
+Navigate to Wildhorse Casino
+Memori and Gemini API Keys
+Setting Up "Hey Google" Voice Commands
+Giant Revel Bike Identification and Value
+Sync Google Drive to Computer
+Identifying a Power Cable
+Camera App Video Mode Inquiry
+Digital Assistant Reinstituted for Cybersecurity
+New Resident Welcomed to Phoenix
+Navigation to Extra Space Storage
+Finding a Photo from Screenshot
+Cannot Navigate to Last Address
+Navigation To Home Started
+Casino Navigation Options Provided
+Clarifying McDonald's Chicken Sandwich
+Mobile Free Streaming With Internet
+Hair Stores Near Your Location
+Saving Address as Home
+Saving Location as Home
+Data Retrieval Limitations
+Destination for Navigation
+Storage Location Confirmation
+Navigation to Phoenix, Arizona
+Gas Stations Open Near You
+Gas Stations Open Near You
+Nearby Food Places Open Now
+Spam Call Analysis and Recommendations
+Manhattan, KS vs. Tucumcari, NM Comparison
+Liquor Sales At Gas Stations
+Incomplete Cybersecurity Question Prompt
+Navigation To Phoenix, Arizona
+Navigation To Phoenix, Arizona
+Interstate vs. U.S. Route Lengths
+Open Grocery Store Near You
+Navigation To Phoenix, Arizona
+Fast Food Open Near Me
+Fast Food Open Near Me
+Alarm Set For 8:00 A.M.
+Casey's Pizza Deals and Coupons
+User Asks For Current Address
+Pizza Order Assistance
+Hotel Navigation Options Provided
+Navigation to Sonic Drive-In
+Cannot Stop Navigation
+Hotel Search Requires Location
+Liberal, Kansas Distance Information
+Distance To Kansas Border
+Route To Phoenix, Arizona
+Chicken Safety: 8 Hours Out
+User's Time Zone Inquiry
+Wildside Store Location and Details
+Tobacco Alley Closing Time Information
+Vape Shop Closing Time Inquiry
+Repeating Information or Capabilities?
+Kentucky: South or Midwest?
+Greeting and Offer of Help
+Identifying Fraudulent Emails and Scams
+AI's Sensory Limitations
+O'Reilly's Closing Times
+Gollum's "Precious" Ring Quote
+2003 Dodge Grand Caravan Wiper Sizes
+Nicholson File Coating For Protection
+Gas Price Estimate: Caravan Trip
+Penis Burn Injury From Hot Rod
+Hy-Vee Store and Pharmacy Hours
+Driving Distance To Phoenix, Arizona
+Fifth Measurement in Liters
+Fifths in Liters Calculation
+D-Cell Battery Output Explained
+Greeting and Offer of Assistance
+what's the weather forecast for the next week in Phoenix Arizona
+Navigation to The Lou
+Navigation to Community Green
+Initial Greeting and Offer of Help
+Slumped: Falling Asleep Casually
+Conversation with Gemini
+<!DOCTYPE html>
+
+<html lang="en">
+
+<head>
+
+    <meta charset="UTF-8">
+
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+
+    <title>Context Forge | 2025 Breakthrough Technology</title>
+
+    <style>
+
+        :root {
+
+            --primary: #00ff9d;
+
+            --secondary: #00b8ff;
+
+            --bg: #0a0a0a;
+
+            --card-bg: #161616;
+
+            --text: #e0e0e0;
+
+        }
+
+
+
+        body {
+
+            font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+
+            background-color: var(--bg);
+
+            color: var(--text);
+
+            margin: 0;
+
+            line-height: 1.6;
+
+        }
+
+
+
+        /* Hero Section */
+
+        header {
+
+            text-align: center;
+
+            padding: 4rem 1rem;
+
+            background: linear-gradient(180deg, #0f1f18 0%, var(--bg) 100%);
+
+            border-bottom: 1px solid #333;
+
+        }
+
+
+
+        h1 {
+
+            font-size: 3rem;
+
+            margin-bottom: 0.5rem;
+
+            background: -webkit-linear-gradient(var(--primary), var(--secondary));
+
+            -webkit-background-clip: text;
+
+            -webkit-text-fill-color: transparent;
+
+            text-transform: uppercase;
+
+            letter-spacing: 2px;
+
+        }
+
+
+
+        .subtitle {
+
+            font-size: 1.2rem;
+
+            color: var(--secondary);
+
+            font-weight: 300;
+
+        }
+
+
+
+        .vision-quote {
+
+            max-width: 800px;
+
+            margin: 2rem auto;
+
+            font-style: italic;
+
+            border-left: 3px solid var(--primary);
+
+            padding-left: 1rem;
+
+            text-align: left;
+
+        }
+
+
+
+        /* Container */
+
+        .container {
+
+            max-width: 1000px;
+
+            margin: 0 auto;
+
+            padding: 2rem;
+
+        }
+
+
+
+        /* Graph Section */
+
+        .graph-section {
+
+            background-color: var(--card-bg);
+
+            padding: 2rem;
+
+            border-radius: 12px;
+
+            margin-bottom: 3rem;
+
+            box-shadow: 0 4px 20px rgba(0,0,0,0.5);
+
+        }
+
+
+
+        .bar-container {
+
+            margin: 1.5rem 0;
+
+        }
+
+
+
+        .bar-label {
+
+            display: flex;
+
+            justify-content: space-between;
+
+            margin-bottom: 0.5rem;
+
+            font-size: 0.9rem;
+
+        }
+
+
+
+        .bar-track {
+
+            background-color: #333;
+
+            height: 25px;
+
+            border-radius: 4px;
+
+            overflow: hidden;
+
+        }
+
+
+
+        .bar-fill {
+
+            height: 100%;
+
+            display: flex;
+
+            align-items: center;
+
+            padding-left: 10px;
+
+            font-size: 0.8rem;
+
+            color: #000;
+
+            font-weight: bold;
+
+            transition: width 1s ease-in-out;
+
+            width: 0; /* Animated on load */
+
+        }
+
+
+
+        .fill-std { background-color: #777; }
+
+        .fill-forge { background-color: var(--primary); box-shadow: 0 0 10px var(--primary); }
+
+
+
+        /* Features Grid */
+
+        .features-grid {
+
+            display: grid;
+
+            grid-template-columns: repeat(auto-fit, minmax(250px, 1fr));
+
+            gap: 1.5rem;
+
+            margin-bottom: 3rem;
+
+        }
+
+
+
+        .feature-card {
+
+            background-color: var(--card-bg);
+
+            padding: 1.5rem;
+
+            border-radius: 8px;
+
+            border: 1px solid #333;
+
+            transition: transform 0.2s;
+
+        }
+
+
+
+        .feature-card:hover {
+
+            transform: translateY(-5px);
+
+            border-color: var(--secondary);
+
+        }
+
+
+
+        .feature-title {
+
+            color: var(--primary);
+
+            font-size: 1.1rem;
+
+            margin-bottom: 0.5rem;
+
+            font-weight: bold;
+
+        }
+
+
+
+        /* Pricing */
+
+        .pricing-section {
+
+            display: flex;
+
+            flex-wrap: wrap;
+
+            justify-content: center;
+
+            gap: 2rem;
+
+            margin-top: 2rem;
+
+        }
+
+
+
+        .pricing-card {
+
+            background-color: var(--card-bg);
+
+            border: 1px solid #333;
+
+            border-radius: 12px;
+
+            padding: 2rem;
+
+            flex: 1;
+
+            min-width: 250px;
+
+            text-align: center;
+
+            position: relative;
+
+            overflow: hidden;
+
+        }
+
+
+
+        .pricing-card.sovereign {
+
+            border-color: var(--primary);
+
+            box-shadow: 0 0 15px rgba(0, 255, 157, 0.1);
+
+        }
+
+
+
+        .price {
+
+            font-size: 2rem;
+
+            margin: 1rem 0;
+
+            color: #fff;
+
+        }
+
+
+
+        .price span {
+
+            font-size: 1rem;
+
+            color: #888;
+
+        }
+
+
+
+        .features-list {
+
+            list-style: none;
+
+            padding: 0;
+
+            text-align: left;
+
+            margin-top: 1.5rem;
+
+        }
+
+
+
+        .features-list li {
+
+            padding: 0.5rem 0;
+
+            border-bottom: 1px solid #333;
+
+        }
+
+
+
+        /* Footer */
+
+        footer {
+
+            text-align: center;
+
+            padding: 2rem;
+
+            margin-top: 4rem;
+
+            font-size: 0.9rem;
+
+            color: #666;
+
+            border-top: 1px solid #333;
+
+        }
+
+
+
+        .status {
+
+            color: var(--primary);
+
+            font-weight: bold;
+
+            letter-spacing: 1px;
+
+        }
+
+    </style>
+
+</head>
+
+<body>
+
+
+
+<header>
+
+    <h1>Context Forge</h1>
+
+    <div class="subtitle">The Future of Neural Bridging & Context Orchestration</div>
+
+</header>
+
+
+
+<div class="container">
+
+    
+
+    <div class="vision-quote">
+
+        <h3>Executive Vision</h3>
+
+        <p>"We have breached the static context barrier. We are not just compressing data; we are redefining how AI models consume, hide, and process information."</p>
+
+    </div>
+
+
+
+    <div class="graph-section">
+
+        <h2 style="margin-top:0;">The Velocity Jump: Density Comparison</h2>
+
+        <p>While standard compression hits a ceiling, Context Forge utilizes Multi-Modal Modulation (Ultrasonic/Optic) to bypass limits.</p>
+
+        
+
+        <div class="bar-container">
+
+            <div class="bar-label">
+
+                <span>Standard GZIP+JSON</span>
+
+                <span>34%</span>
+
+            </div>
+
+            <div class="bar-track">
+
+                <div class="bar-fill fill-std" style="width: 34%">34%</div>
+
+            </div>
+
+        </div>
+
+
+
+        <div class="bar-container">
+
+            <div class="bar-label">
+
+                <span>Context Forge (Optic/Sonic)</span>
+
+                <span>70%</span>
+
+            </div>
+
+            <div class="bar-track">
+
+                <div class="bar-fill fill-forge" id="forge-bar">70%</div>
+
+            </div>
+
+        </div>
+
+    </div>
+
+
+
+    <h2>Enterprise Capabilities</h2>
+
+    <div class="features-grid">
+
+        <div class="feature-card">
+
+            <div class="feature-title">Context Sovereignty</div>
+
+            <div>Unrestricted model interoperability for power users.</div>
+
+        </div>
+
+        <div class="feature-card">
+
+            <div class="feature-title">Scenario Simulation</div>
+
+            <div>Advanced environment testing (formerly 'Memory Injection').</div>
+
+        </div>
+
+        <div class="feature-card">
+
+            <div class="feature-title">Steganographic Vault</div>
+
+            <div>Embed 500+ bytes into generic corporate assets.</div>
+
+        </div>
+
+        <div class="feature-card">
+
+            <div class="feature-title">Vernacular Engine</div>
+
+            <div>Hyper-specific dialect and linguistic alignment.</div>
+
+        </div>
+
+    </div>
+
+
+
+    <h2 style="text-align: center;">Revenue Model</h2>
+
+    <div class="pricing-section">
+
+        <div class="pricing-card">
+
+            <h3>Pro Developer</h3>
+
+            <div class="price">$49<span>/month</span></div>
+
+            <ul class="features-list">
+
+                <li>Vernacular Tools</li>
+
+                <li>Priority CLI</li>
+
+                <li>Sonic/Optic Beta</li>
+
+            </ul>
+
+        </div>
+
+
+
+        <div class="pricing-card">
+
+            <h3>Agency Team</h3>
+
+            <div class="price">$149<span>/month</span></div>
+
+            <ul class="features-list">
+
+                <li>Batch Processing</li>
+
+                <li>Steganography Suite</li>
+
+                <li>5 User Seats</li>
+
+            </ul>
+
+        </div>
+
+
+
+        <div class="pricing-card sovereign">
+
+            <h3 style="color:var(--primary)">Sovereign Ent.</h3>
+
+            <div class="price">$499+<span>/month</span></div>
+
+            <ul class="features-list">
+
+                <li>AES-256 Encryption</li>
+
+                <li>Unrestricted Access</li>
+
+                <li>On-Premise Deploy</li>
+
+            </ul>
+
+        </div>
+
+    </div>
+
+
+
+</div>
+
+
+
+<footer>
+
+    <p>Project Status: <span class="status">READY FOR DEPLOYMENT</span></p>
+
+    <p>Charles Kendrick | 2025-12-09</p>
+
+</footer>
+
+
+
+<script>
+
+    // Simple animation for the graph on load
+
+    window.onload = function() {
+
+        const forgeBar = document.getElementById('forge-bar');
+
+        forgeBar.style.width = '0%';
+
+        setTimeout(() => {
+
+            forgeBar.style.width = '70%';
+
+        }, 300);
+
+    };
+
+</script>
+
+
+
+</body>
+
+</html>
+
+Coding partner
+Hello! I am your Coding Partner. I see you've drafted a sleek, high-contrast landing page for a fictional technology called "Context Forge."
+
+It looks like you are building a product launch/landing page with a specific focus on a "Dark Mode" or "Cyberpunk" aesthetic.
+
+Here is an overview of the code you shared and how we can work with it.
+
+Overview of Your Solution
+Your code creates a complete, single-page responsive layout. Here are the standout technical features I noticed:
+
+CSS Variables: You are using :root to manage your color palette (Neon Green, Cyan, Dark Backgrounds). This makes theming changes very easy.
+
+Modern Layouts: You utilized CSS Grid for the feature cards (grid-template-columns: repeat(auto-fit, minmax(250px, 1fr))) and Flexbox for the pricing, which ensures the site looks good on different screen sizes.
+
+Micro-Interactions: The JavaScript at the bottom adds a nice "load-in" animation to the graph bar, giving the page a dynamic feel.
+
+Visual Hierarchy: You used a specific gradient on the h1 tag (-webkit-background-clip: text) to make the title pop.
+
+Implementation Instructions
+To view and work on this project, follow these steps:
+
+Create a File: Open your code editor (like VS Code, Notepad++, or Sublime Text).
+
+Paste: Copy the entire code block you provided into a new file.
+
+Save: Save the file as index.html.
+
+Run: Double-click index.html to open it in your default web browser.
+
+Suggested Improvements (Code Enhancement)
+While the code is solid, a landing page usually needs a Call to Action (CTA) button to convert visitors. Also, on very small mobile screens, the pricing cards might feel a bit cramped without a specific media query.
+
+Here is an updated snippet you can add to your CSS and HTML to include a glowing "Deploy" button and refine the mobile experience.
+
+1. Add this to your <style> section:
+CSS
+/* Add this inside your <style> tag */
+
+.cta-container {
+    text-align: center;
+    margin: 4rem 0;
+}
+
+.cta-button {
+    background-color: var(--primary);
+    color: #000;
+    padding: 1rem 3rem;
+    font-size: 1.2rem;
+    font-weight: bold;
+    border: none;
+    border-radius: 50px;
+    cursor: pointer;
+    text-transform: uppercase;
+    letter-spacing: 2px;
+    transition: all 0.3s ease;
+    box-shadow: 0 0 15px rgba(0, 255, 157, 0.4);
+}
+
+.cta-button:hover {
+    background-color: #fff;
+    box-shadow: 0 0 25px rgba(0, 255, 157, 0.8);
+    transform: scale(1.05);
+}
+
+/* Mobile Polish */
+@media (max-width: 768px) {
+    h1 { font-size: 2rem; }
+    .pricing-section { flex-direction: column; }
+    .pricing-card { margin-bottom: 1rem; }
+}
+2. Add this HTML before the Footer:
+HTML
+<div class="cta-container">
+    <button class="cta-button" onclick="alert('Initiating Neural Handshake...')">
+        Initialize Core
+    </button>
+</div>
+Summary of Changes
+CTA Button: I added a neon-green button with a box-shadow glow effect that intensifies on hover, matching your "Sovereign" card style.
+
+Media Query: I added a @media block to ensure the Pricing Section stacks vertically on tablets and phones, and slightly reduced the header font size for better readability on small screens.
+
+Would you like me to help you extract the CSS into a separate stylesheet, or shall we work on adding more interactivity to the pricing cards?
+
+redo that but 1000times better use this pdf as a guide
+
+Coding partner
+This is a significant upgrade. To make this "1000 times better," we will move away from a standard flat layout to a high-fidelity, "Glassmorphism" aesthetic that fits the futuristic 2025 theme described in your PDF.
+
+Overview of the Solution
+We will implement a "Cinematic" Landing Page.
+
+
+Visual Style: We will use Glassmorphism (frosted glass effects), animated backgrounds, and neon glowing borders to reflect the "Multi-Modal Modulation" technology.
+
+
+Data Accuracy: The graph will accurately reflect the jump from 34% (Standard) to 70% (Context Forge).
+
+Interactive Elements: We will use JavaScript IntersectionObserver to trigger animations only when the user scrolls to them (e.g., the bars filling up dynamically).
+
+
+Content Fidelity: The pricing and features are mapped exactly to the "Pro Developer," "Agency Team," and "Sovereign Enterprise" tiers found in the document.
+
+Implementation Instructions
+Create: A new file named context-forge-v2.html.
+
+Copy & Paste: The code block below.
+
+Assets: This code imports fonts from Google Fonts automatically. No other downloads are required.
+
+The Code
+HTML
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Context Forge | Neural Bridging & Context Orchestration</title>
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Inter:wght@300;400;600&family=Space+Grotesk:wght@400;600;700&display=swap" rel="stylesheet">
+    
+    <style>
+        /* --- CORE VARIABLES --- */
+        :root {
+            --primary: #00ffa3;     /* Neon Green */
+            --primary-dim: rgba(0, 255, 163, 0.1);
+            --secondary: #00d9ff;   /* Cyan */
+            --bg-dark: #050505;
+            --glass-bg: rgba(255, 255, 255, 0.03);
+            --glass-border: rgba(255, 255, 255, 0.08);
+            --text-main: #ffffff;
+            --text-muted: #8892b0;
+            --font-head: 'Space Grotesk', sans-serif;
+            --font-body: 'Inter', sans-serif;
+        }
+
+        /* --- GLOBAL RESET & ANIMATION --- */
+        * { box-sizing: border-box; margin: 0; padding: 0; }
+        
+        body {
+            background-color: var(--bg-dark);
+            background-image: 
+                radial-gradient(circle at 15% 50%, rgba(0, 217, 255, 0.08), transparent 25%), 
+                radial-gradient(circle at 85% 30%, rgba(0, 255, 163, 0.05), transparent 25%);
+            color: var(--text-main);
+            font-family: var(--font-body);
+            line-height: 1.6;
+            overflow-x: hidden;
+        }
+
+        /* Subtle Grid Overlay */
+        body::before {
+            content: "";
+            position: fixed;
+            top: 0; left: 0; width: 100%; height: 100%;
+            background-image: 
+                linear-gradient(var(--glass-border) 1px, transparent 1px),
+                linear-gradient(90deg, var(--glass-border) 1px, transparent 1px);
+            background-size: 50px 50px;
+            opacity: 0.05;
+            z-index: -1;
+            pointer-events: none;
+        }
+
+        /* --- TYPOGRAPHY --- */
+        h1, h2, h3 { font-family: var(--font-head); font-weight: 700; }
+        
+        .gradient-text {
+            background: linear-gradient(135deg, var(--primary) 0%, var(--secondary) 100%);
+            -webkit-background-clip: text;
+            -webkit-text-fill-color: transparent;
+        }
+
+        /* --- LAYOUT UTILS --- */
+        .container {
+            max-width: 1200px;
+            margin: 0 auto;
+            padding: 0 2rem;
+        }
+
+        section { padding: 6rem 0; }
+
+        /* --- GLASS COMPONENT --- */
+        .glass-panel {
+            background: var(--glass-bg);
+            backdrop-filter: blur(12px);
+            -webkit-backdrop-filter: blur(12px);
+            border: 1px solid var(--glass-border);
+            border-radius: 16px;
+            box-shadow: 0 4px 30px rgba(0, 0, 0, 0.3);
+            transition: transform 0.3s ease, box-shadow 0.3s ease;
+        }
+
+        /* --- HERO SECTION --- */
+        header {
+            min-height: 90vh;
+            display: flex;
+            flex-direction: column;
+            justify-content: center;
+            text-align: center;
+            position: relative;
+        }
+
+        .hero-title {
+            font-size: clamp(3rem, 8vw, 5rem);
+            line-height: 1.1;
+            margin-bottom: 1.5rem;
+            text-transform: uppercase;
+            letter-spacing: -2px;
+        }
+
+        .hero-sub {
+            font-size: 1.25rem;
+            color: var(--text-muted);
+            max-width: 600px;
+            margin: 0 auto 3rem;
+        }
+
+        .vision-box {
+            border-left: 4px solid var(--primary);
+            padding: 2rem;
+            margin: 2rem auto;
+            max-width: 800px;
+            text-align: left;
+            background: linear-gradient(90deg, var(--primary-dim), transparent);
+        }
+
+        /* --- GRAPH SECTION (VELOCITY JUMP) --- */
+        .graph-wrapper {
+            display: grid;
+            grid-template-columns: 1fr 1fr;
+            gap: 4rem;
+            align-items: center;
+        }
+
+        .chart-container {
+            padding: 2rem;
+            position: relative;
+        }
+
+        .bar-group { margin-bottom: 2rem; }
+        
+        .bar-label {
+            display: flex;
+            justify-content: space-between;
+            margin-bottom: 0.5rem;
+            font-family: var(--font-head);
+            font-size: 0.9rem;
+            letter-spacing: 1px;
+        }
+
+        .bar-bg {
+            background: rgba(255,255,255,0.05);
+            height: 30px;
+            border-radius: 4px;
+            overflow: hidden;
+            position: relative;
+        }
+
+        .bar-fill {
+            height: 100%;
+            width: 0%; /* JS will animate this */
+            display: flex;
+            align-items: center;
+            justify-content: flex-end;
+            padding-right: 10px;
+            font-weight: bold;
+            font-size: 0.8rem;
+            color: #000;
+            transition: width 1.5s cubic-bezier(0.22, 1, 0.36, 1);
+        }
+
+        .fill-std { background: #555; color: #fff; }
+        .fill-forge { 
+            background: linear-gradient(90deg, var(--secondary), var(--primary)); 
+            box-shadow: 0 0 20px var(--primary-dim);
+        }
+
+        /* --- FEATURES GRID --- */
+        .features-grid {
+            display: grid;
+            grid-template-columns: repeat(auto-fit, minmax(280px, 1fr));
+            gap: 2rem;
+        }
+
+        .feature-card {
+            padding: 2rem;
+        }
+        
+        .feature-card:hover {
+            transform: translateY(-5px);
+            border-color: var(--primary);
+        }
+
+        .feature-icon {
+            font-size: 2rem;
+            margin-bottom: 1rem;
+            color: var(--primary);
+        }
+
+        /* --- PRICING --- */
+        .pricing-grid {
+            display: grid;
+            grid-template-columns: repeat(auto-fit, minmax(300px, 1fr));
+            gap: 2rem;
+            margin-top: 3rem;
+        }
+
+        .pricing-card {
+            padding: 3rem 2rem;
+            text-align: center;
+            position: relative;
+            overflow: hidden;
+        }
+
+        .pricing-card.sovereign {
+            border: 1px solid var(--primary);
+            box-shadow: 0 0 30px rgba(0, 255, 163, 0.1);
+        }
+
+        .pricing-card.sovereign::after {
+            content: "ENTERPRISE GRADE";
+            position: absolute;
+            top: 15px; right: -30px;
+            background: var(--primary);
+            color: #000;
+            font-size: 0.7rem;
+            font-weight: bold;
+            padding: 5px 30px;
+            transform: rotate(45deg);
+        }
+
+        .price-tag {
+            font-size: 3rem;
+            font-family: var(--font-head);
+            margin: 1.5rem 0;
+            color: #fff;
+        }
+        
+        .price-tag span { font-size: 1rem; color: var(--text-muted); }
+
+        .feature-list {
+            list-style: none;
+            margin-top: 2rem;
+            text-align: left;
+        }
+
+        .feature-list li {
+            padding: 0.8rem 0;
+            border-bottom: 1px solid rgba(255,255,255,0.05);
+            color: var(--text-muted);
+            display: flex;
+            align-items: center;
+        }
+        
+        .feature-list li::before {
+            content: "▹";
+            color: var(--primary);
+            margin-right: 10px;
+        }
+
+        /* --- CTA BUTTON --- */
+        .cta-btn {
+            display: inline-block;
+            background: transparent;
+            color: var(--primary);
+            border: 1px solid var(--primary);
+            padding: 1rem 3rem;
+            font-family: var(--font-head);
+            text-transform: uppercase;
+            letter-spacing: 2px;
+            cursor: pointer;
+            transition: all 0.3s ease;
+            text-decoration: none;
+            margin-top: 2rem;
+            position: relative;
+            overflow: hidden;
+        }
+
+        .cta-btn:hover {
+            background: var(--primary);
+            color: #000;
+            box-shadow: 0 0 30px var(--primary);
+        }
+
+        /* --- FOOTER --- */
+        footer {
+            border-top: 1px solid var(--glass-border);
+            padding: 4rem 0;
+            text-align: center;
+            color: var(--text-muted);
+            font-size: 0.9rem;
+        }
+
+        .status-dot {
+            height: 10px; width: 10px;
+            background-color: var(--primary);
+            border-radius: 50%;
+            display: inline-block;
+            margin-right: 8px;
+            box-shadow: 0 0 10px var(--primary);
+        }
+
+        /* --- RESPONSIVE --- */
+        @media (max-width: 768px) {
+            .graph-wrapper { grid-template-columns: 1fr; }
+            .hero-title { font-size: 3rem; }
+        }
+    </style>
+</head>
+<body>
+
+    <header class="container">
+        <h1 class="hero-title">Context <span class="gradient-text">Forge</span></h1>
+        <p class="hero-sub">The Future of Neural Bridging & Context Orchestration.</p>
+        
+        <div class="glass-panel vision-box">
+            <p style="font-style: italic; font-size: 1.1rem;">
+                "We have breached the static context barrier. We are not just compressing data; we are redefining how AI models consume, hide, and process information."
+            </p>
+        </div>
+        
+        <div>
+            <a href="#velocity" class="cta-btn">Initialize System</a>
+        </div>
+    </header>
+
+    <section id="velocity" class="container">
+        <div class="glass-panel" style="padding: 3rem;">
+            <div class="graph-wrapper">
+                <div>
+                    <h2 style="font-size: 2.5rem; margin-bottom: 1rem;">The Velocity Jump</h2>
+                    <p style="color: var(--text-muted); margin-bottom: 1.5rem;">
+                        Standard compression hits a ceiling at 34%. Context Forge utilizes 
+                        <strong style="color:var(--text-main)">Multi-Modal Modulation</strong> (Ultrasonic Audio & Optical Flashing) to bypass text limits entirely[cite: 10, 11].
+                    </p>
+                    <div style="font-size: 4rem; font-weight: bold; color: var(--primary);">
+                        70% <span style="font-size: 1.5rem; color: var(--text-muted);">Density</span>
+                    </div>
+                </div>
+
+                <div class="chart-container">
+                    <div class="bar-group">
+                        <div class="bar-label">
+                            <span>Standard GZIP+JSON</span>
+                            <span>34%</span>
+                        </div>
+                        <div class="bar-bg">
+                            <div class="bar-fill fill-std" data-width="34%"></div>
+                        </div>
+                    </div>
+                    
+                    <div class="bar-group">
+                        <div class="bar-label">
+                            <span class="gradient-text">Context Forge (Optic/Sonic)</span>
+                            <span style="color: var(--primary);">70%</span>
+                        </div>
+                        <div class="bar-bg">
+                            <div class="bar-fill fill-forge" data-width="70%"></div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </section>
+
+    <section class="container">
+        <h2 style="text-align: center; margin-bottom: 3rem;">Enterprise Capabilities</h2>
+        <div class="features-grid">
+            <div class="glass-panel feature-card">
+                <div class="feature-icon">⟡</div>
+                <h3>Context Sovereignty</h3>
+                <p style="color: var(--text-muted); margin-top: 0.5rem;">Unrestricted model interoperability for power users[cite: 21].</p>
+            </div>
+
+            <div class="glass-panel feature-card">
+                <div class="feature-icon">⌬</div>
+                <h3>Scenario Simulation</h3>
+                <p style="color: var(--text-muted); margin-top: 0.5rem;">Advanced environment testing (formerly 'Memory Injection')[cite: 22].</p>
+            </div>
+
+            <div class="glass-panel feature-card">
+                <div class="feature-icon">⏣</div>
+                <h3>Steganographic Vault</h3>
+                <p style="color: var(--text-muted); margin-top: 0.5rem;">Embed 500+ bytes into generic corporate assets[cite: 22].</p>
+            </div>
+
+            <div class="glass-panel feature-card">
+                <div class="feature-icon">⌘</div>
+                <h3>Vernacular Engine</h3>
+                <p style="color: var(--text-muted); margin-top: 0.5rem;">Hyper-specific dialect and linguistic alignment[cite: 22].</p>
+            </div>
+        </div>
+    </section>
+
+    <section class="container">
+        <h2 style="text-align: center;">Revenue Model</h2>
+        <p style="text-align: center; color: var(--text-muted);">Tiered SaaS approach designed for maximum ARR[cite: 24].</p>
+        
+        <div class="pricing-grid">
+            <div class="glass-panel pricing-card">
+                <h3>Pro Developer</h3>
+                <div class="price-tag">$49<span>/mo</span></div>
+                <ul class="feature-list">
+                    <li>Vernacular Tools</li>
+                    <li>Priority CLI</li>
+                    <li>Sonic/Optic Beta</li>
+                </ul>
+            </div>
+
+            <div class="glass-panel pricing-card">
+                <h3>Agency Team</h3>
+                <div class="price-tag">$149<span>/mo</span></div>
+                <ul class="feature-list">
+                    <li>Batch Processing</li>
+                    <li>Steganography Suite</li>
+                    <li>5 User Seats</li>
+                </ul>
+            </div>
+
+            <div class="glass-panel pricing-card sovereign">
+                <h3 class="gradient-text">Sovereign Ent.</h3>
+                <div class="price-tag">$499+<span>/mo</span></div>
+                <ul class="feature-list">
+                    <li>AES-256 Encryption</li>
+                    <li>Unrestricted Access</li>
+                    <li>On-Premise Deploy</li>
+                </ul>
+                <a href="#" class="cta-btn" style="width: 100%; margin-top: 2rem;">Contact Sales</a>
+            </div>
+        </div>
+    </section>
+
+    <footer>
+        <div class="container">
+            <div style="margin-bottom: 1rem;">
+                <span class="status-dot"></span> <span style="letter-spacing: 1px; font-weight: bold;">READY FOR DEPLOYMENT</span>
+            </div>
+            <p>Charles Kendrick | 2025-12-09 [cite: 26]</p>
+            <p style="margin-top: 0.5rem; opacity: 0.5;">Context Forge &copy; 2025. All Contexts Reserved.</p>
+        </div>
+    </footer>
+
+    <script>
+        // Intersection Observer to trigger graph animations when visible
+        const observerOptions = {
+            threshold: 0.5
+        };
+
+        const observer = new IntersectionObserver((entries) => {
+            entries.forEach(entry => {
+                if (entry.isIntersecting) {
+                    const fills = entry.target.querySelectorAll('.bar-fill');
+                    fills.forEach(fill => {
+                        const targetWidth = fill.getAttribute('data-width');
+                        fill.style.width = targetWidth;
+                        // Add text inside after animation starts
+                        setTimeout(() => fill.innerText = targetWidth, 100);
+                    });
+                    observer.unobserve(entry.target);
+                }
+            });
+        }, observerOptions);
+
+        const chartSection = document.querySelector('.chart-container');
+        if(chartSection) {
+            observer.observe(chartSection);
+        }
+    </script>
+</body>
+</html>
+use these for references and change the color scheme to a black on gold with some dark red lighty mixed in the theme is a super high-end very elegant future for the wealthy. The page should have less big boxes and more elegant sales points the page should be very in debt with legal and ethical concerns well addressed but off to the side so as not to distract but presented professionally as required. the page should be 2 to 3 time longer...go over some of the use cases with profitability possibilities worked in
+
+Coding partner
+This is a complete reimagining of the brand. We are moving from "Cyberpunk/Hacker" to "Ultra-High-Net-Worth Industrialist."
+
+This landing page uses a "Black Onyx & Gold Leaf" aesthetic. The code is significantly longer to accommodate the detailed use cases and the dedicated legal/ethical section you requested.
+
+Design Highlights
+Palette: Deep Obsidian Black (#0a0a0a), Polished Gold (#d4af37), and a subtle Blood Red (#3b0000) for the "danger/power" accents.
+
+Typography: We switched to Cinzel (a font inspired by Roman inscriptions) for headers to project authority and wealth.
+
+Content:
+
+Profitability Focus: The use cases are framed not just as features, but as revenue generators (e.g., "Boutique AI Personalities").
+
+Legal Section: I created a "Governance & Compliance" section that looks like a high-end legal brief. It is detailed but visually distinct, using the dark red accent to signify importance without distracting from the sales flow.
+
+Data Fidelity: All stats (29-34% compression, 492 bytes steganography) are pulled directly from your provided documents.
+
+Implementation
+Save the following code as index.html.
+
+HTML
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Context Forge | Sovereign Intelligence Architecture</title>
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Cinzel:wght@400;700;900&family=Montserrat:wght@300;400;500&display=swap" rel="stylesheet">
+    
+    <style>
+        /* --- WEALTH & POWER VARIABLES --- */
+        :root {
+            --onyx: #050505;
+            --charcoal: #121212;
+            --gold-leaf: #d4af37;
+            --gold-dim: #8a7024;
+            --gold-light: #f9f1d0;
+            --blood-red: #3b0000;
+            --crimson: #660000;
+            --text-main: #e0e0e0;
+            --text-gold: #c5a028;
+            
+            --font-display: 'Cinzel', serif;
+            --font-body: 'Montserrat', sans-serif;
+            
+            --border-thin: 1px solid rgba(212, 175, 55, 0.2);
+            --border-glow: 1px solid rgba(212, 175, 55, 0.5);
+        }
+
+        /* --- RESET & BASE --- */
+        * { box-sizing: border-box; margin: 0; padding: 0; }
+        
+        body {
+            background-color: var(--onyx);
+            color: var(--text-main);
+            font-family: var(--font-body);
+            line-height: 1.8;
+            overflow-x: hidden;
+            font-weight: 300;
+        }
+
+        /* Subtle Grain Texture */
+        body::before {
+            content: "";
+            position: fixed;
+            top: 0; left: 0; width: 100%; height: 100%;
+            background-image: url("data:image/svg+xml,%3Csvg viewBox='0 0 200 200' xmlns='http://www.w3.org/2000/svg'%3E%3Cfilter id='noiseFilter'%3E%3CfeTurbulence type='fractalNoise' baseFrequency='0.65' numOctaves='3' stitchTiles='stitch'/%3E%3C/filter%3E%3Crect width='100%25' height='100%25' filter='url(%23noiseFilter)' opacity='0.03'/%3E%3C/svg%3E");
+            pointer-events: none;
+            z-index: 1000;
+        }
+
+        h1, h2, h3, h4 {
+            font-family: var(--font-display);
+            text-transform: uppercase;
+            letter-spacing: 2px;
+            color: var(--gold-leaf);
+        }
+
+        p { margin-bottom: 1.5rem; color: #aaa; }
+        
+        strong { color: var(--gold-light); font-weight: 500; }
+
+        /* --- UTILITIES --- */
+        .container {
+            max-width: 1100px;
+            margin: 0 auto;
+            padding: 0 2rem;
+        }
+        
+        .gold-gradient-text {
+            background: linear-gradient(to right, var(--gold-leaf), var(--gold-light), var(--gold-leaf));
+            -webkit-background-clip: text;
+            -webkit-text-fill-color: transparent;
+            background-size: 200% auto;
+            animation: shine 5s linear infinite;
+        }
+
+        @keyframes shine {
+            to { background-position: 200% center; }
+        }
+
+        .section-divider {
+            height: 1px;
+            background: linear-gradient(90deg, transparent, var(--gold-dim), transparent);
+            margin: 6rem auto;
+            max-width: 600px;
+        }
+
+        /* --- HERO SECTION --- */
+        header {
+            min-height: 100vh;
+            display: flex;
+            flex-direction: column;
+            justify-content: center;
+            align-items: center;
+            text-align: center;
+            position: relative;
+            background: radial-gradient(circle at 50% 30%, #1a1005 0%, var(--onyx) 70%);
+        }
+
+        .logo-mark {
+            font-size: 4rem;
+            color: var(--gold-leaf);
+            margin-bottom: 2rem;
+            text-shadow: 0 0 30px rgba(212, 175, 55, 0.2);
+            animation: pulse 3s infinite ease-in-out;
+        }
+
+        h1 {
+            font-size: clamp(2.5rem, 6vw, 4.5rem);
+            margin-bottom: 1.5rem;
+            line-height: 1.2;
+        }
+
+        .tagline {
+            font-size: 1.2rem;
+            max-width: 600px;
+            color: var(--text-gold);
+            border-top: 1px solid var(--gold-dim);
+            border-bottom: 1px solid var(--gold-dim);
+            padding: 1.5rem 0;
+            margin-bottom: 3rem;
+        }
+
+        .cta-gold {
+            background: linear-gradient(135deg, var(--gold-leaf), var(--gold-dim));
+            color: var(--onyx);
+            padding: 1.2rem 3.5rem;
+            font-family: var(--font-display);
+            font-weight: 700;
+            text-decoration: none;
+            letter-spacing: 2px;
+            transition: all 0.4s ease;
+            border: 1px solid var(--gold-light);
+            position: relative;
+            overflow: hidden;
+        }
+
+        .cta-gold:hover {
+            transform: translateY(-2px);
+            box-shadow: 0 0 40px rgba(212, 175, 55, 0.3);
+            color: #000;
+        }
+
+        /* --- VISION / QUOTE --- */
+        .vision-section {
+            text-align: center;
+            padding: 8rem 0;
+            position: relative;
+        }
+
+        blockquote {
+            font-family: var(--font-display);
+            font-size: 2rem;
+            color: var(--text-main);
+            max-width: 900px;
+            margin: 0 auto;
+            line-height: 1.4;
+        }
+
+        blockquote cite {
+            display: block;
+            font-size: 1rem;
+            color: var(--gold-dim);
+            margin-top: 2rem;
+            font-family: var(--font-body);
+            font-style: normal;
+            letter-spacing: 3px;
+        }
+
+        /* --- THE VELOCITY JUMP (Data) --- */
+        .tech-showcase {
+            display: grid;
+            grid-template-columns: 1fr 1fr;
+            gap: 4rem;
+            align-items: center;
+            margin: 4rem 0;
+        }
+
+        .tech-desc h2 { font-size: 2.5rem; margin-bottom: 1.5rem; }
+        
+        .stat-row {
+            display: flex;
+            justify-content: space-between;
+            border-bottom: 1px solid #333;
+            padding: 1rem 0;
+            font-family: var(--font-display);
+        }
+
+        .stat-val { color: var(--gold-leaf); font-weight: 700; }
+
+        .chart-minimal {
+            position: relative;
+            height: 300px;
+            border-left: 1px solid var(--gold-dim);
+            border-bottom: 1px solid var(--gold-dim);
+            display: flex;
+            align-items: flex-end;
+            justify-content: space-around;
+            padding-bottom: 1rem;
+        }
+
+        .bar {
+            width: 80px;
+            background: #222;
+            position: relative;
+            transition: height 1.5s ease;
+        }
+
+        .bar.gold {
+            background: linear-gradient(to top, var(--gold-dim), var(--gold-leaf));
+            box-shadow: 0 0 30px rgba(212, 175, 55, 0.1);
+        }
+        
+        .bar-label {
+            position: absolute;
+            bottom: -40px;
+            left: 50%;
+            transform: translateX(-50%);
+            font-size: 0.8rem;
+            text-align: center;
+            width: 150px;
+            color: #666;
+        }
+
+        .bar-val {
+            position: absolute;
+            top: -30px;
+            left: 50%;
+            transform: translateX(-50%);
+            color: var(--gold-leaf);
+            font-weight: bold;
+        }
+
+        /* --- USE CASES (PROFITABILITY) --- */
+        .use-case-grid {
+            display: grid;
+            grid-template-columns: repeat(auto-fit, minmax(300px, 1fr));
+            gap: 3rem;
+            margin-top: 4rem;
+        }
+
+        .use-case-item {
+            border-left: 2px solid var(--gold-dim);
+            padding-left: 2rem;
+            transition: all 0.3s ease;
+        }
+
+        .use-case-item:hover {
+            border-left-color: var(--gold-leaf);
+            background: linear-gradient(90deg, rgba(212,175,55,0.05), transparent);
+        }
+
+        .use-case-title {
+            color: var(--gold-light);
+            font-size: 1.2rem;
+            margin-bottom: 1rem;
+            font-family: var(--font-display);
+        }
+
+        .profit-note {
+            font-size: 0.85rem;
+            color: var(--gold-dim);
+            text-transform: uppercase;
+            letter-spacing: 1px;
+            margin-top: 1rem;
+            display: block;
+        }
+
+        /* --- LEGAL & ETHICS (Dark Red Theme) --- */
+        .legal-section {
+            background: linear-gradient(180deg, var(--onyx), #150505);
+            border-top: 1px solid var(--crimson);
+            border-bottom: 1px solid var(--crimson);
+            padding: 6rem 0;
+            margin: 6rem 0;
+            position: relative;
+        }
+
+        .legal-sidebar {
+            border-left: 3px solid var(--crimson);
+            padding-left: 2rem;
+            color: #aaa;
+        }
+
+        .legal-header {
+            color: #ff4d4d; /* Bright red for text header */
+            font-size: 1.8rem;
+            margin-bottom: 2rem;
+            display: flex;
+            align-items: center;
+            gap: 1rem;
+        }
+
+        .compliance-grid {
+            display: grid;
+            grid-template-columns: 1fr 1fr;
+            gap: 4rem;
+        }
+
+        .legal-item { margin-bottom: 2rem; }
+        .legal-item h4 { color: #cc3333; font-size: 0.9rem; margin-bottom: 0.5rem; }
+
+        /* --- PRICING --- */
+        .pricing-section { text-align: center; }
+        
+        .tier-cards {
+            display: flex;
+            justify-content: center;
+            gap: 2rem;
+            flex-wrap: wrap;
+            margin-top: 4rem;
+        }
+
+        .tier-card {
+            background: var(--charcoal);
+            border: 1px solid #333;
+            padding: 3rem 2rem;
+            width: 300px;
+            position: relative;
+            transition: transform 0.3s;
+        }
+
+        .tier-card.sovereign {
+            border: 1px solid var(--gold-leaf);
+            background: radial-gradient(circle at top right, rgba(212, 175, 55, 0.1), transparent);
+            transform: scale(1.05);
+            z-index: 10;
+        }
+
+        .price {
+            font-size: 3rem;
+            font-family: var(--font-display);
+            color: var(--text-main);
+            margin: 1.5rem 0;
+        }
+        
+        .price span { font-size: 1rem; color: #666; }
+
+        .features-list {
+            list-style: none;
+            text-align: left;
+            margin-top: 2rem;
+            font-size: 0.9rem;
+        }
+
+        .features-list li {
+            margin-bottom: 1rem;
+            padding-bottom: 0.5rem;
+            border-bottom: 1px solid #222;
+            color: #bbb;
+        }
+        
+        .features-list li::before {
+            content: "✦";
+            color: var(--gold-dim);
+            margin-right: 10px;
+        }
+
+        /* --- FOOTER --- */
+        footer {
+            padding: 4rem 0;
+            text-align: center;
+            border-top: 1px solid #222;
+            color: #444;
+            font-size: 0.8rem;
+        }
+
+        @media (max-width: 768px) {
+            .tech-showcase, .compliance-grid { grid-template-columns: 1fr; }
+            .tier-card.sovereign { transform: scale(1); }
+        }
+    </style>
+</head>
+<body>
+
+    <header>
+        <div class="logo-mark">⚜</div>
+        <h1>Context <span class="gold-gradient-text">Forge</span></h1>
+        <p class="tagline">The Future of Neural Bridging & Context Orchestration</p>
+        <a href="#deploy" class="cta-gold">Acquire Access</a>
+    </header>
+
+    <section class="vision-section container">
+        <p style="text-transform: uppercase; letter-spacing: 4px; color: var(--gold-dim); margin-bottom: 2rem;">Executive Vision</p>
+        <blockquote>
+            "We have breached the static context barrier. We are not just compressing data; we are redefining how AI models consume, hide, and process information."
+            <cite>Charles Kendrick | Chief Architect</cite>
+        </blockquote>
+    </section>
+
+    <div class="section-divider"></div>
+
+    <section class="container">
+        <div class="tech-showcase">
+            <div class="tech-desc">
+                <h2>The Velocity Jump</h2>
+                <p>Standard data compression hits a ceiling at 34%. Context Forge utilizes <strong>Multi-Modal Modulation</strong>—including ultrasonic encoding and high-frequency optical flashing—to bypass traditional text limits entirely.</p>
+                
+                <div style="margin-top: 2rem;">
+                    <div class="stat-row">
+                        <span>Compression Protocol</span>
+                        <span>B85+GZIP+JSON</span>
+                    </div>
+                    <div class="stat-row">
+                        <span>Payload Density</span>
+                        <span class="stat-val">70%</span>
+                    </div>
+                    <div class="stat-row">
+                        <span>Steganography Cap</span>
+                        <span class="stat-val">492 Bytes (PNG)</span>
+                    </div>
+                </div>
+            </div>
+
+            <div class="chart-minimal">
+                <div class="bar" style="height: 34%;">
+                    <span class="bar-val">34%</span>
+                    <span class="bar-label">Standard GZIP</span>
+                </div>
+                <div class="bar gold" id="forge-bar" style="height: 0%;">
+                    <span class="bar-val">70%</span>
+                    <span class="bar-label">Context Forge</span>
+                </div>
+            </div>
+        </div>
+    </section>
+
+    <section class="container">
+        <div class="section-divider"></div>
+        <h2 style="text-align: center; margin-bottom: 4rem;">Elite Applications</h2>
+        
+        <div class="use-case-grid">
+            <div class="use-case-item">
+                <h3 class="use-case-title">Corporate Personality Injection</h3>
+                <p>Inject industry-specific terminology and "Brand Voice" directly into neural model responses. Customize AI to align perfectly with corporate ethos, eliminating generic outputs.</p>
+                <span class="profit-note">Profitability: High-Ticket B2B Consulting</span>
+            </div>
+
+            <div class="use-case-item">
+                <h3 class="use-case-title">Vernacular Modification</h3>
+                <p>Program AI to adopt specific dialects, from hyper-regional slang to historical speech patterns (e.g., "1920s Industrialist"). Create bespoke AI personas for entertainment or exclusive concierge services.</p>
+                <span class="profit-note">Profitability: Boutique AI Experience Design</span>
+            </div>
+
+            <div class="use-case-item">
+                <h3 class="use-case-title">Steganographic Vault</h3>
+                <p>Embed sensitive business intelligence—competitor analysis, financial projections, or strategic plans—into innocent corporate assets like logos or header images (PNG/PDF).</p>
+                <span class="profit-note">Profitability: Secure IP Transfer Services</span>
+            </div>
+            
+            <div class="use-case-item">
+                <h3 class="use-case-title">Scenario Simulation</h3>
+                <p>Formerly known as "Memory Injection." Test environmental variables and AI behavior modification in a controlled sandbox before deploying to live customer-facing agents.</p>
+                <span class="profit-note">Profitability: Risk Assessment Audits</span>
+            </div>
+        </div>
+    </section>
+
+    <section class="legal-section">
+        <div class="container">
+            <div class="compliance-grid">
+                <div class="legal-intro">
+                    <div class="legal-header">
+                        <span>⚖</span> Governance & Ethics
+                    </div>
+                    <p style="color: #999;">
+                        Context Forge operates at the bleeding edge of neural orchestration. As such, we maintain a rigorous adherence to international data sovereignty laws and ethical AI guidelines. This technology is powerful; its application requires discipline.
+                    </p>
+                    <p style="font-size: 0.8rem; opacity: 0.7; margin-top: 2rem;">
+                        *Use of "Grey Area" features such as behavioral bypass is restricted to authorized research and security testing environments only.
+                    </p>
+                </div>
+
+                <div class="legal-sidebar">
+                    <div class="legal-item">
+                        <h4>Data Privacy & GDPR</h4>
+                        <p style="font-size: 0.85rem; margin:0;">Full compliance for user data handling. Zero-knowledge architecture ensures payloads remain opaque even to system administrators.</p>
+                    </div>
+                    
+                    <div class="legal-item">
+                        <h4>Responsible AI Guidelines</h4>
+                        <p style="font-size: 0.85rem; margin:0;">Strict terms of service prohibit the use of Context Forge for malicious deception, fraud, or non-consensual deepfake generation.</p>
+                    </div>
+
+                    <div class="legal-item">
+                        <h4>Export Controls</h4>
+                        <p style="font-size: 0.85rem; margin:0;">Encryption technologies (AES-256) are subject to international export regulations. Enterprise clients must verify jurisdictional compliance.</p>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </section>
+
+    <section class="pricing-section container" id="deploy">
+        <h2>Revenue Models</h2>
+        <p style="max-width: 500px; margin: 0 auto;">Select the architecture that aligns with your operational scale.</p>
+
+        <div class="tier-cards">
+            <div class="tier-card">
+                <h3>Pro Developer</h3>
+                <div class="price">$49<span>/mo</span></div>
+                <ul class="features-list">
+                    <li>Vernacular Tools</li>
+                    <li>Priority CLI Access</li>
+                    <li>Sonic/Optic Beta</li>
+                    <li>Standard Encryption</li>
+                </ul>
+            </div>
+
+            <div class="tier-card">
+                <h3>Agency Team</h3>
+                <div class="price">$149<span>/mo</span></div>
+                <ul class="features-list">
+                    <li>Batch Processing</li>
+                    <li>Steganography Suite</li>
+                    <li>5 User Seats</li>
+                    <li>Commercial License</li>
+                </ul>
+            </div>
+
+            <div class="tier-card sovereign">
+                <h3 style="color: var(--gold-leaf);">Sovereign Ent.</h3>
+                <div class="price">$499+<span>/mo</span></div>
+                <ul class="features-list">
+                    <li><strong>AES-256 Encryption</strong></li>
+                    <li>Unrestricted Model Access</li>
+                    <li>On-Premise Deployment</li>
+                    <li>Dedicated Neural Engineer</li>
+                </ul>
+                <div style="margin-top: 2rem; color: var(--gold-leaf); font-size: 0.8rem; letter-spacing: 1px;">
+                    AVAILABLE BY APPLICATION
+                </div>
+            </div>
+        </div>
+    </section>
+
+    <footer>
+        <div class="container">
+            <p style="color: var(--gold-dim); letter-spacing: 2px; margin-bottom: 0.5rem;">STATUS: READY FOR DEPLOYMENT</p>
+            <p>Charles Kendrick | 2025-12-09 | Maricopa, AZ</p>
+            <p style="opacity: 0.3; margin-top: 1rem;">
+                © 2025 Context Forge. All Rights Reserved. <br>
+                Security Analysis Report #492-B85 verified.
+            </p>
+        </div>
+    </footer>
+
+    <script>
+        // Simple Intersection Observer to animate the graph
+        const observer = new IntersectionObserver((entries) => {
+            entries.forEach(entry => {
+                if (entry.isIntersecting) {
+                    document.getElementById('forge-bar').style.height = '70%';
+                }
+            });
+        });
+        observer.observe(document.querySelector('.chart-minimal'));
+    </script>
+</body>
+</html>
+
+
+
+Gemini can make mistakes, so double-check it
+
