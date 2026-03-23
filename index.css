@@ -1,0 +1,84 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+@layer base {
+  * {
+    box-sizing: border-box;
+  }
+  
+  body {
+    font-family: 'JetBrains Mono', monospace;
+    background: linear-gradient(135deg, #0f172a 0%, #1e293b 50%, #334155 100%);
+    color: #f1f5f9;
+    min-height: 100vh;
+  }
+  
+  ::-webkit-scrollbar {
+    width: 8px;
+  }
+  
+  ::-webkit-scrollbar-track {
+    background: #1e293b;
+  }
+  
+  ::-webkit-scrollbar-thumb {
+    background: #475569;
+    border-radius: 4px;
+  }
+  
+  ::-webkit-scrollbar-thumb:hover {
+    background: #64748b;
+  }
+}
+
+@layer components {
+  .garage-card {
+    @apply bg-garage-800/50 backdrop-blur-sm border border-garage-600/30 rounded-xl p-6 shadow-xl hover:shadow-2xl transition-all duration-300 hover:border-oil-500/50;
+  }
+  
+  .mechanic-button {
+    @apply bg-gradient-to-r from-mechanic-600 to-mechanic-700 hover:from-mechanic-500 hover:to-mechanic-600 text-white font-semibold py-3 px-6 rounded-lg shadow-lg hover:shadow-xl transition-all duration-300 transform hover:scale-105;
+  }
+  
+  .oil-button {
+    @apply bg-gradient-to-r from-oil-600 to-oil-700 hover:from-oil-500 hover:to-oil-600 text-white font-semibold py-3 px-6 rounded-lg shadow-lg hover:shadow-xl transition-all duration-300 transform hover:scale-105;
+  }
+  
+  .garage-input {
+    @apply bg-garage-700/50 border border-garage-600/50 rounded-lg px-4 py-3 text-garage-100 placeholder-garage-400 focus:outline-none focus:ring-2 focus:ring-oil-500 focus:border-transparent transition-all duration-300;
+  }
+  
+  .status-indicator {
+    @apply inline-flex items-center px-3 py-1 rounded-full text-sm font-medium;
+  }
+  
+  .status-running {
+    @apply bg-green-900/30 text-green-400 border border-green-500/30;
+  }
+  
+  .status-idle {
+    @apply bg-blue-900/30 text-blue-400 border border-blue-500/30;
+  }
+  
+  .status-error {
+    @apply bg-red-900/30 text-red-400 border border-red-500/30;
+  }
+  
+  .lift-card {
+    @apply garage-card hover:bg-garage-700/50 cursor-pointer transform hover:scale-102 transition-all duration-300;
+  }
+  
+  .tool-panel {
+    @apply bg-garage-900/80 backdrop-blur-sm border border-garage-600/30 rounded-xl p-4 shadow-inner;
+  }
+  
+  .neon-glow {
+    @apply shadow-lg;
+    box-shadow: 0 0 20px rgba(245, 158, 11, 0.3);
+  }
+  
+  .neon-glow:hover {
+    box-shadow: 0 0 30px rgba(245, 158, 11, 0.5);
+  }
+}

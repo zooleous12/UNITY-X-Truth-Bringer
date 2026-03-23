@@ -1,0 +1,2148 @@
+This XML file does not appear to have any style information associated with it. The document tree is shown below.
+<DCSA_Summary_Log>
+<XSDVersion>2406</XSDVersion>
+<Hardware_Info>
+<HardwareInfoGUID>D2DCF03D-DC45-4D82-AF90-7248CA57A822</HardwareInfoGUID>
+<DDV_Revision>7.8.5.1719</DDV_Revision>
+<File_Creation_Datetime>2025-12-20T00:04:04-11:00</File_Creation_Datetime>
+<Data_Begining_Date>2025-12-19T10:58:21-11:00</Data_Begining_Date>
+<Data_Ending_Date>2025-12-20T00:04:04-11:00</Data_Ending_Date>
+<System_Service_Tag>1WMW944</System_Service_Tag>
+<System_Model>Latitude 5540</System_Model>
+<Hostname>Ondaway</Hostname>
+<Motherboard_ePPID>VN0FPD87WSV00499008QA00</Motherboard_ePPID>
+<BIOS_Version>1.26.0</BIOS_Version>
+<System_Type>Laptop(10)</System_Type>
+<Processor_Information>13th Gen Intel(R) Core(TM) i5-1345U[Cores 10] [Logical processors 12]</Processor_Information>
+<Processor_Speed>1600</Processor_Speed>
+<Processor>
+<DeviceID>CPU0</DeviceID>
+<Name>13th Gen Intel(R) Core(TM) i5-1345U</Name>
+<NumberOfCores>10</NumberOfCores>
+<NumberOfLogicalProcessor>12</NumberOfLogicalProcessor>
+<CurrentClockSpeed>1600</CurrentClockSpeed>
+<MaxClockSpeed>1600</MaxClockSpeed>
+</Processor>
+<LCD_Avg_Brightness_AC_Pct>75</LCD_Avg_Brightness_AC_Pct>
+<LCD_Avg_Brightness_DC_Pct>0</LCD_Avg_Brightness_DC_Pct>
+<Video_Controller>Intel(R) UHD Graphics</Video_Controller>
+<Video_RAM_Bytes>134217728</Video_RAM_Bytes>
+<Number_of_Displays>2</Number_of_Displays>
+<CurrentTimerMode>Normal</CurrentTimerMode>
+<DefaultTimerMode>Normal</DefaultTimerMode>
+<Monitor>
+<HardwareInfoGUID>D2DCF03D-DC45-4D82-AF90-7248CA57A822</HardwareInfoGUID>
+<Index>0</Index>
+<Monitor_Type>Non Dell Monitor</Monitor_Type>
+<Vendor_Specific_Data>M97YF.156WFC</Vendor_Specific_Data>
+<DriverVersion>10.0.26100.5074</DriverVersion>
+</Monitor>
+<Monitor>
+<HardwareInfoGUID>D2DCF03D-DC45-4D82-AF90-7248CA57A822</HardwareInfoGUID>
+<Index>1</Index>
+<Monitor_Type>Non Dell Monitor</Monitor_Type>
+<Model_Name>65S451</Model_Name>
+<DriverVersion>10.0.26100.5074</DriverVersion>
+</Monitor>
+<Operating_System>Microsoft Windows 11 Pro[64-bit OS][System Locale en-US]</Operating_System>
+<Operating_System_Information>
+<Caption>Microsoft Windows 11 Pro</Caption>
+<EditionID>Professional</EditionID>
+<OSArchitecture>64-bit</OSArchitecture>
+<BuildBranch>ge_release</BuildBranch>
+<Codename>Hudson Valley</Codename>
+<MarketName>Windows 11 2024 Update</MarketName>
+<ReleaseId>2009</ReleaseId>
+<Version>10.0.26100</Version>
+<CurrentMajorVersionNumber>10</CurrentMajorVersionNumber>
+<CurrentMinorVersionNumber>0</CurrentMinorVersionNumber>
+<CurrentVersion>10.0</CurrentVersion>
+<CurrentBuildNumber>26100</CurrentBuildNumber>
+<UpdateBuildRevision>6584</UpdateBuildRevision>
+<MUILanguage>en-US</MUILanguage>
+<OSLanguage>1033</OSLanguage>
+<Locale>0409</Locale>
+<CSDVersion>N/A</CSDVersion>
+<CSDBuildNumber>N/A</CSDBuildNumber>
+<ServicePackMajorVersion>0</ServicePackMajorVersion>
+<ServicePackMinorVersion>0</ServicePackMinorVersion>
+</Operating_System_Information>
+<Last_Restart_Time>2025-12-19T12:21:53-11:00</Last_Restart_Time>
+<Last_Start_Time>2025-12-19T12:22:38-11:00</Last_Start_Time>
+<First_Boot_Date>20241030</First_Boot_Date>
+<AC_Adapter_Type_W>65</AC_Adapter_Type_W>
+<Bios_Internal_Logs>
+<HardwareInfoGUID>D2DCF03D-DC45-4D82-AF90-7248CA57A822</HardwareInfoGUID>
+<Name>BiosLog_Src_Cbs</Name>
+<Time>2025-12-19T11:03:37</Time>
+<LogType>Power_Event_Logs</LogType>
+<EventCode>0x01</EventCode>
+<Descr>Power on event</Descr>
+</Bios_Internal_Logs>
+<Bios_Internal_Logs>
+<HardwareInfoGUID>D2DCF03D-DC45-4D82-AF90-7248CA57A822</HardwareInfoGUID>
+<Name>BiosLog_Src_Cbs</Name>
+<Time>2025-12-19T12:23:47</Time>
+<LogType>Power_Event_Logs</LogType>
+<EventCode>0x01</EventCode>
+<Descr>Power on event</Descr>
+</Bios_Internal_Logs>
+<Bios_Internal_Logs>
+<HardwareInfoGUID>D2DCF03D-DC45-4D82-AF90-7248CA57A822</HardwareInfoGUID>
+<Name>BiosLog_Src_Cbs</Name>
+<Time>2025-12-19T12:22:01</Time>
+<LogType>Power_Event_Logs</LogType>
+<EventCode>0x01</EventCode>
+<Descr>Power on event</Descr>
+</Bios_Internal_Logs>
+<Cables>
+<HardwareInfoGUID>D2DCF03D-DC45-4D82-AF90-7248CA57A822</HardwareInfoGUID>
+<Index>0</Index>
+<Name>CPU</Name>
+<Status>Installed</Status>
+</Cables>
+<Cables>
+<HardwareInfoGUID>D2DCF03D-DC45-4D82-AF90-7248CA57A822</HardwareInfoGUID>
+<Index>1</Index>
+<Name>MemoryModule</Name>
+<Status>Installed</Status>
+</Cables>
+<Cables>
+<HardwareInfoGUID>D2DCF03D-DC45-4D82-AF90-7248CA57A822</HardwareInfoGUID>
+<Index>2</Index>
+<Name>FunctionalMemory</Name>
+<Status>Installed</Status>
+</Cables>
+<Cables>
+<HardwareInfoGUID>D2DCF03D-DC45-4D82-AF90-7248CA57A822</HardwareInfoGUID>
+<Index>3</Index>
+<Name>MemorySPD</Name>
+<Status>Installed</Status>
+</Cables>
+<Cables>
+<HardwareInfoGUID>D2DCF03D-DC45-4D82-AF90-7248CA57A822</HardwareInfoGUID>
+<Index>4</Index>
+<Name>TouchPad</Name>
+<Status>Installed</Status>
+</Cables>
+<Cables>
+<HardwareInfoGUID>D2DCF03D-DC45-4D82-AF90-7248CA57A822</HardwareInfoGUID>
+<Index>5</Index>
+<Name>Keyboard</Name>
+<Status>Installed</Status>
+</Cables>
+<Cables>
+<HardwareInfoGUID>D2DCF03D-DC45-4D82-AF90-7248CA57A822</HardwareInfoGUID>
+<Index>6</Index>
+<Name>LCDCable</Name>
+<Status>Installed</Status>
+</Cables>
+<Cables>
+<HardwareInfoGUID>D2DCF03D-DC45-4D82-AF90-7248CA57A822</HardwareInfoGUID>
+<Index>7</Index>
+<Name>KeyboardBacklightOption</Name>
+<Status>Installed</Status>
+</Cables>
+<Cables>
+<HardwareInfoGUID>D2DCF03D-DC45-4D82-AF90-7248CA57A822</HardwareInfoGUID>
+<Index>8</Index>
+<Name>MicrophoneCameraBoardOption</Name>
+<Status>Installed</Status>
+</Cables>
+<Cables>
+<HardwareInfoGUID>D2DCF03D-DC45-4D82-AF90-7248CA57A822</HardwareInfoGUID>
+<Index>9</Index>
+<Name>SmartCardAntennaOption</Name>
+<Status>NotInstalled</Status>
+</Cables>
+<Cables>
+<HardwareInfoGUID>D2DCF03D-DC45-4D82-AF90-7248CA57A822</HardwareInfoGUID>
+<Index>10</Index>
+<Name>WirelessSwitch</Name>
+<Status>On</Status>
+</Cables>
+<Cables>
+<HardwareInfoGUID>D2DCF03D-DC45-4D82-AF90-7248CA57A822</HardwareInfoGUID>
+<Index>11</Index>
+<Name>WLAN</Name>
+<Status>Installed</Status>
+</Cables>
+<Cables>
+<HardwareInfoGUID>D2DCF03D-DC45-4D82-AF90-7248CA57A822</HardwareInfoGUID>
+<Index>12</Index>
+<Name>Bluetooth</Name>
+<Status>Installed</Status>
+</Cables>
+<Cables>
+<HardwareInfoGUID>D2DCF03D-DC45-4D82-AF90-7248CA57A822</HardwareInfoGUID>
+<Index>13</Index>
+<Name>WWAN</Name>
+<Status>NotInstalled</Status>
+</Cables>
+<Battery>
+<HardwareInfoGUID>D2DCF03D-DC45-4D82-AF90-7248CA57A822</HardwareInfoGUID>
+<Index>0</Index>
+<Manufacture_Date>2024/07/11</Manufacture_Date>
+<Serial_Number>1903</Serial_Number>
+<Chemistry>LiP</Chemistry>
+<Design_Capacity_mAH>4737</Design_Capacity_mAH>
+<Name>DELL RXF9T46</Name>
+<Mfg_Name>SMP</Mfg_Name>
+<FullChargeCapacity>3697</FullChargeCapacity>
+<Cycle_Count>71</Cycle_Count>
+<ePPID>VN0RXF9TSLB0046P91GVA03</ePPID>
+<Discharge_Time_mins>0.00</Discharge_Time_mins>
+<Charge_Time_mins>0.00</Charge_Time_mins>
+<Dwell_Time_mins>771.97</Dwell_Time_mins>
+<Dwell_Avg_RSOC_Level>99.91</Dwell_Avg_RSOC_Level>
+<Dwell_Temp_Avg>24.53</Dwell_Temp_Avg>
+<Dwell_Temp_Std_Dev>0.82</Dwell_Temp_Std_Dev>
+<Dwell_Temp_Max>26</Dwell_Temp_Max>
+<Dwell_Temp_Min>23</Dwell_Temp_Min>
+<BMUData>
+<BatteryAnalytics>Present</BatteryAnalytics>
+<BatteryAnalyticsRaw>
+<![CDATA[ 00 8e 03 00 02 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 93 00 01 00 00 0c 00 0c 00 20 00 56 00 6c 00 23 00 00 00 00 00 88 00 8f 01 ba 04 79 08 1d 04 9f 35 04 02 00 00 00 00 00 5a 01 e9 09 89 0f 3b 05 8d 00 32 00 00 00 00 00 93 00 24 04 01 07 d5 02 80 04 03 26 00 01 00 00 00 00 00 1d 00 4c 01 67 02 43 00 0f 00 00 00 00 00 00 00 1e 00 91 00 32 30 02 04 01 30 00 03 00 00 00 00 00 bc 29 00 00 51 ba 01 00 5b 7c 01 00 97 c1 00 00 b0 50 00 00 59 05 05 14 08 00 00 51 01 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 73 00 06 00 02 00 0a 00 39 00 f0 00 ff 01 a4 01 00 00 00 00 20 00 9a 01 b8 04 6d 08 2d 05 32 01 31 05 07 00 00 00 00 5b 00 22 03 e8 08 79 06 15 01 1c 00 00 00 d4 00 00 00 dd 4b 00 00 d9 ac 01 aa 05 08 00 66 7c 02 00 ae e2 00 00 f0 00 00 00 00 00 00 00 00 00 00 00 4a 00 53 02 1a 03 ed 00 15 05 09 01 00 00 00 00 00 04 00 01 00 00 00 00 00 03 00 00 00 01 00 17 00 0e 00 02 00 00 00 00 3a 00 0a 00 00 00 00 00 01 00 0e 00 09 00 04 00 01 00 01 00 00 00 09 00 08 00 03 00 00 00 02 00 3e 00 0b 10 00 11 00 03 00 03 00 1a 00 1b 00 08 00 1f 00 1d 00 0e 00 00 00 00 00 01 00 00 00 00 ba 00 0c 00 02 00 00 00 00 00 00 00 02 00 00 00 01 00 01 00 00 00 05 00 01 00 00 00 00 00 00 00 18 00 0d 00 00 02 00 00 00 00 00 00 00 00 00 01 00 00 00 04 00 19 00 0d 00 10 00 0b 00 0b 00 13 73 00 0e 00 15 00 04 00 12 00 1b 00 4d 00 19 00 00 00 00 00 9d 00 4d 00 30 00 13 00 14 00 06 00 01 02 0f 00 00 00 00 00 00 81 12 cf 02 00 00 81 12 9f 05 01 00 81 12 45 24 41 00 74 0d 6e 24 42 3d 05 10 00 11 0e e1 26 43 00 11 0e e2 26 43 00 c5 0c 7f 28 44 00 e6 0c ab 28 45 00 71 0e a0 29 f1 07 11 47 00 71 0e 00 00 00 00 00 00 00 00 00 00 00 00 5a 0d 21 26 3c 15 82 0f 00 00 26 0e 00 9b 02 12 00 5b 01 01 00 5e 31 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 fe 00 13 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 13 00 14 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 14 00 15 00 00 00 00 00 00 00 00 00 00 01 00 fc 31 35 11 34 11 32 11 00 00 bb 04 03 01 01 00 f6 cb 03 16 31 33 11 32 11 31 11 00 00 bd 04 f8 00 01 00 e5 31 31 11 2e 11 2c 11 00 00 c1 04 e4 00 47 06 17 01 00 89 2d bb 0f bb 0f bc 0f 00 00 2a 2b fd 00 01 00 7a 2d b5 0f b6 0f b9 0f 00 00 33 ab 07 18 2b fb 00 01 00 4b 2d a7 0f a8 0f a9 0f 00 00 48 2b f4 00 01 00 53 2d a8 0f a8 0f aa 0f eb 07 19 00 00 4d 2b fa 00 01 00 fc 2d e2 0f e1 0f e3 0f 00 00 4f 2b 08 01 01 00 f8 2d e1 0f e1 02 09 1a 0f e2 0f 00 00 50 2b 0b 01 01 00 f2 2d e0 0f df 0f df 0f 00 00 54 2b 0e 01 01 00 52 2d 9a 06 1b d9 0f d8 0f d9 0f 00 00 5a 2b ee 00 01 00 5e 2d c9 0f c7 0f c9 0f 00 00 6a 2b ff 00 01 ec 08 1c 00 a2 2d c4 0f c3 0f c4 0f 00 00 70 2b f4 00 01 00 a5 2d c4 0f c5 0f c6 0f 00 00 71 2b dd 08 1d fa 00 01 00 a4 2d c5 0f c4 0f c6 0f 00 00 72 2b 05 01 01 00 a3 2d c5 0f c4 0f c5 0f 00 54 08 1e 00 73 2b fb 00 03 00 19 29 59 0e 58 0e 5a 0e 00 00 7a 2b 1e 01 01 00 a5 2f 72 10 71 10 cd 05 1f 73 10 00 00 7e 2b f0 00 01 00 a7 2f 72 10 70 10 72 10 00 00 80 2b 00 01 01 00 a3 2f 72 87 06 20 10 70 10 70 10 00 00 81 2b f6 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 d2 02 ]]>
+</BatteryAnalyticsRaw>
+</BMUData>
+</Battery>
+<NBFan>
+<HardwareInfoGUID>D2DCF03D-DC45-4D82-AF90-7248CA57A822</HardwareInfoGUID>
+<Index>0</Index>
+<Location>Processor Fan</Location>
+<Fan_Duty_Cycle_Pct>27</Fan_Duty_Cycle_Pct>
+<RPM>0</RPM>
+<Peak_Fan_RPM>2368</Peak_Fan_RPM>
+<Average_Fan_RPM>583</Average_Fan_RPM>
+<RPM_0_Pct>73</RPM_0_Pct>
+<RPM_0_1000_Pct>0</RPM_0_1000_Pct>
+<RPM_1000_1700_Pct>0</RPM_1000_1700_Pct>
+<RPM_1700_2200_Pct>14</RPM_1700_2200_Pct>
+<RPM_2200_2600_Pct>14</RPM_2200_2600_Pct>
+<RPM_2600_2900_Pct>0</RPM_2600_2900_Pct>
+<RPM_2900_3100_Pct>0</RPM_2900_3100_Pct>
+<RPM_3100_3300_Pct>0</RPM_3100_3300_Pct>
+<RPM_3300_3600_Pct>0</RPM_3300_3600_Pct>
+<RPM_3600_3900_Pct>0</RPM_3600_3900_Pct>
+<RPM_3900_4200_Pct>0</RPM_3900_4200_Pct>
+<RPM_4200_4600_Pct>0</RPM_4200_4600_Pct>
+<RPM_4600_5100_Pct>0</RPM_4600_5100_Pct>
+<RPM_5100_5600_Pct>0</RPM_5100_5600_Pct>
+<RPM_5600_6200_Pct>0</RPM_5600_6200_Pct>
+<RPM_6200_7000_Pct>0</RPM_6200_7000_Pct>
+<RPM_GT7000_Pct>0</RPM_GT7000_Pct>
+</NBFan>
+<Thermistor>
+<HardwareInfoGUID>D2DCF03D-DC45-4D82-AF90-7248CA57A822</HardwareInfoGUID>
+<Index>0</Index>
+<Location>CPU Thermistor</Location>
+<Temp>47</Temp>
+<Peak_Temp>68</Peak_Temp>
+<Avg_Temp>51</Avg_Temp>
+<Min_Temp>47</Min_Temp>
+<Std_Dev_Temp>7</Std_Dev_Temp>
+<Temp_0_30C_Pct>0</Temp_0_30C_Pct>
+<Temp_30_40C_Pct>0</Temp_30_40C_Pct>
+<Temp_40_50C_Pct>73</Temp_40_50C_Pct>
+<Temp_50_60C_Pct>14</Temp_50_60C_Pct>
+<Temp_60_70C_Pct>14</Temp_60_70C_Pct>
+<Temp_70_80C_Pct>0</Temp_70_80C_Pct>
+<Temp_80_90C_Pct>0</Temp_80_90C_Pct>
+<Temp_90_100C_Pct>0</Temp_90_100C_Pct>
+<Temp_GT100C_Pct>0</Temp_GT100C_Pct>
+</Thermistor>
+<Thermistor>
+<HardwareInfoGUID>D2DCF03D-DC45-4D82-AF90-7248CA57A822</HardwareInfoGUID>
+<Index>1</Index>
+<Location>Other Thermistor</Location>
+<Temp>33</Temp>
+<Peak_Temp>39</Peak_Temp>
+<Avg_Temp>34</Avg_Temp>
+<Min_Temp>32</Min_Temp>
+<Std_Dev_Temp>2</Std_Dev_Temp>
+<Temp_0_30C_Pct>0</Temp_0_30C_Pct>
+<Temp_30_40C_Pct>100</Temp_30_40C_Pct>
+<Temp_40_50C_Pct>0</Temp_40_50C_Pct>
+<Temp_50_60C_Pct>0</Temp_50_60C_Pct>
+<Temp_60_70C_Pct>0</Temp_60_70C_Pct>
+<Temp_70_80C_Pct>0</Temp_70_80C_Pct>
+<Temp_80_90C_Pct>0</Temp_80_90C_Pct>
+<Temp_90_100C_Pct>0</Temp_90_100C_Pct>
+<Temp_GT100C_Pct>0</Temp_GT100C_Pct>
+</Thermistor>
+<Thermistor>
+<HardwareInfoGUID>D2DCF03D-DC45-4D82-AF90-7248CA57A822</HardwareInfoGUID>
+<Index>2</Index>
+<Location>Other Thermistor</Location>
+<Temp>36</Temp>
+<Peak_Temp>36</Peak_Temp>
+<Avg_Temp>36</Avg_Temp>
+<Min_Temp>33</Min_Temp>
+<Std_Dev_Temp>1</Std_Dev_Temp>
+<Temp_0_30C_Pct>0</Temp_0_30C_Pct>
+<Temp_30_40C_Pct>100</Temp_30_40C_Pct>
+<Temp_40_50C_Pct>0</Temp_40_50C_Pct>
+<Temp_50_60C_Pct>0</Temp_50_60C_Pct>
+<Temp_60_70C_Pct>0</Temp_60_70C_Pct>
+<Temp_70_80C_Pct>0</Temp_70_80C_Pct>
+<Temp_80_90C_Pct>0</Temp_80_90C_Pct>
+<Temp_90_100C_Pct>0</Temp_90_100C_Pct>
+<Temp_GT100C_Pct>0</Temp_GT100C_Pct>
+</Thermistor>
+<Thermistor>
+<HardwareInfoGUID>D2DCF03D-DC45-4D82-AF90-7248CA57A822</HardwareInfoGUID>
+<Index>3</Index>
+<Location>Other Thermistor</Location>
+<Temp>44</Temp>
+<Peak_Temp>48</Peak_Temp>
+<Avg_Temp>44</Avg_Temp>
+<Min_Temp>37</Min_Temp>
+<Std_Dev_Temp>4</Std_Dev_Temp>
+<Temp_0_30C_Pct>0</Temp_0_30C_Pct>
+<Temp_30_40C_Pct>23</Temp_30_40C_Pct>
+<Temp_40_50C_Pct>77</Temp_40_50C_Pct>
+<Temp_50_60C_Pct>0</Temp_50_60C_Pct>
+<Temp_60_70C_Pct>0</Temp_60_70C_Pct>
+<Temp_70_80C_Pct>0</Temp_70_80C_Pct>
+<Temp_80_90C_Pct>0</Temp_80_90C_Pct>
+<Temp_90_100C_Pct>0</Temp_90_100C_Pct>
+<Temp_GT100C_Pct>0</Temp_GT100C_Pct>
+</Thermistor>
+<Thermistor>
+<HardwareInfoGUID>D2DCF03D-DC45-4D82-AF90-7248CA57A822</HardwareInfoGUID>
+<Index>4</Index>
+<Location>Ambient Thermistor</Location>
+<Temp>34</Temp>
+<Peak_Temp>36</Peak_Temp>
+<Avg_Temp>34</Avg_Temp>
+<Min_Temp>33</Min_Temp>
+<Std_Dev_Temp>1</Std_Dev_Temp>
+<Temp_0_30C_Pct>0</Temp_0_30C_Pct>
+<Temp_30_40C_Pct>100</Temp_30_40C_Pct>
+<Temp_40_50C_Pct>0</Temp_40_50C_Pct>
+<Temp_50_60C_Pct>0</Temp_50_60C_Pct>
+<Temp_60_70C_Pct>0</Temp_60_70C_Pct>
+<Temp_70_80C_Pct>0</Temp_70_80C_Pct>
+<Temp_80_90C_Pct>0</Temp_80_90C_Pct>
+<Temp_90_100C_Pct>0</Temp_90_100C_Pct>
+<Temp_GT100C_Pct>0</Temp_GT100C_Pct>
+</Thermistor>
+<Thermistor>
+<HardwareInfoGUID>D2DCF03D-DC45-4D82-AF90-7248CA57A822</HardwareInfoGUID>
+<Index>5</Index>
+<Location>Unknown Thermistor</Location>
+<Temp>0</Temp>
+<Peak_Temp>0</Peak_Temp>
+<Avg_Temp>0</Avg_Temp>
+<Min_Temp>0</Min_Temp>
+<Std_Dev_Temp>0</Std_Dev_Temp>
+<Temp_0_30C_Pct>100</Temp_0_30C_Pct>
+<Temp_30_40C_Pct>0</Temp_30_40C_Pct>
+<Temp_40_50C_Pct>0</Temp_40_50C_Pct>
+<Temp_50_60C_Pct>0</Temp_50_60C_Pct>
+<Temp_60_70C_Pct>0</Temp_60_70C_Pct>
+<Temp_70_80C_Pct>0</Temp_70_80C_Pct>
+<Temp_80_90C_Pct>0</Temp_80_90C_Pct>
+<Temp_90_100C_Pct>0</Temp_90_100C_Pct>
+<Temp_GT100C_Pct>0</Temp_GT100C_Pct>
+</Thermistor>
+<Thermistor>
+<HardwareInfoGUID>D2DCF03D-DC45-4D82-AF90-7248CA57A822</HardwareInfoGUID>
+<Index>6</Index>
+<Location>Unknown Thermistor</Location>
+<Temp>0</Temp>
+<Peak_Temp>0</Peak_Temp>
+<Avg_Temp>0</Avg_Temp>
+<Min_Temp>0</Min_Temp>
+<Std_Dev_Temp>0</Std_Dev_Temp>
+<Temp_0_30C_Pct>100</Temp_0_30C_Pct>
+<Temp_30_40C_Pct>0</Temp_30_40C_Pct>
+<Temp_40_50C_Pct>0</Temp_40_50C_Pct>
+<Temp_50_60C_Pct>0</Temp_50_60C_Pct>
+<Temp_60_70C_Pct>0</Temp_60_70C_Pct>
+<Temp_70_80C_Pct>0</Temp_70_80C_Pct>
+<Temp_80_90C_Pct>0</Temp_80_90C_Pct>
+<Temp_90_100C_Pct>0</Temp_90_100C_Pct>
+<Temp_GT100C_Pct>0</Temp_GT100C_Pct>
+</Thermistor>
+<Thermistor>
+<HardwareInfoGUID>D2DCF03D-DC45-4D82-AF90-7248CA57A822</HardwareInfoGUID>
+<Index>7</Index>
+<Location>Unknown Thermistor</Location>
+<Temp>25</Temp>
+<Peak_Temp>26</Peak_Temp>
+<Avg_Temp>25</Avg_Temp>
+<Min_Temp>24</Min_Temp>
+<Std_Dev_Temp>0</Std_Dev_Temp>
+<Temp_0_30C_Pct>100</Temp_0_30C_Pct>
+<Temp_30_40C_Pct>0</Temp_30_40C_Pct>
+<Temp_40_50C_Pct>0</Temp_40_50C_Pct>
+<Temp_50_60C_Pct>0</Temp_50_60C_Pct>
+<Temp_60_70C_Pct>0</Temp_60_70C_Pct>
+<Temp_70_80C_Pct>0</Temp_70_80C_Pct>
+<Temp_80_90C_Pct>0</Temp_80_90C_Pct>
+<Temp_90_100C_Pct>0</Temp_90_100C_Pct>
+<Temp_GT100C_Pct>0</Temp_GT100C_Pct>
+</Thermistor>
+<Hours_On>5.64</Hours_On>
+<Hours_On_AC>5.64</Hours_On_AC>
+<Hours_On_Batt>0.00</Hours_On_Batt>
+<No_Of_AC_Insertions>0</No_Of_AC_Insertions>
+<Number_Of_Battery_Insertions>0</Number_Of_Battery_Insertions>
+<Number_Of_Battery_Sessions>0</Number_Of_Battery_Sessions>
+<Battery_Sessions_0_30mins>0</Battery_Sessions_0_30mins>
+<Battery_Sessions_30min_1hr>0</Battery_Sessions_30min_1hr>
+<Battery_Sessions_1_2hr>0</Battery_Sessions_1_2hr>
+<Battery_Sessions_2_3hr>0</Battery_Sessions_2_3hr>
+<Battery_Sessions_3_4hr>0</Battery_Sessions_3_4hr>
+<Battery_Sessions_4_6hr>0</Battery_Sessions_4_6hr>
+<Battery_Sessions_6_8hr>0</Battery_Sessions_6_8hr>
+<Battery_Sessions_8_12hr>0</Battery_Sessions_8_12hr>
+<Battery_Sessions_GT12hr>0</Battery_Sessions_GT12hr>
+<S5_Requests>0</S5_Requests>
+<S3_Requests>1</S3_Requests>
+<S3_mins>538.37</S3_mins>
+<S3_Event_Bin_0_30_mins>0</S3_Event_Bin_0_30_mins>
+<S3_Event_Bin_30_60_mins>0</S3_Event_Bin_30_60_mins>
+<S3_Event_Bin_60_120_mins>0</S3_Event_Bin_60_120_mins>
+<S3_Event_Bin_120_240_mins>0</S3_Event_Bin_120_240_mins>
+<S3_Event_Bin_240_480_mins>0</S3_Event_Bin_240_480_mins>
+<S3_Event_Bin_480_960_mins>1</S3_Event_Bin_480_960_mins>
+<S3_Event_Bin_GT_960_mins>0</S3_Event_Bin_GT_960_mins>
+<Logical_Processor>
+<HardwareInfoGUID>D2DCF03D-DC45-4D82-AF90-7248CA57A822</HardwareInfoGUID>
+<Index>0</Index>
+<Used_Pct>96</Used_Pct>
+<Avg_Utilization_Pct>21</Avg_Utilization_Pct>
+</Logical_Processor>
+<Logical_Processor>
+<HardwareInfoGUID>D2DCF03D-DC45-4D82-AF90-7248CA57A822</HardwareInfoGUID>
+<Index>1</Index>
+<Used_Pct>91</Used_Pct>
+<Avg_Utilization_Pct>7</Avg_Utilization_Pct>
+</Logical_Processor>
+<Logical_Processor>
+<HardwareInfoGUID>D2DCF03D-DC45-4D82-AF90-7248CA57A822</HardwareInfoGUID>
+<Index>2</Index>
+<Used_Pct>96</Used_Pct>
+<Avg_Utilization_Pct>21</Avg_Utilization_Pct>
+</Logical_Processor>
+<Logical_Processor>
+<HardwareInfoGUID>D2DCF03D-DC45-4D82-AF90-7248CA57A822</HardwareInfoGUID>
+<Index>3</Index>
+<Used_Pct>91</Used_Pct>
+<Avg_Utilization_Pct>7</Avg_Utilization_Pct>
+</Logical_Processor>
+<Logical_Processor>
+<HardwareInfoGUID>D2DCF03D-DC45-4D82-AF90-7248CA57A822</HardwareInfoGUID>
+<Index>4</Index>
+<Used_Pct>96</Used_Pct>
+<Avg_Utilization_Pct>26</Avg_Utilization_Pct>
+</Logical_Processor>
+<Logical_Processor>
+<HardwareInfoGUID>D2DCF03D-DC45-4D82-AF90-7248CA57A822</HardwareInfoGUID>
+<Index>5</Index>
+<Used_Pct>96</Used_Pct>
+<Avg_Utilization_Pct>16</Avg_Utilization_Pct>
+</Logical_Processor>
+<Logical_Processor>
+<HardwareInfoGUID>D2DCF03D-DC45-4D82-AF90-7248CA57A822</HardwareInfoGUID>
+<Index>6</Index>
+<Used_Pct>96</Used_Pct>
+<Avg_Utilization_Pct>15</Avg_Utilization_Pct>
+</Logical_Processor>
+<Logical_Processor>
+<HardwareInfoGUID>D2DCF03D-DC45-4D82-AF90-7248CA57A822</HardwareInfoGUID>
+<Index>7</Index>
+<Used_Pct>91</Used_Pct>
+<Avg_Utilization_Pct>15</Avg_Utilization_Pct>
+</Logical_Processor>
+<Logical_Processor>
+<HardwareInfoGUID>D2DCF03D-DC45-4D82-AF90-7248CA57A822</HardwareInfoGUID>
+<Index>8</Index>
+<Used_Pct>96</Used_Pct>
+<Avg_Utilization_Pct>28</Avg_Utilization_Pct>
+</Logical_Processor>
+<Logical_Processor>
+<HardwareInfoGUID>D2DCF03D-DC45-4D82-AF90-7248CA57A822</HardwareInfoGUID>
+<Index>9</Index>
+<Used_Pct>91</Used_Pct>
+<Avg_Utilization_Pct>17</Avg_Utilization_Pct>
+</Logical_Processor>
+<Logical_Processor>
+<HardwareInfoGUID>D2DCF03D-DC45-4D82-AF90-7248CA57A822</HardwareInfoGUID>
+<Index>10</Index>
+<Used_Pct>96</Used_Pct>
+<Avg_Utilization_Pct>16</Avg_Utilization_Pct>
+</Logical_Processor>
+<Logical_Processor>
+<HardwareInfoGUID>D2DCF03D-DC45-4D82-AF90-7248CA57A822</HardwareInfoGUID>
+<Index>11</Index>
+<Used_Pct>96</Used_Pct>
+<Avg_Utilization_Pct>16</Avg_Utilization_Pct>
+</Logical_Processor>
+<Avg_CPU_Consumption>17.00</Avg_CPU_Consumption>
+<CPU_0_Pct>5</CPU_0_Pct>
+<CPU_1_20_Pct>68</CPU_1_20_Pct>
+<CPU_20_40_Pct>27</CPU_20_40_Pct>
+<CPU_40_60_Pct>0</CPU_40_60_Pct>
+<CPU_60_80_Pct>0</CPU_60_80_Pct>
+<CPU_80_100_Pct>0</CPU_80_100_Pct>
+<Avg_CPU_Throttle>0.00</Avg_CPU_Throttle>
+<Throttle_0_Pct>100</Throttle_0_Pct>
+<Throttle_1_25_Pct>0</Throttle_1_25_Pct>
+<Throttle_25_50_Pct>0</Throttle_25_50_Pct>
+<Throttle_50_75_Pct>0</Throttle_50_75_Pct>
+<Throttle_75_100_Pct>0</Throttle_75_100_Pct>
+<C1_State_Pct>2</C1_State_Pct>
+<C2_State_Pct>1</C2_State_Pct>
+<C3_State_Pct>77</C3_State_Pct>
+<C0_State_Pct>19</C0_State_Pct>
+<Lid_Transitions>0</Lid_Transitions>
+<Lid_Hours_Open>5.64</Lid_Hours_Open>
+<Lid_Hours_Closed>0.00</Lid_Hours_Closed>
+<Disk>
+<HardwareInfoGUID>D2DCF03D-DC45-4D82-AF90-7248CA57A822</HardwareInfoGUID>
+<Index>0</Index>
+<Name>DISK0</Name>
+<Make_Model>USB DISK 3.0 USB Device</Make_Model>
+<Size_MB>118220</Size_MB>
+<DiskGUID>00000000-F172-C7BE-0000-000000000000</DiskGUID>
+<Read_Time_Pct>1</Read_Time_Pct>
+<Write_Time_Pct>3</Write_Time_Pct>
+<Idle_Time_Pct>88</Idle_Time_Pct>
+<Bytes_Read_MB>23274</Bytes_Read_MB>
+<Bytes_Write_MB>101571</Bytes_Write_MB>
+<Partition>
+<HardwareInfoGUID>D2DCF03D-DC45-4D82-AF90-7248CA57A822</HardwareInfoGUID>
+<DiskGUID>00000000-F172-C7BE-0000-000000000000</DiskGUID>
+<Index>0</Index>
+<Name>D</Name>
+<Size_MB>118220</Size_MB>
+</Partition>
+</Disk>
+<Disk>
+<HardwareInfoGUID>D2DCF03D-DC45-4D82-AF90-7248CA57A822</HardwareInfoGUID>
+<Index>1</Index>
+<Name>DISK1</Name>
+<Make_Model>NVMe PC SN740 NVMe WD 256GB</Make_Model>
+<Size_MB>244191</Size_MB>
+<DiskGUID>71DE32F9-56A0-432D-81FD-28F49617C2F4</DiskGUID>
+<Read_Time_Pct>6</Read_Time_Pct>
+<Write_Time_Pct>2</Write_Time_Pct>
+<Idle_Time_Pct>86</Idle_Time_Pct>
+<Bytes_Read_MB>793049</Bytes_Read_MB>
+<Bytes_Write_MB>729028</Bytes_Write_MB>
+<Partition>
+<HardwareInfoGUID>D2DCF03D-DC45-4D82-AF90-7248CA57A822</HardwareInfoGUID>
+<DiskGUID>71DE32F9-56A0-432D-81FD-28F49617C2F4</DiskGUID>
+<Index>0</Index>
+<Name>Not Used</Name>
+<Size_MB>500</Size_MB>
+</Partition>
+<Partition>
+<HardwareInfoGUID>D2DCF03D-DC45-4D82-AF90-7248CA57A822</HardwareInfoGUID>
+<DiskGUID>71DE32F9-56A0-432D-81FD-28F49617C2F4</DiskGUID>
+<Index>1</Index>
+<Name>Not Used</Name>
+<Size_MB>128</Size_MB>
+</Partition>
+<Partition>
+<HardwareInfoGUID>D2DCF03D-DC45-4D82-AF90-7248CA57A822</HardwareInfoGUID>
+<DiskGUID>71DE32F9-56A0-432D-81FD-28F49617C2F4</DiskGUID>
+<Index>2</Index>
+<Name>C</Name>
+<Size_MB>226775</Size_MB>
+</Partition>
+<Partition>
+<HardwareInfoGUID>D2DCF03D-DC45-4D82-AF90-7248CA57A822</HardwareInfoGUID>
+<DiskGUID>71DE32F9-56A0-432D-81FD-28F49617C2F4</DiskGUID>
+<Index>3</Index>
+<Name>Not Used</Name>
+<Size_MB>1466</Size_MB>
+</Partition>
+<Partition>
+<HardwareInfoGUID>D2DCF03D-DC45-4D82-AF90-7248CA57A822</HardwareInfoGUID>
+<DiskGUID>71DE32F9-56A0-432D-81FD-28F49617C2F4</DiskGUID>
+<Index>4</Index>
+<Name>Not Used</Name>
+<Size_MB>13871</Size_MB>
+</Partition>
+<Partition>
+<HardwareInfoGUID>D2DCF03D-DC45-4D82-AF90-7248CA57A822</HardwareInfoGUID>
+<DiskGUID>71DE32F9-56A0-432D-81FD-28F49617C2F4</DiskGUID>
+<Index>5</Index>
+<Name>Not Used</Name>
+<Size_MB>1445</Size_MB>
+</Partition>
+</Disk>
+<LanAdapter>
+<HardwareInfoGUID>D2DCF03D-DC45-4D82-AF90-7248CA57A822</HardwareInfoGUID>
+<Index>0</Index>
+<Name>Intel(R) Ethernet Connection (23) I219-LM</Name>
+<MAC>AC:B4:80:00:27:9E</MAC>
+<LinkSpeed_Kbps>0</LinkSpeed_Kbps>
+<ActivityAC_Pct>0</ActivityAC_Pct>
+<ActivityDC_Pct>0</ActivityDC_Pct>
+</LanAdapter>
+<WlanAdapter>
+<HardwareInfoGUID>D2DCF03D-DC45-4D82-AF90-7248CA57A822</HardwareInfoGUID>
+<Index>0</Index>
+<Name>Intel(R) Wi-Fi 6E AX211 160MHz</Name>
+<MAC>5C:B2:6D:87:03:7F</MAC>
+<LinkSpeed_Kbps>1201000</LinkSpeed_Kbps>
+<WlanRadioOffAC_Pct>0</WlanRadioOffAC_Pct>
+<WlanConnectedAC_Pct>100</WlanConnectedAC_Pct>
+<WlanDisconnectedAC_Pct>0</WlanDisconnectedAC_Pct>
+<WlanRadioOffDC_Pct>0</WlanRadioOffDC_Pct>
+<WlanConnectedDC_Pct>0</WlanConnectedDC_Pct>
+<WlanDisconnectedDC_Pct>0</WlanDisconnectedDC_Pct>
+</WlanAdapter>
+<Smart>
+<HardwareInfoGUID>D2DCF03D-DC45-4D82-AF90-7248CA57A822</HardwareInfoGUID>
+<Index>0</Index>
+<Name>SSD</Name>
+<ePPID>MY0098F8SN20046K0GN0</ePPID>
+<Model>NVMe PC SN740 NVMe WD 256GB</Model>
+<Temp_Avg>40.68</Temp_Avg>
+<Temp_Std_Dev>4.57</Temp_Std_Dev>
+<Temp_Max>49</Temp_Max>
+<Temp_Min>31</Temp_Min>
+<Temp_0_30_Pct>0</Temp_0_30_Pct>
+<Temp_30_40_Pct>50</Temp_30_40_Pct>
+<Temp_40_50_Pct>50</Temp_40_50_Pct>
+<Temp_50_60_Pct>0</Temp_50_60_Pct>
+<Temp_60_70_Pct>0</Temp_60_70_Pct>
+<Temp_70_80_Pct>0</Temp_70_80_Pct>
+<Temp_GT_80_Pct>0</Temp_GT_80_Pct>
+<Blks_Read>51109448</Blks_Read>
+<Blks_Read_Normalized>100</Blks_Read_Normalized>
+<Blks_Read_Worst>0</Blks_Read_Worst>
+<Blks_Written>51377138</Blks_Written>
+<Blks_Written_Normalized>100</Blks_Written_Normalized>
+<Blks_Written_Worst>0</Blks_Written_Worst>
+<Power_On_Hours>1023</Power_On_Hours>
+<Power_On_Hours_Normalized>100</Power_On_Hours_Normalized>
+<Power_On_Hours_Worst>0</Power_On_Hours_Worst>
+<ReAlloc_Sector_Count>0</ReAlloc_Sector_Count>
+<ReAlloc_Sector_Count_Normalized>69</ReAlloc_Sector_Count_Normalized>
+<ReAlloc_Sector_Count_Worst>0</ReAlloc_Sector_Count_Worst>
+<Power_Cycle_Count>391</Power_Cycle_Count>
+<Power_Cycle_Count_Normalized>100</Power_Cycle_Count_Normalized>
+<Power_Cycle_Count_Worst>0</Power_Cycle_Count_Worst>
+<NVMe_Health>
+<AvailableSpaceLow>0</AvailableSpaceLow>
+<TemperatureThreshold>0</TemperatureThreshold>
+<ReliabilityDegraded>0</ReliabilityDegraded>
+<ReadOnly>0</ReadOnly>
+<VolatileMemoryBackupDeviceFailed>0</VolatileMemoryBackupDeviceFailed>
+<Temperature>40</Temperature>
+<AvailableSpare>100</AvailableSpare>
+<AvailableSpareThreshold>50</AvailableSpareThreshold>
+<PercentageUsed>31</PercentageUsed>
+<DataUnitRead>51109427</DataUnitRead>
+<DataUnitWritten>51377127</DataUnitWritten>
+<HostReadCommands>817968437</HostReadCommands>
+<HostWrittenCommands>718084044</HostWrittenCommands>
+<ControllerBusyTime>2001</ControllerBusyTime>
+<PowerCycle>391</PowerCycle>
+<PowerOnHours>1023</PowerOnHours>
+<UnsafeShutdowns>205</UnsafeShutdowns>
+<MediaErrors>0</MediaErrors>
+<ErrorInfoLogEntryCount>0</ErrorInfoLogEntryCount>
+<WarningCompositeTemperatureTime>0</WarningCompositeTemperatureTime>
+<CriticalCompositeTemperatureTime>0</CriticalCompositeTemperatureTime>
+<TemperatureSensor1>56</TemperatureSensor1>
+<TemperatureSensor2>40</TemperatureSensor2>
+<TemperatureSensor3>0</TemperatureSensor3>
+<TemperatureSensor4>0</TemperatureSensor4>
+<TemperatureSensor5>0</TemperatureSensor5>
+<TemperatureSensor6>0</TemperatureSensor6>
+<TemperatureSensor7>0</TemperatureSensor7>
+<TemperatureSensor8>0</TemperatureSensor8>
+<ThermalMgmtTemperature1TransitionCount>0</ThermalMgmtTemperature1TransitionCount>
+<ThermalMgmtTemperature2TransitionCount>0</ThermalMgmtTemperature2TransitionCount>
+<TotalTimeForThermalMgmtTemperature1>0</TotalTimeForThermalMgmtTemperature1>
+<TotalTimeForThermalMgmtTemperature2>0</TotalTimeForThermalMgmtTemperature2>
+<ReAssignedSectorCount>0</ReAssignedSectorCount>
+<ProgramFailCountWorstCaseComponent>0</ProgramFailCountWorstCaseComponent>
+<ProgramFailCountSSDTotal>0</ProgramFailCountSSDTotal>
+<EraseFailCountWorstCaseComponent>0</EraseFailCountWorstCaseComponent>
+<EraseFailCountSSDTotal>0</EraseFailCountSSDTotal>
+<WearLevelingCount>6</WearLevelingCount>
+<UsedReservedBlockCountWorstCaseComponent>0</UsedReservedBlockCountWorstCaseComponent>
+<UsedReservedBlockCountSSDTotal>0</UsedReservedBlockCountSSDTotal>
+<ReservedBlockCountSSDTotal>64</ReservedBlockCountSSDTotal>
+</NVMe_Health>
+</Smart>
+<Logical_Drive_Info_New>
+<HardwareInfoGUID>D2DCF03D-DC45-4D82-AF90-7248CA57A822</HardwareInfoGUID>
+<Index>0</Index>
+<Name>C:</Name>
+<Size_MB>226774</Size_MB>
+<Type>Local Disk</Type>
+<Freespace_MB>121303</Freespace_MB>
+</Logical_Drive_Info_New>
+<Logical_Drive_Info_New>
+<HardwareInfoGUID>D2DCF03D-DC45-4D82-AF90-7248CA57A822</HardwareInfoGUID>
+<Index>1</Index>
+<Name>D:</Name>
+<Size_MB>118215</Size_MB>
+<Type>Removable Disk</Type>
+<Freespace_MB>95692</Freespace_MB>
+</Logical_Drive_Info_New>
+<System_RAM_Bytes>17179869184</System_RAM_Bytes>
+<System_RAM_GB>16.00</System_RAM_GB>
+<DIMM>
+<HardwareInfoGUID>D2DCF03D-DC45-4D82-AF90-7248CA57A822</HardwareInfoGUID>
+<Index>0</Index>
+<Name>DIMM0</Name>
+<Manufacturer>0198000080AD</Manufacturer>
+<Part>K1CXP8-HYC </Part>
+<Location>DIMM 1</Location>
+<Serial>5248001A</Serial>
+</DIMM>
+<DIMM>
+<HardwareInfoGUID>D2DCF03D-DC45-4D82-AF90-7248CA57A822</HardwareInfoGUID>
+<Index>1</Index>
+<Name>DIMM1</Name>
+<Location>DIMM 2</Location>
+<Serial>EMPTY-DIMM</Serial>
+</DIMM>
+<pgs_per_sec_pct>100</pgs_per_sec_pct>
+<min_pgs_per_sec>13</min_pgs_per_sec>
+<max_pgs_per_sec>5126</max_pgs_per_sec>
+<avg_pgs_per_sec>1423.61</avg_pgs_per_sec>
+<FreeMem_0_256MB_Pct>0.00</FreeMem_0_256MB_Pct>
+<FreeMem_256_512MB_Pct>0.00</FreeMem_256_512MB_Pct>
+<FreeMem_512_768MB_Pct>0.00</FreeMem_512_768MB_Pct>
+<FreeMem_768_1024MB_Pct>0.00</FreeMem_768_1024MB_Pct>
+<FreeMem_1024_1280MB_Pct>0.00</FreeMem_1024_1280MB_Pct>
+<FreeMem_1280_1536MB_Pct>0.00</FreeMem_1280_1536MB_Pct>
+<FreeMem_1536_1792MB_Pct>0.00</FreeMem_1536_1792MB_Pct>
+<FreeMem_1792_2048MB_Pct>0.00</FreeMem_1792_2048MB_Pct>
+<FreeMem_2048_2304MB_Pct>0.00</FreeMem_2048_2304MB_Pct>
+<FreeMem_2304_2560MB_Pct>0.00</FreeMem_2304_2560MB_Pct>
+<FreeMem_2560_2816MB_Pct>0.00</FreeMem_2560_2816MB_Pct>
+<FreeMem_2816_3072MB_Pct>0.00</FreeMem_2816_3072MB_Pct>
+<FreeMem_GT3072MB_Pct>100.00</FreeMem_GT3072MB_Pct>
+<AvailMem_0_256MB_Pct>0.00</AvailMem_0_256MB_Pct>
+<AvailMem_256_512MB_Pct>0.00</AvailMem_256_512MB_Pct>
+<AvailMem_512_768MB_Pct>0.00</AvailMem_512_768MB_Pct>
+<AvailMem_768_1024MB_Pct>0.00</AvailMem_768_1024MB_Pct>
+<AvailMem_1024_1280MB_Pct>0.00</AvailMem_1024_1280MB_Pct>
+<AvailMem_1280_1536MB_Pct>0.00</AvailMem_1280_1536MB_Pct>
+<AvailMem_1536_1792MB_Pct>0.00</AvailMem_1536_1792MB_Pct>
+<AvailMem_1792_2048MB_Pct>0.00</AvailMem_1792_2048MB_Pct>
+<AvailMem_2048_2304MB_Pct>0.00</AvailMem_2048_2304MB_Pct>
+<AvailMem_2304_2560MB_Pct>0.00</AvailMem_2304_2560MB_Pct>
+<AvailMem_2560_2816MB_Pct>0.00</AvailMem_2560_2816MB_Pct>
+<AvailMem_2816_3072MB_Pct>0.00</AvailMem_2816_3072MB_Pct>
+<AvailMem_GT3072MB_Pct>100.00</AvailMem_GT3072MB_Pct>
+<Average_PQL>0.50</Average_PQL>
+<Min_PQL>0</Min_PQL>
+<Max_PQL>2</Max_PQL>
+<PQL_0_Pct>54.55</PQL_0_Pct>
+<PQL_1_Pct>40.91</PQL_1_Pct>
+<PQL_2_Pct>4.55</PQL_2_Pct>
+<PQL_3_Pct>0.00</PQL_3_Pct>
+<PQL_4_Pct>0.00</PQL_4_Pct>
+<PQL_5_Pct>0.00</PQL_5_Pct>
+<PQL_5_10_Pct>0.00</PQL_5_10_Pct>
+<PQL_10_20_Pct>0.00</PQL_10_20_Pct>
+<PQL_GT20_Pct>0.00</PQL_GT20_Pct>
+<Average_ThreadCount>3420.82</Average_ThreadCount>
+<Min_ThreadCount>1819</Min_ThreadCount>
+<Max_ThreadCount>4640</Max_ThreadCount>
+<Std_Dev_ThreadCount>472.76</Std_Dev_ThreadCount>
+<BTModule>
+<HardwareInfoGUID>D2DCF03D-DC45-4D82-AF90-7248CA57A822</HardwareInfoGUID>
+<Index>0</Index>
+<Name>Intel(R) Wireless Bluetooth(R)</Name>
+<Address>5C:B2:6D:87:03:83</Address>
+<BTRadioOnAC_Pct>100</BTRadioOnAC_Pct>
+<BTConnectedAC_Pct>0</BTConnectedAC_Pct>
+<BTDisconnectedAC_Pct>100</BTDisconnectedAC_Pct>
+<BTRadioOnDC_Pct>0</BTRadioOnDC_Pct>
+<BTConnectedDC_Pct>0</BTConnectedDC_Pct>
+<BTDisconnectedDC_Pct>0</BTDisconnectedDC_Pct>
+</BTModule>
+<Power_Plans>
+<Power_Plan>
+<HardwareInfoGUID>D2DCF03D-DC45-4D82-AF90-7248CA57A822</HardwareInfoGUID>
+<Index>0</Index>
+<Name>Balanced</Name>
+<Active>Yes</Active>
+<AC_Mode>
+<Turn_Off_Display_After_Seconds>300</Turn_Off_Display_After_Seconds>
+<Sleep_After_Seconds>300</Sleep_After_Seconds>
+<Display_Brightness_Percentage>75</Display_Brightness_Percentage>
+</AC_Mode>
+<DC_Mode>
+<Turn_Off_Display_After_Seconds>180</Turn_Off_Display_After_Seconds>
+<Sleep_After_Seconds>180</Sleep_After_Seconds>
+<Display_Brightness_Percentage>75</Display_Brightness_Percentage>
+</DC_Mode>
+</Power_Plan>
+</Power_Plans>
+<AntiVirusProducts>
+<Product>
+<HardwareInfoGUID>D2DCF03D-DC45-4D82-AF90-7248CA57A822</HardwareInfoGUID>
+<Index>0</Index>
+<DisplayName>Windows Defender</DisplayName>
+<ProductState>397568</ProductState>
+</Product>
+</AntiVirusProducts>
+<ApplicationErrors>
+<ApplicationError>
+<HardwareInfoGUID>D2DCF03D-DC45-4D82-AF90-7248CA57A822</HardwareInfoGUID>
+<Index>0</Index>
+<AppName>GameBar.exe</AppName>
+<AppVersion>0.0.0.0</AppVersion>
+<AppTimestamp>1705017635</AppTimestamp>
+<ModuleName>twinapi.appcore.dll</ModuleName>
+<ModuleVersion>10.0.26100.5074</ModuleVersion>
+<ModuleTimestamp>3022422777</ModuleTimestamp>
+<ExceptionCode>3221226107</ExceptionCode>
+<FaultingOffset>463155</FaultingOffset>
+<ProcessId>1744</ProcessId>
+<AppStartTime>134106478244326288</AppStartTime>
+<AppPath>C:\Program Files\WindowsApps\Microsoft.XboxGamingOverlay_2.624.1111.0_x64__8wekyb3d8bbwe\GameBar.exe</AppPath>
+<ModulePath>C:\Windows\System32\twinapi.appcore.dll</ModulePath>
+<ReportId>7e3faa3a-2619-4cd7-b392-fec781362468</ReportId>
+<PackageName>Microsoft.XboxGamingOverlay_2.624.1111.0_x64__8wekyb3d8bbwe</PackageName>
+<PackageAppId>App</PackageAppId>
+<TimeCreated>2025-12-19T08:57:05-11:00</TimeCreated>
+</ApplicationError>
+<ApplicationError>
+<HardwareInfoGUID>D2DCF03D-DC45-4D82-AF90-7248CA57A822</HardwareInfoGUID>
+<Index>1</Index>
+<AppName>Dell.TechHub.exe</AppName>
+<AppVersion>1.5.15.2</AppVersion>
+<AppTimestamp>1705508864</AppTimestamp>
+<ModuleName>KERNELBASE.dll</ModuleName>
+<ModuleVersion>10.0.26100.6584</ModuleVersion>
+<ModuleTimestamp>177944830</ModuleTimestamp>
+<ExceptionCode>3762504530</ExceptionCode>
+<FaultingOffset>812746</FaultingOffset>
+<ProcessId>4836</ProcessId>
+<AppStartTime>134106502015445239</AppStartTime>
+<AppPath>C:\Program Files\Dell\TechHub\Dell.TechHub.exe</AppPath>
+<ModulePath>C:\Windows\System32\KERNELBASE.dll</ModulePath>
+<ReportId>d7e6380d-c670-49cb-9701-af287e61e1af</ReportId>
+<PackageName/>
+<PackageAppId/>
+<TimeCreated>2025-12-19T09:36:42-11:00</TimeCreated>
+</ApplicationError>
+<ApplicationError>
+<HardwareInfoGUID>D2DCF03D-DC45-4D82-AF90-7248CA57A822</HardwareInfoGUID>
+<Index>2</Index>
+<AppName>Dell.TechHub.exe</AppName>
+<AppVersion>1.5.15.2</AppVersion>
+<AppTimestamp>1705508864</AppTimestamp>
+<ModuleName>KERNELBASE.dll</ModuleName>
+<ModuleVersion>10.0.26100.6584</ModuleVersion>
+<ModuleTimestamp>177944830</ModuleTimestamp>
+<ExceptionCode>3762504530</ExceptionCode>
+<FaultingOffset>812746</FaultingOffset>
+<ProcessId>3404</ProcessId>
+<AppStartTime>134106508286890864</AppStartTime>
+<AppPath>C:\Program Files\Dell\TechHub\Dell.TechHub.exe</AppPath>
+<ModulePath>C:\Windows\System32\KERNELBASE.dll</ModulePath>
+<ReportId>ecc68c75-f69c-4dfc-a269-1e7d0e0e95a9</ReportId>
+<PackageName/>
+<PackageAppId/>
+<TimeCreated>2025-12-19T09:47:09-11:00</TimeCreated>
+</ApplicationError>
+</ApplicationErrors>
+<DiagnosticsPerformanceData>
+<DiagnosticsPerformanceEvent>
+<HardwareInfoGUID>D2DCF03D-DC45-4D82-AF90-7248CA57A822</HardwareInfoGUID>
+<Index>0</Index>
+<EventID>100</EventID>
+<Message>Windows has started up.</Message>
+<TimeCreated>2025-12-19T09:28:44-11:00</TimeCreated>
+<IncidentTime>2025-12-19T09:26:52-11:00</IncidentTime>
+<DurationInMs>29861</DurationInMs>
+<IsDegradation>0</IsDegradation>
+</DiagnosticsPerformanceEvent>
+<DiagnosticsPerformanceEvent>
+<HardwareInfoGUID>D2DCF03D-DC45-4D82-AF90-7248CA57A822</HardwareInfoGUID>
+<Index>1</Index>
+<EventID>200</EventID>
+<Message>Windows has shutdown.</Message>
+<TimeCreated>2025-12-19T09:48:12-11:00</TimeCreated>
+<IncidentTime>2025-12-19T09:45:51-11:00</IncidentTime>
+<DurationInMs>23877</DurationInMs>
+<IsDegradation>0</IsDegradation>
+</DiagnosticsPerformanceEvent>
+<DiagnosticsPerformanceEvent>
+<HardwareInfoGUID>D2DCF03D-DC45-4D82-AF90-7248CA57A822</HardwareInfoGUID>
+<Index>2</Index>
+<EventID>100</EventID>
+<Message>Windows has started up.</Message>
+<TimeCreated>2025-12-19T12:24:24-11:00</TimeCreated>
+<IncidentTime>2025-12-19T12:22:24-11:00</IncidentTime>
+<DurationInMs>72530</DurationInMs>
+<IsDegradation>0</IsDegradation>
+</DiagnosticsPerformanceEvent>
+<DiagnosticsPerformanceEvent>
+<HardwareInfoGUID>D2DCF03D-DC45-4D82-AF90-7248CA57A822</HardwareInfoGUID>
+<Index>3</Index>
+<EventID>110</EventID>
+<Message>Session manager initialization caused a slow down in the startup process.</Message>
+<TimeCreated>2025-12-19T12:24:24-11:00</TimeCreated>
+<IncidentTime>2025-12-19T12:22:24-11:00</IncidentTime>
+</DiagnosticsPerformanceEvent>
+</DiagnosticsPerformanceData>
+</Hardware_Info>
+<Software_Inventory>
+<Application>
+<HardwareInfoGUID>D2DCF03D-DC45-4D82-AF90-7248CA57A822</HardwareInfoGUID>
+<Index>0</Index>
+<Name>Dell Command | Update for Windows Universal</Name>
+<Publisher>Dell Inc.</Publisher>
+<Version>5.0.0</Version>
+<InstallDate>2025-12-19T00:00:00+00:00</InstallDate>
+<ApplicationGuid>289899db-189c-4b8e-a160-c6d146b5c74a</ApplicationGuid>
+</Application>
+<Application>
+<HardwareInfoGUID>D2DCF03D-DC45-4D82-AF90-7248CA57A822</HardwareInfoGUID>
+<Index>1</Index>
+<Name>Dell SupportAssist</Name>
+<Publisher>Dell Inc.</Publisher>
+<Version>4.8.2.29006</Version>
+<InstallDate>2025-12-19T00:00:00+00:00</InstallDate>
+<ApplicationGuid>396c54db-3c24-4ad5-b514-f9fcec2b7637</ApplicationGuid>
+</Application>
+<Application>
+<HardwareInfoGUID>D2DCF03D-DC45-4D82-AF90-7248CA57A822</HardwareInfoGUID>
+<Index>2</Index>
+<Name>Microsoft Visual C++ 2022 X64 Minimum Runtime - 14.44.35211</Name>
+<Publisher>Microsoft Corporation</Publisher>
+<Version>14.44.35211</Version>
+<InstallDate>2025-12-19T00:00:00+00:00</InstallDate>
+<ApplicationGuid>43b0d101-a022-48f4-9d04-ba404ceb1d53</ApplicationGuid>
+</Application>
+<Application>
+<HardwareInfoGUID>D2DCF03D-DC45-4D82-AF90-7248CA57A822</HardwareInfoGUID>
+<Index>3</Index>
+<Name>Microsoft Windows Desktop Runtime - 8.0.22 (x64)</Name>
+<Publisher>Microsoft Corporation</Publisher>
+<Version>8.0.22.35428</Version>
+<InstallDate>2025-12-19T00:00:00+00:00</InstallDate>
+<ApplicationGuid>a3899eef-6164-4d42-b8c3-95ae6a844821</ApplicationGuid>
+</Application>
+<Application>
+<HardwareInfoGUID>D2DCF03D-DC45-4D82-AF90-7248CA57A822</HardwareInfoGUID>
+<Index>4</Index>
+<Name>Dell Core Services</Name>
+<Publisher>Dell, Inc.</Publisher>
+<Version>1.8.536.0</Version>
+<InstallDate>2025-12-19T00:00:00+00:00</InstallDate>
+<ApplicationGuid>5bd28c1e-9623-4005-83e0-87a0fe88b6f1</ApplicationGuid>
+</Application>
+<Application>
+<HardwareInfoGUID>D2DCF03D-DC45-4D82-AF90-7248CA57A822</HardwareInfoGUID>
+<Index>5</Index>
+<Name>Microsoft Windows Desktop Runtime - 6.0.36 (x64)</Name>
+<Publisher>Microsoft Corporation</Publisher>
+<Version>6.0.36.34217</Version>
+<InstallDate>2025-12-19T00:00:00+00:00</InstallDate>
+<ApplicationGuid>0532b8f2-12d7-43de-95fc-7b87006758a8</ApplicationGuid>
+</Application>
+<Application>
+<HardwareInfoGUID>D2DCF03D-DC45-4D82-AF90-7248CA57A822</HardwareInfoGUID>
+<Index>6</Index>
+<Name>Microsoft .NET Host FX Resolver - 8.0.22 (x64)</Name>
+<Publisher>Microsoft Corporation</Publisher>
+<Version>64.88.42551</Version>
+<InstallDate>2025-12-19T00:00:00+00:00</InstallDate>
+<ApplicationGuid>7a046dd7-9d61-4c5d-8f5e-24ee192b1b6a</ApplicationGuid>
+</Application>
+<Application>
+<HardwareInfoGUID>D2DCF03D-DC45-4D82-AF90-7248CA57A822</HardwareInfoGUID>
+<Index>7</Index>
+<Name>Dell SupportAssist Remediation</Name>
+<Publisher>Dell Inc.</Publisher>
+<Version>5.5.15.0</Version>
+<InstallDate>2025-12-19T00:00:00+00:00</InstallDate>
+<ApplicationGuid>4e5854ab-2428-4942-adaa-49d02086d14c</ApplicationGuid>
+</Application>
+<Application>
+<HardwareInfoGUID>D2DCF03D-DC45-4D82-AF90-7248CA57A822</HardwareInfoGUID>
+<Index>8</Index>
+<Name>Microsoft Visual C++ 2022 X64 Additional Runtime - 14.44.35211</Name>
+<Publisher>Microsoft Corporation</Publisher>
+<Version>14.44.35211</Version>
+<InstallDate>2025-12-19T00:00:00+00:00</InstallDate>
+<ApplicationGuid>86ab2cc9-08bd-4643-b0f9-f82d006d72ff</ApplicationGuid>
+</Application>
+<Application>
+<HardwareInfoGUID>D2DCF03D-DC45-4D82-AF90-7248CA57A822</HardwareInfoGUID>
+<Index>9</Index>
+<Name>Microsoft .NET Host - 8.0.22 (x64)</Name>
+<Publisher>Microsoft Corporation</Publisher>
+<Version>64.88.42551</Version>
+<InstallDate>2025-12-19T00:00:00+00:00</InstallDate>
+<ApplicationGuid>872cdb4b-5dde-4297-bd19-c93b6c93e386</ApplicationGuid>
+</Application>
+<Application>
+<HardwareInfoGUID>D2DCF03D-DC45-4D82-AF90-7248CA57A822</HardwareInfoGUID>
+<Index>10</Index>
+<Name>SupportAssist Recovery Assistant</Name>
+<Publisher>Dell Inc.</Publisher>
+<Version>5.5.15.0</Version>
+<InstallDate>2025-12-19T00:00:00+00:00</InstallDate>
+<ApplicationGuid>a5538a25-d28f-4d65-b103-64dd1497328d</ApplicationGuid>
+</Application>
+<Application>
+<HardwareInfoGUID>D2DCF03D-DC45-4D82-AF90-7248CA57A822</HardwareInfoGUID>
+<Index>11</Index>
+<Name>Microsoft .NET Host FX Resolver - 6.0.36 (x64)</Name>
+<Publisher>Microsoft Corporation</Publisher>
+<Version>48.144.23141</Version>
+<InstallDate>2024-11-13T00:00:00+00:00</InstallDate>
+<ApplicationGuid>a9e32b25-994b-4856-a12b-0ebed3050410</ApplicationGuid>
+</Application>
+<Application>
+<HardwareInfoGUID>D2DCF03D-DC45-4D82-AF90-7248CA57A822</HardwareInfoGUID>
+<Index>12</Index>
+<Name>Microsoft .NET Runtime - 8.0.22 (x64)</Name>
+<Publisher>Microsoft Corporation</Publisher>
+<Version>64.88.42551</Version>
+<InstallDate>2025-12-19T00:00:00+00:00</InstallDate>
+<ApplicationGuid>c43a1a89-0ca5-43fd-bdc4-3b85dad06a41</ApplicationGuid>
+</Application>
+<Application>
+<HardwareInfoGUID>D2DCF03D-DC45-4D82-AF90-7248CA57A822</HardwareInfoGUID>
+<Index>13</Index>
+<Name>Microsoft .NET Runtime - 6.0.36 (x64)</Name>
+<Publisher>Microsoft Corporation</Publisher>
+<Version>48.144.23141</Version>
+<InstallDate>2024-11-13T00:00:00+00:00</InstallDate>
+<ApplicationGuid>c912e33f-956a-4921-9f55-cc11ae8f09af</ApplicationGuid>
+</Application>
+<Application>
+<HardwareInfoGUID>D2DCF03D-DC45-4D82-AF90-7248CA57A822</HardwareInfoGUID>
+<Index>14</Index>
+<Name>Microsoft .NET Host - 6.0.36 (x64)</Name>
+<Publisher>Microsoft Corporation</Publisher>
+<Version>48.144.23141</Version>
+<InstallDate>2024-11-13T00:00:00+00:00</InstallDate>
+<ApplicationGuid>d6932d97-36f1-40b8-9cdc-ca8365b21000</ApplicationGuid>
+</Application>
+<Application>
+<HardwareInfoGUID>D2DCF03D-DC45-4D82-AF90-7248CA57A822</HardwareInfoGUID>
+<Index>15</Index>
+<Name>Dell.Digital.Delivery-64Bit</Name>
+<Publisher>Dell Technologies, Inc.</Publisher>
+<Version>3.3.19.0</Version>
+<InstallDate>2025-12-19T00:00:00+00:00</InstallDate>
+<ApplicationGuid>e5f67bcb-172c-4a90-a81a-9239ba77cdd1</ApplicationGuid>
+</Application>
+<Application>
+<HardwareInfoGUID>D2DCF03D-DC45-4D82-AF90-7248CA57A822</HardwareInfoGUID>
+<Index>16</Index>
+<Name>Dell Optimizer</Name>
+<Publisher>Dell Technologies Inc.</Publisher>
+<Version>6.0.2.0</Version>
+<InstallDate>2025-12-19T00:00:00+00:00</InstallDate>
+<ApplicationGuid>cc40119d-6adf-4832-8025-4808195e41d5</ApplicationGuid>
+</Application>
+<Application>
+<HardwareInfoGUID>D2DCF03D-DC45-4D82-AF90-7248CA57A822</HardwareInfoGUID>
+<Index>17</Index>
+<Name>Microsoft Edge</Name>
+<Publisher>Microsoft Corporation</Publisher>
+<Version>144.0.3719.18</Version>
+<InstallDate>2025-12-19T00:00:00+00:00</InstallDate>
+</Application>
+<Application>
+<HardwareInfoGUID>D2DCF03D-DC45-4D82-AF90-7248CA57A822</HardwareInfoGUID>
+<Index>18</Index>
+<Name>Microsoft Edge WebView2 Runtime</Name>
+<Publisher>Microsoft Corporation</Publisher>
+<Version>144.0.3719.18</Version>
+<InstallDate>2025-12-19T00:00:00+00:00</InstallDate>
+</Application>
+<Application>
+<HardwareInfoGUID>D2DCF03D-DC45-4D82-AF90-7248CA57A822</HardwareInfoGUID>
+<Index>19</Index>
+<Name>Microsoft Visual C++ 2015-2022 Redistributable (x64) - 14.44.35211</Name>
+<Publisher>Microsoft Corporation</Publisher>
+<Version>14.44.35211.0</Version>
+<InstallDate>2025-12-19T00:00:00+00:00</InstallDate>
+<ApplicationGuid>d8bbe9f9-7c5b-42c6-b715-9ee898a2e515</ApplicationGuid>
+</Application>
+<Application>
+<HardwareInfoGUID>D2DCF03D-DC45-4D82-AF90-7248CA57A822</HardwareInfoGUID>
+<Index>20</Index>
+<Name>Microsoft OneDrive</Name>
+<Publisher>Microsoft Corporation</Publisher>
+<Version>25.224.1116.0003</Version>
+<InstallDate>2025-12-19T00:00:00+00:00</InstallDate>
+</Application>
+<Driver>
+<HardwareInfoGUID>D2DCF03D-DC45-4D82-AF90-7248CA57A822</HardwareInfoGUID>
+<Index>0</Index>
+<Name>Local Print Queue</Name>
+<Publisher>Microsoft</Publisher>
+<Version>10.0.26100.1</Version>
+<InstallDate>2025-12-19T00:00:00+00:00</InstallDate>
+</Driver>
+<Driver>
+<HardwareInfoGUID>D2DCF03D-DC45-4D82-AF90-7248CA57A822</HardwareInfoGUID>
+<Index>1</Index>
+<Name>WAN Miniport (Network Monitor)</Name>
+<Publisher>Microsoft</Publisher>
+<Version>10.0.26100.1</Version>
+<InstallDate>2025-12-19T00:00:00+00:00</InstallDate>
+</Driver>
+<Driver>
+<HardwareInfoGUID>D2DCF03D-DC45-4D82-AF90-7248CA57A822</HardwareInfoGUID>
+<Index>2</Index>
+<Name>WAN Miniport (IPv6)</Name>
+<Publisher>Microsoft</Publisher>
+<Version>10.0.26100.1</Version>
+<InstallDate>2025-12-19T00:00:00+00:00</InstallDate>
+</Driver>
+<Driver>
+<HardwareInfoGUID>D2DCF03D-DC45-4D82-AF90-7248CA57A822</HardwareInfoGUID>
+<Index>3</Index>
+<Name>WAN Miniport (IP)</Name>
+<Publisher>Microsoft</Publisher>
+<Version>10.0.26100.1</Version>
+<InstallDate>2025-12-19T00:00:00+00:00</InstallDate>
+</Driver>
+<Driver>
+<HardwareInfoGUID>D2DCF03D-DC45-4D82-AF90-7248CA57A822</HardwareInfoGUID>
+<Index>4</Index>
+<Name>WAN Miniport (PPPOE)</Name>
+<Publisher>Microsoft</Publisher>
+<Version>10.0.26100.1</Version>
+<InstallDate>2025-12-19T00:00:00+00:00</InstallDate>
+</Driver>
+<Driver>
+<HardwareInfoGUID>D2DCF03D-DC45-4D82-AF90-7248CA57A822</HardwareInfoGUID>
+<Index>5</Index>
+<Name>WAN Miniport (PPTP)</Name>
+<Publisher>Microsoft</Publisher>
+<Version>10.0.26100.1</Version>
+<InstallDate>2025-12-19T00:00:00+00:00</InstallDate>
+</Driver>
+<Driver>
+<HardwareInfoGUID>D2DCF03D-DC45-4D82-AF90-7248CA57A822</HardwareInfoGUID>
+<Index>6</Index>
+<Name>WAN Miniport (L2TP)</Name>
+<Publisher>Microsoft</Publisher>
+<Version>10.0.26100.1</Version>
+<InstallDate>2025-12-19T00:00:00+00:00</InstallDate>
+</Driver>
+<Driver>
+<HardwareInfoGUID>D2DCF03D-DC45-4D82-AF90-7248CA57A822</HardwareInfoGUID>
+<Index>7</Index>
+<Name>WAN Miniport (IKEv2)</Name>
+<Publisher>Microsoft</Publisher>
+<Version>10.0.26100.1</Version>
+<InstallDate>2025-12-19T00:00:00+00:00</InstallDate>
+</Driver>
+<Driver>
+<HardwareInfoGUID>D2DCF03D-DC45-4D82-AF90-7248CA57A822</HardwareInfoGUID>
+<Index>8</Index>
+<Name>WAN Miniport (SSTP)</Name>
+<Publisher>Microsoft</Publisher>
+<Version>10.0.26100.1</Version>
+<InstallDate>2025-12-19T00:00:00+00:00</InstallDate>
+</Driver>
+<Driver>
+<HardwareInfoGUID>D2DCF03D-DC45-4D82-AF90-7248CA57A822</HardwareInfoGUID>
+<Index>9</Index>
+<Name>Voice Clarity</Name>
+<Publisher>Microsoft Corporation</Publisher>
+<Version>10.0.26100.6700</Version>
+<InstallDate>2025-12-19T00:00:00+00:00</InstallDate>
+</Driver>
+<Driver>
+<HardwareInfoGUID>D2DCF03D-DC45-4D82-AF90-7248CA57A822</HardwareInfoGUID>
+<Index>10</Index>
+<Name>Computer Device</Name>
+<Publisher>Microsoft</Publisher>
+<Version>10.0.26100.1</Version>
+<InstallDate>2025-12-19T00:00:00+00:00</InstallDate>
+</Driver>
+<Driver>
+<HardwareInfoGUID>D2DCF03D-DC45-4D82-AF90-7248CA57A822</HardwareInfoGUID>
+<Index>11</Index>
+<Name>Remote Desktop Device Redirector Bus</Name>
+<Publisher>Microsoft</Publisher>
+<Version>10.0.26100.1150</Version>
+<InstallDate>2025-12-19T00:00:00+00:00</InstallDate>
+</Driver>
+<Driver>
+<HardwareInfoGUID>D2DCF03D-DC45-4D82-AF90-7248CA57A822</HardwareInfoGUID>
+<Index>12</Index>
+<Name>System Management Device</Name>
+<Publisher>DELL INC</Publisher>
+<Version>8.2.0.454</Version>
+<InstallDate>2025-12-19T00:00:00+00:00</InstallDate>
+</Driver>
+<Driver>
+<HardwareInfoGUID>D2DCF03D-DC45-4D82-AF90-7248CA57A822</HardwareInfoGUID>
+<Index>13</Index>
+<Name>Microsoft Streaming Service Proxy</Name>
+<Publisher>Microsoft</Publisher>
+<Version>10.0.26100.1</Version>
+<InstallDate>2025-12-19T00:00:00+00:00</InstallDate>
+</Driver>
+<Driver>
+<HardwareInfoGUID>D2DCF03D-DC45-4D82-AF90-7248CA57A822</HardwareInfoGUID>
+<Index>14</Index>
+<Name>Plug and Play Software Device Enumerator</Name>
+<Publisher>(Standard system devices)</Publisher>
+<Version>10.0.26100.4202</Version>
+<InstallDate>2025-12-19T00:00:00+00:00</InstallDate>
+</Driver>
+<Driver>
+<HardwareInfoGUID>D2DCF03D-DC45-4D82-AF90-7248CA57A822</HardwareInfoGUID>
+<Index>15</Index>
+<Name>Microsoft System Management BIOS Driver</Name>
+<Publisher>(Standard system devices)</Publisher>
+<Version>10.0.26100.1</Version>
+<InstallDate>2025-12-19T00:00:00+00:00</InstallDate>
+</Driver>
+<Driver>
+<HardwareInfoGUID>D2DCF03D-DC45-4D82-AF90-7248CA57A822</HardwareInfoGUID>
+<Index>16</Index>
+<Name>NDIS Virtual Network Adapter Enumerator</Name>
+<Publisher>Microsoft</Publisher>
+<Version>10.0.26100.1</Version>
+<InstallDate>2025-12-19T00:00:00+00:00</InstallDate>
+</Driver>
+<Driver>
+<HardwareInfoGUID>D2DCF03D-DC45-4D82-AF90-7248CA57A822</HardwareInfoGUID>
+<Index>17</Index>
+<Name>DellInstrumentation Device</Name>
+<Publisher>Dell Technologies</Publisher>
+<Version>2.9.1.0</Version>
+<InstallDate>2025-12-19T00:00:00+00:00</InstallDate>
+</Driver>
+<Driver>
+<HardwareInfoGUID>D2DCF03D-DC45-4D82-AF90-7248CA57A822</HardwareInfoGUID>
+<Index>18</Index>
+<Name>Microsoft Basic Render Driver</Name>
+<Publisher>Microsoft</Publisher>
+<Version>10.0.26100.5074</Version>
+<InstallDate>2025-12-19T00:00:00+00:00</InstallDate>
+</Driver>
+<Driver>
+<HardwareInfoGUID>D2DCF03D-DC45-4D82-AF90-7248CA57A822</HardwareInfoGUID>
+<Index>19</Index>
+<Name>Device Firmware</Name>
+<Publisher>Microsoft</Publisher>
+<Version>10.0.26100.4768</Version>
+<InstallDate>2025-12-19T00:00:00+00:00</InstallDate>
+</Driver>
+<Driver>
+<HardwareInfoGUID>D2DCF03D-DC45-4D82-AF90-7248CA57A822</HardwareInfoGUID>
+<Index>20</Index>
+<Name>NVMe Firmware 73.91.41.08</Name>
+<Publisher>Dell, Inc.</Publisher>
+<Version>73.91.41.8</Version>
+<InstallDate>2025-12-19T00:00:00+00:00</InstallDate>
+</Driver>
+<Driver>
+<HardwareInfoGUID>D2DCF03D-DC45-4D82-AF90-7248CA57A822</HardwareInfoGUID>
+<Index>21</Index>
+<Name>System Firmware 1.26.0</Name>
+<Publisher>Dell, Inc.</Publisher>
+<Version>0.1.26.0</Version>
+<InstallDate>2025-12-20T00:00:00+00:00</InstallDate>
+</Driver>
+<Driver>
+<HardwareInfoGUID>D2DCF03D-DC45-4D82-AF90-7248CA57A822</HardwareInfoGUID>
+<Index>22</Index>
+<Name>Microsoft UEFI-Compliant System</Name>
+<Publisher>Microsoft</Publisher>
+<Version>10.0.26100.4768</Version>
+<InstallDate>2025-12-19T00:00:00+00:00</InstallDate>
+</Driver>
+<Driver>
+<HardwareInfoGUID>D2DCF03D-DC45-4D82-AF90-7248CA57A822</HardwareInfoGUID>
+<Index>23</Index>
+<Name>Trusted Platform Module 2.0</Name>
+<Publisher>(Standard)</Publisher>
+<Version>10.0.26100.5074</Version>
+<InstallDate>2025-12-19T00:00:00+00:00</InstallDate>
+</Driver>
+<Driver>
+<HardwareInfoGUID>D2DCF03D-DC45-4D82-AF90-7248CA57A822</HardwareInfoGUID>
+<Index>24</Index>
+<Name>Motherboard resources</Name>
+<Publisher>(Standard system devices)</Publisher>
+<Version>10.0.26100.1150</Version>
+<InstallDate>2025-12-19T00:00:00+00:00</InstallDate>
+</Driver>
+<Driver>
+<HardwareInfoGUID>D2DCF03D-DC45-4D82-AF90-7248CA57A822</HardwareInfoGUID>
+<Index>25</Index>
+<Name>UCM-UCSI ACPI Device</Name>
+<Publisher>Microsoft</Publisher>
+<Version>10.0.26100.1882</Version>
+<InstallDate>2025-12-19T00:00:00+00:00</InstallDate>
+</Driver>
+<Driver>
+<HardwareInfoGUID>D2DCF03D-DC45-4D82-AF90-7248CA57A822</HardwareInfoGUID>
+<Index>26</Index>
+<Name>Intel(R) Innovation Platform Framework Manager</Name>
+<Publisher>Intel</Publisher>
+<Version>2.3.20200.4422</Version>
+<InstallDate>2025-12-19T00:00:00+00:00</InstallDate>
+</Driver>
+<Driver>
+<HardwareInfoGUID>D2DCF03D-DC45-4D82-AF90-7248CA57A822</HardwareInfoGUID>
+<Index>27</Index>
+<Name>Microsoft Windows Management Interface for ACPI</Name>
+<Publisher>Microsoft</Publisher>
+<Version>10.0.26100.1150</Version>
+<InstallDate>2025-12-19T00:00:00+00:00</InstallDate>
+</Driver>
+<Driver>
+<HardwareInfoGUID>D2DCF03D-DC45-4D82-AF90-7248CA57A822</HardwareInfoGUID>
+<Index>28</Index>
+<Name>HID-compliant system controller</Name>
+<Publisher>(Standard system devices)</Publisher>
+<Version>10.0.26100.5074</Version>
+<InstallDate>2025-12-19T00:00:00+00:00</InstallDate>
+</Driver>
+<Driver>
+<HardwareInfoGUID>D2DCF03D-DC45-4D82-AF90-7248CA57A822</HardwareInfoGUID>
+<Index>29</Index>
+<Name>HID-compliant consumer control device</Name>
+<Publisher>Microsoft</Publisher>
+<Version>10.0.26100.1</Version>
+<InstallDate>2025-12-19T00:00:00+00:00</InstallDate>
+</Driver>
+<Driver>
+<HardwareInfoGUID>D2DCF03D-DC45-4D82-AF90-7248CA57A822</HardwareInfoGUID>
+<Index>30</Index>
+<Name>HID Keyboard Device</Name>
+<Publisher>(Standard keyboards)</Publisher>
+<Version>10.0.26100.1882</Version>
+<InstallDate>2025-12-19T00:00:00+00:00</InstallDate>
+</Driver>
+<Driver>
+<HardwareInfoGUID>D2DCF03D-DC45-4D82-AF90-7248CA57A822</HardwareInfoGUID>
+<Index>31</Index>
+<Name>Converted Portable Device Control device</Name>
+<Publisher>Microsoft</Publisher>
+<Version>10.0.26100.4484</Version>
+<InstallDate>2025-12-19T00:00:00+00:00</InstallDate>
+</Driver>
+<Driver>
+<HardwareInfoGUID>D2DCF03D-DC45-4D82-AF90-7248CA57A822</HardwareInfoGUID>
+<Index>32</Index>
+<Name>Portable Device Control device</Name>
+<Publisher>Microsoft</Publisher>
+<Version>10.0.26100.4484</Version>
+<InstallDate>2025-12-19T00:00:00+00:00</InstallDate>
+</Driver>
+<Driver>
+<HardwareInfoGUID>D2DCF03D-DC45-4D82-AF90-7248CA57A822</HardwareInfoGUID>
+<Index>33</Index>
+<Name>Intel(R) HID Event Filter</Name>
+<Publisher>Intel(R) Corporation</Publisher>
+<Version>2.2.2.1</Version>
+<InstallDate>2025-12-19T00:00:00+00:00</InstallDate>
+</Driver>
+<Driver>
+<HardwareInfoGUID>D2DCF03D-DC45-4D82-AF90-7248CA57A822</HardwareInfoGUID>
+<Index>34</Index>
+<Name>Microsoft ACPI-Compliant Control Method Battery</Name>
+<Publisher>Microsoft</Publisher>
+<Version>10.0.26100.5074</Version>
+<InstallDate>2025-12-19T00:00:00+00:00</InstallDate>
+</Driver>
+<Driver>
+<HardwareInfoGUID>D2DCF03D-DC45-4D82-AF90-7248CA57A822</HardwareInfoGUID>
+<Index>35</Index>
+<Name>Microsoft AC Adapter</Name>
+<Publisher>Microsoft</Publisher>
+<Version>10.0.26100.5074</Version>
+<InstallDate>2025-12-19T00:00:00+00:00</InstallDate>
+</Driver>
+<Driver>
+<HardwareInfoGUID>D2DCF03D-DC45-4D82-AF90-7248CA57A822</HardwareInfoGUID>
+<Index>36</Index>
+<Name>ACPI Sleep Button</Name>
+<Publisher>(Standard system devices)</Publisher>
+<Version>10.0.26100.1150</Version>
+<InstallDate>2025-12-19T00:00:00+00:00</InstallDate>
+</Driver>
+<Driver>
+<HardwareInfoGUID>D2DCF03D-DC45-4D82-AF90-7248CA57A822</HardwareInfoGUID>
+<Index>37</Index>
+<Name>ACPI Lid</Name>
+<Publisher>(Standard system devices)</Publisher>
+<Version>10.0.26100.1150</Version>
+<InstallDate>2025-12-19T00:00:00+00:00</InstallDate>
+</Driver>
+<Driver>
+<HardwareInfoGUID>D2DCF03D-DC45-4D82-AF90-7248CA57A822</HardwareInfoGUID>
+<Index>38</Index>
+<Name>Intel(R) Power Engine Plug-in</Name>
+<Publisher>Intel Corporation</Publisher>
+<Version>10.0.26100.5074</Version>
+<InstallDate>2025-12-19T00:00:00+00:00</InstallDate>
+</Driver>
+<Driver>
+<HardwareInfoGUID>D2DCF03D-DC45-4D82-AF90-7248CA57A822</HardwareInfoGUID>
+<Index>39</Index>
+<Name>ACPI Processor Aggregator</Name>
+<Publisher>(Standard system devices)</Publisher>
+<Version>10.0.26100.1150</Version>
+<InstallDate>2025-12-19T00:00:00+00:00</InstallDate>
+</Driver>
+<Driver>
+<HardwareInfoGUID>D2DCF03D-DC45-4D82-AF90-7248CA57A822</HardwareInfoGUID>
+<Index>40</Index>
+<Name>Intel Processor</Name>
+<Publisher>Intel</Publisher>
+<Version>10.0.26100.5074</Version>
+<InstallDate>2025-12-19T00:00:00+00:00</InstallDate>
+</Driver>
+<Driver>
+<HardwareInfoGUID>D2DCF03D-DC45-4D82-AF90-7248CA57A822</HardwareInfoGUID>
+<Index>41</Index>
+<Name>Intel(R) Serial IO GPIO Host Controller - INTC1055</Name>
+<Publisher>Intel Corporation</Publisher>
+<Version>30.100.2237.26</Version>
+<InstallDate>2025-12-19T00:00:00+00:00</InstallDate>
+</Driver>
+<Driver>
+<HardwareInfoGUID>D2DCF03D-DC45-4D82-AF90-7248CA57A822</HardwareInfoGUID>
+<Index>42</Index>
+<Name>ACPI Wake Alarm</Name>
+<Publisher>(Standard system devices)</Publisher>
+<Version>10.0.26100.1150</Version>
+<InstallDate>2025-12-19T00:00:00+00:00</InstallDate>
+</Driver>
+<Driver>
+<HardwareInfoGUID>D2DCF03D-DC45-4D82-AF90-7248CA57A822</HardwareInfoGUID>
+<Index>43</Index>
+<Name>Intel(R) Ethernet Connection (23) I219-LM</Name>
+<Publisher>Intel</Publisher>
+<Version>12.19.2.65</Version>
+<InstallDate>2025-12-19T00:00:00+00:00</InstallDate>
+</Driver>
+<Driver>
+<HardwareInfoGUID>D2DCF03D-DC45-4D82-AF90-7248CA57A822</HardwareInfoGUID>
+<Index>44</Index>
+<Name>Intel(R) SPI (flash) Controller - 51A4</Name>
+<Publisher>INTEL</Publisher>
+<Version>10.1.36.7</Version>
+<InstallDate>2025-12-19T00:00:00+00:00</InstallDate>
+</Driver>
+<Driver>
+<HardwareInfoGUID>D2DCF03D-DC45-4D82-AF90-7248CA57A822</HardwareInfoGUID>
+<Index>45</Index>
+<Name>Intel(R) SMBus - 51A3</Name>
+<Publisher>INTEL</Publisher>
+<Version>10.1.36.7</Version>
+<InstallDate>2025-12-19T00:00:00+00:00</InstallDate>
+</Driver>
+<Driver>
+<HardwareInfoGUID>D2DCF03D-DC45-4D82-AF90-7248CA57A822</HardwareInfoGUID>
+<Index>46</Index>
+<Name>Audio Endpoint</Name>
+<Publisher>Microsoft</Publisher>
+<Version>10.0.26100.1</Version>
+<InstallDate>2025-12-19T00:00:00+00:00</InstallDate>
+</Driver>
+<Driver>
+<HardwareInfoGUID>D2DCF03D-DC45-4D82-AF90-7248CA57A822</HardwareInfoGUID>
+<Index>47</Index>
+<Name>Realtek Audio Universal Service</Name>
+<Publisher>Realtek</Publisher>
+<Version>1.0.853.0</Version>
+<InstallDate>2025-12-20T00:00:00+00:00</InstallDate>
+</Driver>
+<Driver>
+<HardwareInfoGUID>D2DCF03D-DC45-4D82-AF90-7248CA57A822</HardwareInfoGUID>
+<Index>48</Index>
+<Name>Realtek Asio Component</Name>
+<Publisher>Realtek</Publisher>
+<Version>1.0.13.1</Version>
+<InstallDate>2025-12-19T00:00:00+00:00</InstallDate>
+</Driver>
+<Driver>
+<HardwareInfoGUID>D2DCF03D-DC45-4D82-AF90-7248CA57A822</HardwareInfoGUID>
+<Index>49</Index>
+<Name>Realtek Audio Effects Component</Name>
+<Publisher>Realtek</Publisher>
+<Version>13.0.6000.1645</Version>
+<InstallDate>2025-12-19T00:00:00+00:00</InstallDate>
+</Driver>
+<Driver>
+<HardwareInfoGUID>D2DCF03D-DC45-4D82-AF90-7248CA57A822</HardwareInfoGUID>
+<Index>50</Index>
+<Name>Realtek Audio</Name>
+<Publisher>Microsoft</Publisher>
+<Version>6.0.9835.1</Version>
+<InstallDate>2025-12-20T00:00:00+00:00</InstallDate>
+</Driver>
+<Driver>
+<HardwareInfoGUID>D2DCF03D-DC45-4D82-AF90-7248CA57A822</HardwareInfoGUID>
+<Index>51</Index>
+<Name>Intel® Smart Sound Technology for Bluetooth® Audio</Name>
+<Publisher>Intel(R) Corporation</Publisher>
+<Version>10.29.0.12108</Version>
+<InstallDate>2025-12-19T00:00:00+00:00</InstallDate>
+</Driver>
+<Driver>
+<HardwareInfoGUID>D2DCF03D-DC45-4D82-AF90-7248CA57A822</HardwareInfoGUID>
+<Index>52</Index>
+<Name>Intel® Smart Sound Technology for USB Audio</Name>
+<Publisher>Intel(R) Corporation</Publisher>
+<Version>10.29.0.12108</Version>
+<InstallDate>2025-12-19T00:00:00+00:00</InstallDate>
+</Driver>
+<Driver>
+<HardwareInfoGUID>D2DCF03D-DC45-4D82-AF90-7248CA57A822</HardwareInfoGUID>
+<Index>53</Index>
+<Name>Intel® Smart Sound Technology Detection Verification</Name>
+<Publisher>Intel(R) Corporation</Publisher>
+<Version>1.0.3832.0</Version>
+<InstallDate>2025-12-19T00:00:00+00:00</InstallDate>
+</Driver>
+<Driver>
+<HardwareInfoGUID>D2DCF03D-DC45-4D82-AF90-7248CA57A822</HardwareInfoGUID>
+<Index>54</Index>
+<Name>Intel® Smart Sound Technology OED</Name>
+<Publisher>Intel(R) Corporation</Publisher>
+<Version>10.29.0.12108</Version>
+<InstallDate>2025-12-20T00:00:00+00:00</InstallDate>
+</Driver>
+<Driver>
+<HardwareInfoGUID>D2DCF03D-DC45-4D82-AF90-7248CA57A822</HardwareInfoGUID>
+<Index>55</Index>
+<Name>Intel® Smart Sound Technology BUS</Name>
+<Publisher>Intel(R) Corporation</Publisher>
+<Version>10.29.0.12108</Version>
+<InstallDate>2025-12-19T00:00:00+00:00</InstallDate>
+</Driver>
+<Driver>
+<HardwareInfoGUID>D2DCF03D-DC45-4D82-AF90-7248CA57A822</HardwareInfoGUID>
+<Index>56</Index>
+<Name>Standard PS/2 Keyboard</Name>
+<Publisher>(Standard keyboards)</Publisher>
+<Version>10.0.26100.1882</Version>
+<InstallDate>2025-12-19T00:00:00+00:00</InstallDate>
+</Driver>
+<Driver>
+<HardwareInfoGUID>D2DCF03D-DC45-4D82-AF90-7248CA57A822</HardwareInfoGUID>
+<Index>57</Index>
+<Name>Intel(R) Innovation Platform Framework Generic Participant</Name>
+<Publisher>Intel</Publisher>
+<Version>2.3.20200.4422</Version>
+<InstallDate>2025-12-19T00:00:00+00:00</InstallDate>
+</Driver>
+<Driver>
+<HardwareInfoGUID>D2DCF03D-DC45-4D82-AF90-7248CA57A822</HardwareInfoGUID>
+<Index>58</Index>
+<Name>Microsoft ACPI-Compliant Embedded Controller</Name>
+<Publisher>(Standard system devices)</Publisher>
+<Version>10.0.26100.1150</Version>
+<InstallDate>2025-12-19T00:00:00+00:00</InstallDate>
+</Driver>
+<Driver>
+<HardwareInfoGUID>D2DCF03D-DC45-4D82-AF90-7248CA57A822</HardwareInfoGUID>
+<Index>59</Index>
+<Name>System timer</Name>
+<Publisher>(Standard system devices)</Publisher>
+<Version>10.0.26100.1150</Version>
+<InstallDate>2025-12-19T00:00:00+00:00</InstallDate>
+</Driver>
+<Driver>
+<HardwareInfoGUID>D2DCF03D-DC45-4D82-AF90-7248CA57A822</HardwareInfoGUID>
+<Index>60</Index>
+<Name>System CMOS/real time clock</Name>
+<Publisher>(Standard system devices)</Publisher>
+<Version>10.0.26100.1150</Version>
+<InstallDate>2025-12-19T00:00:00+00:00</InstallDate>
+</Driver>
+<Driver>
+<HardwareInfoGUID>D2DCF03D-DC45-4D82-AF90-7248CA57A822</HardwareInfoGUID>
+<Index>61</Index>
+<Name>Programmable interrupt controller</Name>
+<Publisher>(Standard system devices)</Publisher>
+<Version>10.0.26100.1150</Version>
+<InstallDate>2025-12-19T00:00:00+00:00</InstallDate>
+</Driver>
+<Driver>
+<HardwareInfoGUID>D2DCF03D-DC45-4D82-AF90-7248CA57A822</HardwareInfoGUID>
+<Index>62</Index>
+<Name>High precision event timer</Name>
+<Publisher>(Standard system devices)</Publisher>
+<Version>10.0.26100.1150</Version>
+<InstallDate>2025-12-19T00:00:00+00:00</InstallDate>
+</Driver>
+<Driver>
+<HardwareInfoGUID>D2DCF03D-DC45-4D82-AF90-7248CA57A822</HardwareInfoGUID>
+<Index>63</Index>
+<Name>Intel(R) LPC Controller - 519D</Name>
+<Publisher>INTEL</Publisher>
+<Version>10.1.36.7</Version>
+<InstallDate>2025-12-19T00:00:00+00:00</InstallDate>
+</Driver>
+<Driver>
+<HardwareInfoGUID>D2DCF03D-DC45-4D82-AF90-7248CA57A822</HardwareInfoGUID>
+<Index>64</Index>
+<Name>Realtek PCIE CardReader</Name>
+<Publisher>Realtek Semiconductor Corp.</Publisher>
+<Version>10.0.26200.21385</Version>
+<InstallDate>2025-12-19T00:00:00+00:00</InstallDate>
+</Driver>
+<Driver>
+<HardwareInfoGUID>D2DCF03D-DC45-4D82-AF90-7248CA57A822</HardwareInfoGUID>
+<Index>65</Index>
+<Name>Intel(R) PCI Express Root Port #10 - 51B1</Name>
+<Publisher>INTEL</Publisher>
+<Version>10.1.36.7</Version>
+<InstallDate>2025-12-19T00:00:00+00:00</InstallDate>
+</Driver>
+<Driver>
+<HardwareInfoGUID>D2DCF03D-DC45-4D82-AF90-7248CA57A822</HardwareInfoGUID>
+<Index>66</Index>
+<Name>Intel(R) Wireless Manageability</Name>
+<Publisher>Intel</Publisher>
+<Version>255.91.103.0</Version>
+<InstallDate>2025-12-19T00:00:00+00:00</InstallDate>
+</Driver>
+<Driver>
+<HardwareInfoGUID>D2DCF03D-DC45-4D82-AF90-7248CA57A822</HardwareInfoGUID>
+<Index>67</Index>
+<Name>Intel(R) Management Engine WMI Provider</Name>
+<Publisher>Intel</Publisher>
+<Version>2512.7.1.0</Version>
+<InstallDate>2025-12-19T00:00:00+00:00</InstallDate>
+</Driver>
+<Driver>
+<HardwareInfoGUID>D2DCF03D-DC45-4D82-AF90-7248CA57A822</HardwareInfoGUID>
+<Index>68</Index>
+<Name>Intel(R) Dynamic Application Loader Host Interface</Name>
+<Publisher>Intel</Publisher>
+<Version>1.46.2024.221</Version>
+<InstallDate>2025-12-19T00:00:00+00:00</InstallDate>
+</Driver>
+<Driver>
+<HardwareInfoGUID>D2DCF03D-DC45-4D82-AF90-7248CA57A822</HardwareInfoGUID>
+<Index>69</Index>
+<Name>Intel(R) Management Engine Interface #1</Name>
+<Publisher>Intel</Publisher>
+<Version>2512.7.3.0</Version>
+<InstallDate>2025-12-19T00:00:00+00:00</InstallDate>
+</Driver>
+<Driver>
+<HardwareInfoGUID>D2DCF03D-DC45-4D82-AF90-7248CA57A822</HardwareInfoGUID>
+<Index>70</Index>
+<Name>HID-compliant vendor-defined device</Name>
+<Publisher>(Standard system devices)</Publisher>
+<Version>10.0.26100.5074</Version>
+<InstallDate>2025-12-19T00:00:00+00:00</InstallDate>
+</Driver>
+<Driver>
+<HardwareInfoGUID>D2DCF03D-DC45-4D82-AF90-7248CA57A822</HardwareInfoGUID>
+<Index>71</Index>
+<Name>Microsoft Input Configuration Device</Name>
+<Publisher>Microsoft</Publisher>
+<Version>10.0.26100.1150</Version>
+<InstallDate>2025-12-19T00:00:00+00:00</InstallDate>
+</Driver>
+<Driver>
+<HardwareInfoGUID>D2DCF03D-DC45-4D82-AF90-7248CA57A822</HardwareInfoGUID>
+<Index>72</Index>
+<Name>HID-compliant touch pad</Name>
+<Publisher>(Standard system devices)</Publisher>
+<Version>10.0.26100.5074</Version>
+<InstallDate>2025-12-19T00:00:00+00:00</InstallDate>
+</Driver>
+<Driver>
+<HardwareInfoGUID>D2DCF03D-DC45-4D82-AF90-7248CA57A822</HardwareInfoGUID>
+<Index>73</Index>
+<Name>HID-compliant mouse</Name>
+<Publisher>Microsoft</Publisher>
+<Version>10.0.26100.1150</Version>
+<InstallDate>2025-12-19T00:00:00+00:00</InstallDate>
+</Driver>
+<Driver>
+<HardwareInfoGUID>D2DCF03D-DC45-4D82-AF90-7248CA57A822</HardwareInfoGUID>
+<Index>74</Index>
+<Name>I2C HID Device</Name>
+<Publisher>Microsoft</Publisher>
+<Version>10.0.26100.4768</Version>
+<InstallDate>2025-12-19T00:00:00+00:00</InstallDate>
+</Driver>
+<Driver>
+<HardwareInfoGUID>D2DCF03D-DC45-4D82-AF90-7248CA57A822</HardwareInfoGUID>
+<Index>75</Index>
+<Name>Intel(R) Serial IO I2C Host Controller - 51E9</Name>
+<Publisher>Intel Corporation</Publisher>
+<Version>30.100.2237.26</Version>
+<InstallDate>2025-12-19T00:00:00+00:00</InstallDate>
+</Driver>
+<Driver>
+<HardwareInfoGUID>D2DCF03D-DC45-4D82-AF90-7248CA57A822</HardwareInfoGUID>
+<Index>76</Index>
+<Name>Intel(R) Serial IO I2C Host Controller - 51E8</Name>
+<Publisher>Intel Corporation</Publisher>
+<Version>30.100.2237.26</Version>
+<InstallDate>2025-12-19T00:00:00+00:00</InstallDate>
+</Driver>
+<Driver>
+<HardwareInfoGUID>D2DCF03D-DC45-4D82-AF90-7248CA57A822</HardwareInfoGUID>
+<Index>77</Index>
+<Name>Microsoft Wi-Fi Direct Virtual Adapter</Name>
+<Publisher>Microsoft</Publisher>
+<Version>10.0.26100.5074</Version>
+<InstallDate>2025-12-19T00:00:00+00:00</InstallDate>
+</Driver>
+<Driver>
+<HardwareInfoGUID>D2DCF03D-DC45-4D82-AF90-7248CA57A822</HardwareInfoGUID>
+<Index>78</Index>
+<Name>Intel(R) Wi-Fi 6E AX211 160MHz</Name>
+<Publisher>Intel Corporation</Publisher>
+<Version>23.160.0.4</Version>
+<InstallDate>2025-12-19T00:00:00+00:00</InstallDate>
+</Driver>
+<Driver>
+<HardwareInfoGUID>D2DCF03D-DC45-4D82-AF90-7248CA57A822</HardwareInfoGUID>
+<Index>79</Index>
+<Name>Intel(R) Shared SRAM - 51EF</Name>
+<Publisher>INTEL</Publisher>
+<Version>10.1.36.7</Version>
+<InstallDate>2025-12-19T00:00:00+00:00</InstallDate>
+</Driver>
+<Driver>
+<HardwareInfoGUID>D2DCF03D-DC45-4D82-AF90-7248CA57A822</HardwareInfoGUID>
+<Index>80</Index>
+<Name>Microsoft Bluetooth LE Enumerator</Name>
+<Publisher>Microsoft</Publisher>
+<Version>10.0.26100.4484</Version>
+<InstallDate>2025-12-19T00:00:00+00:00</InstallDate>
+</Driver>
+<Driver>
+<HardwareInfoGUID>D2DCF03D-DC45-4D82-AF90-7248CA57A822</HardwareInfoGUID>
+<Index>81</Index>
+<Name>Bluetooth Device (Personal Area Network)</Name>
+<Publisher>Microsoft</Publisher>
+<Version>10.0.26100.5074</Version>
+<InstallDate>2025-12-19T00:00:00+00:00</InstallDate>
+</Driver>
+<Driver>
+<HardwareInfoGUID>D2DCF03D-DC45-4D82-AF90-7248CA57A822</HardwareInfoGUID>
+<Index>82</Index>
+<Name>Microsoft Bluetooth Enumerator</Name>
+<Publisher>Microsoft</Publisher>
+<Version>10.0.26100.5074</Version>
+<InstallDate>2025-12-19T00:00:00+00:00</InstallDate>
+</Driver>
+<Driver>
+<HardwareInfoGUID>D2DCF03D-DC45-4D82-AF90-7248CA57A822</HardwareInfoGUID>
+<Index>83</Index>
+<Name>Bluetooth Device (RFCOMM Protocol TDI)</Name>
+<Publisher>Microsoft</Publisher>
+<Version>10.0.26100.5074</Version>
+<InstallDate>2025-12-19T00:00:00+00:00</InstallDate>
+</Driver>
+<Driver>
+<HardwareInfoGUID>D2DCF03D-DC45-4D82-AF90-7248CA57A822</HardwareInfoGUID>
+<Index>84</Index>
+<Name>Intel(R) Wireless Bluetooth(R)</Name>
+<Publisher>Intel Corporation</Publisher>
+<Version>23.160.0.9</Version>
+<InstallDate>2025-12-19T00:00:00+00:00</InstallDate>
+</Driver>
+<Driver>
+<HardwareInfoGUID>D2DCF03D-DC45-4D82-AF90-7248CA57A822</HardwareInfoGUID>
+<Index>85</Index>
+<Name>USB Input Device</Name>
+<Publisher>(Standard system devices)</Publisher>
+<Version>10.0.26100.5074</Version>
+<InstallDate>2025-12-19T00:00:00+00:00</InstallDate>
+</Driver>
+<Driver>
+<HardwareInfoGUID>D2DCF03D-DC45-4D82-AF90-7248CA57A822</HardwareInfoGUID>
+<Index>86</Index>
+<Name>USB Composite Device</Name>
+<Publisher>(Standard USB Host Controller)</Publisher>
+<Version>10.0.26100.5074</Version>
+<InstallDate>2025-12-19T00:00:00+00:00</InstallDate>
+</Driver>
+<Driver>
+<HardwareInfoGUID>D2DCF03D-DC45-4D82-AF90-7248CA57A822</HardwareInfoGUID>
+<Index>87</Index>
+<Name>WinUsb Device</Name>
+<Publisher>WinUsb Device</Publisher>
+<Version>10.0.26100.1150</Version>
+<InstallDate>2025-12-19T00:00:00+00:00</InstallDate>
+</Driver>
+<Driver>
+<HardwareInfoGUID>D2DCF03D-DC45-4D82-AF90-7248CA57A822</HardwareInfoGUID>
+<Index>88</Index>
+<Name>USB Video Device</Name>
+<Publisher>Microsoft</Publisher>
+<Version>10.0.26100.6584</Version>
+<InstallDate>2025-12-19T00:00:00+00:00</InstallDate>
+</Driver>
+<Driver>
+<HardwareInfoGUID>D2DCF03D-DC45-4D82-AF90-7248CA57A822</HardwareInfoGUID>
+<Index>89</Index>
+<Name>Disk drive</Name>
+<Publisher>(Standard disk drives)</Publisher>
+<Version>10.0.26100.5074</Version>
+<InstallDate>2025-12-19T00:00:00+00:00</InstallDate>
+</Driver>
+<Driver>
+<HardwareInfoGUID>D2DCF03D-DC45-4D82-AF90-7248CA57A822</HardwareInfoGUID>
+<Index>90</Index>
+<Name>USB Mass Storage Device</Name>
+<Publisher>Compatible USB storage device</Publisher>
+<Version>10.0.26100.4768</Version>
+<InstallDate>2025-12-19T00:00:00+00:00</InstallDate>
+</Driver>
+<Driver>
+<HardwareInfoGUID>D2DCF03D-DC45-4D82-AF90-7248CA57A822</HardwareInfoGUID>
+<Index>91</Index>
+<Name>USB Root Hub (USB 3.0)</Name>
+<Publisher>(Standard USB HUBs)</Publisher>
+<Version>10.0.26100.5074</Version>
+<InstallDate>2025-12-19T00:00:00+00:00</InstallDate>
+</Driver>
+<Driver>
+<HardwareInfoGUID>D2DCF03D-DC45-4D82-AF90-7248CA57A822</HardwareInfoGUID>
+<Index>92</Index>
+<Name>USB xHCI Compliant Host Controller</Name>
+<Publisher>Generic USB xHCI Host Controller</Publisher>
+<Version>10.0.26100.5074</Version>
+<InstallDate>2025-12-19T00:00:00+00:00</InstallDate>
+</Driver>
+<Driver>
+<HardwareInfoGUID>D2DCF03D-DC45-4D82-AF90-7248CA57A822</HardwareInfoGUID>
+<Index>93</Index>
+<Name>HID Sensor Collection V2</Name>
+<Publisher>Microsoft</Publisher>
+<Version>10.0.26100.5074</Version>
+<InstallDate>2025-12-19T00:00:00+00:00</InstallDate>
+</Driver>
+<Driver>
+<HardwareInfoGUID>D2DCF03D-DC45-4D82-AF90-7248CA57A822</HardwareInfoGUID>
+<Index>94</Index>
+<Name>HID PCI Minidriver for ISS</Name>
+<Publisher>Intel</Publisher>
+<Version>3.1.0.4589</Version>
+<InstallDate>2025-12-19T00:00:00+00:00</InstallDate>
+</Driver>
+<Driver>
+<HardwareInfoGUID>D2DCF03D-DC45-4D82-AF90-7248CA57A822</HardwareInfoGUID>
+<Index>95</Index>
+<Name>ISS Dynamic Bus Enumerator</Name>
+<Publisher>(Standard system devices)</Publisher>
+<Version>3.1.0.4589</Version>
+<InstallDate>2025-12-19T00:00:00+00:00</InstallDate>
+</Driver>
+<Driver>
+<HardwareInfoGUID>D2DCF03D-DC45-4D82-AF90-7248CA57A822</HardwareInfoGUID>
+<Index>96</Index>
+<Name>Intel(R) Integrated Sensor Solution</Name>
+<Publisher>Intel</Publisher>
+<Version>3.1.0.4589</Version>
+<InstallDate>2025-12-19T00:00:00+00:00</InstallDate>
+</Driver>
+<Driver>
+<HardwareInfoGUID>D2DCF03D-DC45-4D82-AF90-7248CA57A822</HardwareInfoGUID>
+<Index>97</Index>
+<Name>Intel(R) Optane(TM) Memory and Storage Management Component</Name>
+<Publisher>Intel Corporation</Publisher>
+<Version>20.2.6.1025</Version>
+<InstallDate>2025-12-19T00:00:00+00:00</InstallDate>
+</Driver>
+<Driver>
+<HardwareInfoGUID>D2DCF03D-DC45-4D82-AF90-7248CA57A822</HardwareInfoGUID>
+<Index>98</Index>
+<Name>Intel RST VMD Controller A77F</Name>
+<Publisher>Intel Corporation</Publisher>
+<Version>20.2.6.1025</Version>
+<InstallDate>2025-12-19T00:00:00+00:00</InstallDate>
+</Driver>
+<Driver>
+<HardwareInfoGUID>D2DCF03D-DC45-4D82-AF90-7248CA57A822</HardwareInfoGUID>
+<Index>99</Index>
+<Name>USB4 Root Router</Name>
+<Publisher>Generic USB4 Device Router</Publisher>
+<Version>10.0.26100.5074</Version>
+<InstallDate>2025-12-19T00:00:00+00:00</InstallDate>
+</Driver>
+<Driver>
+<HardwareInfoGUID>D2DCF03D-DC45-4D82-AF90-7248CA57A822</HardwareInfoGUID>
+<Index>100</Index>
+<Name>USB4 Virtual power coordination device</Name>
+<InstallDate>2025-12-19T00:00:00+00:00</InstallDate>
+</Driver>
+<Driver>
+<HardwareInfoGUID>D2DCF03D-DC45-4D82-AF90-7248CA57A822</HardwareInfoGUID>
+<Index>101</Index>
+<Name>USB4(TM) Host Router (Microsoft)</Name>
+<Publisher>Generic USB4 Host Router</Publisher>
+<Version>10.0.26100.5074</Version>
+<InstallDate>2025-12-19T00:00:00+00:00</InstallDate>
+</Driver>
+<Driver>
+<HardwareInfoGUID>D2DCF03D-DC45-4D82-AF90-7248CA57A822</HardwareInfoGUID>
+<Index>102</Index>
+<Name>Intel(R) GNA Scoring Accelerator module</Name>
+<Publisher>Intel Corporation</Publisher>
+<Version>3.5.0.1578</Version>
+<InstallDate>2025-12-19T00:00:00+00:00</InstallDate>
+</Driver>
+<Driver>
+<HardwareInfoGUID>D2DCF03D-DC45-4D82-AF90-7248CA57A822</HardwareInfoGUID>
+<Index>103</Index>
+<Name>PCI Express Root Port</Name>
+<Publisher>(Standard system devices)</Publisher>
+<Version>10.0.26100.5074</Version>
+<InstallDate>2025-12-19T00:00:00+00:00</InstallDate>
+</Driver>
+<Driver>
+<HardwareInfoGUID>D2DCF03D-DC45-4D82-AF90-7248CA57A822</HardwareInfoGUID>
+<Index>104</Index>
+<Name>Intel RST VMD Managed Controller 09AB</Name>
+<Publisher>Intel Corporation</Publisher>
+<Version>20.2.6.1025</Version>
+<InstallDate>2025-12-19T00:00:00+00:00</InstallDate>
+</Driver>
+<Driver>
+<HardwareInfoGUID>D2DCF03D-DC45-4D82-AF90-7248CA57A822</HardwareInfoGUID>
+<Index>105</Index>
+<Name>Intel(R) Dynamic Tuning Technology</Name>
+<Publisher>Intel</Publisher>
+<Version>9.0.11703.48565</Version>
+<InstallDate>2025-12-19T00:00:00+00:00</InstallDate>
+</Driver>
+<Driver>
+<HardwareInfoGUID>D2DCF03D-DC45-4D82-AF90-7248CA57A822</HardwareInfoGUID>
+<Index>106</Index>
+<Name>Intel(R) SoC Thermal IPF Extension Provider</Name>
+<Publisher>Intel</Publisher>
+<Version>3.2.1002.0</Version>
+<InstallDate>2025-12-19T00:00:00+00:00</InstallDate>
+</Driver>
+<Driver>
+<HardwareInfoGUID>D2DCF03D-DC45-4D82-AF90-7248CA57A822</HardwareInfoGUID>
+<Index>107</Index>
+<Name>Generic software component</Name>
+<Publisher>Microsoft</Publisher>
+<Version>10.0.26100.1</Version>
+<InstallDate>2025-12-20T00:00:00+00:00</InstallDate>
+</Driver>
+<Driver>
+<HardwareInfoGUID>D2DCF03D-DC45-4D82-AF90-7248CA57A822</HardwareInfoGUID>
+<Index>108</Index>
+<Name>Intel(R) GPU IPF Providers</Name>
+<Publisher>Intel</Publisher>
+<Version>16.0.0.730</Version>
+<InstallDate>2025-12-19T00:00:00+00:00</InstallDate>
+</Driver>
+<Driver>
+<HardwareInfoGUID>D2DCF03D-DC45-4D82-AF90-7248CA57A822</HardwareInfoGUID>
+<Index>109</Index>
+<Name>Intel(R) Innovation Platform Framework Extensible Framework</Name>
+<Publisher>Intel</Publisher>
+<Version>2.3.20200.4422</Version>
+<InstallDate>2025-12-20T00:00:00+00:00</InstallDate>
+</Driver>
+<Driver>
+<HardwareInfoGUID>D2DCF03D-DC45-4D82-AF90-7248CA57A822</HardwareInfoGUID>
+<Index>110</Index>
+<Name>Intel(R) Innovation Platform Framework Processor Participant</Name>
+<Publisher>Intel</Publisher>
+<Version>2.3.20200.4422</Version>
+<InstallDate>2025-12-19T00:00:00+00:00</InstallDate>
+</Driver>
+<Driver>
+<HardwareInfoGUID>D2DCF03D-DC45-4D82-AF90-7248CA57A822</HardwareInfoGUID>
+<Index>111</Index>
+<Name>Generic PnP Monitor</Name>
+<Publisher>(Standard monitor types)</Publisher>
+<Version>10.0.26100.5074</Version>
+<InstallDate>2025-12-19T00:00:00+00:00</InstallDate>
+</Driver>
+<Driver>
+<HardwareInfoGUID>D2DCF03D-DC45-4D82-AF90-7248CA57A822</HardwareInfoGUID>
+<Index>112</Index>
+<Name>Intel(R) UHD Graphics</Name>
+<Publisher>Intel Corporation</Publisher>
+<Version>32.0.101.7077</Version>
+<InstallDate>2025-12-19T00:00:00+00:00</InstallDate>
+</Driver>
+<Driver>
+<HardwareInfoGUID>D2DCF03D-DC45-4D82-AF90-7248CA57A822</HardwareInfoGUID>
+<Index>113</Index>
+<Name>PCI standard host CPU bridge</Name>
+<Publisher>(Standard system devices)</Publisher>
+<Version>10.0.26100.1150</Version>
+<InstallDate>2025-12-19T00:00:00+00:00</InstallDate>
+</Driver>
+<Driver>
+<HardwareInfoGUID>D2DCF03D-DC45-4D82-AF90-7248CA57A822</HardwareInfoGUID>
+<Index>114</Index>
+<Name>PCI Express Root Complex</Name>
+<Publisher>(Standard system devices)</Publisher>
+<Version>10.0.26100.5074</Version>
+<InstallDate>2025-12-19T00:00:00+00:00</InstallDate>
+</Driver>
+<Driver>
+<HardwareInfoGUID>D2DCF03D-DC45-4D82-AF90-7248CA57A822</HardwareInfoGUID>
+<Index>115</Index>
+<Name>Microsoft ACPI-Compliant System</Name>
+<Publisher>Microsoft</Publisher>
+<Version>10.0.26100.5074</Version>
+<InstallDate>2025-12-19T00:00:00+00:00</InstallDate>
+</Driver>
+<Driver>
+<HardwareInfoGUID>D2DCF03D-DC45-4D82-AF90-7248CA57A822</HardwareInfoGUID>
+<Index>116</Index>
+<Name>ACPI x64-based PC</Name>
+<Publisher>(Standard computers)</Publisher>
+<Version>10.0.26100.1</Version>
+<InstallDate>2024-11-14T00:00:00+00:00</InstallDate>
+</Driver>
+<Driver>
+<HardwareInfoGUID>D2DCF03D-DC45-4D82-AF90-7248CA57A822</HardwareInfoGUID>
+<Index>117</Index>
+<Name>Charge Arbitration Driver</Name>
+<Publisher>(Standard system devices)</Publisher>
+<Version>10.0.26100.5074</Version>
+<InstallDate>2025-12-19T00:00:00+00:00</InstallDate>
+</Driver>
+<Driver>
+<HardwareInfoGUID>D2DCF03D-DC45-4D82-AF90-7248CA57A822</HardwareInfoGUID>
+<Index>118</Index>
+<Name>UMBus Root Bus Enumerator</Name>
+<Publisher>Microsoft</Publisher>
+<Version>10.0.26100.1150</Version>
+<InstallDate>2025-12-19T00:00:00+00:00</InstallDate>
+</Driver>
+<Driver>
+<HardwareInfoGUID>D2DCF03D-DC45-4D82-AF90-7248CA57A822</HardwareInfoGUID>
+<Index>119</Index>
+<Name>Facial Recognition (Windows Hello) Software Device</Name>
+<Publisher>Microsoft</Publisher>
+<Version>10.0.26100.5074</Version>
+<InstallDate>2025-12-19T00:00:00+00:00</InstallDate>
+</Driver>
+<Driver>
+<HardwareInfoGUID>D2DCF03D-DC45-4D82-AF90-7248CA57A822</HardwareInfoGUID>
+<Index>120</Index>
+<Name>Microsoft Kernel Debug Network Adapter</Name>
+<Publisher>Microsoft</Publisher>
+<Version>10.0.26100.3624</Version>
+<InstallDate>2025-12-19T00:00:00+00:00</InstallDate>
+</Driver>
+<Driver>
+<HardwareInfoGUID>D2DCF03D-DC45-4D82-AF90-7248CA57A822</HardwareInfoGUID>
+<Index>121</Index>
+<Name>Microsoft Storage Spaces Controller</Name>
+<Publisher>Microsoft</Publisher>
+<Version>10.0.26100.5074</Version>
+<InstallDate>2025-12-19T00:00:00+00:00</InstallDate>
+</Driver>
+<Driver>
+<HardwareInfoGUID>D2DCF03D-DC45-4D82-AF90-7248CA57A822</HardwareInfoGUID>
+<Index>122</Index>
+<Name>Microsoft Virtual Drive Enumerator</Name>
+<Publisher>Microsoft</Publisher>
+<Version>10.0.26100.1591</Version>
+<InstallDate>2025-12-19T00:00:00+00:00</InstallDate>
+</Driver>
+<Driver>
+<HardwareInfoGUID>D2DCF03D-DC45-4D82-AF90-7248CA57A822</HardwareInfoGUID>
+<Index>123</Index>
+<Name>Composite Bus Enumerator</Name>
+<Publisher>Microsoft</Publisher>
+<Version>10.0.26100.1150</Version>
+<InstallDate>2025-12-19T00:00:00+00:00</InstallDate>
+</Driver>
+<Driver>
+<HardwareInfoGUID>D2DCF03D-DC45-4D82-AF90-7248CA57A822</HardwareInfoGUID>
+<Index>124</Index>
+<Name>Microsoft Hyper-V Virtualization Infrastructure Driver</Name>
+<Publisher>Microsoft</Publisher>
+<Version>10.0.26100.5074</Version>
+<InstallDate>2025-12-19T00:00:00+00:00</InstallDate>
+</Driver>
+<Driver>
+<HardwareInfoGUID>D2DCF03D-DC45-4D82-AF90-7248CA57A822</HardwareInfoGUID>
+<Index>125</Index>
+<Name>Microsoft Hypervisor Service</Name>
+<Publisher>Microsoft</Publisher>
+<Version>10.0.26100.5074</Version>
+<InstallDate>2025-12-19T00:00:00+00:00</InstallDate>
+</Driver>
+<Driver>
+<HardwareInfoGUID>D2DCF03D-DC45-4D82-AF90-7248CA57A822</HardwareInfoGUID>
+<Index>126</Index>
+<Name>Microsoft Basic Display Driver</Name>
+<Publisher>(Standard display types)</Publisher>
+<Version>10.0.26100.4202</Version>
+<InstallDate>2025-12-19T00:00:00+00:00</InstallDate>
+</Driver>
+<Driver>
+<HardwareInfoGUID>D2DCF03D-DC45-4D82-AF90-7248CA57A822</HardwareInfoGUID>
+<Index>127</Index>
+<Name>Volume</Name>
+<Publisher>Microsoft</Publisher>
+<Version>10.0.26100.5074</Version>
+<InstallDate>2025-12-19T00:00:00+00:00</InstallDate>
+</Driver>
+<Driver>
+<HardwareInfoGUID>D2DCF03D-DC45-4D82-AF90-7248CA57A822</HardwareInfoGUID>
+<Index>128</Index>
+<Name>Generic volume shadow copy</Name>
+<Publisher>Microsoft</Publisher>
+<Version>10.0.26100.1</Version>
+<InstallDate>2025-12-19T00:00:00+00:00</InstallDate>
+</Driver>
+<Driver>
+<HardwareInfoGUID>D2DCF03D-DC45-4D82-AF90-7248CA57A822</HardwareInfoGUID>
+<Index>129</Index>
+<Name>Volume Manager</Name>
+<Publisher>Microsoft</Publisher>
+<Version>10.0.26100.5074</Version>
+<InstallDate>2025-12-19T00:00:00+00:00</InstallDate>
+</Driver>
+<Update>
+<HardwareInfoGUID>D2DCF03D-DC45-4D82-AF90-7248CA57A822</HardwareInfoGUID>
+<Index>0</Index>
+<Name>KB5066131</Name>
+<Publisher>http://support.microsoft.com/?kbid=5066131</Publisher>
+<InstallDate>2025-12-19T00:00:00+00:00</InstallDate>
+</Update>
+<Update>
+<HardwareInfoGUID>D2DCF03D-DC45-4D82-AF90-7248CA57A822</HardwareInfoGUID>
+<Index>1</Index>
+<Name>KB5065426</Name>
+<Publisher>https://support.microsoft.com/help/5065426</Publisher>
+<InstallDate>2025-09-19T00:00:00+00:00</InstallDate>
+</Update>
+<Update>
+<HardwareInfoGUID>D2DCF03D-DC45-4D82-AF90-7248CA57A822</HardwareInfoGUID>
+<Index>2</Index>
+<Name>KB5064531</Name>
+<InstallDate>2025-09-19T00:00:00+00:00</InstallDate>
+</Update>
+</Software_Inventory>
+<DCSA_Error_Log>
+<![CDATA[ 2025-12-19, 10:58:44:262 SendRequest(1015): DTPSHIM returned empty data 2025-12-19, 10:58:44:280 Dell Data Vault InitProfilerObjects() succeeded. 2025-12-19, 10:58:54:286 TimerProc: Collect BsodEvent from DTP after DDV start, save it to DDV DB, and raise BsodAlert if needed... 2025-12-19, 10:58:54:286 WriteDataProfile(): request(20) from DDVShim 2025-12-19, 10:58:54:318 SendRequest(20): DTPSHIM returned empty data 2025-12-19, 10:58:54:318 TimerProc: Collect first WERBsodAlert by request from DTP after DDV start, and raise WERBsodAlert if needed... 2025-12-19, 10:58:54:379 TimerProc: Collect first WERBsodEvent from DTP after DDV start, and save it to DDV DB... 2025-12-19, 10:58:54:383 WriteDataProfile(): request(51) from DDVShim 2025-12-19, 10:58:54:428 SendRequest(51): DTPSHIM returned empty data 2025-12-19, 11:58:44:271 TimerProc: Collect periodic WERBsodEvent from DTP and save it to DDV DB... 2025-12-19, 11:58:44:271 WriteDataProfile(): request(51) from DDVShim 2025-12-19, 11:58:44:318 SendRequest(51): DTPSHIM returned empty data 2025-12-19, 12:21:51:319 [1804](9756) DDVDataCollector DPS_ServiceCtrlHandlerEx: (SERVICE_CONTROL_SHUTDOWN)... 2025-12-19, 12:21:51:327 [1804](10256) DDVDataCollector DPS_ServiceStart: Stop DDVDataCollector 7.8.5.1719... 2025-12-19, 12:21:51:338 [1804](10256) DDVDataCollector DPS_ServiceStart: DDVDataCollector 7.8.5.1719 has stopped. 2025-12-19, 12:21:51:340 [1804](9756) DDVDataCollector DDVDataCollectorWinMain:() Exit. 2025-12-19, 12:24:49:393 [21556](21560) DDVDataCollector DDVDataCollectorWinMain:() Start... 2025-12-19, 12:24:49:414 [21556](21612) DDVDataCollector DPS_ServiceStart: Start DDVDataCollector 7.8.5.1719... 2025-12-19, 12:24:49:450 [21556](21612) DDVDataCollector DPS_ServiceStart: DDVDataCollector 7.8.5.1719 is running. 2025-12-19, 12:24:49:473 IsOOBECompleted: DetermineOOBECompletedByAPI(): OOBE completed 2025-12-19, 12:24:53:756 ServiceWorkerThread: Notify the caller to kick-start the shim instantiation 2025-12-19, 12:25:01:307 PostDDVDataCollectorMessage(): SetEvent(g_hDTPClientSdkAvailableEvent) succeeds 2025-12-19, 12:25:01:309 PostDDVDataCollectorMessage(): SetEvent(g_hDTPClientSdkAvailableEvent) succeeds 2025-12-19, 12:25:01:784 WmiGetBatteryChemistry: unknown type 2 2025-12-19, 12:25:01:811 WriteDataProfile(): request(2) from DDVShim 2025-12-19, 12:25:02:563 ePSA Novel API is supported 2025-12-19, 12:25:02:576 A3-Over-Wmi is supported 2025-12-19, 12:25:02:614 DDVDataCollector: Common timers have been loaded into Master timer table 2025-12-19, 12:25:02:676 InitializeEPSA(): LegacyEpsa=1 NovelEpsa=0 (SUCCESS=0,ERROR=1,FAIL-SAFE=2,DLL_LOAD_FAILURE=3) 2025-12-19, 12:25:02:783 IntelPerf.dll (Code 128): InitCoreConfiguration: Can not access CPUs Model Specific Registers (MSRs). 2025-12-19, 12:25:02:853 LoadDdvPlugins: loadplugin NvidiaPerf.dll failed 2025-12-19, 12:25:02:954 LoadDdvPlugins: loadplugin AtiPerf.dll failed 2025-12-19, 12:25:02:955 CheckUTF8File(): CreateFileW(c:\Program Files\Dell\DellDataVault\customer.ini) failed! err=0x2 2025-12-19, 12:25:02:999 Init periodic-data-alert before constructing objects. 2025-12-19, 12:25:03:398 WriteDataProfile(): request(32) from DDVShim 2025-12-19, 12:25:09:338 WriteDataProfile(): request(37) from DDVShim 2025-12-19, 12:25:10:069 WriteDataProfile(): request(17) from DDVShim 2025-12-19, 12:25:14:738 WriteDataProfile(): request(17) from DDVShim 2025-12-19, 12:25:23:101 WriteDataProfile(): request(50) from DDVShim 2025-12-19, 12:25:23:137 SendRequest(50): DTPSHIM returned empty data 2025-12-19, 12:25:23:165 Dell Data Vault InitProfilerObjects() succeeded. 2025-12-19, 12:25:33:157 TimerProc: Collect BsodEvent from DTP after DDV start, save it to DDV DB, and raise BsodAlert if needed... 2025-12-19, 12:25:33:157 WriteDataProfile(): request(20) from DDVShim 2025-12-19, 12:25:33:194 SendRequest(20): DTPSHIM returned empty data 2025-12-19, 12:25:33:194 TimerProc: Collect first WERBsodAlert by request from DTP after DDV start, and raise WERBsodAlert if needed... 2025-12-19, 12:25:33:875 TimerProc: Collect first WERBsodEvent from DTP after DDV start, and save it to DDV DB... 2025-12-19, 12:25:33:891 WriteDataProfile(): request(51) from DDVShim 2025-12-19, 12:25:33:957 SendRequest(51): DTPSHIM returned empty data 2025-12-19, 13:43:28:456 TimerProc: Collect periodic WERBsodEvent from DTP and save it to DDV DB... 2025-12-19, 13:43:28:456 WriteDataProfile(): request(51) from DDVShim 2025-12-19, 13:43:28:487 SendRequest(51): DTPSHIM returned empty data 2025-12-19, 22:02:34:097 TimerProc: Collect periodic WERBsodEvent from DTP and save it to DDV DB... 2025-12-19, 22:02:34:097 WriteDataProfile(): request(51) from DDVShim 2025-12-19, 22:02:34:128 SendRequest(51): DTPSHIM returned empty data 2025-12-19, 23:02:34:112 TimerProc: Collect periodic WERBsodEvent from DTP and save it to DDV DB... 2025-12-19, 23:02:34:112 WriteDataProfile(): request(51) from DDVShim 2025-12-19, 23:02:34:144 SendRequest(51): DTPSHIM returned empty data 2025-12-20, 00:02:34:121 TimerProc: Collect periodic WERBsodEvent from DTP and save it to DDV DB... 2025-12-20, 00:02:34:121 WriteDataProfile(): request(51) from DDVShim 2025-12-20, 00:02:34:159 SendRequest(51): DTPSHIM returned empty data 2025-12-20, 00:02:34:169 WriteDataProfile(): request(12) from DDVShim 2025-12-20, 00:02:43:130 WriteDataProfile(): request(4) from DDVShim 2025-12-20, 00:02:43:194 WriteDataProfile(): request(8) from DDVShim 2025-12-20, 00:02:43:273 WriteDataProfile(): request(9) from DDVShim 2025-12-20, 00:02:43:321 WriteDataProfile(): request(10) from DDVShim 2025-12-20, 00:02:43:384 WriteDataProfile(): request(11) from DDVShim 2025-12-20, 00:02:52:575 WriteDataProfileToDataBase(): request=(11), TypeCode=(0), SubCode=(0) TimeStamp = 0 2025-12-20, 00:02:52:606 WriteDataProfile(): request(13) from DDVShim 2025-12-20, 00:02:52:734 WriteDataProfile(): request(14) from DDVShim 2025-12-20, 00:03:02:745 WriteDataProfile(): request(16) from DDVShim 2025-12-20, 00:03:02:852 WriteDataProfile(): request(18) from DDVShim 2025-12-20, 00:03:02:951 WriteDataProfile(): request(19) from DDVShim 2025-12-20, 00:03:03:876 WriteDataProfile(): request(22) from DDVShim 2025-12-20, 00:03:03:999 WriteDataProfile(): request(23) from DDVShim 2025-12-20, 00:03:05:189 WriteDataProfile(): request(24) from DDVShim 2025-12-20, 00:03:05:232 SendRequest(24): DTPSHIM returned empty data 2025-12-20, 00:03:05:234 DDVLiteCollectData(): Failed to obtain periodic data(24): Application Crash Event. 2025-12-20, 00:03:05:260 WriteDataProfile(): request(26) from DDVShim 2025-12-20, 00:03:05:612 WriteDataProfile(): request(27) from DDVShim 2025-12-20, 00:03:05:767 WriteDataProfile(): request(28) from DDVShim 2025-12-20, 00:03:05:828 WriteDataProfile(): request(30) from DDVShim 2025-12-20, 00:03:06:187 WriteDataProfile(): request(33) from DDVShim 2025-12-20, 00:03:13:329 WriteDataProfile(): request(34) from DDVShim 2025-12-20, 00:03:13:402 WriteDataProfile(): request(36) from DDVShim 2025-12-20, 00:03:13:523 WriteDataProfile(): request(40) from DDVShim 2025-12-20, 00:03:13:538 SendRequest(40): DTPSHIM returned empty data 2025-12-20, 00:03:13:557 DDVLiteCollectData(): Failed to obtain periodic data(40): Nvidia Performance. 2025-12-20, 00:03:13:596 WriteDataProfile(): request(42) from DDVShim 2025-12-20, 00:03:13:649 SendRequest(42): DTPSHIM returned empty data 2025-12-20, 00:03:13:680 DDVLiteCollectData(): Failed to obtain periodic data(42): ATI Performance. 2025-12-20, 00:03:13:729 WriteDataProfile(): request(45) from DDVShim 2025-12-20, 00:03:13:775 SendRequest(45): DTPSHIM returned empty data 2025-12-20, 00:03:13:795 DDVLiteCollectData(): Failed to obtain periodic data(45): LID state. 2025-12-20, 00:03:13:809 WriteDataProfile(): request(46) from DDVShim 2025-12-20, 00:03:13:880 SendRequest(46): DTPSHIM returned empty data 2025-12-20, 00:03:13:882 DDVLiteCollectData(): Failed to obtain periodic data(46): SMI Occurrence. 2025-12-20, 00:03:13:916 CreateSummaryOnSchedule(): 'last summary generated time' (134106551013488980) 2025-12-20, 00:03:13:952 WriteDataProfile(): reques ]]>
+</DCSA_Error_Log>
+</DCSA_Summary_Log>

@@ -1,0 +1,16 @@
+10.12.205.194 - - [11/Dec/2025 13:54:35] "GET / HTTP/1.1" 200 -
+10.12.205.194 - - [11/Dec/2025 13:54:35] "GET /assets/styles.css HTTP/1.1" 304 -
+10.12.205.194 - - [11/Dec/2025 13:54:35] "GET /assets/script.js HTTP/1.1" 304 -
+10.12.205.194 - - [11/Dec/2025 13:54:36] "GET /assets/favicon.svg HTTP/1.1" 200 -
+erClass(addr, HandlerClass) as httpd:
+         ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/usr/local/lib/python3.11/socketserver.py", line 456, in __init__
+    self.server_bind()
+  File "/usr/local/lib/python3.11/http/server.py", line 1307, in server_bind
+    return super().server_bind()
+           ^^^^^^^^^^^^^^^^^^^^^
+  File "/usr/local/lib/python3.11/http/server.py", line 136, in server_bind
+    socketserver.TCPServer.server_bind(self)
+  File "/usr/local/lib/python3.11/socketserver.py", line 472, in server_bind
+    self.socket.bind(self.server_address)
+OSError: [Errno 98] Address already in use

@@ -1,0 +1,274 @@
+SubSystem: Agent
+LogId: Agent
+Type: Dell.Client.Framework.Agent.Agent
+Assembly Name: DCF.Agent
+
+SubSystem: ServiceManagement
+LogId: ServiceManagem
+Type: Dell.Client.Framework.Common.ServiceManagement.ServiceManagement
+Assembly Name: DCF.Common
+
+SubSystem: DDVLiteSubAgent
+LogId: DDVLiteSubAgen
+Type: Dell.DataVault.DataCollector.Console.DDVLiteSubAgent
+Assembly Name: DDVDataCollector
+
+SubSystem: SACCBase
+LogId: SACCBase
+Type: Dell.UnifiedAgent.SubAgentControl.Common.SubAgentControlClientBase
+Assembly Name: Dell.UnifiedAgent.SubAgentControl.Common
+
+SubSystem: SaCC
+LogId: SaCC
+Type: Dell.UnifiedAgent.SubAgentControl.Client.SubAgentControlClient
+Assembly Name: Dell.UnifiedAgent.SubAgentControl.Client
+Plugin Name: SubAgentControlClientPlugin
+Publisher Name: Dell Inc.
+Publisher Support: This plugin implements SubAgent Control Client.
+
+SubSystem: RemoteClientPlugin
+LogId: RemoteClientPl
+Type: Dell.UnifiedAgent.RemotePlugin.Client.RemoteClientPlugin
+Assembly Name: Dell.UnifiedAgent.RemotePlugin.Client
+Plugin Name: RemoteClientPlugin
+Publisher Name: Dell Inc.
+Publisher Support: Implements remote client functionality.
+
+SubSystem: Settings
+LogId: Settings
+Type: Dell.UnifiedAgent.DellTechHubSettings.SettingsPlugin
+Assembly Name: Dell.UnifiedAgent.DellTechHubSettings
+Plugin Name: Unified Agent Dell TechHub Settings
+Publisher Name: Dell Inc
+Publisher Support: https://dell.com
+
+SubSystem: Trns_Sdk
+LogId: Trns_Sdk
+Type: Dell.TechHub.Sdk.Common.Utilities.Logging.DtpLog
+Assembly Name: Dell.TechHub.Sdk.Common
+
+SubSystem: Analytics_SDK
+LogId: Analytics_SDK
+Type: Dell.TechHub.Sdk.Common.Utilities.Logging.DtpLog
+Assembly Name: Dell.TechHub.Sdk.Common
+
+SubSystem: INST_SDK
+LogId: INST_SDK
+Type: Dell.TechHub.Sdk.Common.Utilities.Logging.DtpLog
+Assembly Name: Dell.TechHub.Sdk.Common
+
+SubSystem: 81A4954E309F469C8999F8204F503245
+LogId: 81A4954E309F46
+Type: Dell.UnifiedAgent.RemotePlugin.Common.BaseDynamicPlugin
+Assembly Name: Dell.UnifiedAgent.RemotePlugin.Common
+
+SubSystem: 1C7AF1C795E94DB4B0497350C2F82A2A
+LogId: 1C7AF1C795E94D
+Type: Dell.UnifiedAgent.RemotePlugin.Common.BaseDynamicPlugin
+Assembly Name: Dell.UnifiedAgent.RemotePlugin.Common
+
+SubSystem: E42712DEB3254513961F46D454D00E43
+LogId: E42712DEB32545
+Type: Dell.UnifiedAgent.RemotePlugin.Common.BaseDynamicPlugin
+Assembly Name: Dell.UnifiedAgent.RemotePlugin.Common
+
+SubSystem: 8328A7F021B041CD85BF7E019AFD273D
+LogId: 8328A7F021B041
+Type: Dell.UnifiedAgent.RemotePlugin.Common.BaseDynamicPlugin
+Assembly Name: Dell.UnifiedAgent.RemotePlugin.Common
+
+SubSystem: DEBUG_EX
+LogId: DEBUG_EX
+Type: Dell.TechHub.Sdk.Common.Utilities.Logging.DtpLog
+Assembly Name: Dell.TechHub.Sdk.Common
+
+SubSystem: DEBUG_EX
+LogId: DEBUG_EX
+Type: Dell.TechHub.Sdk.Common.Utilities.Logging.DtpLog
+Assembly Name: Dell.TechHub.Sdk.Common
+
+SubSystem: DEBUG_EX
+LogId: DEBUG_EX
+Type: Dell.TechHub.Sdk.Common.Utilities.Logging.DtpLog
+Assembly Name: Dell.TechHub.Sdk.Common
+
+SubSystem: DEBUG_EX
+LogId: DEBUG_EX
+Type: Dell.TechHub.Sdk.Common.Utilities.Logging.DtpLog
+Assembly Name: Dell.TechHub.Sdk.Common
+
+SubSystem: DEBUG_EX
+LogId: DEBUG_EX
+Type: Dell.TechHub.Sdk.Common.Utilities.Logging.DtpLog
+Assembly Name: Dell.TechHub.Sdk.Common
+
+SubSystem: DEBUG_EX
+LogId: DEBUG_EX
+Type: Dell.TechHub.Sdk.Common.Utilities.Logging.DtpLog
+Assembly Name: Dell.TechHub.Sdk.Common
+
+SubSystem: DEBUG_EX
+LogId: DEBUG_EX
+Type: Dell.TechHub.Sdk.Common.Utilities.Logging.DtpLog
+Assembly Name: Dell.TechHub.Sdk.Common
+
+SubSystem: DEBUG_EX
+LogId: DEBUG_EX
+Type: Dell.TechHub.Sdk.Common.Utilities.Logging.DtpLog
+Assembly Name: Dell.TechHub.Sdk.Common
+
+SubSystem: DEBUG_EX
+LogId: DEBUG_EX
+Type: Dell.TechHub.Sdk.Common.Utilities.Logging.DtpLog
+Assembly Name: Dell.TechHub.Sdk.Common
+
+SubSystem: DEBUG_EX
+LogId: DEBUG_EX
+Type: Dell.TechHub.Sdk.Common.Utilities.Logging.DtpLog
+Assembly Name: Dell.TechHub.Sdk.Common
+
+SubSystem: DEBUG_EX
+LogId: DEBUG_EX
+Type: Dell.TechHub.Sdk.Common.Utilities.Logging.DtpLog
+Assembly Name: Dell.TechHub.Sdk.Common
+
+SubSystem: DEBUG_EX
+LogId: DEBUG_EX
+Type: Dell.TechHub.Sdk.Common.Utilities.Logging.DtpLog
+Assembly Name: Dell.TechHub.Sdk.Common
+
+SubSystem: DEBUG_EX
+LogId: DEBUG_EX
+Type: Dell.TechHub.Sdk.Common.Utilities.Logging.DtpLog
+Assembly Name: Dell.TechHub.Sdk.Common
+
+SubSystem: DEBUG_EX
+LogId: DEBUG_EX
+Type: Dell.TechHub.Sdk.Common.Utilities.Logging.DtpLog
+Assembly Name: Dell.TechHub.Sdk.Common
+
+SubSystem: DEBUG_EX
+LogId: DEBUG_EX
+Type: Dell.TechHub.Sdk.Common.Utilities.Logging.DtpLog
+Assembly Name: Dell.TechHub.Sdk.Common
+
+SubSystem: DEBUG_EX
+LogId: DEBUG_EX
+Type: Dell.TechHub.Sdk.Common.Utilities.Logging.DtpLog
+Assembly Name: Dell.TechHub.Sdk.Common
+
+SubSystem: DEBUG_EX
+LogId: DEBUG_EX
+Type: Dell.TechHub.Sdk.Common.Utilities.Logging.DtpLog
+Assembly Name: Dell.TechHub.Sdk.Common
+
+SubSystem: DEBUG_EX
+LogId: DEBUG_EX
+Type: Dell.TechHub.Sdk.Common.Utilities.Logging.DtpLog
+Assembly Name: Dell.TechHub.Sdk.Common
+
+SubSystem: DEBUG_EX
+LogId: DEBUG_EX
+Type: Dell.TechHub.Sdk.Common.Utilities.Logging.DtpLog
+Assembly Name: Dell.TechHub.Sdk.Common
+
+SubSystem: DEBUG_EX
+LogId: DEBUG_EX
+Type: Dell.TechHub.Sdk.Common.Utilities.Logging.DtpLog
+Assembly Name: Dell.TechHub.Sdk.Common
+
+SubSystem: DEBUG_EX
+LogId: DEBUG_EX
+Type: Dell.TechHub.Sdk.Common.Utilities.Logging.DtpLog
+Assembly Name: Dell.TechHub.Sdk.Common
+
+SubSystem: DEBUG_EX
+LogId: DEBUG_EX
+Type: Dell.TechHub.Sdk.Common.Utilities.Logging.DtpLog
+Assembly Name: Dell.TechHub.Sdk.Common
+
+SubSystem: DEBUG_EX
+LogId: DEBUG_EX
+Type: Dell.TechHub.Sdk.Common.Utilities.Logging.DtpLog
+Assembly Name: Dell.TechHub.Sdk.Common
+
+SubSystem: DEBUG_EX
+LogId: DEBUG_EX
+Type: Dell.TechHub.Sdk.Common.Utilities.Logging.DtpLog
+Assembly Name: Dell.TechHub.Sdk.Common
+
+SubSystem: DEBUG_EX
+LogId: DEBUG_EX
+Type: Dell.TechHub.Sdk.Common.Utilities.Logging.DtpLog
+Assembly Name: Dell.TechHub.Sdk.Common
+
+SubSystem: DEBUG_EX
+LogId: DEBUG_EX
+Type: Dell.TechHub.Sdk.Common.Utilities.Logging.DtpLog
+Assembly Name: Dell.TechHub.Sdk.Common
+
+SubSystem: DEBUG_EX
+LogId: DEBUG_EX
+Type: Dell.TechHub.Sdk.Common.Utilities.Logging.DtpLog
+Assembly Name: Dell.TechHub.Sdk.Common
+
+SubSystem: DEBUG_EX
+LogId: DEBUG_EX
+Type: Dell.TechHub.Sdk.Common.Utilities.Logging.DtpLog
+Assembly Name: Dell.TechHub.Sdk.Common
+
+SubSystem: DEBUG_EX
+LogId: DEBUG_EX
+Type: Dell.TechHub.Sdk.Common.Utilities.Logging.DtpLog
+Assembly Name: Dell.TechHub.Sdk.Common
+
+SubSystem: DEBUG_EX
+LogId: DEBUG_EX
+Type: Dell.TechHub.Sdk.Common.Utilities.Logging.DtpLog
+Assembly Name: Dell.TechHub.Sdk.Common
+
+SubSystem: DEBUG_EX
+LogId: DEBUG_EX
+Type: Dell.TechHub.Sdk.Common.Utilities.Logging.DtpLog
+Assembly Name: Dell.TechHub.Sdk.Common
+
+SubSystem: DEBUG_EX
+LogId: DEBUG_EX
+Type: Dell.TechHub.Sdk.Common.Utilities.Logging.DtpLog
+Assembly Name: Dell.TechHub.Sdk.Common
+
+SubSystem: DEBUG_EX
+LogId: DEBUG_EX
+Type: Dell.TechHub.Sdk.Common.Utilities.Logging.DtpLog
+Assembly Name: Dell.TechHub.Sdk.Common
+
+SubSystem: DEBUG_EX
+LogId: DEBUG_EX
+Type: Dell.TechHub.Sdk.Common.Utilities.Logging.DtpLog
+Assembly Name: Dell.TechHub.Sdk.Common
+
+SubSystem: DEBUG_EX
+LogId: DEBUG_EX
+Type: Dell.TechHub.Sdk.Common.Utilities.Logging.DtpLog
+Assembly Name: Dell.TechHub.Sdk.Common
+
+SubSystem: DEBUG_EX
+LogId: DEBUG_EX
+Type: Dell.TechHub.Sdk.Common.Utilities.Logging.DtpLog
+Assembly Name: Dell.TechHub.Sdk.Common
+
+SubSystem: DEBUG_EX
+LogId: DEBUG_EX
+Type: Dell.TechHub.Sdk.Common.Utilities.Logging.DtpLog
+Assembly Name: Dell.TechHub.Sdk.Common
+
+SubSystem: DEBUG_EX
+LogId: DEBUG_EX
+Type: Dell.TechHub.Sdk.Common.Utilities.Logging.DtpLog
+Assembly Name: Dell.TechHub.Sdk.Common
+
+SubSystem: DEBUG_EX
+LogId: DEBUG_EX
+Type: Dell.TechHub.Sdk.Common.Utilities.Logging.DtpLog
+Assembly Name: Dell.TechHub.Sdk.Common
+

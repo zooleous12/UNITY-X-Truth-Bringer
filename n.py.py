@@ -1,0 +1,1 @@
+adb logcat -d > my_device_logs.txt
