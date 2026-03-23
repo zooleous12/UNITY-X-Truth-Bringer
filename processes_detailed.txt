@@ -1,0 +1,2336 @@
+﻿Process Name: Antigravity
+Process ID: 388
+Started: 01/26/2026 22:04:19
+Executable Path: C:\Users\zoole\AppData\Local\Programs\Antigravity\Antigravity.exe
+Company: Google LLC
+Description: Antigravity
+Version: 1.15.8
+----------------------------------------
+Process Name: Antigravity
+Process ID: 2764
+Started: 01/26/2026 22:04:46
+Executable Path: C:\Users\zoole\AppData\Local\Programs\Antigravity\Antigravity.exe
+Company: Google LLC
+Description: Antigravity
+Version: 1.15.8
+----------------------------------------
+Process Name: Antigravity
+Process ID: 8060
+Started: 01/26/2026 22:04:22
+Executable Path: C:\Users\zoole\AppData\Local\Programs\Antigravity\Antigravity.exe
+Company: Google LLC
+Description: Antigravity
+Version: 1.15.8
+----------------------------------------
+Process Name: Antigravity
+Process ID: 8620
+Started: 01/26/2026 22:04:27
+Executable Path: C:\Users\zoole\AppData\Local\Programs\Antigravity\Antigravity.exe
+Company: Google LLC
+Description: Antigravity
+Version: 1.15.8
+----------------------------------------
+Process Name: Antigravity
+Process ID: 9240
+Started: 01/26/2026 22:04:24
+Executable Path: C:\Users\zoole\AppData\Local\Programs\Antigravity\Antigravity.exe
+Company: Google LLC
+Description: Antigravity
+Version: 1.15.8
+----------------------------------------
+Process Name: Antigravity
+Process ID: 11564
+Started: 01/26/2026 22:04:27
+Executable Path: C:\Users\zoole\AppData\Local\Programs\Antigravity\Antigravity.exe
+Company: Google LLC
+Description: Antigravity
+Version: 1.15.8
+----------------------------------------
+Process Name: Antigravity
+Process ID: 11836
+Started: 01/26/2026 22:04:46
+Executable Path: C:\Users\zoole\AppData\Local\Programs\Antigravity\Antigravity.exe
+Company: Google LLC
+Description: Antigravity
+Version: 1.15.8
+----------------------------------------
+Process Name: Antigravity
+Process ID: 12040
+Started: 01/26/2026 22:04:24
+Executable Path: C:\Users\zoole\AppData\Local\Programs\Antigravity\Antigravity.exe
+Company: Google LLC
+Description: Antigravity
+Version: 1.15.8
+----------------------------------------
+Process Name: Antigravity
+Process ID: 13108
+Started: 01/26/2026 22:06:33
+Executable Path: C:\Users\zoole\AppData\Local\Programs\Antigravity\Antigravity.exe
+Company: Google LLC
+Description: Antigravity
+Version: 1.15.8
+----------------------------------------
+Process Name: Antigravity
+Process ID: 14460
+Started: 01/26/2026 22:04:24
+Executable Path: C:\Users\zoole\AppData\Local\Programs\Antigravity\Antigravity.exe
+Company: Google LLC
+Description: Antigravity
+Version: 1.15.8
+----------------------------------------
+Process Name: Antigravity
+Process ID: 14824
+Started: 01/26/2026 22:04:44
+Executable Path: C:\Users\zoole\AppData\Local\Programs\Antigravity\Antigravity.exe
+Company: Google LLC
+Description: Antigravity
+Version: 1.15.8
+----------------------------------------
+Process Name: Antigravity
+Process ID: 14936
+Started: 01/26/2026 22:04:45
+Executable Path: C:\Users\zoole\AppData\Local\Programs\Antigravity\Antigravity.exe
+Company: Google LLC
+Description: Antigravity
+Version: 1.15.8
+----------------------------------------
+Process Name: Antigravity
+Process ID: 15164
+Started: 01/26/2026 22:04:26
+Executable Path: C:\Users\zoole\AppData\Local\Programs\Antigravity\Antigravity.exe
+Company: Google LLC
+Description: Antigravity
+Version: 1.15.8
+----------------------------------------
+Process Name: Antigravity
+Process ID: 17300
+Started: 01/26/2026 22:04:29
+Executable Path: C:\Users\zoole\AppData\Local\Programs\Antigravity\Antigravity.exe
+Company: Google LLC
+Description: Antigravity
+Version: 1.15.8
+----------------------------------------
+Process Name: Antigravity
+Process ID: 18228
+Started: 01/26/2026 22:04:30
+Executable Path: C:\Users\zoole\AppData\Local\Programs\Antigravity\Antigravity.exe
+Company: Google LLC
+Description: Antigravity
+Version: 1.15.8
+----------------------------------------
+Process Name: Antigravity
+Process ID: 18544
+Started: 01/26/2026 22:04:26
+Executable Path: C:\Users\zoole\AppData\Local\Programs\Antigravity\Antigravity.exe
+Company: Google LLC
+Description: Antigravity
+Version: 1.15.8
+----------------------------------------
+Process Name: Antigravity
+Process ID: 18912
+Started: 01/26/2026 22:04:26
+Executable Path: C:\Users\zoole\AppData\Local\Programs\Antigravity\Antigravity.exe
+Company: Google LLC
+Description: Antigravity
+Version: 1.15.8
+----------------------------------------
+Process Name: Antigravity
+Process ID: 20176
+Started: 01/26/2026 22:04:37
+Executable Path: C:\Users\zoole\AppData\Local\Programs\Antigravity\Antigravity.exe
+Company: Google LLC
+Description: Antigravity
+Version: 1.15.8
+----------------------------------------
+Process Name: Antigravity
+Process ID: 22364
+Started: 01/26/2026 22:04:22
+Executable Path: C:\Users\zoole\AppData\Local\Programs\Antigravity\Antigravity.exe
+Company: Google LLC
+Description: Antigravity
+Version: 1.15.8
+----------------------------------------
+Process Name: Antigravity
+Process ID: 24904
+Started: 01/26/2026 22:04:45
+Executable Path: C:\Users\zoole\AppData\Local\Programs\Antigravity\Antigravity.exe
+Company: Google LLC
+Description: Antigravity
+Version: 1.15.8
+----------------------------------------
+Process Name: Antigravity
+Process ID: 25788
+Started: 01/26/2026 22:04:58
+Executable Path: C:\Users\zoole\AppData\Local\Programs\Antigravity\Antigravity.exe
+Company: Google LLC
+Description: Antigravity
+Version: 1.15.8
+----------------------------------------
+Process Name: Antigravity
+Process ID: 26188
+Started: 01/26/2026 22:04:53
+Executable Path: C:\Users\zoole\AppData\Local\Programs\Antigravity\Antigravity.exe
+Company: Google LLC
+Description: Antigravity
+Version: 1.15.8
+----------------------------------------
+Process Name: Antigravity
+Process ID: 26584
+Started: 01/26/2026 22:06:33
+Executable Path: C:\Users\zoole\AppData\Local\Programs\Antigravity\Antigravity.exe
+Company: Google LLC
+Description: Antigravity
+Version: 1.15.8
+----------------------------------------
+Process Name: Antigravity
+Process ID: 26844
+Started: 01/26/2026 22:04:47
+Executable Path: C:\Users\zoole\AppData\Local\Programs\Antigravity\Antigravity.exe
+Company: Google LLC
+Description: Antigravity
+Version: 1.15.8
+----------------------------------------
+Process Name: Antigravity
+Process ID: 27392
+Started: 01/26/2026 22:04:46
+Executable Path: C:\Users\zoole\AppData\Local\Programs\Antigravity\Antigravity.exe
+Company: Google LLC
+Description: Antigravity
+Version: 1.15.8
+----------------------------------------
+Process Name: Antigravity
+Process ID: 27692
+Started: 01/26/2026 22:04:22
+Executable Path: C:\Users\zoole\AppData\Local\Programs\Antigravity\Antigravity.exe
+Company: Google LLC
+Description: Antigravity
+Version: 1.15.8
+----------------------------------------
+Process Name: Antigravity
+Process ID: 28116
+Started: 01/26/2026 22:04:29
+Executable Path: C:\Users\zoole\AppData\Local\Programs\Antigravity\Antigravity.exe
+Company: Google LLC
+Description: Antigravity
+Version: 1.15.8
+----------------------------------------
+Process Name: Antigravity
+Process ID: 29260
+Started: 01/26/2026 22:04:57
+Executable Path: C:\Users\zoole\AppData\Local\Programs\Antigravity\Antigravity.exe
+Company: Google LLC
+Description: Antigravity
+Version: 1.15.8
+----------------------------------------
+Process Name: Antigravity
+Process ID: 30076
+Started: 01/26/2026 22:04:43
+Executable Path: C:\Users\zoole\AppData\Local\Programs\Antigravity\Antigravity.exe
+Company: Google LLC
+Description: Antigravity
+Version: 1.15.8
+----------------------------------------
+Process Name: Antigravity
+Process ID: 31248
+Started: 01/26/2026 22:04:27
+Executable Path: C:\Users\zoole\AppData\Local\Programs\Antigravity\Antigravity.exe
+Company: Google LLC
+Description: Antigravity
+Version: 1.15.8
+----------------------------------------
+Process Name: Antigravity
+Process ID: 32676
+Started: 01/26/2026 22:43:52
+Executable Path: C:\Users\zoole\AppData\Local\Programs\Antigravity\Antigravity.exe
+Company: Google LLC
+Description: Antigravity
+Version: 1.15.8
+----------------------------------------
+Process Name: AppActions
+Process ID: 10288
+Started: 01/26/2026 15:00:04
+Executable Path: C:\Windows\SystemApps\MicrosoftWindows.Client.CBS_cw5n1h2txyewy\AppActions.exe
+Company: 
+Description: 
+Version: 
+----------------------------------------
+Process Name: ApplicationFrameHost
+Process ID: 12684
+Started: 01/23/2026 23:09:05
+Executable Path: C:\Windows\system32\ApplicationFrameHost.exe
+Company: Microsoft Corporation
+Description: Application Frame Host
+Version: 10.0.26100.7019
+----------------------------------------
+Process Name: AppVShNotify
+Process ID: 10760
+Started: 01/26/2026 22:23:21
+Executable Path: C:\Program Files\Common Files\Microsoft Shared\ClickToRun\AppVShNotify.exe
+Company: Microsoft Corporation
+Description: Microsoft Application Virtualization Client Shell Notifier
+Version: 16.0.19530.20006
+----------------------------------------
+Process Name: AppVShNotify
+Process ID: 18400
+Started: 01/25/2026 07:42:25
+Executable Path: C:\Program Files\Common Files\Microsoft Shared\ClickToRun\AppVShNotify.exe
+Company: Microsoft Corporation
+Description: Microsoft Application Virtualization Client Shell Notifier
+Version: 16.0.19530.20006
+----------------------------------------
+Process Name: cmd
+Process ID: 5764
+Started: 01/28/2026 00:17:52
+Executable Path: C:\Windows\system32\cmd.exe
+Company: Microsoft Corporation
+Description: Windows Command Processor
+Version: 10.0.26100.1
+----------------------------------------
+Process Name: cmd
+Process ID: 13172
+Started: 01/28/2026 00:39:28
+Executable Path: C:\Windows\system32\cmd.exe
+Company: Microsoft Corporation
+Description: Windows Command Processor
+Version: 10.0.26100.1
+----------------------------------------
+Process Name: cmd
+Process ID: 14152
+Started: 01/28/2026 00:17:52
+Executable Path: C:\Windows\system32\cmd.exe
+Company: Microsoft Corporation
+Description: Windows Command Processor
+Version: 10.0.26100.1
+----------------------------------------
+Process Name: cmd
+Process ID: 14848
+Started: 01/28/2026 00:40:57
+Executable Path: C:\Windows\system32\cmd.exe
+Company: Microsoft Corporation
+Description: Windows Command Processor
+Version: 10.0.26100.1
+----------------------------------------
+Process Name: cmd
+Process ID: 22428
+Started: 01/28/2026 00:41:02
+Executable Path: C:\Windows\system32\cmd.exe
+Company: Microsoft Corporation
+Description: Windows Command Processor
+Version: 10.0.26100.1
+----------------------------------------
+Process Name: cmd
+Process ID: 22648
+Started: 01/28/2026 00:39:32
+Executable Path: C:\Windows\system32\cmd.exe
+Company: Microsoft Corporation
+Description: Windows Command Processor
+Version: 10.0.26100.1
+----------------------------------------
+Process Name: cmd
+Process ID: 22988
+Started: 01/28/2026 00:39:35
+Executable Path: C:\Windows\system32\cmd.exe
+Company: Microsoft Corporation
+Description: Windows Command Processor
+Version: 10.0.26100.1
+----------------------------------------
+Process Name: cmd
+Process ID: 24056
+Started: 01/28/2026 00:41:05
+Executable Path: C:\Windows\system32\cmd.exe
+Company: Microsoft Corporation
+Description: Windows Command Processor
+Version: 10.0.26100.1
+----------------------------------------
+Process Name: comet
+Process ID: 5400
+Started: 01/28/2026 00:41:11
+Executable Path: C:\Users\zoole\AppData\Local\Perplexity\Comet\Application\comet.exe
+Company: PERPLEXITY AI, INC.
+Description: Comet
+Version: 143.2.7499.37654
+----------------------------------------
+Process Name: comet
+Process ID: 6008
+Started: 01/28/2026 00:41:11
+Executable Path: C:\Users\zoole\AppData\Local\Perplexity\Comet\Application\comet.exe
+Company: PERPLEXITY AI, INC.
+Description: Comet
+Version: 143.2.7499.37654
+----------------------------------------
+Process Name: comet
+Process ID: 10824
+Started: 01/28/2026 00:41:11
+Executable Path: C:\Users\zoole\AppData\Local\Perplexity\Comet\Application\comet.exe
+Company: PERPLEXITY AI, INC.
+Description: Comet
+Version: 143.2.7499.37654
+----------------------------------------
+Process Name: comet
+Process ID: 11228
+Started: 01/28/2026 00:41:10
+Executable Path: C:\Users\zoole\AppData\Local\Perplexity\Comet\Application\comet.exe
+Company: PERPLEXITY AI, INC.
+Description: Comet
+Version: 143.2.7499.37654
+----------------------------------------
+Process Name: comet
+Process ID: 14964
+Started: 01/28/2026 00:41:11
+Executable Path: C:\Users\zoole\AppData\Local\Perplexity\Comet\Application\comet.exe
+Company: PERPLEXITY AI, INC.
+Description: Comet
+Version: 143.2.7499.37654
+----------------------------------------
+Process Name: comet
+Process ID: 15992
+Started: 01/28/2026 00:45:08
+Executable Path: C:\Users\zoole\AppData\Local\Perplexity\Comet\Application\comet.exe
+Company: PERPLEXITY AI, INC.
+Description: Comet
+Version: 143.2.7499.37654
+----------------------------------------
+Process Name: comet
+Process ID: 19144
+Started: 01/28/2026 00:44:17
+Executable Path: C:\Users\zoole\AppData\Local\Perplexity\Comet\Application\comet.exe
+Company: PERPLEXITY AI, INC.
+Description: Comet
+Version: 143.2.7499.37654
+----------------------------------------
+Process Name: comet
+Process ID: 22560
+Started: 01/28/2026 00:41:10
+Executable Path: C:\Users\zoole\AppData\Local\Perplexity\Comet\Application\comet.exe
+Company: PERPLEXITY AI, INC.
+Description: Comet
+Version: 143.2.7499.37654
+----------------------------------------
+Process Name: comet
+Process ID: 24900
+Started: 01/28/2026 00:41:11
+Executable Path: C:\Users\zoole\AppData\Local\Perplexity\Comet\Application\comet.exe
+Company: PERPLEXITY AI, INC.
+Description: Comet
+Version: 143.2.7499.37654
+----------------------------------------
+Process Name: comet
+Process ID: 25256
+Started: 01/28/2026 00:41:10
+Executable Path: C:\Users\zoole\AppData\Local\Perplexity\Comet\Application\comet.exe
+Company: PERPLEXITY AI, INC.
+Description: Comet
+Version: 143.2.7499.37654
+----------------------------------------
+Process Name: comet
+Process ID: 25448
+Started: 01/28/2026 00:41:11
+Executable Path: C:\Users\zoole\AppData\Local\Perplexity\Comet\Application\comet.exe
+Company: PERPLEXITY AI, INC.
+Description: Comet
+Version: 143.2.7499.37654
+----------------------------------------
+Process Name: comet
+Process ID: 25632
+Started: 01/28/2026 00:41:11
+Executable Path: C:\Users\zoole\AppData\Local\Perplexity\Comet\Application\comet.exe
+Company: PERPLEXITY AI, INC.
+Description: Comet
+Version: 143.2.7499.37654
+----------------------------------------
+Process Name: comet
+Process ID: 28512
+Started: 01/28/2026 00:41:11
+Executable Path: C:\Users\zoole\AppData\Local\Perplexity\Comet\Application\comet.exe
+Company: PERPLEXITY AI, INC.
+Description: Comet
+Version: 143.2.7499.37654
+----------------------------------------
+Process Name: comet
+Process ID: 28848
+Started: 01/28/2026 00:41:10
+Executable Path: C:\Users\zoole\AppData\Local\Perplexity\Comet\Application\comet.exe
+Company: PERPLEXITY AI, INC.
+Description: Comet
+Version: 143.2.7499.37654
+----------------------------------------
+Process Name: comet
+Process ID: 31844
+Started: 01/28/2026 00:41:10
+Executable Path: C:\Users\zoole\AppData\Local\Perplexity\Comet\Application\comet.exe
+Company: PERPLEXITY AI, INC.
+Description: Comet
+Version: 143.2.7499.37654
+----------------------------------------
+Process Name: conhost
+Process ID: 4660
+Started: 01/26/2026 22:04:34
+Executable Path: C:\Windows\system32\conhost.exe
+Company: Microsoft Corporation
+Description: Console Window Host
+Version: 10.0.26100.1
+----------------------------------------
+Process Name: conhost
+Process ID: 7260
+Started: 01/28/2026 00:17:52
+Executable Path: C:\Windows\system32\conhost.exe
+Company: Microsoft Corporation
+Description: Console Window Host
+Version: 10.0.26100.1
+----------------------------------------
+Process Name: conhost
+Process ID: 8556
+Started: 01/28/2026 00:45:03
+Executable Path: C:\Windows\system32\conhost.exe
+Company: Microsoft Corporation
+Description: Console Window Host
+Version: 10.0.26100.1
+----------------------------------------
+Process Name: conhost
+Process ID: 9080
+Started: 01/28/2026 00:17:52
+Executable Path: C:\Windows\system32\conhost.exe
+Company: Microsoft Corporation
+Description: Console Window Host
+Version: 10.0.26100.1
+----------------------------------------
+Process Name: conhost
+Process ID: 9340
+Started: 01/28/2026 00:39:28
+Executable Path: C:\Windows\system32\conhost.exe
+Company: Microsoft Corporation
+Description: Console Window Host
+Version: 10.0.26100.1
+----------------------------------------
+Process Name: conhost
+Process ID: 16228
+Started: 01/28/2026 00:39:35
+Executable Path: C:\Windows\system32\conhost.exe
+Company: Microsoft Corporation
+Description: Console Window Host
+Version: 10.0.26100.1
+----------------------------------------
+Process Name: conhost
+Process ID: 19984
+Started: 01/26/2026 22:04:33
+Executable Path: C:\Windows\system32\conhost.exe
+Company: Microsoft Corporation
+Description: Console Window Host
+Version: 10.0.26100.1
+----------------------------------------
+Process Name: conhost
+Process ID: 21152
+Started: 01/28/2026 00:41:02
+Executable Path: C:\Windows\system32\conhost.exe
+Company: Microsoft Corporation
+Description: Console Window Host
+Version: 10.0.26100.1
+----------------------------------------
+Process Name: conhost
+Process ID: 21256
+Started: 01/28/2026 00:05:25
+Executable Path: C:\Windows\system32\conhost.exe
+Company: Microsoft Corporation
+Description: Console Window Host
+Version: 10.0.26100.1
+----------------------------------------
+Process Name: conhost
+Process ID: 22664
+Started: 01/26/2026 22:04:29
+Executable Path: C:\Windows\system32\conhost.exe
+Company: Microsoft Corporation
+Description: Console Window Host
+Version: 10.0.26100.1
+----------------------------------------
+Process Name: conhost
+Process ID: 23296
+Started: 01/28/2026 00:39:32
+Executable Path: C:\Windows\system32\conhost.exe
+Company: Microsoft Corporation
+Description: Console Window Host
+Version: 10.0.26100.1
+----------------------------------------
+Process Name: conhost
+Process ID: 23540
+Started: 01/26/2026 22:04:33
+Executable Path: C:\Windows\system32\conhost.exe
+Company: Microsoft Corporation
+Description: Console Window Host
+Version: 10.0.26100.1
+----------------------------------------
+Process Name: conhost
+Process ID: 23868
+Started: 01/24/2026 07:10:04
+Executable Path: C:\Windows\system32\conhost.exe
+Company: Microsoft Corporation
+Description: Console Window Host
+Version: 10.0.26100.1
+----------------------------------------
+Process Name: conhost
+Process ID: 26100
+Started: 01/26/2026 22:48:28
+Executable Path: C:\Windows\system32\conhost.exe
+Company: Microsoft Corporation
+Description: Console Window Host
+Version: 10.0.26100.1
+----------------------------------------
+Process Name: conhost
+Process ID: 26268
+Started: 01/28/2026 00:40:57
+Executable Path: C:\Windows\system32\conhost.exe
+Company: Microsoft Corporation
+Description: Console Window Host
+Version: 10.0.26100.1
+----------------------------------------
+Process Name: conhost
+Process ID: 26560
+Started: 01/28/2026 00:45:03
+Executable Path: C:\Windows\system32\conhost.exe
+Company: Microsoft Corporation
+Description: Console Window Host
+Version: 10.0.26100.1
+----------------------------------------
+Process Name: conhost
+Process ID: 28992
+Started: 01/26/2026 22:04:32
+Executable Path: C:\Windows\system32\conhost.exe
+Company: Microsoft Corporation
+Description: Console Window Host
+Version: 10.0.26100.1
+----------------------------------------
+Process Name: conhost
+Process ID: 29856
+Started: 01/26/2026 22:04:32
+Executable Path: C:\Windows\system32\conhost.exe
+Company: Microsoft Corporation
+Description: Console Window Host
+Version: 10.0.26100.1
+----------------------------------------
+Process Name: conhost
+Process ID: 32192
+Started: 01/28/2026 00:41:05
+Executable Path: C:\Windows\system32\conhost.exe
+Company: Microsoft Corporation
+Description: Console Window Host
+Version: 10.0.26100.1
+----------------------------------------
+Process Name: CredentialEnrollmentManager
+Process ID: 18476
+Started: 01/26/2026 14:02:53
+Executable Path: C:\Windows\system32\CredentialEnrollmentManager.exe
+Company: Microsoft Corporation
+Description: Credential Enrollment Manager
+Version: 10.0.26100.1
+----------------------------------------
+Process Name: CrossDeviceResume
+Process ID: 9040
+Started: 01/23/2026 16:42:17
+Executable Path: C:\Windows\SystemApps\MicrosoftWindows.Client.CBS_cw5n1h2txyewy\CrossDeviceResume.exe
+Company: Microsoft Corporation
+Description: 
+Version: 2125.27603.0.0
+----------------------------------------
+Process Name: csrss
+Process ID: 1056
+Started: 
+Executable Path: 
+Company: 
+Description: 
+Version: 
+----------------------------------------
+Process Name: csrss
+Process ID: 1164
+Started: 
+Executable Path: 
+Company: 
+Description: 
+Version: 
+----------------------------------------
+Process Name: ctfmon
+Process ID: 9472
+Started: 01/23/2026 16:42:24
+Executable Path: 
+Company: 
+Description: 
+Version: 
+----------------------------------------
+Process Name: dasHost
+Process ID: 13948
+Started: 
+Executable Path: 
+Company: 
+Description: 
+Version: 
+----------------------------------------
+Process Name: DataExchangeHost
+Process ID: 13064
+Started: 01/23/2026 20:55:57
+Executable Path: C:\Windows\System32\DataExchangeHost.exe
+Company: Microsoft Corporation
+Description: Data Exchange Host
+Version: 10.0.26100.1
+----------------------------------------
+Process Name: DismHost
+Process ID: 29560
+Started: 01/26/2026 00:30:18
+Executable Path: 
+Company: 
+Description: 
+Version: 
+----------------------------------------
+Process Name: dllhost
+Process ID: 2256
+Started: 01/25/2026 19:49:30
+Executable Path: C:\Windows\system32\DllHost.exe
+Company: Microsoft Corporation
+Description: COM Surrogate
+Version: 10.0.26100.1150
+----------------------------------------
+Process Name: dllhost
+Process ID: 9248
+Started: 01/25/2026 10:55:54
+Executable Path: C:\Windows\SysWOW64\DllHost.exe
+Company: Microsoft Corporation
+Description: COM Surrogate
+Version: 10.0.26100.1
+----------------------------------------
+Process Name: dllhost
+Process ID: 23316
+Started: 01/26/2026 13:59:42
+Executable Path: C:\Windows\system32\DllHost.exe
+Company: Microsoft Corporation
+Description: COM Surrogate
+Version: 10.0.26100.1150
+----------------------------------------
+Process Name: dllhost
+Process ID: 28228
+Started: 01/25/2026 02:02:19
+Executable Path: C:\Windows\system32\DllHost.exe
+Company: Microsoft Corporation
+Description: COM Surrogate
+Version: 10.0.26100.1150
+----------------------------------------
+Process Name: dwm
+Process ID: 1812
+Started: 
+Executable Path: 
+Company: 
+Description: 
+Version: 
+----------------------------------------
+Process Name: explorer
+Process ID: 25776
+Started: 01/26/2026 10:58:58
+Executable Path: C:\Windows\explorer.exe
+Company: Microsoft Corporation
+Description: Windows Explorer
+Version: 10.0.26100.1301
+----------------------------------------
+Process Name: fontdrvhost
+Process ID: 1412
+Started: 
+Executable Path: 
+Company: 
+Description: 
+Version: 
+----------------------------------------
+Process Name: fontdrvhost
+Process ID: 1420
+Started: 
+Executable Path: 
+Company: 
+Description: 
+Version: 
+----------------------------------------
+Process Name: gk
+Process ID: 3160
+Started: 01/26/2026 22:04:35
+Executable Path: c:\Users\zoole\AppData\Roaming\Antigravity\User\globalStorage\eamodio.gitlens\gk.exe
+Company: 
+Description: 
+Version: 
+----------------------------------------
+Process Name: gk
+Process ID: 30544
+Started: 01/26/2026 22:04:33
+Executable Path: c:\Users\zoole\AppData\Roaming\Antigravity\User\globalStorage\eamodio.gitlens\gk.exe
+Company: 
+Description: 
+Version: 
+----------------------------------------
+Process Name: gk_3_1_49
+Process ID: 1620
+Started: 01/26/2026 22:04:35
+Executable Path: C:\Users\zoole\AppData\Local\GitKrakenCLI\gk.exe
+Company: 
+Description: 
+Version: 
+----------------------------------------
+Process Name: gk_3_1_49
+Process ID: 29964
+Started: 01/26/2026 22:04:33
+Executable Path: C:\Users\zoole\AppData\Local\GitKrakenCLI\gk.exe
+Company: 
+Description: 
+Version: 
+----------------------------------------
+Process Name: Idle
+Process ID: 0
+Started: 
+Executable Path: 
+Company: 
+Description: 
+Version: 
+----------------------------------------
+Process Name: IntelAudioService
+Process ID: 4580
+Started: 
+Executable Path: 
+Company: 
+Description: 
+Version: 
+----------------------------------------
+Process Name: IntelCpHDCPSvc
+Process ID: 2524
+Started: 
+Executable Path: 
+Company: 
+Description: 
+Version: 
+----------------------------------------
+Process Name: ipf_uf
+Process ID: 4632
+Started: 
+Executable Path: 
+Company: 
+Description: 
+Version: 
+----------------------------------------
+Process Name: jhi_service
+Process ID: 4640
+Started: 
+Executable Path: 
+Company: 
+Description: 
+Version: 
+----------------------------------------
+Process Name: language_server_windows_x64
+Process ID: 10692
+Started: 01/26/2026 22:04:34
+Executable Path: c:\Users\zoole\AppData\Local\Programs\Antigravity\resources\app\extensions\antigravity\bin\language_server_windows_x64.exe
+Company: 
+Description: 
+Version: 
+----------------------------------------
+Process Name: language_server_windows_x64
+Process ID: 26496
+Started: 01/26/2026 22:04:32
+Executable Path: c:\Users\zoole\AppData\Local\Programs\Antigravity\resources\app\extensions\antigravity\bin\language_server_windows_x64.exe
+Company: 
+Description: 
+Version: 
+----------------------------------------
+Process Name: LsaIso
+Process ID: 1308
+Started: 
+Executable Path: 
+Company: 
+Description: 
+Version: 
+----------------------------------------
+Process Name: lsass
+Process ID: 1324
+Started: 
+Executable Path: 
+Company: 
+Description: 
+Version: 
+----------------------------------------
+Process Name: Manus
+Process ID: 1860
+Started: 01/28/2026 00:28:48
+Executable Path: C:\Program Files\WindowsApps\ManusAI.Manus_1.2.1.0_x64__vajzd2mq3s8wj\Manus.exe
+Company: manus
+Description: Manus
+Version: 1.2.1.0
+----------------------------------------
+Process Name: Manus
+Process ID: 5076
+Started: 01/28/2026 00:28:49
+Executable Path: C:\Program Files\WindowsApps\ManusAI.Manus_1.2.1.0_x64__vajzd2mq3s8wj\Manus.exe
+Company: manus
+Description: Manus
+Version: 1.2.1.0
+----------------------------------------
+Process Name: Manus
+Process ID: 7784
+Started: 01/28/2026 00:28:48
+Executable Path: C:\Program Files\WindowsApps\ManusAI.Manus_1.2.1.0_x64__vajzd2mq3s8wj\Manus.exe
+Company: manus
+Description: Manus
+Version: 1.2.1.0
+----------------------------------------
+Process Name: Manus
+Process ID: 10828
+Started: 01/28/2026 00:28:47
+Executable Path: C:\Program Files\WindowsApps\ManusAI.Manus_1.2.1.0_x64__vajzd2mq3s8wj\Manus.exe
+Company: manus
+Description: Manus
+Version: 1.2.1.0
+----------------------------------------
+Process Name: Manus
+Process ID: 17932
+Started: 01/28/2026 00:28:48
+Executable Path: C:\Program Files\WindowsApps\ManusAI.Manus_1.2.1.0_x64__vajzd2mq3s8wj\Manus.exe
+Company: manus
+Description: Manus
+Version: 1.2.1.0
+----------------------------------------
+Process Name: Memory Compression
+Process ID: 3560
+Started: 
+Executable Path: 
+Company: 
+Description: 
+Version: 
+----------------------------------------
+Process Name: MpDefenderCoreService
+Process ID: 4684
+Started: 
+Executable Path: 
+Company: 
+Description: 
+Version: 
+----------------------------------------
+Process Name: msedgewebview2
+Process ID: 132
+Started: 01/27/2026 23:55:41
+Executable Path: C:\Program Files (x86)\Microsoft\EdgeWebView\Application\144.0.3719.93\msedgewebview2.exe
+Company: Microsoft Corporation
+Description: Microsoft Edge WebView2
+Version: 144.0.3719.93
+----------------------------------------
+Process Name: msedgewebview2
+Process ID: 9868
+Started: 01/26/2026 19:45:05
+Executable Path: C:\Program Files (x86)\Microsoft\EdgeWebView\Application\144.0.3719.93\msedgewebview2.exe
+Company: Microsoft Corporation
+Description: Microsoft Edge WebView2
+Version: 144.0.3719.93
+----------------------------------------
+Process Name: msedgewebview2
+Process ID: 14000
+Started: 01/27/2026 23:55:41
+Executable Path: C:\Program Files (x86)\Microsoft\EdgeWebView\Application\144.0.3719.93\msedgewebview2.exe
+Company: Microsoft Corporation
+Description: Microsoft Edge WebView2
+Version: 144.0.3719.93
+----------------------------------------
+Process Name: msedgewebview2
+Process ID: 14104
+Started: 01/27/2026 23:55:41
+Executable Path: C:\Program Files (x86)\Microsoft\EdgeWebView\Application\144.0.3719.93\msedgewebview2.exe
+Company: Microsoft Corporation
+Description: Microsoft Edge WebView2
+Version: 144.0.3719.93
+----------------------------------------
+Process Name: msedgewebview2
+Process ID: 14128
+Started: 01/26/2026 19:45:06
+Executable Path: C:\Program Files (x86)\Microsoft\EdgeWebView\Application\144.0.3719.93\msedgewebview2.exe
+Company: Microsoft Corporation
+Description: Microsoft Edge WebView2
+Version: 144.0.3719.93
+----------------------------------------
+Process Name: msedgewebview2
+Process ID: 18760
+Started: 01/26/2026 19:45:06
+Executable Path: C:\Program Files (x86)\Microsoft\EdgeWebView\Application\144.0.3719.93\msedgewebview2.exe
+Company: Microsoft Corporation
+Description: Microsoft Edge WebView2
+Version: 144.0.3719.93
+----------------------------------------
+Process Name: msedgewebview2
+Process ID: 20696
+Started: 01/26/2026 19:45:06
+Executable Path: C:\Program Files (x86)\Microsoft\EdgeWebView\Application\144.0.3719.93\msedgewebview2.exe
+Company: Microsoft Corporation
+Description: Microsoft Edge WebView2
+Version: 144.0.3719.93
+----------------------------------------
+Process Name: msedgewebview2
+Process ID: 21932
+Started: 01/26/2026 20:45:13
+Executable Path: C:\Program Files (x86)\Microsoft\EdgeWebView\Application\144.0.3719.93\msedgewebview2.exe
+Company: Microsoft Corporation
+Description: Microsoft Edge WebView2
+Version: 144.0.3719.93
+----------------------------------------
+Process Name: msedgewebview2
+Process ID: 22472
+Started: 01/26/2026 19:45:06
+Executable Path: C:\Program Files (x86)\Microsoft\EdgeWebView\Application\144.0.3719.93\msedgewebview2.exe
+Company: Microsoft Corporation
+Description: Microsoft Edge WebView2
+Version: 144.0.3719.93
+----------------------------------------
+Process Name: msedgewebview2
+Process ID: 25500
+Started: 01/27/2026 23:55:41
+Executable Path: C:\Program Files (x86)\Microsoft\EdgeWebView\Application\144.0.3719.93\msedgewebview2.exe
+Company: Microsoft Corporation
+Description: Microsoft Edge WebView2
+Version: 144.0.3719.93
+----------------------------------------
+Process Name: msedgewebview2
+Process ID: 29532
+Started: 01/27/2026 23:55:41
+Executable Path: C:\Program Files (x86)\Microsoft\EdgeWebView\Application\144.0.3719.93\msedgewebview2.exe
+Company: Microsoft Corporation
+Description: Microsoft Edge WebView2
+Version: 144.0.3719.93
+----------------------------------------
+Process Name: msedgewebview2
+Process ID: 29712
+Started: 01/26/2026 19:45:05
+Executable Path: C:\Program Files (x86)\Microsoft\EdgeWebView\Application\144.0.3719.93\msedgewebview2.exe
+Company: Microsoft Corporation
+Description: Microsoft Edge WebView2
+Version: 144.0.3719.93
+----------------------------------------
+Process Name: msedgewebview2
+Process ID: 32700
+Started: 01/27/2026 23:55:41
+Executable Path: C:\Program Files (x86)\Microsoft\EdgeWebView\Application\144.0.3719.93\msedgewebview2.exe
+Company: Microsoft Corporation
+Description: Microsoft Edge WebView2
+Version: 144.0.3719.93
+----------------------------------------
+Process Name: MsMpEng
+Process ID: 4984
+Started: 
+Executable Path: 
+Company: 
+Description: 
+Version: 
+----------------------------------------
+Process Name: NisSrv
+Process ID: 7776
+Started: 
+Executable Path: 
+Company: 
+Description: 
+Version: 
+----------------------------------------
+Process Name: node
+Process ID: 7408
+Started: 01/28/2026 00:45:03
+Executable Path: C:\Users\zoole\AppData\Local\aws\toolkits\language-servers\AmazonQ\1.55.0\servers\node.exe
+Company: Node.js
+Description: Node.js JavaScript Runtime
+Version: 24.9.0
+----------------------------------------
+Process Name: node
+Process ID: 14616
+Started: 01/28/2026 00:45:03
+Executable Path: C:\Users\zoole\AppData\Local\aws\toolkits\language-servers\AmazonQ\1.55.0\servers\node.exe
+Company: Node.js
+Description: Node.js JavaScript Runtime
+Version: 24.9.0
+----------------------------------------
+Process Name: OfficeClickToRun
+Process ID: 9552
+Started: 
+Executable Path: 
+Company: 
+Description: 
+Version: 
+----------------------------------------
+Process Name: OpenConsole
+Process ID: 996
+Started: 01/28/2026 00:17:52
+Executable Path: C:\Program Files\WindowsApps\Microsoft.WindowsTerminal_1.23.20211.0_x64__8wekyb3d8bbwe\OpenConsole.exe
+Company: Microsoft Corporation
+Description: Console Window and PTY Host (Open Source)
+Version: 1.23.260121001
+----------------------------------------
+Process Name: OpenConsole
+Process ID: 3132
+Started: 01/28/2026 00:40:57
+Executable Path: C:\Program Files\WindowsApps\Microsoft.WindowsTerminal_1.23.20211.0_x64__8wekyb3d8bbwe\OpenConsole.exe
+Company: Microsoft Corporation
+Description: Console Window and PTY Host (Open Source)
+Version: 1.23.260121001
+----------------------------------------
+Process Name: OpenConsole
+Process ID: 3900
+Started: 01/28/2026 00:41:05
+Executable Path: C:\Program Files\WindowsApps\Microsoft.WindowsTerminal_1.23.20211.0_x64__8wekyb3d8bbwe\OpenConsole.exe
+Company: Microsoft Corporation
+Description: Console Window and PTY Host (Open Source)
+Version: 1.23.260121001
+----------------------------------------
+Process Name: OpenConsole
+Process ID: 7364
+Started: 01/28/2026 00:39:35
+Executable Path: C:\Program Files\WindowsApps\Microsoft.WindowsTerminal_1.23.20211.0_x64__8wekyb3d8bbwe\OpenConsole.exe
+Company: Microsoft Corporation
+Description: Console Window and PTY Host (Open Source)
+Version: 1.23.260121001
+----------------------------------------
+Process Name: OpenConsole
+Process ID: 13200
+Started: 01/28/2026 00:41:02
+Executable Path: C:\Program Files\WindowsApps\Microsoft.WindowsTerminal_1.23.20211.0_x64__8wekyb3d8bbwe\OpenConsole.exe
+Company: Microsoft Corporation
+Description: Console Window and PTY Host (Open Source)
+Version: 1.23.260121001
+----------------------------------------
+Process Name: OpenConsole
+Process ID: 18540
+Started: 01/28/2026 00:39:32
+Executable Path: C:\Program Files\WindowsApps\Microsoft.WindowsTerminal_1.23.20211.0_x64__8wekyb3d8bbwe\OpenConsole.exe
+Company: Microsoft Corporation
+Description: Console Window and PTY Host (Open Source)
+Version: 1.23.260121001
+----------------------------------------
+Process Name: OpenConsole
+Process ID: 22888
+Started: 01/28/2026 00:17:52
+Executable Path: C:\Program Files\WindowsApps\Microsoft.WindowsTerminal_1.23.20211.0_x64__8wekyb3d8bbwe\OpenConsole.exe
+Company: Microsoft Corporation
+Description: Console Window and PTY Host (Open Source)
+Version: 1.23.260121001
+----------------------------------------
+Process Name: OpenConsole
+Process ID: 26176
+Started: 01/28/2026 00:39:28
+Executable Path: C:\Program Files\WindowsApps\Microsoft.WindowsTerminal_1.23.20211.0_x64__8wekyb3d8bbwe\OpenConsole.exe
+Company: Microsoft Corporation
+Description: Console Window and PTY Host (Open Source)
+Version: 1.23.260121001
+----------------------------------------
+Process Name: powershell
+Process ID: 8140
+Started: 01/26/2026 22:04:33
+Executable Path: C:\Windows\System32\WindowsPowerShell\v1.0\powershell.exe
+Company: Microsoft Corporation
+Description: Windows PowerShell
+Version: 10.0.26100.5074
+----------------------------------------
+Process Name: powershell
+Process ID: 8176
+Started: 01/26/2026 22:04:29
+Executable Path: C:\Windows\System32\WindowsPowerShell\v1.0\powershell.exe
+Company: Microsoft Corporation
+Description: Windows PowerShell
+Version: 10.0.26100.5074
+----------------------------------------
+Process Name: powershell
+Process ID: 13556
+Started: 01/26/2026 22:48:28
+Executable Path: C:\Windows\System32\WindowsPowerShell\v1.0\powershell.exe
+Company: Microsoft Corporation
+Description: Windows PowerShell
+Version: 10.0.26100.5074
+----------------------------------------
+Process Name: powershell
+Process ID: 13656
+Started: 01/26/2026 22:04:34
+Executable Path: C:\Windows\System32\WindowsPowerShell\v1.0\powershell.exe
+Company: Microsoft Corporation
+Description: Windows PowerShell
+Version: 10.0.26100.5074
+----------------------------------------
+Process Name: powershell
+Process ID: 20344
+Started: 01/28/2026 00:05:26
+Executable Path: C:\Windows\System32\WindowsPowerShell\v1.0\powershell.exe
+Company: Microsoft Corporation
+Description: Windows PowerShell
+Version: 10.0.26100.5074
+----------------------------------------
+Process Name: powershell
+Process ID: 23024
+Started: 01/26/2026 22:04:32
+Executable Path: C:\Windows\System32\WindowsPowerShell\v1.0\powershell.exe
+Company: Microsoft Corporation
+Description: Windows PowerShell
+Version: 10.0.26100.5074
+----------------------------------------
+Process Name: Registry
+Process ID: 232
+Started: 
+Executable Path: 
+Company: 
+Description: 
+Version: 
+----------------------------------------
+Process Name: rg
+Process ID: 21128
+Started: 01/24/2026 07:10:04
+Executable Path: c:\Users\zoole\AppData\Local\Programs\Antigravity\resources\app\node_modules\@vscode\ripgrep\bin\rg.exe
+Company: 
+Description: 
+Version: 
+----------------------------------------
+Process Name: RstMwService
+Process ID: 4736
+Started: 
+Executable Path: 
+Company: 
+Description: 
+Version: 
+----------------------------------------
+Process Name: RtkAudUService64
+Process ID: 4796
+Started: 
+Executable Path: 
+Company: 
+Description: 
+Version: 
+----------------------------------------
+Process Name: RtkAudUService64
+Process ID: 6380
+Started: 
+Executable Path: 
+Company: 
+Description: 
+Version: 
+----------------------------------------
+Process Name: rufus-4.11
+Process ID: 6528
+Started: 01/26/2026 13:40:32
+Executable Path: 
+Company: 
+Description: 
+Version: 
+----------------------------------------
+Process Name: RuntimeBroker
+Process ID: 9888
+Started: 01/26/2026 07:53:25
+Executable Path: C:\Windows\System32\RuntimeBroker.exe
+Company: Microsoft Corporation
+Description: Runtime Broker
+Version: 10.0.26100.7019
+----------------------------------------
+Process Name: RuntimeBroker
+Process ID: 10076
+Started: 01/26/2026 11:14:52
+Executable Path: C:\Windows\System32\RuntimeBroker.exe
+Company: Microsoft Corporation
+Description: Runtime Broker
+Version: 10.0.26100.7019
+----------------------------------------
+Process Name: RuntimeBroker
+Process ID: 23400
+Started: 01/26/2026 05:06:46
+Executable Path: C:\Windows\System32\RuntimeBroker.exe
+Company: Microsoft Corporation
+Description: Runtime Broker
+Version: 10.0.26100.7019
+----------------------------------------
+Process Name: SearchHost
+Process ID: 25712
+Started: 01/27/2026 23:55:40
+Executable Path: C:\Windows\SystemApps\MicrosoftWindows.Client.CBS_cw5n1h2txyewy\SearchHost.exe
+Company: Microsoft Corporation
+Description: 
+Version: 2125.27506.20.0
+----------------------------------------
+Process Name: SearchIndexer
+Process ID: 30132
+Started: 
+Executable Path: 
+Company: 
+Description: 
+Version: 
+----------------------------------------
+Process Name: Secure System
+Process ID: 188
+Started: 
+Executable Path: 
+Company: 
+Description: 
+Version: 
+----------------------------------------
+Process Name: SecurityHealthService
+Process ID: 16684
+Started: 
+Executable Path: 
+Company: 
+Description: 
+Version: 
+----------------------------------------
+Process Name: services
+Process ID: 1272
+Started: 
+Executable Path: 
+Company: 
+Description: 
+Version: 
+----------------------------------------
+Process Name: ShellExperienceHost
+Process ID: 4256
+Started: 01/26/2026 10:59:03
+Executable Path: C:\Windows\SystemApps\ShellExperienceHost_cw5n1h2txyewy\ShellExperienceHost.exe
+Company: Microsoft Corporation
+Description: Windows Shell Experience Host
+Version: 10.0.26100.7019
+----------------------------------------
+Process Name: ShellHost
+Process ID: 31708
+Started: 01/28/2026 00:04:14
+Executable Path: C:\Windows\System32\ShellHost.exe
+Company: Microsoft Corporation
+Description: ShellHost
+Version: 10.0.26100.7019
+----------------------------------------
+Process Name: sihost
+Process ID: 7436
+Started: 01/23/2026 16:42:16
+Executable Path: C:\Windows\system32\sihost.exe
+Company: Microsoft Corporation
+Description: Shell Infrastructure Host
+Version: 10.0.26100.7019
+----------------------------------------
+Process Name: smartscreen
+Process ID: 9116
+Started: 01/28/2026 00:31:52
+Executable Path: C:\Windows\System32\smartscreen.exe
+Company: Microsoft Corporation
+Description: Windows Defender SmartScreen
+Version: 10.0.26100.4202
+----------------------------------------
+Process Name: smss
+Process ID: 760
+Started: 
+Executable Path: 
+Company: 
+Description: 
+Version: 
+----------------------------------------
+Process Name: StartMenuExperienceHost
+Process ID: 10556
+Started: 01/26/2026 10:59:08
+Executable Path: C:\Windows\SystemApps\Microsoft.Windows.StartMenuExperienceHost_cw5n1h2txyewy\StartMenuExperienceHost.exe
+Company: Microsoft Corporation
+Description: Windows Start Experience Host
+Version: 10.0.26100.7019
+----------------------------------------
+Process Name: StoreExperienceHost
+Process ID: 13208
+Started: 01/26/2026 05:06:46
+Executable Path: C:\Program Files\WindowsApps\Microsoft.StorePurchaseApp_22511.1401.3.0_x64__8wekyb3d8bbwe\StoreExperienceHost.exe
+Company: 
+Description: StoreExperienceHost
+Version: 0.0.0.0
+----------------------------------------
+Process Name: svchost
+Process ID: 1520
+Started: 
+Executable Path: 
+Company: 
+Description: 
+Version: 
+----------------------------------------
+Process Name: svchost
+Process ID: 1612
+Started: 
+Executable Path: 
+Company: 
+Description: 
+Version: 
+----------------------------------------
+Process Name: svchost
+Process ID: 1664
+Started: 
+Executable Path: 
+Company: 
+Description: 
+Version: 
+----------------------------------------
+Process Name: svchost
+Process ID: 1792
+Started: 
+Executable Path: 
+Company: 
+Description: 
+Version: 
+----------------------------------------
+Process Name: svchost
+Process ID: 1800
+Started: 
+Executable Path: 
+Company: 
+Description: 
+Version: 
+----------------------------------------
+Process Name: svchost
+Process ID: 1924
+Started: 
+Executable Path: 
+Company: 
+Description: 
+Version: 
+----------------------------------------
+Process Name: svchost
+Process ID: 1940
+Started: 
+Executable Path: 
+Company: 
+Description: 
+Version: 
+----------------------------------------
+Process Name: svchost
+Process ID: 1948
+Started: 
+Executable Path: 
+Company: 
+Description: 
+Version: 
+----------------------------------------
+Process Name: svchost
+Process ID: 1968
+Started: 
+Executable Path: 
+Company: 
+Description: 
+Version: 
+----------------------------------------
+Process Name: svchost
+Process ID: 1992
+Started: 
+Executable Path: 
+Company: 
+Description: 
+Version: 
+----------------------------------------
+Process Name: svchost
+Process ID: 2000
+Started: 
+Executable Path: 
+Company: 
+Description: 
+Version: 
+----------------------------------------
+Process Name: svchost
+Process ID: 2028
+Started: 
+Executable Path: 
+Company: 
+Description: 
+Version: 
+----------------------------------------
+Process Name: svchost
+Process ID: 2112
+Started: 
+Executable Path: 
+Company: 
+Description: 
+Version: 
+----------------------------------------
+Process Name: svchost
+Process ID: 2124
+Started: 
+Executable Path: 
+Company: 
+Description: 
+Version: 
+----------------------------------------
+Process Name: svchost
+Process ID: 2248
+Started: 
+Executable Path: 
+Company: 
+Description: 
+Version: 
+----------------------------------------
+Process Name: svchost
+Process ID: 2260
+Started: 
+Executable Path: 
+Company: 
+Description: 
+Version: 
+----------------------------------------
+Process Name: svchost
+Process ID: 2276
+Started: 
+Executable Path: 
+Company: 
+Description: 
+Version: 
+----------------------------------------
+Process Name: svchost
+Process ID: 2284
+Started: 
+Executable Path: 
+Company: 
+Description: 
+Version: 
+----------------------------------------
+Process Name: svchost
+Process ID: 2292
+Started: 
+Executable Path: 
+Company: 
+Description: 
+Version: 
+----------------------------------------
+Process Name: svchost
+Process ID: 2572
+Started: 
+Executable Path: 
+Company: 
+Description: 
+Version: 
+----------------------------------------
+Process Name: svchost
+Process ID: 2588
+Started: 
+Executable Path: 
+Company: 
+Description: 
+Version: 
+----------------------------------------
+Process Name: svchost
+Process ID: 2608
+Started: 
+Executable Path: 
+Company: 
+Description: 
+Version: 
+----------------------------------------
+Process Name: svchost
+Process ID: 2624
+Started: 
+Executable Path: 
+Company: 
+Description: 
+Version: 
+----------------------------------------
+Process Name: svchost
+Process ID: 2712
+Started: 
+Executable Path: 
+Company: 
+Description: 
+Version: 
+----------------------------------------
+Process Name: svchost
+Process ID: 2740
+Started: 
+Executable Path: 
+Company: 
+Description: 
+Version: 
+----------------------------------------
+Process Name: svchost
+Process ID: 2872
+Started: 
+Executable Path: 
+Company: 
+Description: 
+Version: 
+----------------------------------------
+Process Name: svchost
+Process ID: 2880
+Started: 01/23/2026 16:44:01
+Executable Path: C:\Windows\system32\svchost.exe
+Company: Microsoft Corporation
+Description: Host Process for Windows Services
+Version: 10.0.26100.1
+----------------------------------------
+Process Name: svchost
+Process ID: 3124
+Started: 
+Executable Path: 
+Company: 
+Description: 
+Version: 
+----------------------------------------
+Process Name: svchost
+Process ID: 3140
+Started: 
+Executable Path: 
+Company: 
+Description: 
+Version: 
+----------------------------------------
+Process Name: svchost
+Process ID: 3176
+Started: 
+Executable Path: 
+Company: 
+Description: 
+Version: 
+----------------------------------------
+Process Name: svchost
+Process ID: 3304
+Started: 
+Executable Path: 
+Company: 
+Description: 
+Version: 
+----------------------------------------
+Process Name: svchost
+Process ID: 3332
+Started: 
+Executable Path: 
+Company: 
+Description: 
+Version: 
+----------------------------------------
+Process Name: svchost
+Process ID: 3380
+Started: 
+Executable Path: 
+Company: 
+Description: 
+Version: 
+----------------------------------------
+Process Name: svchost
+Process ID: 3388
+Started: 
+Executable Path: 
+Company: 
+Description: 
+Version: 
+----------------------------------------
+Process Name: svchost
+Process ID: 3396
+Started: 
+Executable Path: 
+Company: 
+Description: 
+Version: 
+----------------------------------------
+Process Name: svchost
+Process ID: 3496
+Started: 
+Executable Path: 
+Company: 
+Description: 
+Version: 
+----------------------------------------
+Process Name: svchost
+Process ID: 3608
+Started: 
+Executable Path: 
+Company: 
+Description: 
+Version: 
+----------------------------------------
+Process Name: svchost
+Process ID: 3660
+Started: 
+Executable Path: 
+Company: 
+Description: 
+Version: 
+----------------------------------------
+Process Name: svchost
+Process ID: 3680
+Started: 
+Executable Path: 
+Company: 
+Description: 
+Version: 
+----------------------------------------
+Process Name: svchost
+Process ID: 3684
+Started: 
+Executable Path: 
+Company: 
+Description: 
+Version: 
+----------------------------------------
+Process Name: svchost
+Process ID: 3700
+Started: 
+Executable Path: 
+Company: 
+Description: 
+Version: 
+----------------------------------------
+Process Name: svchost
+Process ID: 3852
+Started: 
+Executable Path: 
+Company: 
+Description: 
+Version: 
+----------------------------------------
+Process Name: svchost
+Process ID: 3884
+Started: 
+Executable Path: 
+Company: 
+Description: 
+Version: 
+----------------------------------------
+Process Name: svchost
+Process ID: 4232
+Started: 
+Executable Path: 
+Company: 
+Description: 
+Version: 
+----------------------------------------
+Process Name: svchost
+Process ID: 4352
+Started: 
+Executable Path: 
+Company: 
+Description: 
+Version: 
+----------------------------------------
+Process Name: svchost
+Process ID: 4372
+Started: 
+Executable Path: 
+Company: 
+Description: 
+Version: 
+----------------------------------------
+Process Name: svchost
+Process ID: 4468
+Started: 
+Executable Path: 
+Company: 
+Description: 
+Version: 
+----------------------------------------
+Process Name: svchost
+Process ID: 4572
+Started: 
+Executable Path: 
+Company: 
+Description: 
+Version: 
+----------------------------------------
+Process Name: svchost
+Process ID: 4616
+Started: 
+Executable Path: 
+Company: 
+Description: 
+Version: 
+----------------------------------------
+Process Name: svchost
+Process ID: 4748
+Started: 
+Executable Path: 
+Company: 
+Description: 
+Version: 
+----------------------------------------
+Process Name: svchost
+Process ID: 4840
+Started: 
+Executable Path: 
+Company: 
+Description: 
+Version: 
+----------------------------------------
+Process Name: svchost
+Process ID: 4948
+Started: 
+Executable Path: 
+Company: 
+Description: 
+Version: 
+----------------------------------------
+Process Name: svchost
+Process ID: 4972
+Started: 
+Executable Path: 
+Company: 
+Description: 
+Version: 
+----------------------------------------
+Process Name: svchost
+Process ID: 5200
+Started: 
+Executable Path: 
+Company: 
+Description: 
+Version: 
+----------------------------------------
+Process Name: svchost
+Process ID: 5420
+Started: 
+Executable Path: 
+Company: 
+Description: 
+Version: 
+----------------------------------------
+Process Name: svchost
+Process ID: 5436
+Started: 
+Executable Path: 
+Company: 
+Description: 
+Version: 
+----------------------------------------
+Process Name: svchost
+Process ID: 5712
+Started: 
+Executable Path: 
+Company: 
+Description: 
+Version: 
+----------------------------------------
+Process Name: svchost
+Process ID: 5768
+Started: 
+Executable Path: 
+Company: 
+Description: 
+Version: 
+----------------------------------------
+Process Name: svchost
+Process ID: 5780
+Started: 
+Executable Path: 
+Company: 
+Description: 
+Version: 
+----------------------------------------
+Process Name: svchost
+Process ID: 6304
+Started: 01/23/2026 16:42:16
+Executable Path: C:\Windows\system32\svchost.exe
+Company: Microsoft Corporation
+Description: Host Process for Windows Services
+Version: 10.0.26100.1
+----------------------------------------
+Process Name: svchost
+Process ID: 6340
+Started: 01/23/2026 16:42:16
+Executable Path: C:\Windows\system32\svchost.exe
+Company: Microsoft Corporation
+Description: Host Process for Windows Services
+Version: 10.0.26100.1
+----------------------------------------
+Process Name: svchost
+Process ID: 6344
+Started: 
+Executable Path: 
+Company: 
+Description: 
+Version: 
+----------------------------------------
+Process Name: svchost
+Process ID: 6468
+Started: 01/23/2026 16:42:16
+Executable Path: C:\Windows\system32\svchost.exe
+Company: Microsoft Corporation
+Description: Host Process for Windows Services
+Version: 10.0.26100.1
+----------------------------------------
+Process Name: svchost
+Process ID: 6660
+Started: 01/23/2026 16:42:16
+Executable Path: C:\Windows\system32\svchost.exe
+Company: Microsoft Corporation
+Description: Host Process for Windows Services
+Version: 10.0.26100.1
+----------------------------------------
+Process Name: svchost
+Process ID: 6800
+Started: 
+Executable Path: 
+Company: 
+Description: 
+Version: 
+----------------------------------------
+Process Name: svchost
+Process ID: 6864
+Started: 
+Executable Path: 
+Company: 
+Description: 
+Version: 
+----------------------------------------
+Process Name: svchost
+Process ID: 7184
+Started: 
+Executable Path: 
+Company: 
+Description: 
+Version: 
+----------------------------------------
+Process Name: svchost
+Process ID: 8116
+Started: 
+Executable Path: 
+Company: 
+Description: 
+Version: 
+----------------------------------------
+Process Name: svchost
+Process ID: 8160
+Started: 
+Executable Path: 
+Company: 
+Description: 
+Version: 
+----------------------------------------
+Process Name: svchost
+Process ID: 8688
+Started: 
+Executable Path: 
+Company: 
+Description: 
+Version: 
+----------------------------------------
+Process Name: svchost
+Process ID: 8836
+Started: 
+Executable Path: 
+Company: 
+Description: 
+Version: 
+----------------------------------------
+Process Name: svchost
+Process ID: 8888
+Started: 
+Executable Path: 
+Company: 
+Description: 
+Version: 
+----------------------------------------
+Process Name: svchost
+Process ID: 8896
+Started: 01/23/2026 16:42:18
+Executable Path: C:\Windows\system32\svchost.exe
+Company: Microsoft Corporation
+Description: Host Process for Windows Services
+Version: 10.0.26100.1
+----------------------------------------
+Process Name: svchost
+Process ID: 9092
+Started: 
+Executable Path: 
+Company: 
+Description: 
+Version: 
+----------------------------------------
+Process Name: svchost
+Process ID: 9120
+Started: 
+Executable Path: 
+Company: 
+Description: 
+Version: 
+----------------------------------------
+Process Name: svchost
+Process ID: 9304
+Started: 
+Executable Path: 
+Company: 
+Description: 
+Version: 
+----------------------------------------
+Process Name: svchost
+Process ID: 9756
+Started: 01/23/2026 16:42:19
+Executable Path: C:\Windows\system32\svchost.exe
+Company: Microsoft Corporation
+Description: Host Process for Windows Services
+Version: 10.0.26100.1
+----------------------------------------
+Process Name: svchost
+Process ID: 10376
+Started: 
+Executable Path: 
+Company: 
+Description: 
+Version: 
+----------------------------------------
+Process Name: svchost
+Process ID: 11036
+Started: 
+Executable Path: 
+Company: 
+Description: 
+Version: 
+----------------------------------------
+Process Name: svchost
+Process ID: 11588
+Started: 
+Executable Path: 
+Company: 
+Description: 
+Version: 
+----------------------------------------
+Process Name: svchost
+Process ID: 11664
+Started: 
+Executable Path: 
+Company: 
+Description: 
+Version: 
+----------------------------------------
+Process Name: svchost
+Process ID: 11692
+Started: 01/23/2026 16:42:29
+Executable Path: C:\Windows\system32\svchost.exe
+Company: Microsoft Corporation
+Description: Host Process for Windows Services
+Version: 10.0.26100.1
+----------------------------------------
+Process Name: svchost
+Process ID: 11732
+Started: 
+Executable Path: 
+Company: 
+Description: 
+Version: 
+----------------------------------------
+Process Name: svchost
+Process ID: 11844
+Started: 01/23/2026 16:42:29
+Executable Path: C:\Windows\system32\svchost.exe
+Company: Microsoft Corporation
+Description: Host Process for Windows Services
+Version: 10.0.26100.1
+----------------------------------------
+Process Name: svchost
+Process ID: 12008
+Started: 01/23/2026 16:42:30
+Executable Path: C:\Windows\system32\svchost.exe
+Company: Microsoft Corporation
+Description: Host Process for Windows Services
+Version: 10.0.26100.1
+----------------------------------------
+Process Name: svchost
+Process ID: 13612
+Started: 
+Executable Path: 
+Company: 
+Description: 
+Version: 
+----------------------------------------
+Process Name: svchost
+Process ID: 15420
+Started: 
+Executable Path: 
+Company: 
+Description: 
+Version: 
+----------------------------------------
+Process Name: svchost
+Process ID: 15924
+Started: 
+Executable Path: 
+Company: 
+Description: 
+Version: 
+----------------------------------------
+Process Name: svchost
+Process ID: 16800
+Started: 
+Executable Path: 
+Company: 
+Description: 
+Version: 
+----------------------------------------
+Process Name: svchost
+Process ID: 19668
+Started: 
+Executable Path: 
+Company: 
+Description: 
+Version: 
+----------------------------------------
+Process Name: svchost
+Process ID: 21580
+Started: 
+Executable Path: 
+Company: 
+Description: 
+Version: 
+----------------------------------------
+Process Name: svchost
+Process ID: 22976
+Started: 
+Executable Path: 
+Company: 
+Description: 
+Version: 
+----------------------------------------
+Process Name: svchost
+Process ID: 24336
+Started: 
+Executable Path: 
+Company: 
+Description: 
+Version: 
+----------------------------------------
+Process Name: svchost
+Process ID: 25104
+Started: 
+Executable Path: 
+Company: 
+Description: 
+Version: 
+----------------------------------------
+Process Name: svchost
+Process ID: 25992
+Started: 
+Executable Path: 
+Company: 
+Description: 
+Version: 
+----------------------------------------
+Process Name: svchost
+Process ID: 28176
+Started: 
+Executable Path: 
+Company: 
+Description: 
+Version: 
+----------------------------------------
+Process Name: System
+Process ID: 4
+Started: 
+Executable Path: 
+Company: 
+Description: 
+Version: 
+----------------------------------------
+Process Name: SystemSettings
+Process ID: 11648
+Started: 01/27/2026 23:59:59
+Executable Path: C:\Windows\ImmersiveControlPanel\SystemSettings.exe
+Company: Microsoft Corporation
+Description: Settings
+Version: 10.0.26100.7019
+----------------------------------------
+Process Name: SystemSettingsAdminFlows
+Process ID: 12656
+Started: 01/26/2026 00:30:18
+Executable Path: 
+Company: 
+Description: 
+Version: 
+----------------------------------------
+Process Name: TabTip
+Process ID: 27524
+Started: 01/27/2026 23:49:48
+Executable Path: 
+Company: 
+Description: 
+Version: 
+----------------------------------------
+Process Name: Taskmgr
+Process ID: 3616
+Started: 01/25/2026 21:57:25
+Executable Path: 
+Company: 
+Description: 
+Version: 
+----------------------------------------
+Process Name: TextInputHost
+Process ID: 18708
+Started: 01/26/2026 10:59:03
+Executable Path: C:\Windows\SystemApps\MicrosoftWindows.Client.CBS_cw5n1h2txyewy\TextInputHost.exe
+Company: Microsoft Corporation
+Description: 
+Version: 2125.27300.0.0
+----------------------------------------
+Process Name: TiWorker
+Process ID: 13888
+Started: 
+Executable Path: 
+Company: 
+Description: 
+Version: 
+----------------------------------------
+Process Name: TrustedInstaller
+Process ID: 13032
+Started: 
+Executable Path: 
+Company: 
+Description: 
+Version: 
+----------------------------------------
+Process Name: unsecapp
+Process ID: 6376
+Started: 
+Executable Path: 
+Company: 
+Description: 
+Version: 
+----------------------------------------
+Process Name: UserOOBEBroker
+Process ID: 9956
+Started: 01/25/2026 13:23:08
+Executable Path: C:\Windows\System32\oobe\UserOOBEBroker.exe
+Company: Microsoft Corporation
+Description: User OOBE Broker
+Version: 10.0.26100.7019
+----------------------------------------
+Process Name: vmcompute
+Process ID: 19648
+Started: 
+Executable Path: 
+Company: 
+Description: 
+Version: 
+----------------------------------------
+Process Name: WavesAudioService
+Process ID: 4868
+Started: 
+Executable Path: 
+Company: 
+Description: 
+Version: 
+----------------------------------------
+Process Name: WavesSysSvc64
+Process ID: 4924
+Started: 
+Executable Path: 
+Company: 
+Description: 
+Version: 
+----------------------------------------
+Process Name: Widgets
+Process ID: 10880
+Started: 01/26/2026 19:45:04
+Executable Path: C:\Program Files\WindowsApps\MicrosoftWindows.Client.WebExperience_525.31002.150.0_x64__cw5n1h2txyewy\Dashboard\Widgets.exe
+Company: Microsoft Corporation
+Description: 
+Version: 525.31002.10.0
+----------------------------------------
+Process Name: WidgetService
+Process ID: 7284
+Started: 01/23/2026 16:43:21
+Executable Path: C:\Program Files\WindowsApps\Microsoft.WidgetsPlatformRuntime_1.6.14.0_x64__8wekyb3d8bbwe\WidgetService\WidgetService.exe
+Company: Microsoft Corporation
+Description: WidgetService.exe
+Version: 0.5
+----------------------------------------
+Process Name: WindowsTerminal
+Process ID: 28536
+Started: 01/28/2026 00:17:52
+Executable Path: C:\Program Files\WindowsApps\Microsoft.WindowsTerminal_1.23.20211.0_x64__8wekyb3d8bbwe\WindowsTerminal.exe
+Company: Microsoft Corporation
+Description: Windows Terminal Host
+Version: 1.23.260121001
+----------------------------------------
+Process Name: wininit
+Process ID: 1144
+Started: 
+Executable Path: 
+Company: 
+Description: 
+Version: 
+----------------------------------------
+Process Name: winlogon
+Process ID: 1252
+Started: 
+Executable Path: 
+Company: 
+Description: 
+Version: 
+----------------------------------------
+Process Name: wlanext
+Process ID: 23972
+Started: 
+Executable Path: 
+Company: 
+Description: 
+Version: 
+----------------------------------------
+Process Name: WmiPrvSE
+Process ID: 3656
+Started: 
+Executable Path: 
+Company: 
+Description: 
+Version: 
+----------------------------------------
+Process Name: WmiPrvSE
+Process ID: 15668
+Started: 
+Executable Path: 
+Company: 
+Description: 
+Version: 
+----------------------------------------
+Process Name: WMIRegistrationService
+Process ID: 4960
+Started: 
+Executable Path: 
+Company: 
+Description: 
+Version: 
+----------------------------------------
+Process Name: wslservice
+Process ID: 5008
+Started: 
+Executable Path: 
+Company: 
+Description: 
+Version: 
+----------------------------------------
+Process Name: WUDFHost
+Process ID: 1552
+Started: 
+Executable Path: 
+Company: 
+Description: 
+Version: 
+----------------------------------------
+Process Name: WUDFHost
+Process ID: 1736
+Started: 
+Executable Path: 
+Company: 
+Description: 
+Version: 
+----------------------------------------
+Process Name: WUDFHost
+Process ID: 2216
+Started: 
+Executable Path: 
+Company: 
+Description: 
+Version: 
+----------------------------------------
+Process Name: WUDFHost
+Process ID: 4300
+Started: 
+Executable Path: 
+Company: 
+Description: 
+Version: 
+----------------------------------------
+Process Name: WUDFHost
+Process ID: 4888
+Started: 
+Executable Path: 
+Company: 
+Description: 
+Version: 
+----------------------------------------
+Process Name: WUDFHost
+Process ID: 28584
+Started: 
+Executable Path: 
+Company: 
+Description: 
+Version: 
+----------------------------------------
+Process Name: WWAHost
+Process ID: 24668
+Started: 01/26/2026 07:53:25
+Executable Path: C:\WINDOWS\system32\wwahost.exe
+Company: Microsoft Corporation
+Description: Microsoft WWA Host
+Version: 10.0.26100.7019
+----------------------------------------

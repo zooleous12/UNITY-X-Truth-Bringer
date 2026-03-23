@@ -1,0 +1,37 @@
+﻿================================================================================
+PROOF 5: NETWORK ACTIVITY ANALYSIS - TECHNICAL DOCUMENTATION
+================================================================================
+
+COLLECTION TIMESTAMP: 2026-01-28 00:46:25
+
+ACTIVE NETWORK CONNECTIONS:
+Command used: netstat -ano (shows all TCP/UDP connections with process IDs)
+
+Remote Connections Found: 30
+See ACTIVE_REMOTE_CONNECTIONS.txt for details
+
+DNS CACHE ANALYSIS:
+Total Entries: 40
+The DNS cache shows domain names recently accessed by the system.
+This can reveal:
+- Remote access tool servers (TeamViewer, AnyDesk, etc.)
+- Command-and-control servers (if malware present)
+- Cloud storage services (OneDrive, Dropbox - potential data exfiltration)
+- VPN or proxy services
+
+FORENSIC SIGNIFICANCE:
+- Active remote connections may indicate unauthorized access in progress
+- Process IDs can link network activity to specific programs
+- DNS cache provides timeline of recent network activity
+- Unusual domains or IPs should be investigated
+
+TO INVESTIGATE SUSPICIOUS CONNECTIONS:
+1. Cross-reference Process ID with running processes list (PROOF 3)
+2. Check if process path is legitimate or suspicious
+3. Research remote IP addresses for reputation
+4. Check if connection timing aligns with Antigravity deletion
+
+CHAIN OF CUSTODY:
+- Network state captured at: 2026-01-28 00:46:25
+- Transient data (connections active at moment of collection only)
+- DNS cache reflects recent activity within TTL windows

@@ -1,0 +1,2104 @@
+﻿
+
+TimeGenerated : 1/28/2026 
+                12:28:49 AM
+EntryType     : Warning
+Source        : DCOM
+EventID       : 10016
+Message       : The descrip
+                tion for 
+                Event ID 
+                '10016' in 
+                Source 
+                'DCOM' 
+                cannot be 
+                found.  
+                The local 
+                computer 
+                may not 
+                have the 
+                necessary 
+                registry in
+                formation 
+                or message 
+                DLL files 
+                to display 
+                the 
+                message, 
+                or you may 
+                not have 
+                permission 
+                to access 
+                them.  The 
+                following i
+                nformation 
+                is part of 
+                the event:'
+                application
+                -specific',
+                 'Local', '
+                Activation'
+                , '{2593F8B
+                9-4EAF-457C
+                -B68A-50F6B
+                8EA6B54}', 
+                '{15C20B67-
+                12E7-4BB6-9
+                2BB-7AFF079
+                97402}', 't
+                ryagainsuck
+                a', 
+                'zoole', 'S
+                -1-5-21-127
+                8229837-169
+                7832806-672
+                617499-1002
+                ', 
+                'LocalHost 
+                (Using 
+                LRPC)', 'Ma
+                nusAI.Manus
+                _1.2.1.0_x6
+                4__vajzd2mq
+                3s8wj', 'Un
+                available'
+
+TimeGenerated : 1/27/2026 
+                11:51:09 PM
+EntryType     : Error
+Source        : BTHUSB
+EventID       : 16
+Message       : The mutual 
+                authenticat
+                ion 
+                between 
+                the local 
+                Bluetooth 
+                adapter 
+                and a 
+                device 
+                with 
+                Bluetooth 
+                adapter 
+                address (98
+                :5f:d3:31:8
+                2:cc) 
+                failed.
+
+TimeGenerated : 1/27/2026 
+                6:45:41 PM
+EntryType     : Error
+Source        : Microsoft-W
+                indows-HAL
+EventID       : 21
+Message       : The 
+                hardware 
+                real-time 
+                clock was 
+                not set 
+                because 
+                evaluation 
+                of the 
+                ACPI Time 
+                and Alarm 
+                Device 
+                method 
+                failed.  
+                Status: 
+                3221225659.
+
+TimeGenerated : 1/27/2026 
+                6:45:41 PM
+EntryType     : Error
+Source        : Microsoft-W
+                indows-HAL
+EventID       : 20
+Message       : The 
+                hardware 
+                real-time 
+                clock was 
+                not 
+                queried 
+                because 
+                evaluation 
+                of the 
+                ACPI Time 
+                and Alarm 
+                Device 
+                method 
+                failed.  
+                Status: 
+                3221225659.
+
+TimeGenerated : 1/27/2026 
+                2:21:20 PM
+EntryType     : Error
+Source        : Microsoft-W
+                indows-Wind
+                owsUpdateCl
+                ient
+EventID       : 20
+Message       : Installatio
+                n Failure: 
+                Windows 
+                failed to 
+                install 
+                the 
+                following 
+                update 
+                with error 
+                0x80073d02:
+                 9NBLGGH4LS
+                1F-Microsof
+                t.StorePurc
+                haseApp.
+
+TimeGenerated : 1/27/2026 
+                2:09:49 PM
+EntryType     : Error
+Source        : DCOM
+EventID       : 10001
+Message       : The descrip
+                tion for 
+                Event ID 
+                '10001' in 
+                Source 
+                'DCOM' 
+                cannot be 
+                found.  
+                The local 
+                computer 
+                may not 
+                have the 
+                necessary 
+                registry in
+                formation 
+                or message 
+                DLL files 
+                to display 
+                the 
+                message, 
+                or you may 
+                not have 
+                permission 
+                to access 
+                them.  The 
+                following i
+                nformation 
+                is part of 
+                the event:'
+                "C:\Windows
+                \system32\b
+                ackgroundTa
+                skHost.exe"
+                 -ServerNam
+                e:OobeHost.
+                AppXdcwkjpb
+                46w3zw4hbmx
+                5jfxajhymjk
+                a0d.mca', '
+                2147942403'
+                , 'Microsof
+                tWindows.Cl
+                ient.OOBE_1
+                000.26100.2
+                8.0_x64__cw
+                5n1h2txyewy
+                !OobeHost.A
+                ppX57bnpdhb
+                2y2keeh7gnj
+                g18wys2747n
+                jp.mca', 'U
+                navailable'
+                , 'Unavaila
+                ble'
+
+TimeGenerated : 1/27/2026 
+                3:11:53 AM
+EntryType     : Error
+Source        : DCOM
+EventID       : 10001
+Message       : The descrip
+                tion for 
+                Event ID 
+                '10001' in 
+                Source 
+                'DCOM' 
+                cannot be 
+                found.  
+                The local 
+                computer 
+                may not 
+                have the 
+                necessary 
+                registry in
+                formation 
+                or message 
+                DLL files 
+                to display 
+                the 
+                message, 
+                or you may 
+                not have 
+                permission 
+                to access 
+                them.  The 
+                following i
+                nformation 
+                is part of 
+                the event:'
+                "C:\Windows
+                \system32\b
+                ackgroundTa
+                skHost.exe"
+                 -ServerNam
+                e:OobeHost.
+                AppXdcwkjpb
+                46w3zw4hbmx
+                5jfxajhymjk
+                a0d.mca', '
+                2147942403'
+                , 'Microsof
+                tWindows.Cl
+                ient.OOBE_1
+                000.26100.2
+                8.0_x64__cw
+                5n1h2txyewy
+                !OobeHost.A
+                ppX6bj56gpf
+                gc90p49thdx
+                snj5be6r7f6
+                yq.mca', 'U
+                navailable'
+                , 'Unavaila
+                ble'
+
+TimeGenerated : 1/26/2026 
+                10:17:50 PM
+EntryType     : Warning
+Source        : DCOM
+EventID       : 10016
+Message       : The descrip
+                tion for 
+                Event ID 
+                '10016' in 
+                Source 
+                'DCOM' 
+                cannot be 
+                found.  
+                The local 
+                computer 
+                may not 
+                have the 
+                necessary 
+                registry in
+                formation 
+                or message 
+                DLL files 
+                to display 
+                the 
+                message, 
+                or you may 
+                not have 
+                permission 
+                to access 
+                them.  The 
+                following i
+                nformation 
+                is part of 
+                the event:'
+                application
+                -specific',
+                 'Local', '
+                Activation'
+                , '{2593F8B
+                9-4EAF-457C
+                -B68A-50F6B
+                8EA6B54}', 
+                '{15C20B67-
+                12E7-4BB6-9
+                2BB-7AFF079
+                97402}', 't
+                ryagainsuck
+                a', 
+                'zoole', 'S
+                -1-5-21-127
+                8229837-169
+                7832806-672
+                617499-1002
+                ', 
+                'LocalHost 
+                (Using 
+                LRPC)', 'Un
+                available',
+                 'Unavailab
+                le'
+
+TimeGenerated : 1/26/2026 
+                10:04:37 PM
+EntryType     : Warning
+Source        : DCOM
+EventID       : 10016
+Message       : The descrip
+                tion for 
+                Event ID 
+                '10016' in 
+                Source 
+                'DCOM' 
+                cannot be 
+                found.  
+                The local 
+                computer 
+                may not 
+                have the 
+                necessary 
+                registry in
+                formation 
+                or message 
+                DLL files 
+                to display 
+                the 
+                message, 
+                or you may 
+                not have 
+                permission 
+                to access 
+                them.  The 
+                following i
+                nformation 
+                is part of 
+                the event:'
+                application
+                -specific',
+                 'Local', '
+                Activation'
+                , '{2593F8B
+                9-4EAF-457C
+                -B68A-50F6B
+                8EA6B54}', 
+                '{15C20B67-
+                12E7-4BB6-9
+                2BB-7AFF079
+                97402}', 't
+                ryagainsuck
+                a', 
+                'zoole', 'S
+                -1-5-21-127
+                8229837-169
+                7832806-672
+                617499-1002
+                ', 
+                'LocalHost 
+                (Using 
+                LRPC)', 'Un
+                available',
+                 'Unavailab
+                le'
+
+TimeGenerated : 1/26/2026 
+                10:02:29 PM
+EntryType     : Warning
+Source        : DCOM
+EventID       : 10016
+Message       : The descrip
+                tion for 
+                Event ID 
+                '10016' in 
+                Source 
+                'DCOM' 
+                cannot be 
+                found.  
+                The local 
+                computer 
+                may not 
+                have the 
+                necessary 
+                registry in
+                formation 
+                or message 
+                DLL files 
+                to display 
+                the 
+                message, 
+                or you may 
+                not have 
+                permission 
+                to access 
+                them.  The 
+                following i
+                nformation 
+                is part of 
+                the event:'
+                application
+                -specific',
+                 'Local', '
+                Activation'
+                , '{2593F8B
+                9-4EAF-457C
+                -B68A-50F6B
+                8EA6B54}', 
+                '{15C20B67-
+                12E7-4BB6-9
+                2BB-7AFF079
+                97402}', 't
+                ryagainsuck
+                a', 
+                'zoole', 'S
+                -1-5-21-127
+                8229837-169
+                7832806-672
+                617499-1002
+                ', 
+                'LocalHost 
+                (Using 
+                LRPC)', 'Un
+                available',
+                 'Unavailab
+                le'
+
+TimeGenerated : 1/26/2026 
+                8:45:10 PM
+EntryType     : Warning
+Source        : DCOM
+EventID       : 10016
+Message       : The descrip
+                tion for 
+                Event ID 
+                '10016' in 
+                Source 
+                'DCOM' 
+                cannot be 
+                found.  
+                The local 
+                computer 
+                may not 
+                have the 
+                necessary 
+                registry in
+                formation 
+                or message 
+                DLL files 
+                to display 
+                the 
+                message, 
+                or you may 
+                not have 
+                permission 
+                to access 
+                them.  The 
+                following i
+                nformation 
+                is part of 
+                the event:'
+                application
+                -specific',
+                 'Local', '
+                Activation'
+                , '{2593F8B
+                9-4EAF-457C
+                -B68A-50F6B
+                8EA6B54}', 
+                '{15C20B67-
+                12E7-4BB6-9
+                2BB-7AFF079
+                97402}', 't
+                ryagainsuck
+                a', 
+                'zoole', 'S
+                -1-5-21-127
+                8229837-169
+                7832806-672
+                617499-1002
+                ', 
+                'LocalHost 
+                (Using 
+                LRPC)', 'Mi
+                crosoftWind
+                ows.Client.
+                WebExperien
+                ce_525.3100
+                2.150.0_x64
+                __cw5n1h2tx
+                yewy', 'Una
+                vailable'
+
+TimeGenerated : 1/26/2026 
+                8:03:52 PM
+EntryType     : Error
+Source        : Microsoft-W
+                indows-HAL
+EventID       : 21
+Message       : The 
+                hardware 
+                real-time 
+                clock was 
+                not set 
+                because 
+                evaluation 
+                of the 
+                ACPI Time 
+                and Alarm 
+                Device 
+                method 
+                failed.  
+                Status: 
+                3221225659.
+
+TimeGenerated : 1/26/2026 
+                8:03:52 PM
+EntryType     : Error
+Source        : Microsoft-W
+                indows-HAL
+EventID       : 20
+Message       : The 
+                hardware 
+                real-time 
+                clock was 
+                not 
+                queried 
+                because 
+                evaluation 
+                of the 
+                ACPI Time 
+                and Alarm 
+                Device 
+                method 
+                failed.  
+                Status: 
+                3221225659.
+
+TimeGenerated : 1/26/2026 
+                7:50:44 PM
+EntryType     : Warning
+Source        : Netwtw14
+EventID       : 6062
+Message       : The descrip
+                tion for 
+                Event ID '-
+                2147477586'
+                 in Source 
+                'Netwtw14' 
+                cannot be 
+                found.  
+                The local 
+                computer 
+                may not 
+                have the 
+                necessary 
+                registry in
+                formation 
+                or message 
+                DLL files 
+                to display 
+                the 
+                message, 
+                or you may 
+                not have 
+                permission 
+                to access 
+                them.  The 
+                following i
+                nformation 
+                is part of 
+                the event:'
+                \Device\NDM
+                P25', 
+                'Intel(R) 
+                Wi-Fi 6E 
+                AX211 
+                160MHz'
+
+TimeGenerated : 1/26/2026 
+                6:25:18 PM
+EntryType     : Warning
+Source        : Microsoft-W
+                indows-DNS-
+                Client
+EventID       : 1014
+Message       : Name 
+                resolution 
+                for the 
+                name audien
+                ceexposure.
+                com timed 
+                out after 
+                none of 
+                the 
+                configured 
+                DNS 
+                servers 
+                responded. 
+                Client PID 
+                12608.
+
+TimeGenerated : 1/26/2026 
+                4:00:21 PM
+EntryType     : Warning
+Source        : DCOM
+EventID       : 10016
+Message       : The descrip
+                tion for 
+                Event ID 
+                '10016' in 
+                Source 
+                'DCOM' 
+                cannot be 
+                found.  
+                The local 
+                computer 
+                may not 
+                have the 
+                necessary 
+                registry in
+                formation 
+                or message 
+                DLL files 
+                to display 
+                the 
+                message, 
+                or you may 
+                not have 
+                permission 
+                to access 
+                them.  The 
+                following i
+                nformation 
+                is part of 
+                the event:'
+                application
+                -specific',
+                 'Local', '
+                Activation'
+                , '{2593F8B
+                9-4EAF-457C
+                -B68A-50F6B
+                8EA6B54}', 
+                '{15C20B67-
+                12E7-4BB6-9
+                2BB-7AFF079
+                97402}', 't
+                ryagainsuck
+                a', 
+                'zoole', 'S
+                -1-5-21-127
+                8229837-169
+                7832806-672
+                617499-1002
+                ', 
+                'LocalHost 
+                (Using 
+                LRPC)', 'Mi
+                crosoftWind
+                ows.Client.
+                WebExperien
+                ce_525.3100
+                2.150.0_x64
+                __cw5n1h2tx
+                yewy', 'Una
+                vailable'
+
+TimeGenerated : 1/26/2026 
+                3:49:02 PM
+EntryType     : Warning
+Source        : DCOM
+EventID       : 10016
+Message       : The descrip
+                tion for 
+                Event ID 
+                '10016' in 
+                Source 
+                'DCOM' 
+                cannot be 
+                found.  
+                The local 
+                computer 
+                may not 
+                have the 
+                necessary 
+                registry in
+                formation 
+                or message 
+                DLL files 
+                to display 
+                the 
+                message, 
+                or you may 
+                not have 
+                permission 
+                to access 
+                them.  The 
+                following i
+                nformation 
+                is part of 
+                the event:'
+                application
+                -specific',
+                 'Local', '
+                Activation'
+                , '{2593F8B
+                9-4EAF-457C
+                -B68A-50F6B
+                8EA6B54}', 
+                '{15C20B67-
+                12E7-4BB6-9
+                2BB-7AFF079
+                97402}', 't
+                ryagainsuck
+                a', 
+                'zoole', 'S
+                -1-5-21-127
+                8229837-169
+                7832806-672
+                617499-1002
+                ', 
+                'LocalHost 
+                (Using 
+                LRPC)', 'Un
+                available',
+                 'Unavailab
+                le'
+
+TimeGenerated : 1/26/2026 
+                3:11:55 PM
+EntryType     : Warning
+Source        : DCOM
+EventID       : 10016
+Message       : The descrip
+                tion for 
+                Event ID 
+                '10016' in 
+                Source 
+                'DCOM' 
+                cannot be 
+                found.  
+                The local 
+                computer 
+                may not 
+                have the 
+                necessary 
+                registry in
+                formation 
+                or message 
+                DLL files 
+                to display 
+                the 
+                message, 
+                or you may 
+                not have 
+                permission 
+                to access 
+                them.  The 
+                following i
+                nformation 
+                is part of 
+                the event:'
+                application
+                -specific',
+                 'Local', '
+                Activation'
+                , '{2593F8B
+                9-4EAF-457C
+                -B68A-50F6B
+                8EA6B54}', 
+                '{15C20B67-
+                12E7-4BB6-9
+                2BB-7AFF079
+                97402}', 't
+                ryagainsuck
+                a', 
+                'zoole', 'S
+                -1-5-21-127
+                8229837-169
+                7832806-672
+                617499-1002
+                ', 
+                'LocalHost 
+                (Using 
+                LRPC)', 'Un
+                available',
+                 'Unavailab
+                le'
+
+TimeGenerated : 1/26/2026 
+                3:11:20 PM
+EntryType     : Error
+Source        : DCOM
+EventID       : 10001
+Message       : The descrip
+                tion for 
+                Event ID 
+                '10001' in 
+                Source 
+                'DCOM' 
+                cannot be 
+                found.  
+                The local 
+                computer 
+                may not 
+                have the 
+                necessary 
+                registry in
+                formation 
+                or message 
+                DLL files 
+                to display 
+                the 
+                message, 
+                or you may 
+                not have 
+                permission 
+                to access 
+                them.  The 
+                following i
+                nformation 
+                is part of 
+                the event:'
+                "C:\Windows
+                \system32\b
+                ackgroundTa
+                skHost.exe"
+                 -ServerNam
+                e:OobeHost.
+                AppXdcwkjpb
+                46w3zw4hbmx
+                5jfxajhymjk
+                a0d.mca', '
+                2147942403'
+                , 'Microsof
+                tWindows.Cl
+                ient.OOBE_1
+                000.26100.2
+                8.0_x64__cw
+                5n1h2txyewy
+                !OobeHost.A
+                ppX57bnpdhb
+                2y2keeh7gnj
+                g18wys2747n
+                jp.mca', 'U
+                navailable'
+                , 'Unavaila
+                ble'
+
+TimeGenerated : 1/26/2026 
+                3:11:18 PM
+EntryType     : Warning
+Source        : Netwtw14
+EventID       : 6062
+Message       : The descrip
+                tion for 
+                Event ID '-
+                2147477586'
+                 in Source 
+                'Netwtw14' 
+                cannot be 
+                found.  
+                The local 
+                computer 
+                may not 
+                have the 
+                necessary 
+                registry in
+                formation 
+                or message 
+                DLL files 
+                to display 
+                the 
+                message, 
+                or you may 
+                not have 
+                permission 
+                to access 
+                them.  The 
+                following i
+                nformation 
+                is part of 
+                the event:'
+                \Device\NDM
+                P15', 
+                'Intel(R) 
+                Wi-Fi 6E 
+                AX211 
+                160MHz'
+
+TimeGenerated : 1/26/2026 
+                1:55:29 PM
+EntryType     : Error
+Source        : Service 
+                Control 
+                Manager
+EventID       : 7031
+Message       : The 
+                Microsoft 
+                Office Clic
+                k-to-Run 
+                Service 
+                service 
+                terminated 
+                unexpectedl
+                y.  It has 
+                done this 
+                1 time(s). 
+                 The 
+                following 
+                corrective 
+                action 
+                will be 
+                taken in 0 
+                millisecond
+                s: Restart 
+                the 
+                service.
+
+TimeGenerated : 1/26/2026 
+                1:05:25 PM
+EntryType     : Warning
+Source        : Microsoft-W
+                indows-DNS-
+                Client
+EventID       : 1014
+Message       : Name 
+                resolution 
+                for the 
+                name t-ring
+                -fdv2.msedg
+                e.net 
+                timed out 
+                after none 
+                of the 
+                configured 
+                DNS 
+                servers 
+                responded. 
+                Client PID 
+                28552.
+
+TimeGenerated : 1/26/2026 
+                12:15:06 PM
+EntryType     : Warning
+Source        : DCOM
+EventID       : 10016
+Message       : The descrip
+                tion for 
+                Event ID 
+                '10016' in 
+                Source 
+                'DCOM' 
+                cannot be 
+                found.  
+                The local 
+                computer 
+                may not 
+                have the 
+                necessary 
+                registry in
+                formation 
+                or message 
+                DLL files 
+                to display 
+                the 
+                message, 
+                or you may 
+                not have 
+                permission 
+                to access 
+                them.  The 
+                following i
+                nformation 
+                is part of 
+                the event:'
+                application
+                -specific',
+                 'Local', '
+                Activation'
+                , '{2593F8B
+                9-4EAF-457C
+                -B68A-50F6B
+                8EA6B54}', 
+                '{15C20B67-
+                12E7-4BB6-9
+                2BB-7AFF079
+                97402}', 't
+                ryagainsuck
+                a', 
+                'zoole', 'S
+                -1-5-21-127
+                8229837-169
+                7832806-672
+                617499-1002
+                ', 
+                'LocalHost 
+                (Using 
+                LRPC)', 'Mi
+                crosoftWind
+                ows.Client.
+                WebExperien
+                ce_525.3100
+                2.150.0_x64
+                __cw5n1h2tx
+                yewy', 'Una
+                vailable'
+
+TimeGenerated : 1/26/2026 
+                7:46:29 AM
+EntryType     : Warning
+Source        : DCOM
+EventID       : 10016
+Message       : The descrip
+                tion for 
+                Event ID 
+                '10016' in 
+                Source 
+                'DCOM' 
+                cannot be 
+                found.  
+                The local 
+                computer 
+                may not 
+                have the 
+                necessary 
+                registry in
+                formation 
+                or message 
+                DLL files 
+                to display 
+                the 
+                message, 
+                or you may 
+                not have 
+                permission 
+                to access 
+                them.  The 
+                following i
+                nformation 
+                is part of 
+                the event:'
+                application
+                -specific',
+                 'Local', '
+                Activation'
+                , '{2593F8B
+                9-4EAF-457C
+                -B68A-50F6B
+                8EA6B54}', 
+                '{15C20B67-
+                12E7-4BB6-9
+                2BB-7AFF079
+                97402}', 't
+                ryagainsuck
+                a', 
+                'zoole', 'S
+                -1-5-21-127
+                8229837-169
+                7832806-672
+                617499-1002
+                ', 
+                'LocalHost 
+                (Using 
+                LRPC)', 'Un
+                available',
+                 'Unavailab
+                le'
+
+TimeGenerated : 1/26/2026 
+                5:54:29 AM
+EntryType     : Warning
+Source        : DCOM
+EventID       : 10016
+Message       : The descrip
+                tion for 
+                Event ID 
+                '10016' in 
+                Source 
+                'DCOM' 
+                cannot be 
+                found.  
+                The local 
+                computer 
+                may not 
+                have the 
+                necessary 
+                registry in
+                formation 
+                or message 
+                DLL files 
+                to display 
+                the 
+                message, 
+                or you may 
+                not have 
+                permission 
+                to access 
+                them.  The 
+                following i
+                nformation 
+                is part of 
+                the event:'
+                application
+                -specific',
+                 'Local', '
+                Activation'
+                , '{2593F8B
+                9-4EAF-457C
+                -B68A-50F6B
+                8EA6B54}', 
+                '{15C20B67-
+                12E7-4BB6-9
+                2BB-7AFF079
+                97402}', 't
+                ryagainsuck
+                a', 
+                'zoole', 'S
+                -1-5-21-127
+                8229837-169
+                7832806-672
+                617499-1002
+                ', 
+                'LocalHost 
+                (Using 
+                LRPC)', 'Un
+                available',
+                 'Unavailab
+                le'
+
+TimeGenerated : 1/26/2026 
+                3:11:52 AM
+EntryType     : Error
+Source        : DCOM
+EventID       : 10001
+Message       : The descrip
+                tion for 
+                Event ID 
+                '10001' in 
+                Source 
+                'DCOM' 
+                cannot be 
+                found.  
+                The local 
+                computer 
+                may not 
+                have the 
+                necessary 
+                registry in
+                formation 
+                or message 
+                DLL files 
+                to display 
+                the 
+                message, 
+                or you may 
+                not have 
+                permission 
+                to access 
+                them.  The 
+                following i
+                nformation 
+                is part of 
+                the event:'
+                "C:\Windows
+                \system32\b
+                ackgroundTa
+                skHost.exe"
+                 -ServerNam
+                e:OobeHost.
+                AppXdcwkjpb
+                46w3zw4hbmx
+                5jfxajhymjk
+                a0d.mca', '
+                2147942403'
+                , 'Microsof
+                tWindows.Cl
+                ient.OOBE_1
+                000.26100.2
+                8.0_x64__cw
+                5n1h2txyewy
+                !OobeHost.A
+                ppX6bj56gpf
+                gc90p49thdx
+                snj5be6r7f6
+                yq.mca', 'U
+                navailable'
+                , 'Unavaila
+                ble'
+
+TimeGenerated : 1/26/2026 
+                1:27:20 AM
+EntryType     : Warning
+Source        : Microsoft-W
+                indows-DNS-
+                Client
+EventID       : 1014
+Message       : Name 
+                resolution 
+                for the 
+                name t-ring
+                -fdv2.msedg
+                e.net 
+                timed out 
+                after none 
+                of the 
+                configured 
+                DNS 
+                servers 
+                responded. 
+                Client PID 
+                28564.
+
+TimeGenerated : 1/26/2026 
+                1:18:06 AM
+EntryType     : Warning
+Source        : DCOM
+EventID       : 10016
+Message       : The descrip
+                tion for 
+                Event ID 
+                '10016' in 
+                Source 
+                'DCOM' 
+                cannot be 
+                found.  
+                The local 
+                computer 
+                may not 
+                have the 
+                necessary 
+                registry in
+                formation 
+                or message 
+                DLL files 
+                to display 
+                the 
+                message, 
+                or you may 
+                not have 
+                permission 
+                to access 
+                them.  The 
+                following i
+                nformation 
+                is part of 
+                the event:'
+                application
+                -specific',
+                 'Local', '
+                Activation'
+                , '{2593F8B
+                9-4EAF-457C
+                -B68A-50F6B
+                8EA6B54}', 
+                '{15C20B67-
+                12E7-4BB6-9
+                2BB-7AFF079
+                97402}', 't
+                ryagainsuck
+                a', 
+                'zoole', 'S
+                -1-5-21-127
+                8229837-169
+                7832806-672
+                617499-1002
+                ', 
+                'LocalHost 
+                (Using 
+                LRPC)', 'Un
+                available',
+                 'Unavailab
+                le'
+
+TimeGenerated : 1/25/2026 
+                10:00:33 PM
+EntryType     : Warning
+Source        : Netwtw14
+EventID       : 6062
+Message       : The descrip
+                tion for 
+                Event ID '-
+                2147477586'
+                 in Source 
+                'Netwtw14' 
+                cannot be 
+                found.  
+                The local 
+                computer 
+                may not 
+                have the 
+                necessary 
+                registry in
+                formation 
+                or message 
+                DLL files 
+                to display 
+                the 
+                message, 
+                or you may 
+                not have 
+                permission 
+                to access 
+                them.  The 
+                following i
+                nformation 
+                is part of 
+                the event:'
+                \Device\NDM
+                P15', 
+                'Intel(R) 
+                Wi-Fi 6E 
+                AX211 
+                160MHz'
+
+TimeGenerated : 1/25/2026 
+                8:47:41 PM
+EntryType     : Error
+Source        : Microsoft-W
+                indows-HAL
+EventID       : 21
+Message       : The 
+                hardware 
+                real-time 
+                clock was 
+                not set 
+                because 
+                evaluation 
+                of the 
+                ACPI Time 
+                and Alarm 
+                Device 
+                method 
+                failed.  
+                Status: 
+                3221225659.
+
+TimeGenerated : 1/25/2026 
+                8:47:41 PM
+EntryType     : Error
+Source        : Microsoft-W
+                indows-HAL
+EventID       : 20
+Message       : The 
+                hardware 
+                real-time 
+                clock was 
+                not 
+                queried 
+                because 
+                evaluation 
+                of the 
+                ACPI Time 
+                and Alarm 
+                Device 
+                method 
+                failed.  
+                Status: 
+                3221225659.
+
+TimeGenerated : 1/25/2026 
+                8:46:57 PM
+EntryType     : Warning
+Source        : Netwtw14
+EventID       : 6062
+Message       : The descrip
+                tion for 
+                Event ID '-
+                2147477586'
+                 in Source 
+                'Netwtw14' 
+                cannot be 
+                found.  
+                The local 
+                computer 
+                may not 
+                have the 
+                necessary 
+                registry in
+                formation 
+                or message 
+                DLL files 
+                to display 
+                the 
+                message, 
+                or you may 
+                not have 
+                permission 
+                to access 
+                them.  The 
+                following i
+                nformation 
+                is part of 
+                the event:'
+                \Device\NDM
+                P15', 
+                'Intel(R) 
+                Wi-Fi 6E 
+                AX211 
+                160MHz'
+
+TimeGenerated : 1/25/2026 
+                8:36:28 PM
+EntryType     : Warning
+Source        : Microsoft-W
+                indows-Time
+                -Service
+EventID       : 134
+Message       : NtpClient 
+                was unable 
+                to set a 
+                manual 
+                peer to 
+                use as a 
+                time 
+                source 
+                because of 
+                DNS 
+                resolution 
+                error on 't
+                ime.windows
+                .com,0x9'. 
+                NtpClient 
+                will try 
+                again in 
+                15 minutes 
+                and double 
+                the 
+                reattempt 
+                interval th
+                ereafter. 
+                The error 
+                was: No 
+                such host 
+                is known. (
+                0x80072AF9)
+
+TimeGenerated : 1/25/2026 
+                8:35:45 PM
+EntryType     : Warning
+Source        : Microsoft-W
+                indows-DNS-
+                Client
+EventID       : 1014
+Message       : Name 
+                resolution 
+                for the 
+                name docs.g
+                oogle.com 
+                timed out 
+                after none 
+                of the 
+                configured 
+                DNS 
+                servers 
+                responded. 
+                Client PID 
+                9740.
+
+TimeGenerated : 1/25/2026 
+                8:35:43 PM
+EntryType     : Warning
+Source        : Microsoft-W
+                indows-DNS-
+                Client
+EventID       : 1014
+Message       : Name 
+                resolution 
+                for the 
+                name addons
+                -pa.clients
+                6.google.co
+                m timed 
+                out after 
+                none of 
+                the 
+                configured 
+                DNS 
+                servers 
+                responded. 
+                Client PID 
+                9740.
+
+TimeGenerated : 1/25/2026 
+                8:25:10 PM
+EntryType     : Warning
+Source        : Microsoft-W
+                indows-Time
+                -Service
+EventID       : 134
+Message       : NtpClient 
+                was unable 
+                to set a 
+                manual 
+                peer to 
+                use as a 
+                time 
+                source 
+                because of 
+                DNS 
+                resolution 
+                error on 't
+                ime.windows
+                .com,0x9'. 
+                NtpClient 
+                will try 
+                again in 
+                15 minutes 
+                and double 
+                the 
+                reattempt 
+                interval th
+                ereafter. 
+                The error 
+                was: No 
+                such host 
+                is known. (
+                0x80072AF9)
+
+TimeGenerated : 1/25/2026 
+                5:03:26 PM
+EntryType     : Warning
+Source        : Microsoft-W
+                indows-DNS-
+                Client
+EventID       : 1014
+Message       : Name 
+                resolution 
+                for the 
+                name ws.ass
+                istant.app.
+                kombai.com 
+                timed out 
+                after none 
+                of the 
+                configured 
+                DNS 
+                servers 
+                responded. 
+                Client PID 
+                16728.
+
+TimeGenerated : 1/25/2026 
+                5:03:17 PM
+EntryType     : Warning
+Source        : Microsoft-W
+                indows-DNS-
+                Client
+EventID       : 1014
+Message       : Name 
+                resolution 
+                for the 
+                name idetoo
+                lkits-hoste
+                dfiles.amaz
+                onaws.com 
+                timed out 
+                after none 
+                of the 
+                configured 
+                DNS 
+                servers 
+                responded. 
+                Client PID 
+                17800.
+
+TimeGenerated : 1/25/2026 
+                4:29:12 PM
+EntryType     : Warning
+Source        : Netwtw14
+EventID       : 6062
+Message       : The descrip
+                tion for 
+                Event ID '-
+                2147477586'
+                 in Source 
+                'Netwtw14' 
+                cannot be 
+                found.  
+                The local 
+                computer 
+                may not 
+                have the 
+                necessary 
+                registry in
+                formation 
+                or message 
+                DLL files 
+                to display 
+                the 
+                message, 
+                or you may 
+                not have 
+                permission 
+                to access 
+                them.  The 
+                following i
+                nformation 
+                is part of 
+                the event:'
+                \Device\NDM
+                P15', 
+                'Intel(R) 
+                Wi-Fi 6E 
+                AX211 
+                160MHz'
+
+TimeGenerated : 1/25/2026 
+                4:26:15 PM
+EntryType     : Warning
+Source        : Netwtw14
+EventID       : 6062
+Message       : The descrip
+                tion for 
+                Event ID '-
+                2147477586'
+                 in Source 
+                'Netwtw14' 
+                cannot be 
+                found.  
+                The local 
+                computer 
+                may not 
+                have the 
+                necessary 
+                registry in
+                formation 
+                or message 
+                DLL files 
+                to display 
+                the 
+                message, 
+                or you may 
+                not have 
+                permission 
+                to access 
+                them.  The 
+                following i
+                nformation 
+                is part of 
+                the event:'
+                \Device\NDM
+                P15', 
+                'Intel(R) 
+                Wi-Fi 6E 
+                AX211 
+                160MHz'
+
+TimeGenerated : 1/25/2026 
+                4:11:52 PM
+EntryType     : Error
+Source        : DCOM
+EventID       : 10001
+Message       : The descrip
+                tion for 
+                Event ID 
+                '10001' in 
+                Source 
+                'DCOM' 
+                cannot be 
+                found.  
+                The local 
+                computer 
+                may not 
+                have the 
+                necessary 
+                registry in
+                formation 
+                or message 
+                DLL files 
+                to display 
+                the 
+                message, 
+                or you may 
+                not have 
+                permission 
+                to access 
+                them.  The 
+                following i
+                nformation 
+                is part of 
+                the event:'
+                "C:\Windows
+                \system32\b
+                ackgroundTa
+                skHost.exe"
+                 -ServerNam
+                e:OobeHost.
+                AppXdcwkjpb
+                46w3zw4hbmx
+                5jfxajhymjk
+                a0d.mca', '
+                2147942403'
+                , 'Microsof
+                tWindows.Cl
+                ient.OOBE_1
+                000.26100.2
+                8.0_x64__cw
+                5n1h2txyewy
+                !OobeHost.A
+                ppX57bnpdhb
+                2y2keeh7gnj
+                g18wys2747n
+                jp.mca', 'U
+                navailable'
+                , 'Unavaila
+                ble'
+
+TimeGenerated : 1/25/2026 
+                2:24:22 PM
+EntryType     : Warning
+Source        : Tcpip
+EventID       : 4227
+Message       : TCP/IP 
+                failed to 
+                establish 
+                an 
+                outgoing 
+                connection 
+                because 
+                the 
+                selected 
+                local 
+                endpoint
+                was 
+                recently 
+                used to 
+                connect to 
+                the same 
+                remote 
+                endpoint. 
+                This error 
+                typically 
+                occurs
+                when 
+                outgoing co
+                nnections 
+                are opened 
+                and closed 
+                at a high 
+                rate, 
+                causing 
+                all 
+                available
+                local 
+                ports to 
+                be used 
+                and 
+                forcing 
+                TCP/IP to 
+                reuse a 
+                local port 
+                for an 
+                outgoing 
+                connection.
+                To 
+                minimize 
+                the risk 
+                of data cor
+                ruption, 
+                the TCP/IP 
+                standard 
+                requires a 
+                minimum 
+                time period
+                to elapse 
+                between 
+                successive 
+                connections
+                 from a 
+                given 
+                local 
+                endpoint 
+                to a given 
+                remote 
+                endpoint.
+
+TimeGenerated : 1/25/2026 
+                11:32:05 AM
+EntryType     : Warning
+Source        : Netwtw14
+EventID       : 6062
+Message       : The descrip
+                tion for 
+                Event ID '-
+                2147477586'
+                 in Source 
+                'Netwtw14' 
+                cannot be 
+                found.  
+                The local 
+                computer 
+                may not 
+                have the 
+                necessary 
+                registry in
+                formation 
+                or message 
+                DLL files 
+                to display 
+                the 
+                message, 
+                or you may 
+                not have 
+                permission 
+                to access 
+                them.  The 
+                following i
+                nformation 
+                is part of 
+                the event:'
+                \Device\NDM
+                P15', 
+                'Intel(R) 
+                Wi-Fi 6E 
+                AX211 
+                160MHz'
+
+TimeGenerated : 1/25/2026 
+                11:21:01 AM
+EntryType     : Warning
+Source        : Netwtw14
+EventID       : 6062
+Message       : The descrip
+                tion for 
+                Event ID '-
+                2147477586'
+                 in Source 
+                'Netwtw14' 
+                cannot be 
+                found.  
+                The local 
+                computer 
+                may not 
+                have the 
+                necessary 
+                registry in
+                formation 
+                or message 
+                DLL files 
+                to display 
+                the 
+                message, 
+                or you may 
+                not have 
+                permission 
+                to access 
+                them.  The 
+                following i
+                nformation 
+                is part of 
+                the event:'
+                \Device\NDM
+                P15', 
+                'Intel(R) 
+                Wi-Fi 6E 
+                AX211 
+                160MHz'
+
+TimeGenerated : 1/25/2026 
+                10:51:26 AM
+EntryType     : Warning
+Source        : Tcpip
+EventID       : 4227
+Message       : TCP/IP 
+                failed to 
+                establish 
+                an 
+                outgoing 
+                connection 
+                because 
+                the 
+                selected 
+                local 
+                endpoint
+                was 
+                recently 
+                used to 
+                connect to 
+                the same 
+                remote 
+                endpoint. 
+                This error 
+                typically 
+                occurs
+                when 
+                outgoing co
+                nnections 
+                are opened 
+                and closed 
+                at a high 
+                rate, 
+                causing 
+                all 
+                available
+                local 
+                ports to 
+                be used 
+                and 
+                forcing 
+                TCP/IP to 
+                reuse a 
+                local port 
+                for an 
+                outgoing 
+                connection.
+                To 
+                minimize 
+                the risk 
+                of data cor
+                ruption, 
+                the TCP/IP 
+                standard 
+                requires a 
+                minimum 
+                time period
+                to elapse 
+                between 
+                successive 
+                connections
+                 from a 
+                given 
+                local 
+                endpoint 
+                to a given 
+                remote 
+                endpoint.
+
+TimeGenerated : 1/25/2026 
+                5:42:21 AM
+EntryType     : Warning
+Source        : Netwtw14
+EventID       : 6062
+Message       : The descrip
+                tion for 
+                Event ID '-
+                2147477586'
+                 in Source 
+                'Netwtw14' 
+                cannot be 
+                found.  
+                The local 
+                computer 
+                may not 
+                have the 
+                necessary 
+                registry in
+                formation 
+                or message 
+                DLL files 
+                to display 
+                the 
+                message, 
+                or you may 
+                not have 
+                permission 
+                to access 
+                them.  The 
+                following i
+                nformation 
+                is part of 
+                the event:'
+                \Device\NDM
+                P15', 
+                'Intel(R) 
+                Wi-Fi 6E 
+                AX211 
+                160MHz'
+
+TimeGenerated : 1/25/2026 
+                5:37:11 AM
+EntryType     : Warning
+Source        : Netwtw14
+EventID       : 6062
+Message       : The descrip
+                tion for 
+                Event ID '-
+                2147477586'
+                 in Source 
+                'Netwtw14' 
+                cannot be 
+                found.  
+                The local 
+                computer 
+                may not 
+                have the 
+                necessary 
+                registry in
+                formation 
+                or message 
+                DLL files 
+                to display 
+                the 
+                message, 
+                or you may 
+                not have 
+                permission 
+                to access 
+                them.  The 
+                following i
+                nformation 
+                is part of 
+                the event:'
+                \Device\NDM
+                P15', 
+                'Intel(R) 
+                Wi-Fi 6E 
+                AX211 
+                160MHz'
+
+TimeGenerated : 1/25/2026 
+                3:11:52 AM
+EntryType     : Error
+Source        : DCOM
+EventID       : 10001
+Message       : The descrip
+                tion for 
+                Event ID 
+                '10001' in 
+                Source 
+                'DCOM' 
+                cannot be 
+                found.  
+                The local 
+                computer 
+                may not 
+                have the 
+                necessary 
+                registry in
+                formation 
+                or message 
+                DLL files 
+                to display 
+                the 
+                message, 
+                or you may 
+                not have 
+                permission 
+                to access 
+                them.  The 
+                following i
+                nformation 
+                is part of 
+                the event:'
+                "C:\Windows
+                \system32\b
+                ackgroundTa
+                skHost.exe"
+                 -ServerNam
+                e:OobeHost.
+                AppXdcwkjpb
+                46w3zw4hbmx
+                5jfxajhymjk
+                a0d.mca', '
+                2147942403'
+                , 'Microsof
+                tWindows.Cl
+                ient.OOBE_1
+                000.26100.2
+                8.0_x64__cw
+                5n1h2txyewy
+                !OobeHost.A
+                ppX6bj56gpf
+                gc90p49thdx
+                snj5be6r7f6
+                yq.mca', 'U
+                navailable'
+                , 'Unavaila
+                ble'
+
+
+

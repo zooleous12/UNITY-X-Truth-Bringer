@@ -1,74 +1,1432 @@
 --------- beginning of system
-11-29 02:26:43.933 D/InsetsController(11389): Setting requestedVisibleTypes to -9 (was -1)
-11-29 02:26:44.295 D/InsetsController(11389): Setting requestedVisibleTypes to -1 (was -9)
-11-29 02:26:48.451 D/InsetsController(11389): Setting requestedVisibleTypes to -9 (was -1)
-11-29 02:26:52.231 D/InsetsController(11389): Setting requestedVisibleTypes to -1 (was -9)
-11-29 02:27:02.980 D/InsetsController(11389): Setting requestedVisibleTypes to -9 (was -1)
-11-29 02:28:00.554 D/InsetsController(11389): Setting requestedVisibleTypes to -1 (was -9)
-11-29 02:28:15.420 D/InsetsController(11389): Setting requestedVisibleTypes to -9 (was -1)
-11-29 02:28:15.851 D/InsetsController(11389): Setting requestedVisibleTypes to -1 (was -9)
-11-29 02:28:20.221 D/InsetsController(11389): Setting requestedVisibleTypes to -9 (was -1)
-11-29 02:28:30.269 D/InsetsController(11389): Setting requestedVisibleTypes to -1 (was -9)
-11-29 02:30:42.976 D/InsetsController(11389): Setting requestedVisibleTypes to -9 (was -1)
-11-29 02:30:49.116 D/InsetsController(11389): Setting requestedVisibleTypes to -1 (was -9)
-11-29 02:31:14.146 D/InsetsController(11389): Setting requestedVisibleTypes to -9 (was -1)
-11-29 02:31:17.327 D/InsetsController(11389): Setting requestedVisibleTypes to -14 (was -9)
-11-29 02:31:17.392 D/InsetsController(11389): Setting requestedVisibleTypes to -16 (was -14)
-11-29 02:31:17.782 D/InsetsController(11389): Setting requestedVisibleTypes to -14 (was -16)
-11-29 02:31:18.087 D/InsetsController(11389): Setting requestedVisibleTypes to -16 (was -14)
-11-29 02:31:54.446 D/InsetsController(11389): Setting requestedVisibleTypes to -1 (was -9)
-11-29 02:31:55.323 D/InsetsController(11389): Setting requestedVisibleTypes to -9 (was -1)
-11-29 02:32:15.583 D/InsetsController(11389): Setting requestedVisibleTypes to -1 (was -9)
+01-28 12:10:56.014 I/ActivityThread( 7439): ApplicationInfo updating for com.microsoft.rdc.androidx, new timestamp: 337489510
+01-28 12:10:56.014 I/ActivityThread( 7439): assets removed: []
+01-28 12:10:56.014 I/ActivityThread( 7439): assets added: [/product/overlay/NotesRoleEnabled/NotesRoleEnabledOverlay.apk]
+01-28 12:11:02.255 D/InsetsController( 7439): Setting requestedVisibleTypes to -14 (was -9)
+01-28 12:11:02.355 D/InsetsController( 7439): Setting requestedVisibleTypes to -16 (was -14)
+01-28 12:11:02.736 D/InsetsController( 7439): Setting requestedVisibleTypes to -14 (was -16)
+01-28 12:11:03.037 D/InsetsController( 7439): Setting requestedVisibleTypes to -16 (was -14)
+01-28 12:11:08.892 D/InsetsController( 7439): Setting requestedVisibleTypes to -14 (was -9)
+01-28 12:11:08.927 D/InsetsController( 7439): Setting requestedVisibleTypes to -16 (was -14)
+01-28 12:11:09.317 D/InsetsController( 7439): Setting requestedVisibleTypes to -14 (was -16)
+01-28 12:11:09.617 D/InsetsController( 7439): Setting requestedVisibleTypes to -16 (was -14)
+01-28 12:11:25.903 D/InsetsController( 7439): Setting requestedVisibleTypes to -14 (was -9)
+01-28 12:11:25.935 D/InsetsController( 7439): Setting requestedVisibleTypes to -16 (was -14)
+01-28 12:11:26.325 D/InsetsController( 7439): Setting requestedVisibleTypes to -14 (was -16)
+01-28 12:11:26.624 D/InsetsController( 7439): Setting requestedVisibleTypes to -16 (was -14)
+01-28 12:11:31.247 D/InsetsController( 7439): Setting requestedVisibleTypes to -14 (was -9)
+01-28 12:11:31.286 D/InsetsController( 7439): Setting requestedVisibleTypes to -16 (was -14)
+01-28 12:11:31.676 D/InsetsController( 7439): Setting requestedVisibleTypes to -14 (was -16)
+01-28 12:11:31.975 D/InsetsController( 7439): Setting requestedVisibleTypes to -16 (was -14)
+01-28 12:11:45.670 D/InsetsController( 7439): Setting requestedVisibleTypes to -1 (was -9)
+01-28 12:11:50.528 D/InsetsController( 7439): Setting requestedVisibleTypes to -9 (was -1)
+01-28 12:11:53.116 D/InsetsController( 7439): Setting requestedVisibleTypes to -1 (was -9)
 --------- beginning of main
-11-29 02:32:50.397 V/AutofillManager(11389): requestHideFillUi(null): anchor = null
-11-29 02:32:51.681 V/AutofillManager(11389): requestHideFillUi(null): anchor = null
-11-29 02:32:52.082 W/System  (11389): A resource failed to call release. 
-11-29 02:32:52.082 W/System  (11389): A resource failed to call release. 
-11-29 02:32:52.086 W/System  (11389): A resource failed to call release. 
-11-29 02:32:52.086 W/System  (11389): A resource failed to call release. 
-11-29 02:32:52.086 W/System  (11389): A resource failed to call release. 
-11-29 02:32:53.077 V/AutofillManager(11389): requestHideFillUi(null): anchor = null
-11-29 02:33:11.785 V/AutofillManager(11389): requestHideFillUi(null): anchor = null
-11-29 02:33:13.838 V/AutofillManager(11389): requestHideFillUi(null): anchor = null
-11-29 02:33:20.558 V/AutofillManager(11389): requestHideFillUi(null): anchor = null
-11-29 02:33:22.739 V/AutofillManager(11389): requestHideFillUi(null): anchor = null
-11-29 02:33:24.414 V/AutofillManager(11389): requestHideFillUi(null): anchor = null
-11-29 02:33:24.597 V/AutofillClientController(11389): onActivityResumed()
-11-29 02:33:24.598 D/AutofillManager(11389): Fill dialog is enabled:false, hints=[]
-11-29 02:33:24.598 V/AutofillClientController(11389): onActivityResumed(): Relayout fix not enabled
-11-29 02:33:24.598 V/AutofillClientController(11389): onActivityPostResumed()
-11-29 02:33:24.602 D/WindowOnBackDispatcher(11389): setTopOnBackInvokedCallback (unwrapped): android.view.ViewRootImpl$$ExternalSyntheticLambda12@7d097fa
-11-29 02:33:24.610 V/AutofillManager(11389): notifyValueChanged(1073741824): ignoring on state UNKNOWN
-11-29 02:33:24.610 V/AutofillManager(11389): notifyValueChanged(1073741825): ignoring on state UNKNOWN
-11-29 02:33:24.670 D/ImeBackDispatcher(11389): switch root view (mImeCallbacks.size=0)
-11-29 02:33:24.673 D/InsetsController(11389): hide(ime())
-11-29 02:33:24.673 I/ImeTracker(11389): com.microsoft.rdc.androidx:3e6660a1: onCancelled at PHASE_CLIENT_ALREADY_HIDDEN
-11-29 02:33:25.157 D/VRI[HomeActivity](11389): visibilityChanged oldVisibility=true newVisibility=false
-11-29 02:33:25.172 D/HWUI    (11389): endAllActiveAnimators on 0xb4000071615bfaa0 (UnprojectedRipple) with handle 0xb400007031665ba0
-11-29 02:33:25.177 I/AutofillManager(11389): onInvisibleForAutofill(): expiringResponse
-11-29 02:33:25.177 V/AutofillManager(11389): updateSessionLocked(): id=null, bounds=null, value=null, action=5, flags=0
-11-29 02:33:39.585 V/AutofillManager(11389): requestHideFillUi(null): anchor = null
-11-29 02:33:42.456 V/AutofillManager(11389): requestHideFillUi(null): anchor = null
-11-29 02:33:42.563 D/ViewRootImpl(11389): Skipping stats log for color mode
-11-29 02:33:42.564 W/WindowOnBackDispatcher(11389): OnBackInvokedCallback is not enabled for the application.
-11-29 02:33:42.564 W/WindowOnBackDispatcher(11389): Set 'android:enableOnBackInvokedCallback="true"' in the application manifest.
-11-29 02:33:42.564 V/AutofillClientController(11389): onActivityResumed()
-11-29 02:33:42.564 V/AutofillClientController(11389): onActivityResumed(): Relayout fix not enabled
-11-29 02:33:42.565 V/AutofillClientController(11389): onActivityPostResumed()
-11-29 02:33:42.604 D/ImeBackDispatcher(11389): switch root view (mImeCallbacks.size=0)
-11-29 02:33:42.608 D/InsetsController(11389): hide(ime())
-11-29 02:33:42.608 I/ImeTracker(11389): com.microsoft.rdc.androidx:97ccbfd4: onCancelled at PHASE_CLIENT_ALREADY_HIDDEN
-11-29 02:33:43.066 D/VRI[TroubleshootingActivity](11389): visibilityChanged oldVisibility=true newVisibility=false
-11-29 02:33:43.081 D/HWUI    (11389): endAllActiveAnimators on 0xb40000716167a5a0 (RippleDrawable) with handle 0xb4000070316743f0
-11-29 02:33:43.101 D/WindowOnBackDispatcher(11389): setTopOnBackInvokedCallback (unwrapped): null
-11-29 02:33:43.104 D/ViewRootImpl(11389): Skipping stats log for color mode
-11-29 02:33:46.783 V/AutofillManager(11389): requestHideFillUi(null): anchor = null
-11-29 02:33:48.504 V/AutofillManager(11389): requestHideFillUi(null): anchor = null
-11-29 02:33:53.628 V/AutofillManager(11389): requestHideFillUi(null): anchor = null
-11-29 02:33:54.081 D/ImeBackDispatcher(11389): Clear (mImeCallbacks.size=0)
-11-29 02:33:54.081 D/ImeBackDispatcher(11389): switch root view (mImeCallbacks.size=0)
-11-29 02:33:54.321 D/VRI[HomeActivity](11389): visibilityChanged oldVisibility=true newVisibility=false
-11-29 02:33:54.329 D/HWUI    (11389): endAllActiveAnimators on 0xb4000071615b0600 (UnprojectedRipple) with handle 0xb40000703162ab30
-11-29 02:33:54.347 I/AutofillManager(11389): onInvisibleForAutofill(): expiringResponse
-11-29 02:33:54.347 V/AutofillManager(11389): updateSessionLocked(): id=null, bounds=null, value=null, action=5, flags=0
-11-29 02:57:15.948 D/PackageUtils_v1.7.1(11389): Package com.microsoft.office.officehubrow is signed with b9:25:13:6f:3e:a7:c0:a1:95:16:90:a1:ab:31:39:10:da:81:f4:09:94:a8:53:42:ec:62:28:88:f1:28:70:51
+01-28 12:11:53.570 I/ImeTracker( 7439): com.microsoft.rdc.androidx:7cc0831a: onShown
+01-28 12:11:54.114 V/AutofillManager( 7439): notifyNoFillUi(): sessionFinishedState=2
+01-28 12:11:54.114 V/AutofillManager( 7439): notifyCallback(): sessionId=656205175, autofillId=1073741825:i538@656205175, event=3
+01-28 12:11:54.114 V/AutofillManager( 7439): setSessionFinished(): from ACTIVE to FINISHED; autofillableIds=null
+01-28 12:11:56.815 V/AutofillManager( 7439): requestHideFillUi(null): anchor = null
+01-28 12:11:58.259 V/AutofillManager( 7439): requestHideFillUi(null): anchor = null
+01-28 12:11:58.363 W/WindowOnBackDispatcher( 7439): OnBackInvokedCallback is not enabled for the application.
+01-28 12:11:58.363 W/WindowOnBackDispatcher( 7439): Set 'android:enableOnBackInvokedCallback="true"' in the application manifest.
+01-28 12:11:58.437 W/ft.rdc.androidx( 7439): Missing inline cache for java.lang.Object androidx.compose.foundation.q.invoke(java.lang.Object)
+01-28 12:11:59.361 V/AutofillManager( 7439): requestHideFillUi(null): anchor = null
+01-28 12:11:59.608 V/AutofillManager( 7439): requestHideFillUi(null): anchor = null
+01-28 12:12:00.586 V/AutofillManager( 7439): requestHideFillUi(null): anchor = null
+01-28 12:12:01.932 D/InsetsController( 7439): Setting requestedVisibleTypes to -9 (was -1)
+01-28 12:12:01.934 D/ImeBackDispatcher( 7439): Preliminary clear (mImeCallbacks.size=1)
+01-28 12:12:01.934 D/WindowOnBackDispatcher( 7439): setTopOnBackInvokedCallback (unwrapped): android.view.ViewRootImpl$$ExternalSyntheticLambda12@228d2a5
+01-28 12:12:02.266 D/ImeBackDispatcher( 7439): Unregister received callback id=196490309
+01-28 12:12:02.273 I/ImeTracker( 7439): system_server:cb92427: onCancelled at PHASE_CLIENT_ON_CONTROLS_CHANGED
+01-28 12:12:02.991 V/AutofillManager( 7439): requestHideFillUi(null): anchor = null
+01-28 12:12:03.368 V/AutofillManager( 7439): notifyViewExited(1073741825, 538
+01-28 12:12:03.377 D/InsetsController( 7439): hide(ime())
+01-28 12:12:03.378 I/ImeTracker( 7439): com.microsoft.rdc.androidx:aa93de10: onRequestHide at ORIGIN_CLIENT reason HIDE_SOFT_INPUT_BY_INSETS_API fromUser false
+01-28 12:12:03.378 I/ImeTracker( 7439): com.microsoft.rdc.androidx:aa93de10: onCancelled at PHASE_CLIENT_ALREADY_HIDDEN
+01-28 12:12:08.698 V/AutofillManager( 7439): requestHideFillUi(null): anchor = null
+01-28 12:12:12.565 V/AutofillManager( 7439): requestHideFillUi(null): anchor = null
+01-28 12:12:12.619 V/AutofillManager( 7439): startSessionLocked(): id=1073741825:i650, bounds=Rect(82, 520 - 1161, 650), value=null, flags=0, state=FINISHED, compatMode=false, augmentedOnly=false, enabledAugmentedOnly=false, enteredIds={1073741825:i424, 1073741825:i538}
+01-28 12:12:12.688 I/AssistStructure( 7439): Flattened final assist data: 792 bytes, containing 1 windows, 5 views
+01-28 12:12:13.806 V/AutofillManager( 7439): requestHideFillUi(null): anchor = null
+01-28 12:12:15.911 V/AutofillManager( 7439): requestHideFillUi(null): anchor = null
+01-28 12:12:16.633 V/AutofillManager( 7439): requestHideFillUi(null): anchor = null
+01-28 12:12:17.518 V/AutofillManager( 7439): requestHideFillUi(null): anchor = null
+01-28 12:12:18.563 V/AutofillManager( 7439): requestHideFillUi(null): anchor = null
+01-28 12:12:18.722 V/AutofillManager( 7439): visibility changed for 1073741825:i717: true
+01-28 12:12:18.722 V/AutofillManager( 7439): Ignoring visibility change on 1073741825:i717: no tracked views
+01-28 12:12:18.732 V/AutofillManager( 7439): notifyViewExited(1073741825, 650
+01-28 12:12:18.732 V/AutofillManager( 7439): updateSessionLocked(): id=1073741825:i650, bounds=null, value=null, action=3, flags=0
+01-28 12:12:18.732 V/AutofillManager( 7439): updateSessionLocked(): id=1073741825:i717, bounds=Rect(122, 200 - 1222, 343), value=null, action=2, flags=0
+01-28 12:12:18.741 D/InsetsController( 7439): show(ime())
+01-28 12:12:18.741 I/ImeTracker( 7439): com.microsoft.rdc.androidx:11f87ebe: onRequestShow at ORIGIN_CLIENT reason SHOW_SOFT_INPUT_BY_INSETS_API fromUser false
+01-28 12:12:18.741 D/ImeBackDispatcher( 7439): Undo preliminary clear (mImeCallbacks.size=0)
+01-28 12:12:18.741 D/InsetsController( 7439): Setting requestedVisibleTypes to -1 (was -9)
+01-28 12:12:18.752 I/AssistStructure( 7439): Flattened final assist data: 1000 bytes, containing 1 windows, 6 views
+01-28 12:12:18.756 I/ImeTracker( 7439): com.microsoft.rdc.androidx:afefc113: onRequestShow at ORIGIN_CLIENT reason SHOW_SOFT_INPUT fromUser false
+01-28 12:12:18.756 D/InsetsController( 7439): show(ime())
+01-28 12:12:18.756 I/ImeTracker( 7439): com.microsoft.rdc.androidx:afefc113: onCancelled at PHASE_CLIENT_REPORT_REQUESTED_VISIBLE_TYPES
+01-28 12:12:18.791 D/ImeBackDispatcher( 7439): Register received callback id=196490309 priority=0
+01-28 12:12:18.791 D/WindowOnBackDispatcher( 7439): setTopOnBackInvokedCallback (unwrapped): android.view.ImeBackAnimationController@65e0251
+01-28 12:12:18.965 V/AutofillManager( 7439): notifyViewExited(1073741825, 717
+01-28 12:12:18.965 V/AutofillManager( 7439): updateSessionLocked(): id=1073741825:i717, bounds=null, value=null, action=3, flags=0
+01-28 12:12:18.971 D/InsetsController( 7439): hide(ime())
+01-28 12:12:18.972 I/ImeTracker( 7439): com.microsoft.rdc.androidx:8e602d7a: onRequestHide at ORIGIN_CLIENT reason HIDE_SOFT_INPUT_BY_INSETS_API fromUser false
+01-28 12:12:18.972 D/ImeBackDispatcher( 7439): Preliminary clear (mImeCallbacks.size=1)
+01-28 12:12:18.972 D/WindowOnBackDispatcher( 7439): setTopOnBackInvokedCallback (unwrapped): android.view.ViewRootImpl$$ExternalSyntheticLambda12@228d2a5
+01-28 12:12:18.972 D/InsetsController( 7439): Setting requestedVisibleTypes to -9 (was -1)
+01-28 12:12:18.972 I/ImeTracker( 7439): com.microsoft.rdc.androidx:11f87ebe: onCancelled at PHASE_CLIENT_ANIMATION_CANCEL
+01-28 12:12:19.298 D/ImeBackDispatcher( 7439): Unregister received callback id=196490309
+01-28 12:12:19.300 I/ImeTracker( 7439): system_server:96bb8b41: onCancelled at PHASE_CLIENT_ON_CONTROLS_CHANGED
+01-28 12:12:19.448 V/AutofillManager( 7439): visibility changed for 1073741825:i650: false
+01-28 12:12:19.449 V/AutofillManager( 7439): Ignoring visibility change on 1073741825:i650: no tracked views
+01-28 12:12:20.287 V/AutofillManager( 7439): requestHideFillUi(null): anchor = null
+01-28 12:12:20.380 V/AutofillManager( 7439): visibility changed for 1073741825:i717: false
+01-28 12:12:20.380 V/AutofillManager( 7439): Ignoring visibility change on 1073741825:i717: no tracked views
+01-28 12:12:20.409 D/HWUI    ( 7439): --- Failed to create image decoder with message 'unimplemented'
+01-28 12:12:20.410 D/HWUI    ( 7439): --- Failed to create image decoder with message 'unimplemented'
+01-28 12:12:20.410 D/HWUI    ( 7439): --- Failed to create image decoder with message 'unimplemented'
+01-28 12:12:22.963 V/AutofillManager( 7439): requestHideFillUi(null): anchor = null
+01-28 12:12:24.150 V/AutofillManager( 7439): requestHideFillUi(null): anchor = null
+01-28 12:12:27.625 V/AutofillManager( 7439): requestHideFillUi(null): anchor = null
+01-28 12:12:28.154 V/AutofillManager( 7439): requestHideFillUi(null): anchor = null
+01-28 12:12:28.290 V/AutofillManager( 7439): visibility changed for 1073741825:i861: true
+01-28 12:12:28.290 V/AutofillManager( 7439): Ignoring visibility change on 1073741825:i861: no tracked views
+01-28 12:12:28.302 V/AutofillManager( 7439): updateSessionLocked(): id=1073741825:i861, bounds=Rect(122, 200 - 1222, 343), value=null, action=2, flags=0
+01-28 12:12:28.309 D/InsetsController( 7439): show(ime())
+01-28 12:12:28.311 I/ImeTracker( 7439): com.microsoft.rdc.androidx:bbe0b7e7: onRequestShow at ORIGIN_CLIENT reason SHOW_SOFT_INPUT_BY_INSETS_API fromUser false
+01-28 12:12:28.311 D/ImeBackDispatcher( 7439): Undo preliminary clear (mImeCallbacks.size=0)
+01-28 12:12:28.311 D/InsetsController( 7439): Setting requestedVisibleTypes to -1 (was -9)
+01-28 12:12:28.325 I/ImeTracker( 7439): com.microsoft.rdc.androidx:a20f5006: onRequestShow at ORIGIN_CLIENT reason SHOW_SOFT_INPUT fromUser false
+01-28 12:12:28.325 D/InsetsController( 7439): show(ime())
+01-28 12:12:28.325 I/ImeTracker( 7439): com.microsoft.rdc.androidx:a20f5006: onCancelled at PHASE_CLIENT_REPORT_REQUESTED_VISIBLE_TYPES
+01-28 12:12:28.393 D/ImeBackDispatcher( 7439): Register received callback id=196490309 priority=0
+01-28 12:12:28.393 D/WindowOnBackDispatcher( 7439): setTopOnBackInvokedCallback (unwrapped): android.view.ImeBackAnimationController@65e0251
+01-28 12:12:28.536 V/AutofillManager( 7439): notifyViewExited(1073741825, 861
+01-28 12:12:28.537 V/AutofillManager( 7439): updateSessionLocked(): id=1073741825:i861, bounds=null, value=null, action=3, flags=0
+01-28 12:12:28.542 D/InsetsController( 7439): hide(ime())
+01-28 12:12:28.543 I/ImeTracker( 7439): com.microsoft.rdc.androidx:7b45f4ca: onRequestHide at ORIGIN_CLIENT reason HIDE_SOFT_INPUT_BY_INSETS_API fromUser false
+01-28 12:12:28.543 D/ImeBackDispatcher( 7439): Preliminary clear (mImeCallbacks.size=1)
+01-28 12:12:28.543 D/WindowOnBackDispatcher( 7439): setTopOnBackInvokedCallback (unwrapped): android.view.ViewRootImpl$$ExternalSyntheticLambda12@228d2a5
+01-28 12:12:28.543 D/InsetsController( 7439): Setting requestedVisibleTypes to -9 (was -1)
+01-28 12:12:28.543 I/ImeTracker( 7439): com.microsoft.rdc.androidx:bbe0b7e7: onCancelled at PHASE_CLIENT_ANIMATION_CANCEL
+01-28 12:12:28.860 I/ImeTracker( 7439): system_server:f0e12650: onCancelled at PHASE_CLIENT_ON_CONTROLS_CHANGED
+01-28 12:12:28.867 D/ImeBackDispatcher( 7439): Unregister received callback id=196490309
+01-28 12:12:30.863 V/AutofillManager( 7439): requestHideFillUi(null): anchor = null
+01-28 12:12:31.024 V/AutofillClientController( 7439): onActivityResumed()
+01-28 12:12:31.024 D/AutofillManager( 7439): Fill dialog is enabled:false, hints=[]
+01-28 12:12:31.024 V/AutofillClientController( 7439): onActivityResumed(): Relayout fix not enabled
+01-28 12:12:31.024 V/AutofillClientController( 7439): onActivityPostResumed()
+01-28 12:12:31.028 D/WindowOnBackDispatcher( 7439): setTopOnBackInvokedCallback (unwrapped): android.view.ViewRootImpl$$ExternalSyntheticLambda12@42ba7bb
+01-28 12:12:31.038 V/AutofillManager( 7439): notifyValueChanged(1073741824): ignoring on state UNKNOWN
+01-28 12:12:31.038 V/AutofillManager( 7439): notifyValueChanged(1073741825): ignoring on state UNKNOWN
+01-28 12:12:31.093 D/ImeBackDispatcher( 7439): switch root view (mImeCallbacks.size=0)
+01-28 12:12:31.095 D/InsetsController( 7439): hide(ime())
+01-28 12:12:31.095 I/ImeTracker( 7439): com.microsoft.rdc.androidx:5069c049: onCancelled at PHASE_CLIENT_ALREADY_HIDDEN
+01-28 12:12:31.580 D/VRI[HomeActivity]( 7439): visibilityChanged oldVisibility=true newVisibility=false
+01-28 12:12:31.594 D/HWUI    ( 7439): endAllActiveAnimators on 0x72eadc7470 (UnprojectedRipple) with handle 0x719ad3baf0
+01-28 12:12:31.594 D/HWUI    ( 7439): endAllActiveAnimators on 0x72eae195b0 (UnprojectedRipple) with handle 0x719ad61f50
+01-28 12:12:31.600 I/AutofillManager( 7439): onInvisibleForAutofill(): expiringResponse
+01-28 12:12:31.600 V/AutofillManager( 7439): updateSessionLocked(): id=null, bounds=null, value=null, action=5, flags=0
+01-28 12:12:32.906 V/AutofillManager( 7439): requestHideFillUi(null): anchor = null
+01-28 12:12:33.034 D/WindowOnBackDispatcher( 7439): setTopOnBackInvokedCallback (unwrapped): android.view.ViewRootImpl$$ExternalSyntheticLambda12@7f0ce96
+01-28 12:12:34.431 V/AutofillManager( 7439): requestHideFillUi(null): anchor = null
+01-28 12:12:34.465 D/ImeBackDispatcher( 7439): switch root view (mImeCallbacks.size=0)
+01-28 12:12:34.468 D/InsetsController( 7439): hide(ime())
+01-28 12:12:34.468 I/ImeTracker( 7439): com.microsoft.rdc.androidx:dfc99533: onCancelled at PHASE_CLIENT_ALREADY_HIDDEN
+01-28 12:12:34.747 D/WindowOnBackDispatcher( 7439): setTopOnBackInvokedCallback (unwrapped): null
+01-28 12:12:36.464 V/AutofillManager( 7439): requestHideFillUi(null): anchor = null
+01-28 12:12:36.610 D/WindowOnBackDispatcher( 7439): setTopOnBackInvokedCallback (unwrapped): android.view.ViewRootImpl$$ExternalSyntheticLambda12@4a6b1d7
+01-28 12:12:38.350 V/AutofillManager( 7439): requestHideFillUi(null): anchor = null
+01-28 12:12:38.404 D/ImeBackDispatcher( 7439): switch root view (mImeCallbacks.size=0)
+01-28 12:12:38.413 D/InsetsController( 7439): hide(ime())
+01-28 12:12:38.413 I/ImeTracker( 7439): com.microsoft.rdc.androidx:754842fc: onCancelled at PHASE_CLIENT_ALREADY_HIDDEN
+01-28 12:12:38.668 D/WindowOnBackDispatcher( 7439): setTopOnBackInvokedCallback (unwrapped): null
+01-28 12:12:39.060 V/AutofillManager( 7439): requestHideFillUi(null): anchor = null
+01-28 12:12:39.196 D/WindowOnBackDispatcher( 7439): setTopOnBackInvokedCallback (unwrapped): android.view.ViewRootImpl$$ExternalSyntheticLambda12@7f5c5e9
+01-28 12:12:39.880 V/AutofillManager( 7439): requestHideFillUi(null): anchor = null
+01-28 12:12:40.035 V/AutofillManager( 7439): notifyValueChanged(1073741825): ignoring on state UNKNOWN
+01-28 12:12:40.064 D/ImeBackDispatcher( 7439): switch root view (mImeCallbacks.size=0)
+01-28 12:12:40.075 D/InsetsController( 7439): hide(ime())
+01-28 12:12:40.076 I/ImeTracker( 7439): com.microsoft.rdc.androidx:24ed572d: onCancelled at PHASE_CLIENT_ALREADY_HIDDEN
+01-28 12:12:40.346 D/WindowOnBackDispatcher( 7439): setTopOnBackInvokedCallback (unwrapped): null
+01-28 12:12:40.352 D/HWUI    ( 7439): endAllActiveAnimators on 0x72ead9a9e0 (DropDownListView) with handle 0x719ad76710
+01-28 12:12:40.617 V/AutofillManager( 7439): requestHideFillUi(null): anchor = null
+01-28 12:12:40.728 D/WindowOnBackDispatcher( 7439): setTopOnBackInvokedCallback (unwrapped): android.view.ViewRootImpl$$ExternalSyntheticLambda12@a8bd8c1
+01-28 12:12:41.218 V/AutofillManager( 7439): requestHideFillUi(null): anchor = null
+01-28 12:12:41.372 V/AutofillManager( 7439): notifyValueChanged(1073741825): ignoring on state UNKNOWN
+01-28 12:12:41.401 D/ImeBackDispatcher( 7439): switch root view (mImeCallbacks.size=0)
+01-28 12:12:41.406 D/InsetsController( 7439): hide(ime())
+01-28 12:12:41.406 I/ImeTracker( 7439): com.microsoft.rdc.androidx:b99c5865: onCancelled at PHASE_CLIENT_ALREADY_HIDDEN
+01-28 12:12:41.683 D/WindowOnBackDispatcher( 7439): setTopOnBackInvokedCallback (unwrapped): null
+01-28 12:12:41.688 D/HWUI    ( 7439): endAllActiveAnimators on 0x72ead8dbe0 (DropDownListView) with handle 0x719ad79290
+01-28 12:12:42.690 V/AutofillManager( 7439): requestHideFillUi(null): anchor = null
+01-28 12:12:42.834 D/WindowOnBackDispatcher( 7439): setTopOnBackInvokedCallback (unwrapped): android.view.ViewRootImpl$$ExternalSyntheticLambda12@1ebdd69
+01-28 12:12:44.474 V/AutofillManager( 7439): requestHideFillUi(null): anchor = null
+01-28 12:12:44.991 V/AutofillManager( 7439): requestHideFillUi(null): anchor = null
+01-28 12:12:45.082 D/WindowOnBackDispatcher( 7439): setTopOnBackInvokedCallback (unwrapped): null
+01-28 12:12:45.086 D/HWUI    ( 7439): endAllActiveAnimators on 0x72ead67ec0 (RippleDrawable) with handle 0x719ad77880
+01-28 12:12:45.119 D/ImeBackDispatcher( 7439): switch root view (mImeCallbacks.size=0)
+01-28 12:12:45.124 D/InsetsController( 7439): hide(ime())
+01-28 12:12:45.124 I/ImeTracker( 7439): com.microsoft.rdc.androidx:83bdd8a5: onCancelled at PHASE_CLIENT_ALREADY_HIDDEN
+01-28 12:12:45.643 V/AutofillManager( 7439): requestHideFillUi(null): anchor = null
+01-28 12:12:45.740 W/WindowOnBackDispatcher( 7439): OnBackInvokedCallback is not enabled for the application.
+01-28 12:12:45.740 W/WindowOnBackDispatcher( 7439): Set 'android:enableOnBackInvokedCallback="true"' in the application manifest.
+01-28 12:12:45.767 D/WindowOnBackDispatcher( 7439): setTopOnBackInvokedCallback (unwrapped): android.view.ViewRootImpl$$ExternalSyntheticLambda12@15fc0e5
+01-28 12:12:52.560 V/AutofillManager( 7439): requestHideFillUi(null): anchor = null
+01-28 12:12:52.702 I/WebViewFactory( 7439): Loading com.google.android.webview version 143.0.7499.192 (code 749919233)
+01-28 12:12:52.702 W/ResourcesManager( 7439): Found a null ResourcesImpl, skipped.
+01-28 12:12:52.708 V/ResourcesManager( 7439): The following library key has been added: ResourcesKey{ mHash=c1b5512a mResDir=null mSplitDirs=[] mOverlayDirs=[] mLibDirs=[/data/app/~~3Kpfmlh65i7ZDNkMEhKm2w==/com.google.android.webview-sKxmFdcwUqbDDwEeG1Nf2w==/base.apk,/data/app/~~t7miwCnxGONjZgnciPVQrg==/com.google.android.trichromelibrary_749919233-14ELYgiJ01_UUb66gca1qA==/base.apk,/system_ext/framework/androidx.window.extensions.jar] mDisplayId=0 mOverrideConfig=v36 mCompatInfo={480dpi always-compat} mLoaders=[]}
+01-28 12:12:52.710 W/ft.rdc.androidx( 7439): Failed to find entry 'classes.dex': Entry not found
+01-28 12:12:52.713 D/nativeloader( 7439): Configuring clns-10 for other apk /data/app/~~t7miwCnxGONjZgnciPVQrg==/com.google.android.trichromelibrary_749919233-14ELYgiJ01_UUb66gca1qA==/base.apk. target_sdk_version=36, uses_libraries=ALL, library_path=/data/app/~~3Kpfmlh65i7ZDNkMEhKm2w==/com.google.android.webview-sKxmFdcwUqbDDwEeG1Nf2w==/lib/arm64:/data/app/~~3Kpfmlh65i7ZDNkMEhKm2w==/com.google.android.webview-sKxmFdcwUqbDDwEeG1Nf2w==/base.apk!/lib/arm64-v8a:/data/app/~~t7miwCnxGONjZgnciPVQrg==/com.google.android.trichromelibrary_749919233-14ELYgiJ01_UUb66gca1qA==/base.apk!/lib/arm64-v8a, permitted_path=/data:/mnt/expand
+01-28 12:12:52.714 D/ApplicationLoaders( 7439): Returning zygote-cached class loader: /system_ext/framework/androidx.window.extensions.jar
+01-28 12:12:52.733 I/ft.rdc.androidx( 7439): Failed to add image file: Dex cache count and dex file count mismatch while trying to initialize from image
+01-28 12:12:52.737 D/nativeloader( 7439): Configuring clns-11 for other apk /data/app/~~3Kpfmlh65i7ZDNkMEhKm2w==/com.google.android.webview-sKxmFdcwUqbDDwEeG1Nf2w==/base.apk. target_sdk_version=36, uses_libraries=, library_path=/data/app/~~3Kpfmlh65i7ZDNkMEhKm2w==/com.google.android.webview-sKxmFdcwUqbDDwEeG1Nf2w==/lib/arm64:/data/app/~~3Kpfmlh65i7ZDNkMEhKm2w==/com.google.android.webview-sKxmFdcwUqbDDwEeG1Nf2w==/base.apk!/lib/arm64-v8a:/data/app/~~t7miwCnxGONjZgnciPVQrg==/com.google.android.trichromelibrary_749919233-14ELYgiJ01_UUb66gca1qA==/base.apk!/lib/arm64-v8a, permitted_path=/data:/mnt/expand
+01-28 12:12:52.765 I/cr_WVCFactoryProvider( 7439): version=143.0.7499.192 (749919233) minSdkVersion=29 multiprocess=true packageId=2 splits=<none>
+01-28 12:12:52.770 D/nativeloader( 7439): Load /data/app/~~t7miwCnxGONjZgnciPVQrg==/com.google.android.trichromelibrary_749919233-14ELYgiJ01_UUb66gca1qA==/base.apk!/lib/arm64-v8a/libmonochrome_64.so using class loader ns clns-11 (caller=/data/app/~~3Kpfmlh65i7ZDNkMEhKm2w==/com.google.android.webview-sKxmFdcwUqbDDwEeG1Nf2w==/base.apk): ok
+01-28 12:12:52.772 D/nativeloader( 7439): Load /system/lib64/libwebviewchromium_plat_support.so using class loader ns clns-11 (caller=/data/app/~~3Kpfmlh65i7ZDNkMEhKm2w==/com.google.android.webview-sKxmFdcwUqbDDwEeG1Nf2w==/base.apk): ok
+01-28 12:12:52.778 I/chromium( 7439): [0128/121252.777810:INFO:android_webview/browser/variations/variations_seed_loader.cc:67] Failed to open file for reading.: No such file or directory (2)
+01-28 12:12:52.779 I/cr_LibraryLoader( 7439): Successfully loaded native library
+01-28 12:12:52.780 I/cr_CachingUmaRecorder( 7439): Flushed 18 samples from 18 histograms, 0 samples were dropped.
+01-28 12:12:52.824 D/WindowOnBackDispatcher( 7439): setTopOnBackInvokedCallback (unwrapped): null
+01-28 12:12:52.828 D/HWUI    ( 7439): endAllActiveAnimators on 0x72ead6bf20 (RippleDrawable) with handle 0x719ad61fe0
+01-28 12:12:52.835 W/WindowOnBackDispatcher( 7439): OnBackInvokedCallback is not enabled for the application.
+01-28 12:12:52.835 W/WindowOnBackDispatcher( 7439): Set 'android:enableOnBackInvokedCallback="true"' in the application manifest.
+01-28 12:12:52.861 D/ImeBackDispatcher( 7439): switch root view (mImeCallbacks.size=0)
+01-28 12:12:52.867 D/InsetsController( 7439): hide(ime())
+01-28 12:12:52.867 I/ImeTracker( 7439): com.microsoft.rdc.androidx:392f5301: onCancelled at PHASE_CLIENT_ALREADY_HIDDEN
+01-28 12:12:54.932 V/AutofillManager( 7439): requestHideFillUi(null): anchor = null
+01-28 12:12:55.044 E/ft.rdc.androidx( 7439): Invalid resource ID 0x00000000.
+01-28 12:12:55.064 D/WindowOnBackDispatcher( 7439): setTopOnBackInvokedCallback (unwrapped): android.view.ViewRootImpl$$ExternalSyntheticLambda12@ada51da
+01-28 12:12:56.052 V/AutofillManager( 7439): requestHideFillUi(null): anchor = null
+01-28 12:12:56.180 D/WindowOnBackDispatcher( 7439): setTopOnBackInvokedCallback (unwrapped): null
+01-28 12:12:56.184 D/HWUI    ( 7439): endAllActiveAnimators on 0x72eae68370 (RippleDrawable) with handle 0x719ad38af0
+01-28 12:12:56.214 D/ImeBackDispatcher( 7439): switch root view (mImeCallbacks.size=0)
+01-28 12:12:56.229 D/InsetsController( 7439): hide(ime())
+01-28 12:12:56.229 I/ImeTracker( 7439): com.microsoft.rdc.androidx:b449b3ce: onCancelled at PHASE_CLIENT_ALREADY_HIDDEN
+01-28 12:12:58.215 V/AutofillManager( 7439): requestHideFillUi(null): anchor = null
+01-28 12:13:04.560 V/AutofillManager( 7439): requestHideFillUi(null): anchor = null
+01-28 12:13:04.741 D/WindowOnBackDispatcher( 7439): setTopOnBackInvokedCallback (unwrapped): android.view.ViewRootImpl$$ExternalSyntheticLambda12@9e7adf4
+01-28 12:13:05.191 V/AutofillManager( 7439): requestHideFillUi(null): anchor = null
+01-28 12:13:05.321 V/AutofillManager( 7439): notifyValueChanged(1073741824): ignoring on state UNKNOWN
+01-28 12:13:05.343 D/ImeBackDispatcher( 7439): switch root view (mImeCallbacks.size=0)
+01-28 12:13:05.352 D/InsetsController( 7439): hide(ime())
+01-28 12:13:05.352 I/ImeTracker( 7439): com.microsoft.rdc.androidx:642e7fb4: onCancelled at PHASE_CLIENT_ALREADY_HIDDEN
+01-28 12:13:05.631 D/WindowOnBackDispatcher( 7439): setTopOnBackInvokedCallback (unwrapped): null
+01-28 12:13:05.638 D/HWUI    ( 7439): endAllActiveAnimators on 0x72eae757e0 (DropDownListView) with handle 0x719ad64a70
+01-28 12:13:07.568 V/AutofillManager( 7439): requestHideFillUi(null): anchor = null
+01-28 12:13:07.728 D/WindowOnBackDispatcher( 7439): setTopOnBackInvokedCallback (unwrapped): android.view.ViewRootImpl$$ExternalSyntheticLambda12@336a15f
+01-28 12:13:08.717 V/AutofillManager( 7439): requestHideFillUi(null): anchor = null
+01-28 12:13:08.772 D/ImeBackDispatcher( 7439): switch root view (mImeCallbacks.size=0)
+01-28 12:13:08.800 D/InsetsController( 7439): hide(ime())
+01-28 12:13:08.801 I/ImeTracker( 7439): com.microsoft.rdc.androidx:cbcf17cf: onCancelled at PHASE_CLIENT_ALREADY_HIDDEN
+01-28 12:13:09.037 D/WindowOnBackDispatcher( 7439): setTopOnBackInvokedCallback (unwrapped): null
+01-28 12:13:10.072 V/AutofillManager( 7439): requestHideFillUi(null): anchor = null
+01-28 12:13:10.404 D/ImeBackDispatcher( 7439): Clear (mImeCallbacks.size=0)
+01-28 12:13:10.404 D/ImeBackDispatcher( 7439): switch root view (mImeCallbacks.size=0)
+01-28 12:13:10.791 D/VRI[TroubleshootingActivity]( 7439): visibilityChanged oldVisibility=true newVisibility=false
+01-28 12:13:10.812 D/HWUI    ( 7439): endAllActiveAnimators on 0x72ead9d080 (LayerDrawable) with handle 0x719ad4f020
+01-28 12:13:11.102 W/System  ( 7439): A resource failed to call release. 
+01-28 12:13:11.102 W/System  ( 7439): A resource failed to call release. 
+01-28 12:13:34.605 V/AutofillClientController( 7439): onActivityResumed()
+01-28 12:13:34.605 V/AutofillClientController( 7439): onActivityResumed(): Relayout fix not enabled
+01-28 12:13:34.606 V/AutofillClientController( 7439): onActivityPostResumed()
+01-28 12:13:34.674 D/ImeBackDispatcher( 7439): switch root view (mImeCallbacks.size=0)
+01-28 12:13:34.682 D/InsetsController( 7439): hide(ime())
+01-28 12:13:34.682 I/ImeTracker( 7439): com.microsoft.rdc.androidx:5872f3b3: onCancelled at PHASE_CLIENT_ALREADY_HIDDEN
+01-28 12:13:37.534 V/AutofillManager( 7439): requestHideFillUi(null): anchor = null
+01-28 12:13:37.697 D/ViewRootImpl( 7439): Skipping stats log for color mode
+01-28 12:13:37.699 W/WindowOnBackDispatcher( 7439): OnBackInvokedCallback is not enabled for the application.
+01-28 12:13:37.699 W/WindowOnBackDispatcher( 7439): Set 'android:enableOnBackInvokedCallback="true"' in the application manifest.
+01-28 12:13:37.699 V/AutofillClientController( 7439): onActivityResumed()
+01-28 12:13:37.699 V/AutofillClientController( 7439): onActivityResumed(): Relayout fix not enabled
+01-28 12:13:37.700 V/AutofillClientController( 7439): onActivityPostResumed()
+01-28 12:13:37.737 D/ImeBackDispatcher( 7439): switch root view (mImeCallbacks.size=0)
+01-28 12:13:37.741 D/InsetsController( 7439): hide(ime())
+01-28 12:13:37.741 I/ImeTracker( 7439): com.microsoft.rdc.androidx:a9fe9b41: onCancelled at PHASE_CLIENT_ALREADY_HIDDEN
+01-28 12:13:38.220 D/WindowOnBackDispatcher( 7439): setTopOnBackInvokedCallback (unwrapped): null
+01-28 12:13:38.227 D/HWUI    ( 7439): endAllActiveAnimators on 0x72eada3df0 (RippleDrawable) with handle 0x719ad63480
+01-28 12:13:38.228 D/ViewRootImpl( 7439): Skipping stats log for color mode
+01-28 12:13:41.102 V/AutofillManager( 7439): requestHideFillUi(null): anchor = null
+01-28 12:13:41.220 V/AutofillManager( 7439): visibility changed for 1073741825:i861: false
+01-28 12:13:41.221 V/AutofillManager( 7439): Ignoring visibility change on 1073741825:i861: no tracked views
+01-28 12:13:42.571 V/AutofillManager( 7439): requestHideFillUi(null): anchor = null
+01-28 12:13:42.723 W/WindowOnBackDispatcher( 7439): OnBackInvokedCallback is not enabled for the application.
+01-28 12:13:42.723 W/WindowOnBackDispatcher( 7439): Set 'android:enableOnBackInvokedCallback="true"' in the application manifest.
+01-28 12:13:42.745 D/WindowOnBackDispatcher( 7439): setTopOnBackInvokedCallback (unwrapped): android.view.ViewRootImpl$$ExternalSyntheticLambda12@66972e
+01-28 12:13:42.804 D/ImeBackDispatcher( 7439): switch root view (mImeCallbacks.size=0)
+01-28 12:13:42.808 D/InsetsController( 7439): hide(ime())
+01-28 12:13:42.808 I/ImeTracker( 7439): com.microsoft.rdc.androidx:27eb9050: onCancelled at PHASE_CLIENT_ALREADY_HIDDEN
+01-28 12:13:44.611 V/AutofillManager( 7439): requestHideFillUi(null): anchor = null
+01-28 12:13:45.712 V/AutofillManager( 7439): requestHideFillUi(null): anchor = null
+01-28 12:13:45.800 V/AutofillManager( 7439): updateSessionLocked(): id=1073741833:i961, bounds=Rect(82, 440 - 939, 570), value=null, action=2, flags=0
+01-28 12:13:46.831 V/AutofillManager( 7439): requestHideFillUi(null): anchor = null
+01-28 12:13:46.976 W/WindowOnBackDispatcher( 7439): OnBackInvokedCallback is not enabled for the application.
+01-28 12:13:46.976 W/WindowOnBackDispatcher( 7439): Set 'android:enableOnBackInvokedCallback="true"' in the application manifest.
+01-28 12:13:46.984 D/WindowOnBackDispatcher( 7439): setTopOnBackInvokedCallback (unwrapped): android.view.ViewRootImpl$$ExternalSyntheticLambda12@2e8c798
+01-28 12:13:47.038 D/ImeBackDispatcher( 7439): switch root view (mImeCallbacks.size=0)
+01-28 12:13:47.046 D/InsetsController( 7439): hide(ime())
+01-28 12:13:47.046 I/ImeTracker( 7439): com.microsoft.rdc.androidx:a7d68dda: onCancelled at PHASE_CLIENT_ALREADY_HIDDEN
+01-28 12:13:49.815 V/AutofillManager( 7439): requestHideFillUi(null): anchor = null
+01-28 12:13:50.006 V/AutofillManager( 7439): updateSessionLocked(): id=1073741833:i961, bounds=null, value=[type=1, value=20_chars], action=4, flags=0
+01-28 12:13:50.103 D/ImeBackDispatcher( 7439): Clear (mImeCallbacks.size=0)
+01-28 12:13:50.103 D/ImeBackDispatcher( 7439): switch root view (mImeCallbacks.size=0)
+01-28 12:13:50.103 D/WindowOnBackDispatcher( 7439): setTopOnBackInvokedCallback (unwrapped): null
+01-28 12:13:50.107 D/HWUI    ( 7439): endAllActiveAnimators on 0x72ead7c710 (UnprojectedRipple) with handle 0x719ad27540
+01-28 12:13:50.134 D/ImeBackDispatcher( 7439): switch root view (mImeCallbacks.size=0)
+01-28 12:13:50.148 D/InsetsController( 7439): hide(ime())
+01-28 12:13:50.148 I/ImeTracker( 7439): com.microsoft.rdc.androidx:a8664434: onCancelled at PHASE_CLIENT_ALREADY_HIDDEN
+01-28 12:13:52.024 V/AutofillManager( 7439): requestHideFillUi(null): anchor = null
+01-28 12:13:52.722 V/AutofillManager( 7439): requestHideFillUi(null): anchor = null
+01-28 12:13:52.889 V/AutofillManager( 7439): notifyViewExited(1073741833, 961
+01-28 12:13:52.889 V/AutofillManager( 7439): updateSessionLocked(): id=1073741833:i961, bounds=null, value=null, action=3, flags=0
+01-28 12:13:52.891 V/AutofillManager( 7439): updateSessionLocked(): id=1073741833:i948, bounds=Rect(82, 224 - 1040, 354), value=null, action=2, flags=0
+01-28 12:13:52.910 D/InsetsController( 7439): show(ime())
+01-28 12:13:52.911 I/ImeTracker( 7439): com.microsoft.rdc.androidx:8136858: onRequestShow at ORIGIN_CLIENT reason SHOW_SOFT_INPUT_BY_INSETS_API fromUser false
+01-28 12:13:52.911 D/ImeBackDispatcher( 7439): Undo preliminary clear (mImeCallbacks.size=0)
+01-28 12:13:52.911 D/InsetsController( 7439): Setting requestedVisibleTypes to -1 (was -9)
+01-28 12:13:52.920 I/ImeTracker( 7439): com.microsoft.rdc.androidx:91d64f21: onRequestShow at ORIGIN_CLIENT reason SHOW_SOFT_INPUT fromUser false
+01-28 12:13:52.921 D/InsetsController( 7439): show(ime())
+01-28 12:13:52.921 I/ImeTracker( 7439): com.microsoft.rdc.androidx:91d64f21: onCancelled at PHASE_CLIENT_REPORT_REQUESTED_VISIBLE_TYPES
+01-28 12:13:52.954 D/ImeBackDispatcher( 7439): Register received callback id=196490309 priority=0
+01-28 12:13:52.954 D/WindowOnBackDispatcher( 7439): setTopOnBackInvokedCallback (unwrapped): android.view.ImeBackAnimationController@1de84db
+01-28 12:13:53.290 I/ImeTracker( 7439): com.microsoft.rdc.androidx:8136858: onShown
+01-28 12:13:59.277 V/AutofillManager( 7439): requestHideFillUi(null): anchor = null
+01-28 12:14:00.617 V/AutofillManager( 7439): requestHideFillUi(null): anchor = null
+01-28 12:14:00.761 D/InsetsController( 7439): show(ime())
+01-28 12:14:00.763 I/ImeTracker( 7439): com.microsoft.rdc.androidx:62426e6: onRequestShow at ORIGIN_CLIENT reason SHOW_SOFT_INPUT_BY_INSETS_API fromUser false
+01-28 12:14:00.763 I/ImeTracker( 7439): com.microsoft.rdc.androidx:62426e6: onCancelled at PHASE_CLIENT_APPLY_ANIMATION
+01-28 12:14:00.772 I/ImeTracker( 7439): com.microsoft.rdc.androidx:5ed29cd4: onRequestShow at ORIGIN_CLIENT reason SHOW_SOFT_INPUT fromUser false
+01-28 12:14:00.773 D/InsetsController( 7439): show(ime())
+01-28 12:14:00.773 I/ImeTracker( 7439): com.microsoft.rdc.androidx:5ed29cd4: onCancelled at PHASE_CLIENT_APPLY_ANIMATION
+01-28 12:14:02.357 I/ImeTracker( 7439): system_server:76265014: onCancelled at PHASE_CLIENT_ON_CONTROLS_CHANGED
+01-28 12:14:08.050 D/VRI[HomeActivity]( 7439): visibilityChanged oldVisibility=true newVisibility=false
+01-28 12:14:08.050 D/VRI[HomeActivity]( 7439): visibilityChanged oldVisibility=true newVisibility=false
+01-28 12:14:08.132 I/AutofillManager( 7439): onInvisibleForAutofill(): expiringResponse
+01-28 12:14:08.132 V/AutofillManager( 7439): updateSessionLocked(): id=null, bounds=null, value=null, action=5, flags=0
+01-28 12:14:08.135 D/ImeBackDispatcher( 7439): Clear (mImeCallbacks.size=1)
+01-28 12:14:08.135 D/WindowOnBackDispatcher( 7439): setTopOnBackInvokedCallback (unwrapped): android.view.ViewRootImpl$$ExternalSyntheticLambda12@66972e
+01-28 12:14:08.137 D/ImeBackDispatcher( 7439): switch root view (mImeCallbacks.size=0)
+01-28 12:14:19.973 D/VRI[HomeActivity]( 7439): visibilityChanged oldVisibility=false newVisibility=true
+01-28 12:14:20.026 D/ViewRootImpl( 7439): Skipping stats log for color mode
+01-28 12:14:20.027 W/WindowOnBackDispatcher( 7439): OnBackInvokedCallback is not enabled for the application.
+01-28 12:14:20.027 W/WindowOnBackDispatcher( 7439): Set 'android:enableOnBackInvokedCallback="true"' in the application manifest.
+01-28 12:14:20.031 V/AutofillClientController( 7439): onActivityResumed()
+01-28 12:14:20.031 V/AutofillClientController( 7439): onActivityResumed(): Relayout fix not enabled
+01-28 12:14:20.032 V/AutofillClientController( 7439): onActivityPostResumed()
+01-28 12:14:20.052 D/ImeBackDispatcher( 7439): switch root view (mImeCallbacks.size=0)
+01-28 12:14:20.053 D/ImeBackDispatcher( 7439): updateReceivingDispatcher (mQueuedReceive.size=1)
+01-28 12:14:20.053 D/ImeBackDispatcher( 7439): Unregister received callback id=196490309
+01-28 12:14:20.053 W/ImeBackDispatcher( 7439): Ime callback not found. Ignoring unregisterReceivedCallback. callbackId: 196490309 remaining callbacks: 0
+01-28 12:14:20.073 D/InsetsController( 7439): show(ime())
+01-28 12:14:20.073 I/ImeTracker( 7439): com.microsoft.rdc.androidx:e39051ee: onCancelled at PHASE_CLIENT_REPORT_REQUESTED_VISIBLE_TYPES
+01-28 12:14:20.101 D/ImeBackDispatcher( 7439): Register received callback id=196490309 priority=0
+01-28 12:14:20.102 D/WindowOnBackDispatcher( 7439): setTopOnBackInvokedCallback (unwrapped): android.view.ImeBackAnimationController@1de84db
+01-28 12:14:20.152 I/ImeTracker( 7439): system_server:711d6686: onShown
+01-28 12:14:21.699 V/AutofillManager( 7439): updateSessionLocked(): id=1073741833:i948, bounds=null, value=[type=1, value=1_chars], action=4, flags=128
+01-28 12:14:21.931 V/AutofillManager( 7439): updateSessionLocked(): id=1073741833:i948, bounds=null, value=[type=1, value=2_chars], action=4, flags=128
+01-28 12:14:22.383 V/AutofillManager( 7439): updateSessionLocked(): id=1073741833:i948, bounds=null, value=[type=1, value=3_chars], action=4, flags=128
+01-28 12:14:22.920 V/AutofillManager( 7439): updateSessionLocked(): id=1073741833:i948, bounds=null, value=[type=1, value=4_chars], action=4, flags=128
+01-28 12:14:23.255 V/AutofillManager( 7439): updateSessionLocked(): id=1073741833:i948, bounds=null, value=[type=1, value=5_chars], action=4, flags=128
+01-28 12:14:23.280 I/ft.rdc.androidx( 7439): Compiler allocated 4308KB to compile void com.microsoft.fluentui.tokenized.controls.TextFieldKt.a(java.lang.String, kotlin.jvm.functions.Function1, androidx.compose.ui.Modifier, boolean, boolean, java.lang.String, java.lang.String, java.lang.String, java.lang.String, androidx.compose.ui.graphics.vector.ImageVector, androidx.compose.ui.graphics.vector.ImageVector, java.lang.String, com.microsoft.fluentui.theme.token.FluentIcon, androidx.compose.foundation.text.KeyboardOptions, androidx.compose.foundation.text.KeyboardActions, androidx.compose.ui.text.input.VisualTransformation, java.lang.String, kotlin.jvm.functions.Function3, com.microsoft.fluentui.theme.token.controlTokens.TextFieldTokens, androidx.compose.runtime.Composer, int, int, int)
+01-28 12:14:24.908 V/AutofillManager( 7439): updateSessionLocked(): id=1073741833:i948, bounds=null, value=[type=1, value=6_chars], action=4, flags=128
+01-28 12:14:30.293 V/AutofillManager( 7439): updateSessionLocked(): id=1073741833:i948, bounds=null, value=[type=1, value=5_chars], action=4, flags=128
+01-28 12:14:30.340 V/AutofillManager( 7439): updateSessionLocked(): id=1073741833:i948, bounds=null, value=[type=1, value=4_chars], action=4, flags=128
+01-28 12:14:30.390 V/AutofillManager( 7439): updateSessionLocked(): id=1073741833:i948, bounds=null, value=[type=1, value=3_chars], action=4, flags=128
+01-28 12:14:30.439 V/AutofillManager( 7439): updateSessionLocked(): id=1073741833:i948, bounds=null, value=[type=1, value=2_chars], action=4, flags=128
+01-28 12:14:30.497 V/AutofillManager( 7439): updateSessionLocked(): id=1073741833:i948, bounds=null, value=[type=1, value=1_chars], action=4, flags=128
+01-28 12:14:30.874 V/AutofillManager( 7439): updateSessionLocked(): id=1073741833:i948, bounds=null, value=[type=1, value=0_chars], action=4, flags=128
+01-28 12:14:35.353 V/AutofillManager( 7439): updateSessionLocked(): id=1073741833:i948, bounds=null, value=[type=1, value=1_chars], action=4, flags=128
+01-28 12:14:35.584 V/AutofillManager( 7439): updateSessionLocked(): id=1073741833:i948, bounds=null, value=[type=1, value=2_chars], action=4, flags=128
+01-28 12:14:35.766 V/AutofillManager( 7439): updateSessionLocked(): id=1073741833:i948, bounds=null, value=[type=1, value=3_chars], action=4, flags=128
+01-28 12:14:35.932 V/AutofillManager( 7439): updateSessionLocked(): id=1073741833:i948, bounds=null, value=[type=1, value=4_chars], action=4, flags=128
+01-28 12:14:36.863 V/AutofillManager( 7439): updateSessionLocked(): id=1073741833:i948, bounds=null, value=[type=1, value=5_chars], action=4, flags=128
+01-28 12:14:37.029 V/AutofillManager( 7439): updateSessionLocked(): id=1073741833:i948, bounds=null, value=[type=1, value=6_chars], action=4, flags=128
+01-28 12:14:37.377 V/AutofillManager( 7439): updateSessionLocked(): id=1073741833:i948, bounds=null, value=[type=1, value=7_chars], action=4, flags=128
+01-28 12:14:37.578 V/AutofillManager( 7439): updateSessionLocked(): id=1073741833:i948, bounds=null, value=[type=1, value=8_chars], action=4, flags=128
+01-28 12:14:37.829 V/AutofillManager( 7439): updateSessionLocked(): id=1073741833:i948, bounds=null, value=[type=1, value=9_chars], action=4, flags=128
+01-28 12:14:38.167 V/AutofillManager( 7439): updateSessionLocked(): id=1073741833:i948, bounds=null, value=[type=1, value=10_chars], action=4, flags=128
+01-28 12:14:41.241 V/AutofillManager( 7439): requestHideFillUi(null): anchor = null
+01-28 12:14:41.950 V/AutofillManager( 7439): requestHideFillUi(null): anchor = null
+01-28 12:14:42.096 D/ImeBackDispatcher( 7439): Clear (mImeCallbacks.size=1)
+01-28 12:14:42.097 D/WindowOnBackDispatcher( 7439): setTopOnBackInvokedCallback (unwrapped): android.view.ViewRootImpl$$ExternalSyntheticLambda12@66972e
+01-28 12:14:42.097 D/ImeBackDispatcher( 7439): switch root view (mImeCallbacks.size=0)
+01-28 12:14:42.097 D/WindowOnBackDispatcher( 7439): setTopOnBackInvokedCallback (unwrapped): null
+01-28 12:14:42.103 D/HWUI    ( 7439): endAllActiveAnimators on 0x72ead1caf0 (UnprojectedRipple) with handle 0x719ad1d700
+01-28 12:14:42.130 I/ImeTracker( 7439): com.microsoft.rdc.androidx:d47d46d3: onRequestHide at ORIGIN_CLIENT reason HIDE_SOFT_INPUT fromUser false
+01-28 12:14:42.130 I/ImeTracker( 7439): com.microsoft.rdc.androidx:d47d46d3: onFailed at PHASE_CLIENT_VIEW_SERVED
+01-28 12:14:42.162 D/ImeBackDispatcher( 7439): switch root view (mImeCallbacks.size=0)
+01-28 12:14:42.164 D/InsetsController( 7439): hide(ime())
+01-28 12:14:42.164 I/ImeTracker( 7439): com.microsoft.rdc.androidx:a5eecb7d: onCancelled at PHASE_CLIENT_ALREADY_HIDDEN
+01-28 12:14:42.171 W/RemoteInputConnectionImpl( 7439): requestCursorUpdates on inactive InputConnection
+01-28 12:14:42.174 D/ImeBackDispatcher( 7439): Unregister received callback id=196490309
+01-28 12:14:42.174 W/ImeBackDispatcher( 7439): Ime callback not found. Ignoring unregisterReceivedCallback. callbackId: 196490309 remaining callbacks: 0
+01-28 12:14:42.216 D/ImeBackDispatcher( 7439): Register received callback id=196490309 priority=0
+01-28 12:14:42.216 D/WindowOnBackDispatcher( 7439): setTopOnBackInvokedCallback (unwrapped): android.view.ImeBackAnimationController@65e0251
+01-28 12:14:42.255 D/ImeBackDispatcher( 7439): Unregister received callback id=196490309
+01-28 12:14:42.255 D/WindowOnBackDispatcher( 7439): setTopOnBackInvokedCallback (unwrapped): android.view.ViewRootImpl$$ExternalSyntheticLambda12@228d2a5
+01-28 12:14:45.379 V/AutofillManager( 7439): requestHideFillUi(null): anchor = null
+01-28 12:14:46.288 V/AutofillManager( 7439): requestHideFillUi(null): anchor = null
+01-28 12:14:46.419 V/AutofillManager( 7439): visibility changed for 1073741825:i1025: true
+01-28 12:14:46.419 V/AutofillManager( 7439): Ignoring visibility change on 1073741825:i1025: no tracked views
+01-28 12:14:46.429 V/AutofillManager( 7439): updateSessionLocked(): id=1073741825:i1025, bounds=Rect(122, 200 - 1222, 343), value=null, action=2, flags=0
+01-28 12:14:46.435 D/InsetsController( 7439): show(ime())
+01-28 12:14:46.435 I/ImeTracker( 7439): com.microsoft.rdc.androidx:2289793f: onRequestShow at ORIGIN_CLIENT reason SHOW_SOFT_INPUT_BY_INSETS_API fromUser false
+01-28 12:14:46.435 D/ImeBackDispatcher( 7439): Undo preliminary clear (mImeCallbacks.size=0)
+01-28 12:14:46.435 D/InsetsController( 7439): Setting requestedVisibleTypes to -1 (was -9)
+01-28 12:14:46.439 I/ImeTracker( 7439): com.microsoft.rdc.androidx:1178678a: onRequestShow at ORIGIN_CLIENT reason SHOW_SOFT_INPUT fromUser false
+01-28 12:14:46.439 D/InsetsController( 7439): show(ime())
+01-28 12:14:46.439 I/ImeTracker( 7439): com.microsoft.rdc.androidx:1178678a: onCancelled at PHASE_CLIENT_REPORT_REQUESTED_VISIBLE_TYPES
+01-28 12:14:46.510 D/ImeBackDispatcher( 7439): Register received callback id=196490309 priority=0
+01-28 12:14:46.511 D/WindowOnBackDispatcher( 7439): setTopOnBackInvokedCallback (unwrapped): android.view.ImeBackAnimationController@65e0251
+01-28 12:14:46.667 V/AutofillManager( 7439): notifyViewExited(1073741825, 1025
+01-28 12:14:46.667 V/AutofillManager( 7439): updateSessionLocked(): id=1073741825:i1025, bounds=null, value=null, action=3, flags=0
+01-28 12:14:46.674 D/InsetsController( 7439): hide(ime())
+01-28 12:14:46.674 I/ImeTracker( 7439): com.microsoft.rdc.androidx:e34e7f91: onRequestHide at ORIGIN_CLIENT reason HIDE_SOFT_INPUT_BY_INSETS_API fromUser false
+01-28 12:14:46.674 D/ImeBackDispatcher( 7439): Preliminary clear (mImeCallbacks.size=1)
+01-28 12:14:46.674 D/WindowOnBackDispatcher( 7439): setTopOnBackInvokedCallback (unwrapped): android.view.ViewRootImpl$$ExternalSyntheticLambda12@228d2a5
+01-28 12:14:46.675 D/InsetsController( 7439): Setting requestedVisibleTypes to -9 (was -1)
+01-28 12:14:46.675 I/ImeTracker( 7439): com.microsoft.rdc.androidx:2289793f: onCancelled at PHASE_CLIENT_ANIMATION_CANCEL
+01-28 12:14:46.992 I/ImeTracker( 7439): system_server:14f1d3be: onCancelled at PHASE_CLIENT_ON_CONTROLS_CHANGED
+01-28 12:14:46.993 D/ImeBackDispatcher( 7439): Unregister received callback id=196490309
+01-28 12:14:50.315 V/AutofillManager( 7439): requestHideFillUi(null): anchor = null
+01-28 12:14:50.444 V/AutofillManager( 7439): visibility changed for 1073741825:i1025: false
+01-28 12:14:50.444 V/AutofillManager( 7439): Ignoring visibility change on 1073741825:i1025: no tracked views
+01-28 12:14:50.468 V/AutofillManager( 7439): visibility changed for 1073741825:i1085: true
+01-28 12:14:50.468 V/AutofillManager( 7439): Ignoring visibility change on 1073741825:i1085: no tracked views
+01-28 12:14:54.784 V/AutofillManager( 7439): requestHideFillUi(null): anchor = null
+01-28 12:14:54.950 V/AutofillManager( 7439): visibility changed for 1073741825:i1152: true
+01-28 12:14:54.950 V/AutofillManager( 7439): Ignoring visibility change on 1073741825:i1152: no tracked views
+01-28 12:14:54.961 V/AutofillManager( 7439): updateSessionLocked(): id=1073741825:i1152, bounds=Rect(122, 200 - 1222, 343), value=null, action=2, flags=0
+01-28 12:14:54.967 D/InsetsController( 7439): show(ime())
+01-28 12:14:54.969 I/ImeTracker( 7439): com.microsoft.rdc.androidx:c07f5940: onRequestShow at ORIGIN_CLIENT reason SHOW_SOFT_INPUT_BY_INSETS_API fromUser false
+01-28 12:14:54.969 D/ImeBackDispatcher( 7439): Undo preliminary clear (mImeCallbacks.size=0)
+01-28 12:14:54.969 D/InsetsController( 7439): Setting requestedVisibleTypes to -1 (was -9)
+01-28 12:14:54.976 I/ImeTracker( 7439): com.microsoft.rdc.androidx:9e46b755: onRequestShow at ORIGIN_CLIENT reason SHOW_SOFT_INPUT fromUser false
+01-28 12:14:54.976 D/InsetsController( 7439): show(ime())
+01-28 12:14:54.976 I/ImeTracker( 7439): com.microsoft.rdc.androidx:9e46b755: onCancelled at PHASE_CLIENT_REPORT_REQUESTED_VISIBLE_TYPES
+01-28 12:14:55.029 D/ImeBackDispatcher( 7439): Register received callback id=196490309 priority=0
+01-28 12:14:55.029 D/WindowOnBackDispatcher( 7439): setTopOnBackInvokedCallback (unwrapped): android.view.ImeBackAnimationController@65e0251
+01-28 12:14:55.193 V/AutofillManager( 7439): notifyViewExited(1073741825, 1152
+01-28 12:14:55.193 V/AutofillManager( 7439): updateSessionLocked(): id=1073741825:i1152, bounds=null, value=null, action=3, flags=0
+01-28 12:14:55.199 D/InsetsController( 7439): hide(ime())
+01-28 12:14:55.200 I/ImeTracker( 7439): com.microsoft.rdc.androidx:f7a5526: onRequestHide at ORIGIN_CLIENT reason HIDE_SOFT_INPUT_BY_INSETS_API fromUser false
+01-28 12:14:55.200 D/ImeBackDispatcher( 7439): Preliminary clear (mImeCallbacks.size=1)
+01-28 12:14:55.200 D/WindowOnBackDispatcher( 7439): setTopOnBackInvokedCallback (unwrapped): android.view.ViewRootImpl$$ExternalSyntheticLambda12@228d2a5
+01-28 12:14:55.200 D/InsetsController( 7439): Setting requestedVisibleTypes to -9 (was -1)
+01-28 12:14:55.200 I/ImeTracker( 7439): com.microsoft.rdc.androidx:c07f5940: onCancelled at PHASE_CLIENT_ANIMATION_CANCEL
+01-28 12:14:55.200 W/System  ( 7439): A resource failed to call release. 
+01-28 12:14:55.200 W/System  ( 7439): A resource failed to call release. 
+01-28 12:14:55.200 W/System  ( 7439): A resource failed to call release. 
+01-28 12:14:55.200 W/System  ( 7439): A resource failed to call release. 
+01-28 12:14:55.200 W/System  ( 7439): A resource failed to call release. 
+01-28 12:14:55.200 W/System  ( 7439): A resource failed to call release. 
+01-28 12:14:55.200 W/System  ( 7439): A resource failed to call release. 
+01-28 12:14:55.200 W/System  ( 7439): A resource failed to call release. 
+01-28 12:14:55.200 W/System  ( 7439): A resource failed to call release. 
+01-28 12:14:55.200 W/System  ( 7439): A resource failed to call release. 
+01-28 12:14:55.200 W/System  ( 7439): A resource failed to call release. 
+01-28 12:14:55.200 W/System  ( 7439): A resource failed to call release. 
+01-28 12:14:55.200 W/System  ( 7439): A resource failed to call release. 
+01-28 12:14:55.200 W/System  ( 7439): A resource failed to call release. 
+01-28 12:14:55.200 W/System  ( 7439): A resource failed to call release. 
+01-28 12:14:55.201 W/System  ( 7439): A resource failed to call release. 
+01-28 12:14:55.201 W/System  ( 7439): A resource failed to call release. 
+01-28 12:14:55.201 W/System  ( 7439): A resource failed to call release. 
+01-28 12:14:55.201 W/System  ( 7439): A resource failed to call release. 
+01-28 12:14:55.515 D/ImeBackDispatcher( 7439): Unregister received callback id=196490309
+01-28 12:14:55.523 I/ImeTracker( 7439): system_server:436ae45f: onCancelled at PHASE_CLIENT_ON_CONTROLS_CHANGED
+01-28 12:14:55.675 V/AutofillManager( 7439): visibility changed for 1073741825:i1085: false
+01-28 12:14:55.675 V/AutofillManager( 7439): Ignoring visibility change on 1073741825:i1085: no tracked views
+01-28 12:14:56.062 V/AutofillManager( 7439): requestHideFillUi(null): anchor = null
+01-28 12:14:56.175 V/AutofillManager( 7439): visibility changed for 1073741825:i1152: false
+01-28 12:14:56.175 V/AutofillManager( 7439): Ignoring visibility change on 1073741825:i1152: no tracked views
+01-28 12:14:56.193 D/HWUI    ( 7439): --- Failed to create image decoder with message 'unimplemented'
+01-28 12:14:56.194 D/HWUI    ( 7439): --- Failed to create image decoder with message 'unimplemented'
+01-28 12:14:56.194 D/HWUI    ( 7439): --- Failed to create image decoder with message 'unimplemented'
+01-28 12:14:56.223 I/ft.rdc.androidx( 7439): Compiler allocated 5101KB to compile void com.microsoft.fluentui.tokenized.listitem.ListItem.b(java.lang.String, androidx.compose.ui.Modifier, java.lang.String, java.lang.String, androidx.compose.ui.text.AnnotatedString, java.util.Map, com.microsoft.fluentui.theme.token.controlTokens.ListItemTextAlignment, boolean, boolean, int, int, int, kotlin.jvm.functions.Function0, kotlin.jvm.functions.Function2, kotlin.jvm.functions.Function2, kotlin.jvm.functions.Function2, kotlin.jvm.functions.Function2, com.microsoft.fluentui.theme.token.controlTokens.BorderType, com.microsoft.fluentui.theme.token.controlTokens.BorderInset, androidx.compose.foundation.interaction.MutableInteractionSource, kotlin.jvm.functions.Function2, kotlin.jvm.functions.Function2, kotlin.jvm.functions.Function2, androidx.compose.ui.Alignment$Vertical, androidx.compose.ui.Alignment$Vertical, kotlin.jvm.functions.Function1, com.microsoft.fluentui.theme.token.controlTokens.ListItemTokens, androidx.compose.runtime.Composer, int, int, int, int)
+01-28 12:14:57.631 V/AutofillManager( 7439): requestHideFillUi(null): anchor = null
+01-28 12:14:57.938 V/AutofillManager( 7439): visibility changed for 1073741825:i1296: true
+01-28 12:14:57.938 V/AutofillManager( 7439): Ignoring visibility change on 1073741825:i1296: no tracked views
+01-28 12:14:57.946 V/AutofillManager( 7439): updateSessionLocked(): id=1073741825:i1296, bounds=Rect(122, 200 - 1222, 343), value=null, action=2, flags=0
+01-28 12:14:57.954 D/InsetsController( 7439): show(ime())
+01-28 12:14:57.955 I/ImeTracker( 7439): com.microsoft.rdc.androidx:a1845357: onRequestShow at ORIGIN_CLIENT reason SHOW_SOFT_INPUT_BY_INSETS_API fromUser false
+01-28 12:14:57.955 D/ImeBackDispatcher( 7439): Undo preliminary clear (mImeCallbacks.size=0)
+01-28 12:14:57.955 D/InsetsController( 7439): Setting requestedVisibleTypes to -1 (was -9)
+01-28 12:14:57.964 I/ImeTracker( 7439): com.microsoft.rdc.androidx:4f8e1530: onRequestShow at ORIGIN_CLIENT reason SHOW_SOFT_INPUT fromUser false
+01-28 12:14:57.965 D/InsetsController( 7439): show(ime())
+01-28 12:14:57.965 I/ImeTracker( 7439): com.microsoft.rdc.androidx:4f8e1530: onCancelled at PHASE_CLIENT_REPORT_REQUESTED_VISIBLE_TYPES
+01-28 12:14:58.008 D/ImeBackDispatcher( 7439): Register received callback id=196490309 priority=0
+01-28 12:14:58.008 D/WindowOnBackDispatcher( 7439): setTopOnBackInvokedCallback (unwrapped): android.view.ImeBackAnimationController@65e0251
+01-28 12:14:58.185 V/AutofillManager( 7439): notifyViewExited(1073741825, 1296
+01-28 12:14:58.185 V/AutofillManager( 7439): updateSessionLocked(): id=1073741825:i1296, bounds=null, value=null, action=3, flags=0
+01-28 12:14:58.190 D/InsetsController( 7439): hide(ime())
+01-28 12:14:58.191 I/ImeTracker( 7439): com.microsoft.rdc.androidx:29159f04: onRequestHide at ORIGIN_CLIENT reason HIDE_SOFT_INPUT_BY_INSETS_API fromUser false
+01-28 12:14:58.191 D/ImeBackDispatcher( 7439): Preliminary clear (mImeCallbacks.size=1)
+01-28 12:14:58.191 D/WindowOnBackDispatcher( 7439): setTopOnBackInvokedCallback (unwrapped): android.view.ViewRootImpl$$ExternalSyntheticLambda12@228d2a5
+01-28 12:14:58.191 D/InsetsController( 7439): Setting requestedVisibleTypes to -9 (was -1)
+01-28 12:14:58.191 I/ImeTracker( 7439): com.microsoft.rdc.androidx:a1845357: onCancelled at PHASE_CLIENT_ANIMATION_CANCEL
+01-28 12:14:58.508 I/ImeTracker( 7439): system_server:bb75f8c3: onCancelled at PHASE_CLIENT_ON_CONTROLS_CHANGED
+01-28 12:14:58.517 D/ImeBackDispatcher( 7439): Unregister received callback id=196490309
+01-28 12:15:00.894 V/AutofillManager( 7439): requestHideFillUi(null): anchor = null
+01-28 12:15:01.000 V/AutofillManager( 7439): visibility changed for 1073741825:i1296: false
+01-28 12:15:01.000 V/AutofillManager( 7439): Ignoring visibility change on 1073741825:i1296: no tracked views
+01-28 12:15:02.242 V/AutofillManager( 7439): requestHideFillUi(null): anchor = null
+01-28 12:15:02.383 W/WindowOnBackDispatcher( 7439): OnBackInvokedCallback is not enabled for the application.
+01-28 12:15:02.383 W/WindowOnBackDispatcher( 7439): Set 'android:enableOnBackInvokedCallback="true"' in the application manifest.
+01-28 12:15:02.410 D/WindowOnBackDispatcher( 7439): setTopOnBackInvokedCallback (unwrapped): android.view.ViewRootImpl$$ExternalSyntheticLambda12@d3b66ba
+01-28 12:15:02.468 D/ImeBackDispatcher( 7439): switch root view (mImeCallbacks.size=0)
+01-28 12:15:02.470 D/InsetsController( 7439): hide(ime())
+01-28 12:15:02.471 I/ImeTracker( 7439): com.microsoft.rdc.androidx:b256d82: onCancelled at PHASE_CLIENT_ALREADY_HIDDEN
+01-28 12:15:10.958 V/AutofillManager( 7439): requestHideFillUi(null): anchor = null
+01-28 12:15:11.117 V/AutofillManager( 7439): updateSessionLocked(): id=1073741837:i1381, bounds=Rect(82, 224 - 1040, 354), value=null, action=2, flags=0
+01-28 12:15:11.130 D/InsetsController( 7439): show(ime())
+01-28 12:15:11.130 I/ImeTracker( 7439): com.microsoft.rdc.androidx:406050be: onRequestShow at ORIGIN_CLIENT reason SHOW_SOFT_INPUT_BY_INSETS_API fromUser false
+01-28 12:15:11.130 D/ImeBackDispatcher( 7439): Undo preliminary clear (mImeCallbacks.size=0)
+01-28 12:15:11.130 D/InsetsController( 7439): Setting requestedVisibleTypes to -1 (was -9)
+01-28 12:15:11.138 I/ImeTracker( 7439): com.microsoft.rdc.androidx:67d202af: onRequestShow at ORIGIN_CLIENT reason SHOW_SOFT_INPUT fromUser false
+01-28 12:15:11.138 D/InsetsController( 7439): show(ime())
+01-28 12:15:11.138 I/ImeTracker( 7439): com.microsoft.rdc.androidx:67d202af: onCancelled at PHASE_CLIENT_REPORT_REQUESTED_VISIBLE_TYPES
+01-28 12:15:11.154 W/RemoteInputConnectionImpl( 7439): requestCursorUpdates on inactive InputConnection
+01-28 12:15:11.194 D/ImeBackDispatcher( 7439): Register received callback id=196490309 priority=0
+01-28 12:15:11.194 D/WindowOnBackDispatcher( 7439): setTopOnBackInvokedCallback (unwrapped): android.view.ImeBackAnimationController@deb3a06
+01-28 12:15:11.551 I/ImeTracker( 7439): com.microsoft.rdc.androidx:3a5f5604: onShown
+01-28 12:15:13.824 V/AutofillManager( 7439): updateSessionLocked(): id=1073741837:i1381, bounds=null, value=[type=1, value=1_chars], action=4, flags=128
+01-28 12:15:15.052 V/AutofillManager( 7439): updateSessionLocked(): id=1073741837:i1381, bounds=null, value=[type=1, value=2_chars], action=4, flags=128
+01-28 12:15:15.292 V/AutofillManager( 7439): updateSessionLocked(): id=1073741837:i1381, bounds=null, value=[type=1, value=3_chars], action=4, flags=128
+01-28 12:15:15.475 V/AutofillManager( 7439): updateSessionLocked(): id=1073741837:i1381, bounds=null, value=[type=1, value=4_chars], action=4, flags=128
+01-28 12:15:16.741 V/AutofillManager( 7439): updateSessionLocked(): id=1073741837:i1381, bounds=null, value=[type=1, value=20_chars], action=4, flags=128
+01-28 12:15:17.930 V/AutofillManager( 7439): requestHideFillUi(null): anchor = null
+01-28 12:15:18.007 V/AutofillManager( 7439): notifyViewExited(1073741837, 1381
+01-28 12:15:18.007 V/AutofillManager( 7439): updateSessionLocked(): id=1073741837:i1381, bounds=null, value=null, action=3, flags=0
+01-28 12:15:18.008 V/AutofillManager( 7439): updateSessionLocked(): id=1073741837:i1395, bounds=Rect(82, 440 - 1040, 570), value=null, action=2, flags=128
+01-28 12:15:18.018 D/InsetsController( 7439): show(ime())
+01-28 12:15:18.019 I/ImeTracker( 7439): com.microsoft.rdc.androidx:5b402d24: onRequestShow at ORIGIN_CLIENT reason SHOW_SOFT_INPUT_BY_INSETS_API fromUser false
+01-28 12:15:18.019 I/ImeTracker( 7439): com.microsoft.rdc.androidx:5b402d24: onCancelled at PHASE_CLIENT_APPLY_ANIMATION
+01-28 12:15:18.026 I/ImeTracker( 7439): com.microsoft.rdc.androidx:2877472: onRequestShow at ORIGIN_CLIENT reason SHOW_SOFT_INPUT fromUser false
+01-28 12:15:18.026 D/InsetsController( 7439): show(ime())
+01-28 12:15:18.026 I/ImeTracker( 7439): com.microsoft.rdc.androidx:2877472: onCancelled at PHASE_CLIENT_APPLY_ANIMATION
+01-28 12:15:19.929 V/AutofillManager( 7439): updateSessionLocked(): id=1073741837:i1395, bounds=null, value=[type=1, value=1_chars], action=4, flags=128
+01-28 12:15:20.103 V/AutofillManager( 7439): updateSessionLocked(): id=1073741837:i1395, bounds=null, value=[type=1, value=2_chars], action=4, flags=128
+01-28 12:15:20.626 V/AutofillManager( 7439): updateSessionLocked(): id=1073741837:i1395, bounds=null, value=[type=1, value=3_chars], action=4, flags=128
+01-28 12:15:21.173 V/AutofillManager( 7439): updateSessionLocked(): id=1073741837:i1395, bounds=null, value=[type=1, value=4_chars], action=4, flags=128
+01-28 12:15:21.772 V/AutofillManager( 7439): requestHideFillUi(null): anchor = null
+01-28 12:15:21.893 V/AutofillManager( 7439): updateSessionLocked(): id=1073741837:i1381, bounds=null, value=[type=1, value=0_chars], action=4, flags=128
+01-28 12:15:21.894 V/AutofillManager( 7439): updateSessionLocked(): id=1073741837:i1395, bounds=null, value=[type=1, value=0_chars], action=4, flags=128
+01-28 12:15:21.987 W/System  ( 7439): A resource failed to call release. 
+01-28 12:15:21.987 W/System  ( 7439): A resource failed to call release. 
+01-28 12:15:31.583 V/AutofillManager( 7439): requestHideFillUi(null): anchor = null
+01-28 12:15:31.670 D/ImeBackDispatcher( 7439): Clear (mImeCallbacks.size=1)
+01-28 12:15:31.670 D/WindowOnBackDispatcher( 7439): setTopOnBackInvokedCallback (unwrapped): android.view.ViewRootImpl$$ExternalSyntheticLambda12@d3b66ba
+01-28 12:15:31.670 D/ImeBackDispatcher( 7439): switch root view (mImeCallbacks.size=0)
+01-28 12:15:31.670 D/WindowOnBackDispatcher( 7439): setTopOnBackInvokedCallback (unwrapped): null
+01-28 12:15:31.699 I/ImeTracker( 7439): com.microsoft.rdc.androidx:faadf13d: onRequestHide at ORIGIN_CLIENT reason HIDE_SOFT_INPUT fromUser false
+01-28 12:15:31.700 I/ImeTracker( 7439): com.microsoft.rdc.androidx:faadf13d: onFailed at PHASE_CLIENT_VIEW_SERVED
+01-28 12:15:31.738 D/ImeBackDispatcher( 7439): switch root view (mImeCallbacks.size=0)
+01-28 12:15:31.742 D/InsetsController( 7439): hide(ime())
+01-28 12:15:31.742 I/ImeTracker( 7439): com.microsoft.rdc.androidx:839466ed: onCancelled at PHASE_CLIENT_ALREADY_HIDDEN
+01-28 12:15:31.756 W/RemoteInputConnectionImpl( 7439): requestCursorUpdates on inactive InputConnection
+01-28 12:15:31.762 D/ImeBackDispatcher( 7439): Unregister received callback id=196490309
+01-28 12:15:31.762 W/ImeBackDispatcher( 7439): Ime callback not found. Ignoring unregisterReceivedCallback. callbackId: 196490309 remaining callbacks: 0
+01-28 12:15:31.802 D/ImeBackDispatcher( 7439): Register received callback id=196490309 priority=0
+01-28 12:15:31.802 D/WindowOnBackDispatcher( 7439): setTopOnBackInvokedCallback (unwrapped): android.view.ImeBackAnimationController@65e0251
+01-28 12:15:31.810 D/ImeBackDispatcher( 7439): Unregister received callback id=196490309
+01-28 12:15:31.810 D/WindowOnBackDispatcher( 7439): setTopOnBackInvokedCallback (unwrapped): android.view.ViewRootImpl$$ExternalSyntheticLambda12@228d2a5
+01-28 12:15:33.566 V/AutofillManager( 7439): requestHideFillUi(null): anchor = null
+01-28 12:15:34.287 V/AutofillManager( 7439): requestHideFillUi(null): anchor = null
+01-28 12:15:35.552 V/AutofillManager( 7439): requestHideFillUi(null): anchor = null
+01-28 12:15:35.687 W/WindowOnBackDispatcher( 7439): OnBackInvokedCallback is not enabled for the application.
+01-28 12:15:35.687 W/WindowOnBackDispatcher( 7439): Set 'android:enableOnBackInvokedCallback="true"' in the application manifest.
+01-28 12:15:35.707 D/WindowOnBackDispatcher( 7439): setTopOnBackInvokedCallback (unwrapped): android.view.ViewRootImpl$$ExternalSyntheticLambda12@717d241
+01-28 12:15:35.764 D/ImeBackDispatcher( 7439): switch root view (mImeCallbacks.size=0)
+01-28 12:15:35.766 D/InsetsController( 7439): hide(ime())
+01-28 12:15:35.767 I/ImeTracker( 7439): com.microsoft.rdc.androidx:41fd1bef: onCancelled at PHASE_CLIENT_ALREADY_HIDDEN
+01-28 12:15:35.783 W/ft.rdc.androidx( 7439): Missing inline cache for java.lang.Object androidx.compose.foundation.text.TextFieldSizeKt$textFieldMinSize$1.j(java.lang.Object, java.lang.Object, java.lang.Object)
+01-28 12:15:53.241 V/AutofillManager( 7439): requestHideFillUi(null): anchor = null
+01-28 12:15:53.346 V/AutofillManager( 7439): updateSessionLocked(): id=1073741839:i1428, bounds=Rect(82, 224 - 1040, 354), value=null, action=2, flags=0
+01-28 12:15:53.360 D/InsetsController( 7439): show(ime())
+01-28 12:15:53.361 I/ImeTracker( 7439): com.microsoft.rdc.androidx:40583f5f: onRequestShow at ORIGIN_CLIENT reason SHOW_SOFT_INPUT_BY_INSETS_API fromUser false
+01-28 12:15:53.361 D/ImeBackDispatcher( 7439): Undo preliminary clear (mImeCallbacks.size=0)
+01-28 12:15:53.361 D/InsetsController( 7439): Setting requestedVisibleTypes to -1 (was -9)
+01-28 12:15:53.368 I/ImeTracker( 7439): com.microsoft.rdc.androidx:fc74466c: onRequestShow at ORIGIN_CLIENT reason SHOW_SOFT_INPUT fromUser false
+01-28 12:15:53.368 D/InsetsController( 7439): show(ime())
+01-28 12:15:53.368 I/ImeTracker( 7439): com.microsoft.rdc.androidx:fc74466c: onCancelled at PHASE_CLIENT_REPORT_REQUESTED_VISIBLE_TYPES
+01-28 12:15:53.426 D/ImeBackDispatcher( 7439): Register received callback id=196490309 priority=0
+01-28 12:15:53.426 D/WindowOnBackDispatcher( 7439): setTopOnBackInvokedCallback (unwrapped): android.view.ImeBackAnimationController@539f4fd
+01-28 12:15:53.754 I/ImeTracker( 7439): com.microsoft.rdc.androidx:40583f5f: onShown
+01-28 12:15:55.619 V/AutofillManager( 7439): updateSessionLocked(): id=1073741839:i1428, bounds=null, value=[type=1, value=1_chars], action=4, flags=128
+01-28 12:15:55.859 V/AutofillManager( 7439): updateSessionLocked(): id=1073741839:i1428, bounds=null, value=[type=1, value=2_chars], action=4, flags=128
+01-28 12:15:56.016 V/AutofillManager( 7439): updateSessionLocked(): id=1073741839:i1428, bounds=null, value=[type=1, value=3_chars], action=4, flags=128
+01-28 12:15:56.291 V/AutofillManager( 7439): updateSessionLocked(): id=1073741839:i1428, bounds=null, value=[type=1, value=4_chars], action=4, flags=128
+01-28 12:15:56.456 V/AutofillManager( 7439): updateSessionLocked(): id=1073741839:i1428, bounds=null, value=[type=1, value=5_chars], action=4, flags=128
+01-28 12:16:03.427 V/AutofillManager( 7439): updateSessionLocked(): id=1073741839:i1428, bounds=null, value=[type=1, value=6_chars], action=4, flags=128
+01-28 12:16:07.500 V/AutofillManager( 7439): updateSessionLocked(): id=1073741839:i1428, bounds=null, value=[type=1, value=7_chars], action=4, flags=128
+01-28 12:16:07.731 V/AutofillManager( 7439): updateSessionLocked(): id=1073741839:i1428, bounds=null, value=[type=1, value=8_chars], action=4, flags=128
+01-28 12:16:08.014 V/AutofillManager( 7439): updateSessionLocked(): id=1073741839:i1428, bounds=null, value=[type=1, value=9_chars], action=4, flags=128
+01-28 12:16:08.229 V/AutofillManager( 7439): updateSessionLocked(): id=1073741839:i1428, bounds=null, value=[type=1, value=10_chars], action=4, flags=128
+01-28 12:16:08.962 V/AutofillManager( 7439): updateSessionLocked(): id=1073741839:i1428, bounds=null, value=[type=1, value=11_chars], action=4, flags=128
+01-28 12:16:09.507 V/AutofillManager( 7439): updateSessionLocked(): id=1073741839:i1428, bounds=null, value=[type=1, value=10_chars], action=4, flags=128
+01-28 12:16:09.608 V/AutofillManager( 7439): updateSessionLocked(): id=1073741839:i1428, bounds=null, value=[type=1, value=11_chars], action=4, flags=128
+01-28 12:16:09.774 V/AutofillManager( 7439): updateSessionLocked(): id=1073741839:i1428, bounds=null, value=[type=1, value=12_chars], action=4, flags=128
+01-28 12:16:09.923 V/AutofillManager( 7439): updateSessionLocked(): id=1073741839:i1428, bounds=null, value=[type=1, value=13_chars], action=4, flags=128
+01-28 12:16:10.171 V/AutofillManager( 7439): updateSessionLocked(): id=1073741839:i1428, bounds=null, value=[type=1, value=14_chars], action=4, flags=128
+01-28 12:16:10.406 V/AutofillManager( 7439): updateSessionLocked(): id=1073741839:i1428, bounds=null, value=[type=1, value=15_chars], action=4, flags=128
+01-28 12:16:10.505 V/AutofillManager( 7439): updateSessionLocked(): id=1073741839:i1428, bounds=null, value=[type=1, value=16_chars], action=4, flags=128
+01-28 12:16:20.267 V/AutofillManager( 7439): updateSessionLocked(): id=1073741839:i1428, bounds=null, value=[type=1, value=17_chars], action=4, flags=128
+01-28 12:16:23.972 V/AutofillManager( 7439): updateSessionLocked(): id=1073741839:i1428, bounds=null, value=[type=1, value=18_chars], action=4, flags=128
+01-28 12:16:24.420 V/AutofillManager( 7439): updateSessionLocked(): id=1073741839:i1428, bounds=null, value=[type=1, value=19_chars], action=4, flags=128
+01-28 12:16:24.602 V/AutofillManager( 7439): updateSessionLocked(): id=1073741839:i1428, bounds=null, value=[type=1, value=20_chars], action=4, flags=128
+01-28 12:16:24.769 V/AutofillManager( 7439): updateSessionLocked(): id=1073741839:i1428, bounds=null, value=[type=1, value=21_chars], action=4, flags=128
+01-28 12:16:26.082 V/AutofillManager( 7439): updateSessionLocked(): id=1073741839:i1428, bounds=null, value=[type=1, value=22_chars], action=4, flags=128
+01-28 12:16:26.828 V/AutofillManager( 7439): requestHideFillUi(null): anchor = null
+01-28 12:16:27.280 V/AutofillManager( 7439): requestHideFillUi(null): anchor = null
+01-28 12:16:27.368 V/AutofillManager( 7439): notifyViewExited(1073741839, 1428
+01-28 12:16:27.368 V/AutofillManager( 7439): updateSessionLocked(): id=1073741839:i1428, bounds=null, value=null, action=3, flags=0
+01-28 12:16:27.370 V/AutofillManager( 7439): updateSessionLocked(): id=1073741839:i1442, bounds=Rect(82, 440 - 1040, 570), value=null, action=2, flags=128
+01-28 12:16:27.384 D/InsetsController( 7439): show(ime())
+01-28 12:16:27.384 I/ImeTracker( 7439): com.microsoft.rdc.androidx:cfb6d32a: onRequestShow at ORIGIN_CLIENT reason SHOW_SOFT_INPUT_BY_INSETS_API fromUser false
+01-28 12:16:27.385 I/ImeTracker( 7439): com.microsoft.rdc.androidx:cfb6d32a: onCancelled at PHASE_CLIENT_APPLY_ANIMATION
+01-28 12:16:27.392 I/ImeTracker( 7439): com.microsoft.rdc.androidx:1893745: onRequestShow at ORIGIN_CLIENT reason SHOW_SOFT_INPUT fromUser false
+01-28 12:16:27.393 D/InsetsController( 7439): show(ime())
+01-28 12:16:27.393 I/ImeTracker( 7439): com.microsoft.rdc.androidx:1893745: onCancelled at PHASE_CLIENT_APPLY_ANIMATION
+01-28 12:16:29.074 V/AutofillManager( 7439): requestHideFillUi(null): anchor = null
+01-28 12:16:29.198 V/AutofillManager( 7439): updateSessionLocked(): id=1073741839:i1428, bounds=null, value=[type=1, value=0_chars], action=4, flags=128
+01-28 12:16:30.782 V/AutofillManager( 7439): requestHideFillUi(null): anchor = null
+01-28 12:16:31.157 V/AutofillManager( 7439): requestHideFillUi(null): anchor = null
+01-28 12:16:31.255 D/ImeBackDispatcher( 7439): Clear (mImeCallbacks.size=1)
+01-28 12:16:31.256 D/WindowOnBackDispatcher( 7439): setTopOnBackInvokedCallback (unwrapped): android.view.ViewRootImpl$$ExternalSyntheticLambda12@717d241
+01-28 12:16:31.256 D/ImeBackDispatcher( 7439): switch root view (mImeCallbacks.size=0)
+01-28 12:16:31.256 D/WindowOnBackDispatcher( 7439): setTopOnBackInvokedCallback (unwrapped): null
+01-28 12:16:31.264 D/HWUI    ( 7439): endAllActiveAnimators on 0x72ead0fcf0 (UnprojectedRipple) with handle 0x719ad681c0
+01-28 12:16:31.285 I/ImeTracker( 7439): com.microsoft.rdc.androidx:45a6fccd: onRequestHide at ORIGIN_CLIENT reason HIDE_SOFT_INPUT fromUser false
+01-28 12:16:31.285 I/ImeTracker( 7439): com.microsoft.rdc.androidx:45a6fccd: onFailed at PHASE_CLIENT_VIEW_SERVED
+01-28 12:16:31.297 D/ImeBackDispatcher( 7439): switch root view (mImeCallbacks.size=0)
+01-28 12:16:31.303 D/InsetsController( 7439): hide(ime())
+01-28 12:16:31.304 I/ImeTracker( 7439): com.microsoft.rdc.androidx:9cab74e4: onCancelled at PHASE_CLIENT_ALREADY_HIDDEN
+01-28 12:16:31.315 W/RemoteInputConnectionImpl( 7439): requestCursorUpdates on inactive InputConnection
+01-28 12:16:31.325 D/ImeBackDispatcher( 7439): Unregister received callback id=196490309
+01-28 12:16:31.325 W/ImeBackDispatcher( 7439): Ime callback not found. Ignoring unregisterReceivedCallback. callbackId: 196490309 remaining callbacks: 0
+01-28 12:16:31.356 D/ImeBackDispatcher( 7439): Register received callback id=196490309 priority=0
+01-28 12:16:31.356 D/WindowOnBackDispatcher( 7439): setTopOnBackInvokedCallback (unwrapped): android.view.ImeBackAnimationController@65e0251
+01-28 12:16:31.379 D/ImeBackDispatcher( 7439): Unregister received callback id=196490309
+01-28 12:16:31.379 D/WindowOnBackDispatcher( 7439): setTopOnBackInvokedCallback (unwrapped): android.view.ViewRootImpl$$ExternalSyntheticLambda12@228d2a5
+01-28 12:16:33.193 V/AutofillManager( 7439): requestHideFillUi(null): anchor = null
+01-28 12:16:34.825 V/AutofillManager( 7439): requestHideFillUi(null): anchor = null
+01-28 12:16:34.948 V/AutofillManager( 7439): visibility changed for 1073741825:i1465: true
+01-28 12:16:34.948 V/AutofillManager( 7439): Ignoring visibility change on 1073741825:i1465: no tracked views
+01-28 12:16:34.957 V/AutofillManager( 7439): updateSessionLocked(): id=1073741825:i1465, bounds=Rect(122, 200 - 1222, 343), value=null, action=2, flags=0
+01-28 12:16:34.970 D/InsetsController( 7439): show(ime())
+01-28 12:16:34.970 I/ImeTracker( 7439): com.microsoft.rdc.androidx:f16da2e7: onRequestShow at ORIGIN_CLIENT reason SHOW_SOFT_INPUT_BY_INSETS_API fromUser false
+01-28 12:16:34.971 D/ImeBackDispatcher( 7439): Undo preliminary clear (mImeCallbacks.size=0)
+01-28 12:16:34.971 D/InsetsController( 7439): Setting requestedVisibleTypes to -1 (was -9)
+01-28 12:16:34.977 I/ImeTracker( 7439): com.microsoft.rdc.androidx:c02b5db1: onRequestShow at ORIGIN_CLIENT reason SHOW_SOFT_INPUT fromUser false
+01-28 12:16:34.977 D/InsetsController( 7439): show(ime())
+01-28 12:16:34.977 I/ImeTracker( 7439): com.microsoft.rdc.androidx:c02b5db1: onCancelled at PHASE_CLIENT_REPORT_REQUESTED_VISIBLE_TYPES
+01-28 12:16:35.020 W/RemoteInputConnectionImpl( 7439): requestCursorUpdates on inactive InputConnection
+01-28 12:16:35.027 D/ImeBackDispatcher( 7439): Register received callback id=196490309 priority=0
+01-28 12:16:35.028 D/WindowOnBackDispatcher( 7439): setTopOnBackInvokedCallback (unwrapped): android.view.ImeBackAnimationController@65e0251
+01-28 12:16:35.187 V/AutofillManager( 7439): notifyViewExited(1073741825, 1465
+01-28 12:16:35.187 V/AutofillManager( 7439): updateSessionLocked(): id=1073741825:i1465, bounds=null, value=null, action=3, flags=0
+01-28 12:16:35.195 D/InsetsController( 7439): hide(ime())
+01-28 12:16:35.195 I/ImeTracker( 7439): com.microsoft.rdc.androidx:acb2bfb0: onRequestHide at ORIGIN_CLIENT reason HIDE_SOFT_INPUT_BY_INSETS_API fromUser false
+01-28 12:16:35.195 D/ImeBackDispatcher( 7439): Preliminary clear (mImeCallbacks.size=1)
+01-28 12:16:35.196 D/WindowOnBackDispatcher( 7439): setTopOnBackInvokedCallback (unwrapped): android.view.ViewRootImpl$$ExternalSyntheticLambda12@228d2a5
+01-28 12:16:35.196 D/InsetsController( 7439): Setting requestedVisibleTypes to -9 (was -1)
+01-28 12:16:35.196 I/ImeTracker( 7439): com.microsoft.rdc.androidx:f16da2e7: onCancelled at PHASE_CLIENT_ANIMATION_CANCEL
+01-28 12:16:35.520 I/ImeTracker( 7439): system_server:7b196812: onCancelled at PHASE_CLIENT_ON_CONTROLS_CHANGED
+01-28 12:16:35.521 D/ImeBackDispatcher( 7439): Unregister received callback id=196490309
+01-28 12:16:36.749 V/AutofillManager( 7439): requestHideFillUi(null): anchor = null
+01-28 12:16:36.885 V/AutofillManager( 7439): visibility changed for 1073741825:i1465: false
+01-28 12:16:36.885 V/AutofillManager( 7439): Ignoring visibility change on 1073741825:i1465: no tracked views
+01-28 12:16:38.176 V/AutofillManager( 7439): requestHideFillUi(null): anchor = null
+01-28 12:16:39.325 V/AutofillManager( 7439): requestHideFillUi(null): anchor = null
+01-28 12:16:39.734 V/AutofillManager( 7439): requestHideFillUi(null): anchor = null
+01-28 12:16:40.737 V/AutofillManager( 7439): requestHideFillUi(null): anchor = null
+01-28 12:16:40.891 V/AutofillManager( 7439): visibility changed for 1073741825:i1556: true
+01-28 12:16:40.891 V/AutofillManager( 7439): Ignoring visibility change on 1073741825:i1556: no tracked views
+01-28 12:16:40.901 V/AutofillManager( 7439): updateSessionLocked(): id=1073741825:i1556, bounds=Rect(122, 200 - 1222, 343), value=null, action=2, flags=0
+01-28 12:16:40.908 D/InsetsController( 7439): show(ime())
+01-28 12:16:40.909 I/ImeTracker( 7439): com.microsoft.rdc.androidx:f9765aba: onRequestShow at ORIGIN_CLIENT reason SHOW_SOFT_INPUT_BY_INSETS_API fromUser false
+01-28 12:16:40.909 D/ImeBackDispatcher( 7439): Undo preliminary clear (mImeCallbacks.size=0)
+01-28 12:16:40.909 D/InsetsController( 7439): Setting requestedVisibleTypes to -1 (was -9)
+01-28 12:16:40.916 I/ImeTracker( 7439): com.microsoft.rdc.androidx:4d654584: onRequestShow at ORIGIN_CLIENT reason SHOW_SOFT_INPUT fromUser false
+01-28 12:16:40.916 D/InsetsController( 7439): show(ime())
+01-28 12:16:40.917 I/ImeTracker( 7439): com.microsoft.rdc.androidx:4d654584: onCancelled at PHASE_CLIENT_REPORT_REQUESTED_VISIBLE_TYPES
+01-28 12:16:40.977 D/ImeBackDispatcher( 7439): Register received callback id=196490309 priority=0
+01-28 12:16:40.977 D/WindowOnBackDispatcher( 7439): setTopOnBackInvokedCallback (unwrapped): android.view.ImeBackAnimationController@65e0251
+01-28 12:16:41.134 V/AutofillManager( 7439): notifyViewExited(1073741825, 1556
+01-28 12:16:41.135 V/AutofillManager( 7439): updateSessionLocked(): id=1073741825:i1556, bounds=null, value=null, action=3, flags=0
+01-28 12:16:41.141 D/InsetsController( 7439): hide(ime())
+01-28 12:16:41.142 I/ImeTracker( 7439): com.microsoft.rdc.androidx:11aa7b71: onRequestHide at ORIGIN_CLIENT reason HIDE_SOFT_INPUT_BY_INSETS_API fromUser false
+01-28 12:16:41.142 D/ImeBackDispatcher( 7439): Preliminary clear (mImeCallbacks.size=1)
+01-28 12:16:41.142 D/WindowOnBackDispatcher( 7439): setTopOnBackInvokedCallback (unwrapped): android.view.ViewRootImpl$$ExternalSyntheticLambda12@228d2a5
+01-28 12:16:41.142 D/InsetsController( 7439): Setting requestedVisibleTypes to -9 (was -1)
+01-28 12:16:41.142 I/ImeTracker( 7439): com.microsoft.rdc.androidx:f9765aba: onCancelled at PHASE_CLIENT_ANIMATION_CANCEL
+01-28 12:16:41.473 D/ImeBackDispatcher( 7439): Unregister received callback id=196490309
+01-28 12:16:41.479 I/ImeTracker( 7439): system_server:55ba0e7d: onCancelled at PHASE_CLIENT_ON_CONTROLS_CHANGED
+01-28 12:16:46.482 V/AutofillManager( 7439): requestHideFillUi(null): anchor = null
+01-28 12:16:46.783 W/System  ( 7439): A resource failed to call release. 
+01-28 12:16:46.783 W/System  ( 7439): A resource failed to call release. 
+01-28 12:16:47.643 V/AutofillManager( 7439): requestHideFillUi(null): anchor = null
+01-28 12:16:48.074 V/AutofillManager( 7439): requestHideFillUi(null): anchor = null
+01-28 12:16:48.240 V/AutofillManager( 7439): requestHideFillUi(null): anchor = null
+01-28 12:16:48.398 V/AutofillManager( 7439): requestHideFillUi(null): anchor = null
+01-28 12:16:48.504 V/AutofillManager( 7439): requestHideFillUi(null): anchor = null
+01-28 12:16:48.715 V/AutofillManager( 7439): requestHideFillUi(null): anchor = null
+01-28 12:16:48.934 V/AutofillManager( 7439): requestHideFillUi(null): anchor = null
+01-28 12:16:49.335 V/AutofillManager( 7439): requestHideFillUi(null): anchor = null
+01-28 12:16:50.887 V/AutofillManager( 7439): requestHideFillUi(null): anchor = null
+01-28 12:16:50.984 E/ft.rdc.androidx( 7439): Invalid resource ID 0x00000000.
+01-28 12:16:50.998 D/AutofillManager( 7439): Fill dialog is enabled:false, hints=[]
+01-28 12:16:50.998 V/TextView( 7439): notifyAutoFillManagerAfterTextChanged
+01-28 12:16:50.998 V/AutofillManager( 7439): notifyValueChanged(1073741824): ignoring on state UNKNOWN
+01-28 12:16:50.998 V/TextView( 7439): notifyAutoFillManagerAfterTextChanged
+01-28 12:16:50.998 V/AutofillManager( 7439): notifyValueChanged(1073741824): ignoring on state UNKNOWN
+01-28 12:16:50.998 V/TextView( 7439): notifyAutoFillManagerAfterTextChanged
+01-28 12:16:50.998 V/AutofillManager( 7439): notifyValueChanged(1073741825): ignoring on state UNKNOWN
+01-28 12:16:50.998 V/TextView( 7439): notifyAutoFillManagerAfterTextChanged
+01-28 12:16:50.998 V/AutofillManager( 7439): notifyValueChanged(1073741825): ignoring on state UNKNOWN
+01-28 12:16:51.001 V/TextView( 7439): notifyAutoFillManagerAfterTextChanged
+01-28 12:16:51.001 V/AutofillManager( 7439): notifyValueChanged(1073741826): ignoring on state UNKNOWN
+01-28 12:16:51.001 V/TextView( 7439): notifyAutoFillManagerAfterTextChanged
+01-28 12:16:51.001 V/AutofillManager( 7439): notifyValueChanged(1073741827): ignoring on state UNKNOWN
+01-28 12:16:51.001 V/TextView( 7439): notifyAutoFillManagerAfterTextChanged
+01-28 12:16:51.001 V/AutofillManager( 7439): notifyValueChanged(1073741828): ignoring on state UNKNOWN
+01-28 12:16:51.001 V/TextView( 7439): notifyAutoFillManagerAfterTextChanged
+01-28 12:16:51.001 V/AutofillManager( 7439): notifyValueChanged(1073741829): ignoring on state UNKNOWN
+01-28 12:16:51.001 V/TextView( 7439): notifyAutoFillManagerAfterTextChanged
+01-28 12:16:51.001 V/AutofillManager( 7439): notifyValueChanged(1073741830): ignoring on state UNKNOWN
+01-28 12:16:51.011 V/TextView( 7439): notifyAutoFillManagerAfterTextChanged
+01-28 12:16:51.011 V/AutofillManager( 7439): notifyValueChanged(1073741831): ignoring on state UNKNOWN
+01-28 12:16:51.011 V/TextView( 7439): notifyAutoFillManagerAfterTextChanged
+01-28 12:16:51.011 V/AutofillManager( 7439): notifyValueChanged(1073741831): ignoring on state UNKNOWN
+01-28 12:16:51.012 W/WindowOnBackDispatcher( 7439): OnBackInvokedCallback is not enabled for the application.
+01-28 12:16:51.012 W/WindowOnBackDispatcher( 7439): Set 'android:enableOnBackInvokedCallback="true"' in the application manifest.
+01-28 12:16:51.012 V/AutofillClientController( 7439): onActivityResumed()
+01-28 12:16:51.012 V/AutofillClientController( 7439): onActivityResumed(): Relayout fix not enabled
+01-28 12:16:51.013 V/AutofillClientController( 7439): onActivityPostResumed()
+01-28 12:16:51.015 D/InsetsController( 7439): Setting requestedVisibleTypes to -14 (was -9)
+01-28 12:16:51.017 D/WindowOnBackDispatcher( 7439): setTopOnBackInvokedCallback (unwrapped): android.view.ViewRootImpl$$ExternalSyntheticLambda12@a18354a
+01-28 12:16:51.020 V/AutofillManager( 7439): receiver results: flags=7 enabled=true, enabledForAugmentedOnly: false
+01-28 12:16:51.020 V/AutofillManager( 7439): startSessionLocked(): id=1073741831, bounds=null, value=[type=1, value=0_chars], flags=0, state=UNKNOWN, compatMode=false, augmentedOnly=false, enabledAugmentedOnly=false, enteredIds=null
+01-28 12:16:51.024 D/[N]NativeRdpSessionWrapper( 7439): NativeRdpSessionWrapper m_SessionID 101285072
+01-28 12:16:51.025 I/[N]NativeRdpSessionWrapper( 7439): NativeRdpSessionWrapper::setDpiScaleFactor(uint16_t factor) 100
+01-28 12:16:51.025 D/[N]NativeRdpSessionWrapper( 7439): NativeRdpSessionWrapper::setSessionId(int sessionId) 4
+01-28 12:16:51.025 D/[N]NativeRdpSessionWrapper( 7439): NativeRdpSessionWrapper::setClientVersion(std::string clientVersion) 11.0.0.78
+01-28 12:16:51.025 I/[N]NativeRdpSessionWrapper( 7439): connect in
+01-28 12:16:51.025 I/[N]NativeRdpSessionWrapper( 7439): onProtocolStateChanged: 5
+01-28 12:16:51.027 D/[N]key_input_jni( 7439): Calling InitInputSettings with nativePtr=0x723ae062a8
+01-28 12:16:51.027 D/[N]key_input_jni( 7439): InitInputSettings finished
+01-28 12:16:51.027 V/[N]WebAuthNDelegate( 7439): WebAuthNDelegate is created.
+01-28 12:16:51.027 V/[N]NativeRdpSessionWrapper( 7439): m_spWebAuthNDelegate is 0x723ae3ad28
+01-28 12:16:51.027 V/[N]NativeRdpSessionWrapper( 7439): m_spWebAuthNController is 0x723ae1cd68
+01-28 12:16:51.027 I/[N]NativeWebAuthNWrapper( 7439): NativeWebAuthNWrapper created
+01-28 12:16:51.027 V/[N]WebAuthNDelegate( 7439): SetNativeWebAuthNWrapper
+01-28 12:16:51.030 I/[N]NativeRdpSessionWrapper( 7439): width=768, height=1596, desktopScaleFactor=0.000000
+01-28 12:16:51.030 I/[N]ConnectionDelegate( 7439): OnActivityIdGenerated : {3b9cff48-fdc4-449c-b25d-ac1b5d2a0000}
+01-28 12:16:51.033 I/ImeTracker( 7439): com.microsoft.rdc.androidx:8872b51c: onRequestHide at ORIGIN_CLIENT reason HIDE_SOFT_INPUT fromUser false
+01-28 12:16:51.033 I/ImeTracker( 7439): com.microsoft.rdc.androidx:8872b51c: onFailed at PHASE_CLIENT_VIEW_SERVED
+01-28 12:16:51.035 I/[N]NativeRdpSessionWrapper( 7439): onConnectionStatusUpdates: 0
+01-28 12:16:51.038 E/RdCoreAndroid( 7439): {3b9cff48-fdc4-449c-b25d-ac1b5d2a0000} RDP_WAN(ERR): TcpTrans::TcpTransportOnClosed - connection attempt exception: Host not found (authoritative)
+01-28 12:16:51.038 E/RdCoreAndroid( 7439):     /mnt/vss/_work/1/s/source/stack/libtermsrv/rdp/LegacyXPlat/Transport/ClientCore/Implementation/TsTcpDctTransport.cpp(1188): TcpTransportOnClosed()
+01-28 12:16:51.041 V/View    ( 7439): dispatchProvideAutofillStructure(): not laid out, ignoring 2 children of 1073741839
+01-28 12:16:51.041 V/View    ( 7439): dispatchProvideAutofillStructure(): not laid out, ignoring 3 children of 1073741844
+01-28 12:16:51.041 V/View    ( 7439): dispatchProvideAutofillStructure(): not laid out, ignoring 1 children of 1073741845
+01-28 12:16:51.041 V/View    ( 7439): dispatchProvideAutofillStructure(): not laid out, ignoring 4 children of 1073741846
+01-28 12:16:51.041 I/AssistStructure( 7439): Flattened final assist data: 2156 bytes, containing 1 windows, 16 views
+01-28 12:16:51.051 D/InsetsController( 7439): Setting requestedVisibleTypes to -16 (was -14)
+01-28 12:16:51.058 D/[N]NativeRdpConnection( 7439): JNI sendLocation: lat=33.062317, lon=-111.957254, alt=339
+01-28 12:16:51.058 D/[N]NativeRdpSessionWrapper( 7439): sendLocation: lat=33.062317 in (-90, 90), long=-111.957254 in (-180, 180), alt=339
+01-28 12:16:51.135 D/ImeBackDispatcher( 7439): switch root view (mImeCallbacks.size=0)
+01-28 12:16:51.441 D/InsetsController( 7439): Setting requestedVisibleTypes to -14 (was -16)
+01-28 12:16:51.518 D/VRI[HomeActivity]( 7439): visibilityChanged oldVisibility=true newVisibility=false
+01-28 12:16:51.528 D/HWUI    ( 7439): endAllActiveAnimators on 0x72eae1c930 (UnprojectedRipple) with handle 0x719ad46290
+01-28 12:16:51.532 I/AutofillManager( 7439): onInvisibleForAutofill(): expiringResponse
+01-28 12:16:51.532 V/AutofillManager( 7439): updateSessionLocked(): id=null, bounds=null, value=null, action=5, flags=0
+01-28 12:16:51.740 D/InsetsController( 7439): Setting requestedVisibleTypes to -16 (was -14)
+01-28 12:16:52.311 V/AutofillManager( 7439): setSessionFinished(): from ACTIVE to FINISHED; autofillableIds=[1073741831]
+01-28 12:16:54.042 W/[N]ConnectionDelegate( 7439): Client receive auth challenge begin
+01-28 12:16:54.042 I/[N]NativeRdpSessionWrapper( 7439): onProtocolStateChanged: 2
+01-28 12:16:54.043 W/[N]ConnectionDelegate( 7439): Client receive credentials challenge
+01-28 12:16:54.043 W/[N]ConnectionDelegate( 7439): Client receive challenge from 2
+01-28 12:16:54.043 W/[N]ConnectionDelegate( 7439): GATEWAY call password challenge from java layer >>>>
+01-28 12:16:54.045 W/[N]NativeGlobalPlugin( 7439): [RDC-RdpSession]:RdpSession onPasswordChallenge
+01-28 12:16:54.045 W/[N]ConnectionDelegate( 7439): GATEWAY call password challenge from java layer <<<<
+01-28 12:16:54.046 W/[N]NativeGlobalPlugin( 7439): [UI-SessionActivity]:SessionActivity onPasswordChallenge
+01-28 12:16:54.049 V/TextView( 7439): notifyAutoFillManagerAfterTextChanged
+01-28 12:16:54.049 V/AutofillManager( 7439): notifyValueChanged(1073741847): ignoring on state FINISHED
+01-28 12:16:54.049 V/TextView( 7439): notifyAutoFillManagerAfterTextChanged
+01-28 12:16:54.049 V/AutofillManager( 7439): notifyValueChanged(1073741847): ignoring on state FINISHED
+01-28 12:16:54.055 V/TextView( 7439): notifyAutoFillManagerAfterTextChanged
+01-28 12:16:54.055 V/AutofillManager( 7439): notifyValueChanged(1073741848): ignoring on state FINISHED
+01-28 12:16:54.055 V/TextView( 7439): notifyAutoFillManagerAfterTextChanged
+01-28 12:16:54.055 V/AutofillManager( 7439): notifyValueChanged(1073741848): ignoring on state FINISHED
+01-28 12:16:54.055 V/TextView( 7439): notifyAutoFillManagerAfterTextChanged
+01-28 12:16:54.055 V/AutofillManager( 7439): notifyValueChanged(1073741848): ignoring on state FINISHED
+01-28 12:16:54.079 V/TextView( 7439): notifyAutoFillManagerAfterTextChanged
+01-28 12:16:54.079 V/AutofillManager( 7439): notifyValueChanged(1073741847): ignoring on state FINISHED
+01-28 12:16:54.083 D/WindowOnBackDispatcher( 7439): setTopOnBackInvokedCallback (unwrapped): android.view.ViewRootImpl$$ExternalSyntheticLambda12@46ef021
+01-28 12:16:54.194 D/ImeBackDispatcher( 7439): switch root view (mImeCallbacks.size=0)
+01-28 12:16:54.203 D/InsetsController( 7439): hide(ime())
+01-28 12:16:54.203 I/ImeTracker( 7439): com.microsoft.rdc.androidx:2c26019f: onCancelled at PHASE_CLIENT_ALREADY_HIDDEN
+01-28 12:17:02.137 D/[N]NativeRdpConnection( 7439): JNI sendLocation: lat=33.062294, lon=-111.957240, alt=338
+01-28 12:17:02.137 D/[N]NativeRdpSessionWrapper( 7439): sendLocation: lat=33.062294 in (-90, 90), long=-111.957240 in (-180, 180), alt=338
+01-28 12:17:03.029 V/AutofillManager( 7439): requestHideFillUi(null): anchor = null
+01-28 12:17:03.192 V/AutofillManager( 7439): startSessionLocked(): id=1073741847, bounds=null, value=[type=1, value=0_chars], flags=0, state=FINISHED, compatMode=false, augmentedOnly=false, enabledAugmentedOnly=false, enteredIds={1073741831}
+01-28 12:17:03.218 I/AutofillManager( 7439): showAutofillDialog() return false due to improve fill dialog
+01-28 12:17:03.219 I/ImeTracker( 7439): com.microsoft.rdc.androidx:bc618409: onRequestShow at ORIGIN_CLIENT reason SHOW_SOFT_INPUT fromUser true
+01-28 12:17:03.219 D/InsetsController( 7439): show(ime())
+01-28 12:17:03.220 D/ImeBackDispatcher( 7439): Undo preliminary clear (mImeCallbacks.size=0)
+01-28 12:17:03.220 D/InsetsController( 7439): Setting requestedVisibleTypes to -1 (was -9)
+01-28 12:17:03.225 V/View    ( 7439): dispatchProvideAutofillStructure(): not laid out, ignoring 3 children of 1073741844
+01-28 12:17:03.225 V/View    ( 7439): dispatchProvideAutofillStructure(): not laid out, ignoring 1 children of 1073741845
+01-28 12:17:03.225 V/View    ( 7439): dispatchProvideAutofillStructure(): not laid out, ignoring 4 children of 1073741846
+01-28 12:17:03.226 V/View    ( 7439): dispatchProvideAutofillStructure(): not laid out, ignoring 3 children of 1073741864
+01-28 12:17:03.228 I/AssistStructure( 7439): Flattened final assist data: 6504 bytes, containing 2 windows, 45 views
+01-28 12:17:03.290 D/ImeBackDispatcher( 7439): Register received callback id=196490309 priority=0
+01-28 12:17:03.290 D/WindowOnBackDispatcher( 7439): setTopOnBackInvokedCallback (unwrapped): android.view.ImeBackAnimationController@ec697f5
+01-28 12:17:03.566 I/ImeTracker( 7439): com.microsoft.rdc.androidx:bc618409: onShown
+01-28 12:17:04.731 V/AutofillManager( 7439): setTrackedViews(): sessionId=1092888701, trackedIds=[1073741847@1092888701, 1073741848@1092888701], saveOnAllViewsInvisible=true, saveOnFinish=true, fillableIds=null, saveTrigerId=null, mFillableIds=null, shouldGrabViewFingerprints=false, mEnabled=true, mSessionId=1092888701
+01-28 12:17:04.731 V/AutofillManager( 7439): client is visible, check tracked ids
+01-28 12:17:04.731 V/AutofillClientController( 7439): autofillClientGetViewVisibility(): [true, true]
+01-28 12:17:04.731 V/AutofillManager( 7439): client is visible, check tracked ids
+01-28 12:17:04.731 V/AutofillClientController( 7439): autofillClientGetViewVisibility(): [true, true]
+01-28 12:17:04.731 V/AutofillManager( 7439): TrackedViews(trackedIds=[1073741847, 1073741848]):  mVisibleTrackedIds={1073741847, 1073741848} mInvisibleTrackedIds={} allTrackedIds=[1073741847, 1073741848] mVisibleDialogTrackedIds={1073741847, 1073741848} mInvisibleDialogTrackedIds={}
+01-28 12:17:12.387 V/TextView( 7439): notifyAutoFillManagerAfterTextChanged
+01-28 12:17:12.387 V/AutofillManager( 7439): updateSessionLocked(): id=1073741847, bounds=null, value=[type=1, value=1_chars], action=4, flags=128
+01-28 12:17:13.133 V/TextView( 7439): notifyAutoFillManagerAfterTextChanged
+01-28 12:17:13.134 V/AutofillManager( 7439): updateSessionLocked(): id=1073741847, bounds=null, value=[type=1, value=2_chars], action=4, flags=128
+01-28 12:17:13.296 V/TextView( 7439): notifyAutoFillManagerAfterTextChanged
+01-28 12:17:13.296 V/AutofillManager( 7439): updateSessionLocked(): id=1073741847, bounds=null, value=[type=1, value=3_chars], action=4, flags=128
+01-28 12:17:13.509 V/TextView( 7439): notifyAutoFillManagerAfterTextChanged
+01-28 12:17:13.509 V/AutofillManager( 7439): updateSessionLocked(): id=1073741847, bounds=null, value=[type=1, value=4_chars], action=4, flags=128
+01-28 12:17:15.096 V/TextView( 7439): notifyAutoFillManagerAfterTextChanged
+01-28 12:17:15.096 V/AutofillManager( 7439): updateSessionLocked(): id=1073741847, bounds=null, value=[type=1, value=20_chars], action=4, flags=128
+01-28 12:17:15.994 V/AutofillManager( 7439): requestHideFillUi(null): anchor = null
+01-28 12:17:16.599 V/AutofillManager( 7439): requestHideFillUi(null): anchor = null
+01-28 12:17:16.675 V/AutofillManager( 7439): updateSessionLocked(): id=1073741847, bounds=null, value=null, action=3, flags=0
+01-28 12:17:16.676 V/AutofillManager( 7439): updateSessionLocked(): id=1073741848, bounds=null, value=[type=1, value=0_chars], action=2, flags=132
+01-28 12:17:16.678 I/AutofillManager( 7439): showAutofillDialog() return false due to improve fill dialog
+01-28 12:17:16.679 I/ImeTracker( 7439): com.microsoft.rdc.androidx:5fd9ebc6: onRequestShow at ORIGIN_CLIENT reason SHOW_SOFT_INPUT fromUser true
+01-28 12:17:16.679 D/InsetsController( 7439): show(ime())
+01-28 12:17:16.679 I/ImeTracker( 7439): com.microsoft.rdc.androidx:5fd9ebc6: onCancelled at PHASE_CLIENT_APPLY_ANIMATION
+01-28 12:17:16.701 W/RemoteInputConnectionImpl( 7439): requestCursorUpdates on inactive InputConnection
+01-28 12:17:16.703 D/ImeBackDispatcher( 7439): Unregister received callback id=196490309
+01-28 12:17:16.704 D/WindowOnBackDispatcher( 7439): setTopOnBackInvokedCallback (unwrapped): android.view.ViewRootImpl$$ExternalSyntheticLambda12@46ef021
+01-28 12:17:16.740 D/ImeBackDispatcher( 7439): Register received callback id=196490309 priority=0
+01-28 12:17:16.740 D/WindowOnBackDispatcher( 7439): setTopOnBackInvokedCallback (unwrapped): android.view.ImeBackAnimationController@ec697f5
+01-28 12:17:16.943 V/AutofillManager( 7439): requestHideFillUi(null): anchor = null
+01-28 12:17:17.017 I/AutofillManager( 7439): showAutofillDialog() return false due to improve fill dialog
+01-28 12:17:17.018 I/ImeTracker( 7439): com.microsoft.rdc.androidx:c8ec27a5: onRequestShow at ORIGIN_CLIENT reason SHOW_SOFT_INPUT fromUser true
+01-28 12:17:17.018 D/InsetsController( 7439): show(ime())
+01-28 12:17:17.018 I/ImeTracker( 7439): com.microsoft.rdc.androidx:c8ec27a5: onCancelled at PHASE_CLIENT_APPLY_ANIMATION
+01-28 12:17:17.020 V/AutofillManager( 7439): updateSessionLocked(): id=1073741848, bounds=null, value=[type=1, value=0_chars], action=2, flags=132
+01-28 12:17:19.134 V/TextView( 7439): notifyAutoFillManagerAfterTextChanged
+01-28 12:17:19.134 V/AutofillManager( 7439): updateSessionLocked(): id=1073741848, bounds=null, value=[type=1, value=1_chars], action=4, flags=128
+01-28 12:17:19.667 V/TextView( 7439): notifyAutoFillManagerAfterTextChanged
+01-28 12:17:19.667 V/AutofillManager( 7439): updateSessionLocked(): id=1073741848, bounds=null, value=[type=1, value=2_chars], action=4, flags=128
+01-28 12:17:20.359 V/TextView( 7439): notifyAutoFillManagerAfterTextChanged
+01-28 12:17:20.359 V/AutofillManager( 7439): updateSessionLocked(): id=1073741848, bounds=null, value=[type=1, value=3_chars], action=4, flags=128
+01-28 12:17:21.054 V/TextView( 7439): notifyAutoFillManagerAfterTextChanged
+01-28 12:17:21.054 V/AutofillManager( 7439): updateSessionLocked(): id=1073741848, bounds=null, value=[type=1, value=4_chars], action=4, flags=128
+01-28 12:17:21.201 V/TextView( 7439): notifyAutoFillManagerAfterTextChanged
+01-28 12:17:21.201 V/AutofillManager( 7439): updateSessionLocked(): id=1073741848, bounds=null, value=[type=1, value=5_chars], action=4, flags=128
+01-28 12:17:21.910 V/TextView( 7439): notifyAutoFillManagerAfterTextChanged
+01-28 12:17:21.911 V/AutofillManager( 7439): updateSessionLocked(): id=1073741848, bounds=null, value=[type=1, value=6_chars], action=4, flags=128
+01-28 12:17:22.328 V/TextView( 7439): notifyAutoFillManagerAfterTextChanged
+01-28 12:17:22.329 V/AutofillManager( 7439): updateSessionLocked(): id=1073741848, bounds=null, value=[type=1, value=7_chars], action=4, flags=128
+01-28 12:17:23.110 V/TextView( 7439): notifyAutoFillManagerAfterTextChanged
+01-28 12:17:23.110 V/AutofillManager( 7439): updateSessionLocked(): id=1073741848, bounds=null, value=[type=1, value=8_chars], action=4, flags=128
+01-28 12:17:23.276 V/TextView( 7439): notifyAutoFillManagerAfterTextChanged
+01-28 12:17:23.276 V/AutofillManager( 7439): updateSessionLocked(): id=1073741848, bounds=null, value=[type=1, value=9_chars], action=4, flags=128
+01-28 12:17:23.476 V/TextView( 7439): notifyAutoFillManagerAfterTextChanged
+01-28 12:17:23.476 V/AutofillManager( 7439): updateSessionLocked(): id=1073741848, bounds=null, value=[type=1, value=10_chars], action=4, flags=128
+01-28 12:17:27.661 V/TextView( 7439): notifyAutoFillManagerAfterTextChanged
+01-28 12:17:27.661 V/AutofillManager( 7439): updateSessionLocked(): id=1073741848, bounds=null, value=[type=1, value=11_chars], action=4, flags=128
+01-28 12:17:28.241 V/TextView( 7439): notifyAutoFillManagerAfterTextChanged
+01-28 12:17:28.242 V/AutofillManager( 7439): updateSessionLocked(): id=1073741848, bounds=null, value=[type=1, value=12_chars], action=4, flags=128
+01-28 12:17:28.416 V/TextView( 7439): notifyAutoFillManagerAfterTextChanged
+01-28 12:17:28.416 V/AutofillManager( 7439): updateSessionLocked(): id=1073741848, bounds=null, value=[type=1, value=13_chars], action=4, flags=128
+01-28 12:17:29.082 V/TextView( 7439): notifyAutoFillManagerAfterTextChanged
+01-28 12:17:29.082 V/AutofillManager( 7439): updateSessionLocked(): id=1073741848, bounds=null, value=[type=1, value=14_chars], action=4, flags=128
+01-28 12:17:29.592 V/TextView( 7439): notifyAutoFillManagerAfterTextChanged
+01-28 12:17:29.593 V/AutofillManager( 7439): updateSessionLocked(): id=1073741848, bounds=null, value=[type=1, value=15_chars], action=4, flags=128
+01-28 12:17:31.463 V/TextView( 7439): notifyAutoFillManagerAfterTextChanged
+01-28 12:17:31.463 V/AutofillManager( 7439): updateSessionLocked(): id=1073741848, bounds=null, value=[type=1, value=16_chars], action=4, flags=128
+01-28 12:17:32.124 V/AutofillManager( 7439): requestHideFillUi(null): anchor = null
+01-28 12:17:32.227 I/ImeTracker( 7439): com.microsoft.rdc.androidx:d9b449e2: onRequestHide at ORIGIN_CLIENT reason HIDE_SOFT_INPUT fromUser false
+01-28 12:17:32.227 D/InsetsController( 7439): hide(ime())
+01-28 12:17:32.228 D/ImeBackDispatcher( 7439): Preliminary clear (mImeCallbacks.size=1)
+01-28 12:17:32.228 D/WindowOnBackDispatcher( 7439): setTopOnBackInvokedCallback (unwrapped): android.view.ViewRootImpl$$ExternalSyntheticLambda12@46ef021
+01-28 12:17:32.228 D/InsetsController( 7439): Setting requestedVisibleTypes to -9 (was -1)
+01-28 12:17:32.229 D/ImeBackDispatcher( 7439): Clear (mImeCallbacks.size=1)
+01-28 12:17:32.229 D/ImeBackDispatcher( 7439): switch root view (mImeCallbacks.size=0)
+01-28 12:17:32.229 D/WindowOnBackDispatcher( 7439): setTopOnBackInvokedCallback (unwrapped): null
+01-28 12:17:32.240 D/HWUI    ( 7439): endAllActiveAnimators on 0x72eae852f0 (RippleDrawable) with handle 0x719ad2d1e0
+01-28 12:17:32.240 I/ImeTracker( 7439): com.microsoft.rdc.androidx:d9b449e2: onCancelled at PHASE_CLIENT_ANIMATION_CANCEL
+01-28 12:17:32.257 W/[N]NativeGlobalPlugin( 7439): [RDC-RdpSession]:RdpSession completePasswordChallenge
+01-28 12:17:32.259 W/[N]NativeGlobalPlugin( 7439): [RDC-RdpSession]:RdpSession call native password challenge
+01-28 12:17:32.261 W/[N]NativeRdpConnection( 7439): call jni completePasswordChallenge
+01-28 12:17:32.261 W/[N]NativeRdpConnection( 7439): try to call jni completePasswordChallenge
+01-28 12:17:32.261 W/[N]NativeRdpConnection( 7439): jni completePasswordChallenge >>>> 
+01-28 12:17:32.262 W/[N]NativeRdpSessionWrapper( 7439): completePasswordChallenge 0
+01-28 12:17:32.262 W/[N]NativeRdpSessionWrapper( 7439): set password
+01-28 12:17:32.262 W/[N]NativeRdpConnection( 7439): jni completePasswordChallenge <<<< 
+01-28 12:17:32.262 W/[N]ConnectionDelegate( 7439): GATEWAY complete password challenge
+01-28 12:17:32.263 V/AutofillManager( 7439): visibility changed for 1073741847: false
+01-28 12:17:32.263 D/AutofillManager( 7439): notifyViewVisibilityChangedLocked(): id=1073741847 isVisible=false
+01-28 12:17:32.263 V/AutofillManager( 7439): visibility changed for 1073741848: false
+01-28 12:17:32.263 D/AutofillManager( 7439): notifyViewVisibilityChangedLocked(): id=1073741848 isVisible=false
+01-28 12:17:32.263 V/AutofillManager( 7439): No more visible tracked save ids. Invisible = {1073741847, 1073741848}
+01-28 12:17:32.263 V/AutofillManager( 7439): finishSessionLocked(): ACTIVE
+01-28 12:17:32.263 V/AutofillManager( 7439): No more visible tracked fill dialog ids. Invisible = {1073741847, 1073741848}
+01-28 12:17:32.267 I/[N]NativeRdpSessionWrapper( 7439): onConnectionStatusUpdates: 0
+01-28 12:17:32.272 D/[N]key_input_jni( 7439): SetActiveLanguageId with activeLanguageId=1033
+01-28 12:17:32.287 I/ImeTracker( 7439): com.microsoft.rdc.androidx:a6c8df97: onRequestHide at ORIGIN_CLIENT reason HIDE_SOFT_INPUT fromUser false
+01-28 12:17:32.287 I/ImeTracker( 7439): com.microsoft.rdc.androidx:a6c8df97: onFailed at PHASE_CLIENT_VIEW_SERVED
+01-28 12:17:32.288 W/RemoteInputConnectionImpl( 7439): requestCursorUpdates on inactive InputConnection
+01-28 12:17:32.298 D/ImeBackDispatcher( 7439): switch root view (mImeCallbacks.size=0)
+01-28 12:17:32.298 D/ImeBackDispatcher( 7439): updateReceivingDispatcher (mQueuedReceive.size=1)
+01-28 12:17:32.298 D/ImeBackDispatcher( 7439): Unregister received callback id=196490309
+01-28 12:17:32.298 W/ImeBackDispatcher( 7439): Ime callback not found. Ignoring unregisterReceivedCallback. callbackId: 196490309 remaining callbacks: 0
+01-28 12:17:32.310 D/AutofillManager( 7439): setSaveUiState(1092888701): true
+01-28 12:17:32.336 I/ImeTracker( 7439): system_server:80b6c5af: onCancelled at PHASE_CLIENT_ON_CONTROLS_CHANGED
+01-28 12:17:32.604 D/InsetsController( 7439): Setting requestedVisibleTypes to -14 (was -16)
+01-28 12:17:32.624 I/ImeTracker( 7439): system_server:d8a6ddd4: onCancelled at PHASE_CLIENT_ON_CONTROLS_CHANGED
+01-28 12:17:32.649 E/RdCoreAndroid( 7439): {3b9cff48-fdc4-449c-b25d-ac1b5d2a0000} BasixWebsocketEndpoint(ERR): websocket closed with std::exception: Host not found (authoritative)
+01-28 12:17:32.649 E/RdCoreAndroid( 7439):  Caught at:
+01-28 12:17:32.649 E/RdCoreAndroid( 7439):     /mnt/vss/_work/1/s/source/stack/libtermsrv/gateway/basix_websocket_endpoint.cpp(877): OnClosed()
+01-28 12:17:32.651 I/[N]NativeRdpSessionWrapper( 7439): onProtocolStateChanged: 9
+01-28 12:17:32.674 E/[N]key_input_jni( 7439): keyInputDelegatePtrFromNativeRdpSessionPtr: NativeRdpSessionWrapper is null
+01-28 12:17:32.677 D/WindowOnBackDispatcher( 7439): setTopOnBackInvokedCallback (unwrapped): android.view.ViewRootImpl$$ExternalSyntheticLambda12@9c6698b
+01-28 12:17:32.904 D/InsetsController( 7439): Setting requestedVisibleTypes to -16 (was -14)
+01-28 12:17:39.404 D/AutofillManager( 7439): setSaveUiState(1092888701): false
+01-28 12:17:39.404 W/AutofillManager( 7439): setSaveUiState(1092888701, false) called on existing session 1092888701; cancelling it
+01-28 12:17:39.404 V/AutofillManager( 7439): cancelSessionLocked(): SHOWING_SAVE_UI
+01-28 12:17:41.780 V/AutofillManager( 7439): requestHideFillUi(null): anchor = null
+01-28 12:17:42.531 D/WindowOnBackDispatcher( 7439): setTopOnBackInvokedCallback (unwrapped): null
+01-28 12:17:42.539 D/HWUI    ( 7439): endAllActiveAnimators on 0x72eae1a290 (RippleDrawable) with handle 0x719ad7b030
+01-28 12:17:42.557 D/ViewRootImpl( 7439): Skipping stats log for color mode
+01-28 12:17:42.560 V/AutofillClientController( 7439): onActivityResumed()
+01-28 12:17:42.561 V/AutofillClientController( 7439): onActivityResumed(): Relayout fix not enabled
+01-28 12:17:42.564 V/AutofillClientController( 7439): onActivityPostResumed()
+01-28 12:17:42.630 D/ImeBackDispatcher( 7439): switch root view (mImeCallbacks.size=0)
+01-28 12:17:42.637 D/InsetsController( 7439): hide(ime())
+01-28 12:17:42.637 I/ImeTracker( 7439): com.microsoft.rdc.androidx:1b79fe34: onCancelled at PHASE_CLIENT_ALREADY_HIDDEN
+01-28 12:17:43.079 D/VRI[SessionActivity]( 7439): visibilityChanged oldVisibility=true newVisibility=false
+01-28 12:17:43.095 I/AutofillManager( 7439): onInvisibleForAutofill(): expiringResponse
+01-28 12:17:43.095 V/AutofillManager( 7439): updateSessionLocked(): id=null, bounds=null, value=null, action=5, flags=0
+01-28 12:17:43.097 D/AutofillManager( 7439): onActivityFinishing(): calling commitLocked()
+01-28 12:17:43.097 V/AutofillManager( 7439): finishSessionLocked(): UNKNOWN
+01-28 12:17:43.098 D/WindowOnBackDispatcher( 7439): setTopOnBackInvokedCallback (unwrapped): null
+01-28 12:17:43.100 D/ViewRootImpl( 7439): Skipping stats log for color mode
+01-28 12:17:43.838 V/AutofillManager( 7439): requestHideFillUi(null): anchor = null
+01-28 12:17:43.954 D/AutofillManager( 7439): Fill dialog is enabled:false, hints=[]
+01-28 12:17:43.954 V/TextView( 7439): notifyAutoFillManagerAfterTextChanged
+01-28 12:17:43.954 V/AutofillManager( 7439): notifyValueChanged(1073741824): ignoring on state UNKNOWN
+01-28 12:17:43.954 V/TextView( 7439): notifyAutoFillManagerAfterTextChanged
+01-28 12:17:43.954 V/AutofillManager( 7439): notifyValueChanged(1073741824): ignoring on state UNKNOWN
+01-28 12:17:43.954 V/TextView( 7439): notifyAutoFillManagerAfterTextChanged
+01-28 12:17:43.954 V/AutofillManager( 7439): notifyValueChanged(1073741825): ignoring on state UNKNOWN
+01-28 12:17:43.954 V/TextView( 7439): notifyAutoFillManagerAfterTextChanged
+01-28 12:17:43.954 V/AutofillManager( 7439): notifyValueChanged(1073741825): ignoring on state UNKNOWN
+01-28 12:17:43.955 V/TextView( 7439): notifyAutoFillManagerAfterTextChanged
+01-28 12:17:43.955 V/AutofillManager( 7439): notifyValueChanged(1073741826): ignoring on state UNKNOWN
+01-28 12:17:43.955 V/TextView( 7439): notifyAutoFillManagerAfterTextChanged
+01-28 12:17:43.955 V/AutofillManager( 7439): notifyValueChanged(1073741827): ignoring on state UNKNOWN
+01-28 12:17:43.955 V/TextView( 7439): notifyAutoFillManagerAfterTextChanged
+01-28 12:17:43.955 V/AutofillManager( 7439): notifyValueChanged(1073741828): ignoring on state UNKNOWN
+01-28 12:17:43.955 V/TextView( 7439): notifyAutoFillManagerAfterTextChanged
+01-28 12:17:43.955 V/AutofillManager( 7439): notifyValueChanged(1073741829): ignoring on state UNKNOWN
+01-28 12:17:43.955 V/TextView( 7439): notifyAutoFillManagerAfterTextChanged
+01-28 12:17:43.955 V/AutofillManager( 7439): notifyValueChanged(1073741830): ignoring on state UNKNOWN
+01-28 12:17:43.961 V/TextView( 7439): notifyAutoFillManagerAfterTextChanged
+01-28 12:17:43.961 V/AutofillManager( 7439): notifyValueChanged(1073741831): ignoring on state UNKNOWN
+01-28 12:17:43.961 V/TextView( 7439): notifyAutoFillManagerAfterTextChanged
+01-28 12:17:43.961 V/AutofillManager( 7439): notifyValueChanged(1073741831): ignoring on state UNKNOWN
+01-28 12:17:43.962 W/WindowOnBackDispatcher( 7439): OnBackInvokedCallback is not enabled for the application.
+01-28 12:17:43.962 W/WindowOnBackDispatcher( 7439): Set 'android:enableOnBackInvokedCallback="true"' in the application manifest.
+01-28 12:17:43.963 V/AutofillClientController( 7439): onActivityResumed()
+01-28 12:17:43.963 V/AutofillClientController( 7439): onActivityResumed(): Relayout fix not enabled
+01-28 12:17:43.963 V/AutofillClientController( 7439): onActivityPostResumed()
+01-28 12:17:43.964 D/InsetsController( 7439): Setting requestedVisibleTypes to -14 (was -9)
+01-28 12:17:43.967 D/WindowOnBackDispatcher( 7439): setTopOnBackInvokedCallback (unwrapped): android.view.ViewRootImpl$$ExternalSyntheticLambda12@b23813c
+01-28 12:17:43.969 V/AutofillManager( 7439): receiver results: flags=7 enabled=true, enabledForAugmentedOnly: false
+01-28 12:17:43.969 V/AutofillManager( 7439): startSessionLocked(): id=1073741831, bounds=null, value=[type=1, value=0_chars], flags=0, state=UNKNOWN, compatMode=false, augmentedOnly=false, enabledAugmentedOnly=false, enteredIds=null
+01-28 12:17:43.974 D/[N]NativeRdpSessionWrapper( 7439): NativeRdpSessionWrapper m_SessionID 101338021
+01-28 12:17:43.974 I/[N]NativeRdpSessionWrapper( 7439): NativeRdpSessionWrapper::setDpiScaleFactor(uint16_t factor) 175
+01-28 12:17:43.974 D/[N]NativeRdpSessionWrapper( 7439): NativeRdpSessionWrapper::setSessionId(int sessionId) 5
+01-28 12:17:43.974 D/[N]NativeRdpSessionWrapper( 7439): NativeRdpSessionWrapper::setClientVersion(std::string clientVersion) 11.0.0.78
+01-28 12:17:43.974 I/[N]NativeRdpSessionWrapper( 7439): connect in
+01-28 12:17:43.974 I/[N]NativeRdpSessionWrapper( 7439): onProtocolStateChanged: 5
+01-28 12:17:43.976 D/[N]key_input_jni( 7439): Calling InitInputSettings with nativePtr=0x723adc6268
+01-28 12:17:43.976 D/[N]key_input_jni( 7439): InitInputSettings finished
+01-28 12:17:43.976 V/[N]WebAuthNDelegate( 7439): WebAuthNDelegate is created.
+01-28 12:17:43.976 V/[N]NativeRdpSessionWrapper( 7439): m_spWebAuthNDelegate is 0x723adc1fa8
+01-28 12:17:43.976 V/[N]NativeRdpSessionWrapper( 7439): m_spWebAuthNController is 0x723adc7528
+01-28 12:17:43.976 I/[N]NativeWebAuthNWrapper( 7439): NativeWebAuthNWrapper created
+01-28 12:17:43.976 V/[N]WebAuthNDelegate( 7439): SetNativeWebAuthNWrapper
+01-28 12:17:43.977 I/[N]NativeRdpSessionWrapper( 7439): width=2016, height=4188, desktopScaleFactor=0.000000
+01-28 12:17:43.977 I/[N]ConnectionDelegate( 7439): OnActivityIdGenerated : {a723ad08-321b-448d-9408-48f86c9d0000}
+01-28 12:17:43.979 I/ImeTracker( 7439): com.microsoft.rdc.androidx:19a0c098: onRequestHide at ORIGIN_CLIENT reason HIDE_SOFT_INPUT fromUser false
+01-28 12:17:43.979 I/ImeTracker( 7439): com.microsoft.rdc.androidx:19a0c098: onFailed at PHASE_CLIENT_VIEW_SERVED
+01-28 12:17:43.983 V/View    ( 7439): dispatchProvideAutofillStructure(): not laid out, ignoring 2 children of 1073741839
+01-28 12:17:43.984 V/View    ( 7439): dispatchProvideAutofillStructure(): not laid out, ignoring 3 children of 1073741844
+01-28 12:17:43.984 V/View    ( 7439): dispatchProvideAutofillStructure(): not laid out, ignoring 1 children of 1073741845
+01-28 12:17:43.984 V/View    ( 7439): dispatchProvideAutofillStructure(): not laid out, ignoring 4 children of 1073741846
+01-28 12:17:43.984 I/[N]NativeRdpSessionWrapper( 7439): onConnectionStatusUpdates: 0
+01-28 12:17:43.985 I/AssistStructure( 7439): Flattened final assist data: 2156 bytes, containing 1 windows, 16 views
+01-28 12:17:43.987 E/RdCoreAndroid( 7439): {a723ad08-321b-448d-9408-48f86c9d0000} RDP_WAN(ERR): TcpTrans::TcpTransportOnClosed - connection attempt exception: Host not found (authoritative)
+01-28 12:17:43.987 E/RdCoreAndroid( 7439):     /mnt/vss/_work/1/s/source/stack/libtermsrv/rdp/LegacyXPlat/Transport/ClientCore/Implementation/TsTcpDctTransport.cpp(1188): TcpTransportOnClosed()
+01-28 12:17:43.988 D/[N]NativeRdpConnection( 7439): JNI sendLocation: lat=33.062313, lon=-111.957248, alt=338
+01-28 12:17:43.988 D/[N]NativeRdpSessionWrapper( 7439): sendLocation: lat=33.062313 in (-90, 90), long=-111.957248 in (-180, 180), alt=338
+01-28 12:17:43.996 D/InsetsController( 7439): Setting requestedVisibleTypes to -16 (was -14)
+01-28 12:17:44.080 D/ImeBackDispatcher( 7439): switch root view (mImeCallbacks.size=0)
+01-28 12:17:44.386 D/InsetsController( 7439): Setting requestedVisibleTypes to -14 (was -16)
+01-28 12:17:44.467 D/VRI[HomeActivity]( 7439): visibilityChanged oldVisibility=true newVisibility=false
+01-28 12:17:44.473 D/HWUI    ( 7439): endAllActiveAnimators on 0x72ead0a2d0 (UnprojectedRipple) with handle 0x719ad3c8a0
+01-28 12:17:44.477 I/AutofillManager( 7439): onInvisibleForAutofill(): expiringResponse
+01-28 12:17:44.477 V/AutofillManager( 7439): updateSessionLocked(): id=null, bounds=null, value=null, action=5, flags=0
+01-28 12:17:44.685 D/InsetsController( 7439): Setting requestedVisibleTypes to -16 (was -14)
+01-28 12:17:44.786 V/AutofillManager( 7439): setSessionFinished(): from ACTIVE to FINISHED; autofillableIds=[1073741831]
+01-28 12:17:46.991 I/[N]NativeRdpSessionWrapper( 7439): onProtocolStateChanged: 9
+01-28 12:17:47.011 E/[N]key_input_jni( 7439): keyInputDelegatePtrFromNativeRdpSessionPtr: NativeRdpSessionWrapper is null
+01-28 12:17:47.038 D/WindowOnBackDispatcher( 7439): setTopOnBackInvokedCallback (unwrapped): android.view.ViewRootImpl$$ExternalSyntheticLambda12@903a68e
+01-28 12:17:48.166 V/AutofillManager( 7439): requestHideFillUi(null): anchor = null
+01-28 12:17:48.331 D/WindowOnBackDispatcher( 7439): setTopOnBackInvokedCallback (unwrapped): null
+01-28 12:17:48.336 D/HWUI    ( 7439): endAllActiveAnimators on 0x72eadbb9c0 (RippleDrawable) with handle 0x719ad84f60
+01-28 12:17:48.352 D/ViewRootImpl( 7439): Skipping stats log for color mode
+01-28 12:17:48.353 V/AutofillClientController( 7439): onActivityResumed()
+01-28 12:17:48.353 V/AutofillClientController( 7439): onActivityResumed(): Relayout fix not enabled
+01-28 12:17:48.354 V/AutofillClientController( 7439): onActivityPostResumed()
+01-28 12:17:48.427 D/ImeBackDispatcher( 7439): switch root view (mImeCallbacks.size=0)
+01-28 12:17:48.432 D/InsetsController( 7439): hide(ime())
+01-28 12:17:48.432 I/ImeTracker( 7439): com.microsoft.rdc.androidx:76486ad6: onCancelled at PHASE_CLIENT_ALREADY_HIDDEN
+01-28 12:17:48.887 D/VRI[SessionActivity]( 7439): visibilityChanged oldVisibility=true newVisibility=false
+01-28 12:17:48.903 I/AutofillManager( 7439): onInvisibleForAutofill(): expiringResponse
+01-28 12:17:48.903 V/AutofillManager( 7439): updateSessionLocked(): id=null, bounds=null, value=null, action=5, flags=0
+01-28 12:17:48.905 D/AutofillManager( 7439): onActivityFinishing(): calling cancelLocked()
+01-28 12:17:48.905 V/AutofillManager( 7439): cancelSessionLocked(): FINISHED
+01-28 12:17:48.905 D/WindowOnBackDispatcher( 7439): setTopOnBackInvokedCallback (unwrapped): null
+01-28 12:17:48.907 D/ViewRootImpl( 7439): Skipping stats log for color mode
+01-28 12:17:49.416 V/AutofillManager( 7439): requestHideFillUi(null): anchor = null
+01-28 12:17:49.517 D/AutofillManager( 7439): Fill dialog is enabled:false, hints=[]
+01-28 12:17:49.517 V/TextView( 7439): notifyAutoFillManagerAfterTextChanged
+01-28 12:17:49.517 V/AutofillManager( 7439): notifyValueChanged(1073741824): ignoring on state UNKNOWN
+01-28 12:17:49.517 V/TextView( 7439): notifyAutoFillManagerAfterTextChanged
+01-28 12:17:49.517 V/AutofillManager( 7439): notifyValueChanged(1073741824): ignoring on state UNKNOWN
+01-28 12:17:49.517 V/TextView( 7439): notifyAutoFillManagerAfterTextChanged
+01-28 12:17:49.517 V/AutofillManager( 7439): notifyValueChanged(1073741825): ignoring on state UNKNOWN
+01-28 12:17:49.517 V/TextView( 7439): notifyAutoFillManagerAfterTextChanged
+01-28 12:17:49.517 V/AutofillManager( 7439): notifyValueChanged(1073741825): ignoring on state UNKNOWN
+01-28 12:17:49.518 V/TextView( 7439): notifyAutoFillManagerAfterTextChanged
+01-28 12:17:49.518 V/AutofillManager( 7439): notifyValueChanged(1073741826): ignoring on state UNKNOWN
+01-28 12:17:49.518 V/TextView( 7439): notifyAutoFillManagerAfterTextChanged
+01-28 12:17:49.518 V/AutofillManager( 7439): notifyValueChanged(1073741827): ignoring on state UNKNOWN
+01-28 12:17:49.518 V/TextView( 7439): notifyAutoFillManagerAfterTextChanged
+01-28 12:17:49.518 V/AutofillManager( 7439): notifyValueChanged(1073741828): ignoring on state UNKNOWN
+01-28 12:17:49.518 V/TextView( 7439): notifyAutoFillManagerAfterTextChanged
+01-28 12:17:49.518 V/AutofillManager( 7439): notifyValueChanged(1073741829): ignoring on state UNKNOWN
+01-28 12:17:49.518 V/TextView( 7439): notifyAutoFillManagerAfterTextChanged
+01-28 12:17:49.518 V/AutofillManager( 7439): notifyValueChanged(1073741830): ignoring on state UNKNOWN
+01-28 12:17:49.523 V/TextView( 7439): notifyAutoFillManagerAfterTextChanged
+01-28 12:17:49.523 V/AutofillManager( 7439): notifyValueChanged(1073741831): ignoring on state UNKNOWN
+01-28 12:17:49.523 V/TextView( 7439): notifyAutoFillManagerAfterTextChanged
+01-28 12:17:49.523 V/AutofillManager( 7439): notifyValueChanged(1073741831): ignoring on state UNKNOWN
+01-28 12:17:49.525 W/WindowOnBackDispatcher( 7439): OnBackInvokedCallback is not enabled for the application.
+01-28 12:17:49.525 W/WindowOnBackDispatcher( 7439): Set 'android:enableOnBackInvokedCallback="true"' in the application manifest.
+01-28 12:17:49.525 V/AutofillClientController( 7439): onActivityResumed()
+01-28 12:17:49.525 V/AutofillClientController( 7439): onActivityResumed(): Relayout fix not enabled
+01-28 12:17:49.525 V/AutofillClientController( 7439): onActivityPostResumed()
+01-28 12:17:49.526 D/InsetsController( 7439): Setting requestedVisibleTypes to -14 (was -9)
+01-28 12:17:49.529 D/WindowOnBackDispatcher( 7439): setTopOnBackInvokedCallback (unwrapped): android.view.ViewRootImpl$$ExternalSyntheticLambda12@119b3dd
+01-28 12:17:49.531 V/AutofillManager( 7439): receiver results: flags=7 enabled=true, enabledForAugmentedOnly: false
+01-28 12:17:49.532 V/AutofillManager( 7439): startSessionLocked(): id=1073741831, bounds=null, value=[type=1, value=0_chars], flags=0, state=UNKNOWN, compatMode=false, augmentedOnly=false, enabledAugmentedOnly=false, enteredIds=null
+01-28 12:17:49.535 D/[N]NativeRdpSessionWrapper( 7439): NativeRdpSessionWrapper m_SessionID 101343583
+01-28 12:17:49.535 I/[N]NativeRdpSessionWrapper( 7439): NativeRdpSessionWrapper::setDpiScaleFactor(uint16_t factor) 250
+01-28 12:17:49.535 D/[N]NativeRdpSessionWrapper( 7439): NativeRdpSessionWrapper::setSessionId(int sessionId) 6
+01-28 12:17:49.535 D/[N]NativeRdpSessionWrapper( 7439): NativeRdpSessionWrapper::setClientVersion(std::string clientVersion) 11.0.0.78
+01-28 12:17:49.535 I/[N]NativeRdpSessionWrapper( 7439): connect in
+01-28 12:17:49.536 I/[N]NativeRdpSessionWrapper( 7439): onProtocolStateChanged: 5
+01-28 12:17:49.537 D/[N]key_input_jni( 7439): Calling InitInputSettings with nativePtr=0x723add1668
+01-28 12:17:49.537 D/[N]key_input_jni( 7439): InitInputSettings finished
+01-28 12:17:49.537 V/[N]WebAuthNDelegate( 7439): WebAuthNDelegate is created.
+01-28 12:17:49.537 V/[N]NativeRdpSessionWrapper( 7439): m_spWebAuthNDelegate is 0x723adb2268
+01-28 12:17:49.537 V/[N]NativeRdpSessionWrapper( 7439): m_spWebAuthNController is 0x723adadea8
+01-28 12:17:49.537 I/[N]NativeWebAuthNWrapper( 7439): NativeWebAuthNWrapper created
+01-28 12:17:49.537 V/[N]WebAuthNDelegate( 7439): SetNativeWebAuthNWrapper
+01-28 12:17:49.538 I/[N]NativeRdpSessionWrapper( 7439): width=1344, height=2792, desktopScaleFactor=0.000000
+01-28 12:17:49.539 I/[N]ConnectionDelegate( 7439): OnActivityIdGenerated : {1b25d549-d1e3-4679-8aaf-8278f1500000}
+01-28 12:17:49.540 I/ImeTracker( 7439): com.microsoft.rdc.androidx:f36bb40e: onRequestHide at ORIGIN_CLIENT reason HIDE_SOFT_INPUT fromUser false
+01-28 12:17:49.540 I/ImeTracker( 7439): com.microsoft.rdc.androidx:f36bb40e: onFailed at PHASE_CLIENT_VIEW_SERVED
+01-28 12:17:49.543 I/[N]NativeRdpSessionWrapper( 7439): onConnectionStatusUpdates: 0
+01-28 12:17:49.545 V/View    ( 7439): dispatchProvideAutofillStructure(): not laid out, ignoring 2 children of 1073741839
+01-28 12:17:49.545 V/View    ( 7439): dispatchProvideAutofillStructure(): not laid out, ignoring 3 children of 1073741844
+01-28 12:17:49.545 V/View    ( 7439): dispatchProvideAutofillStructure(): not laid out, ignoring 1 children of 1073741845
+01-28 12:17:49.545 V/View    ( 7439): dispatchProvideAutofillStructure(): not laid out, ignoring 4 children of 1073741846
+01-28 12:17:49.547 I/AssistStructure( 7439): Flattened final assist data: 2156 bytes, containing 1 windows, 16 views
+01-28 12:17:49.548 D/[N]NativeRdpConnection( 7439): JNI sendLocation: lat=33.062303, lon=-111.957246, alt=338
+01-28 12:17:49.548 D/[N]NativeRdpSessionWrapper( 7439): sendLocation: lat=33.062303 in (-90, 90), long=-111.957246 in (-180, 180), alt=338
+01-28 12:17:49.548 D/[N]NativeRdpConnection( 7439): JNI sendLocation: lat=33.062303, lon=-111.957246, alt=338
+01-28 12:17:49.548 D/[N]NativeRdpSessionWrapper( 7439): sendLocation: lat=33.062303 in (-90, 90), long=-111.957246 in (-180, 180), alt=338
+01-28 12:17:49.548 E/RdCoreAndroid( 7439): {1b25d549-d1e3-4679-8aaf-8278f1500000} RDP_WAN(ERR): TcpTrans::TcpTransportOnClosed - connection attempt exception: Host not found (authoritative)
+01-28 12:17:49.548 E/RdCoreAndroid( 7439):     /mnt/vss/_work/1/s/source/stack/libtermsrv/rdp/LegacyXPlat/Transport/ClientCore/Implementation/TsTcpDctTransport.cpp(1188): TcpTransportOnClosed()
+01-28 12:17:49.554 D/InsetsController( 7439): Setting requestedVisibleTypes to -16 (was -14)
+01-28 12:17:49.639 D/ImeBackDispatcher( 7439): switch root view (mImeCallbacks.size=0)
+01-28 12:17:49.944 D/InsetsController( 7439): Setting requestedVisibleTypes to -14 (was -16)
+01-28 12:17:50.024 D/VRI[HomeActivity]( 7439): visibilityChanged oldVisibility=true newVisibility=false
+01-28 12:17:50.032 D/HWUI    ( 7439): endAllActiveAnimators on 0x72ead6b8b0 (UnprojectedRipple) with handle 0x719ad84240
+01-28 12:17:50.037 I/AutofillManager( 7439): onInvisibleForAutofill(): expiringResponse
+01-28 12:17:50.037 V/AutofillManager( 7439): updateSessionLocked(): id=null, bounds=null, value=null, action=5, flags=0
+01-28 12:17:50.243 D/InsetsController( 7439): Setting requestedVisibleTypes to -16 (was -14)
+01-28 12:17:50.554 V/AutofillManager( 7439): setSessionFinished(): from ACTIVE to FINISHED; autofillableIds=[1073741831]
+01-28 12:17:50.623 V/AutofillManager( 7439): requestHideFillUi(null): anchor = null
+01-28 12:17:50.662 E/RdCoreAndroid( 7439): {1b25d549-d1e3-4679-8aaf-8278f1500000} "-legacy-"(ERR): Failed to open input batch!
+01-28 12:17:50.662 E/RdCoreAndroid( 7439):     /mnt/vss/_work/1/s/source/stack/libtermsrv/rdp/LegacyXPlat/XPlatUClient/Implementation/UClientInputAdaptor.cpp(1153): SendInputInternal()
+01-28 12:17:50.663 E/RdCoreAndroid( 7439): {1b25d549-d1e3-4679-8aaf-8278f1500000} "-legacy-"(ERR): SendInputInternal failed!
+01-28 12:17:50.663 E/RdCoreAndroid( 7439):     /mnt/vss/_work/1/s/source/stack/libtermsrv/rdp/LegacyXPlat/XPlatUClient/Implementation/UClientInputAdaptor.cpp(1358): SendInputInternalSNDThreadWorker()
+01-28 12:17:50.668 E/RdCoreAndroid( 7439): {1b25d549-d1e3-4679-8aaf-8278f1500000} "-legacy-"(ERR): Failed to open input batch!
+01-28 12:17:50.668 E/RdCoreAndroid( 7439):     /mnt/vss/_work/1/s/source/stack/libtermsrv/rdp/LegacyXPlat/XPlatUClient/Implementation/UClientInputAdaptor.cpp(1153): SendInputInternal()
+01-28 12:17:50.668 E/RdCoreAndroid( 7439): {1b25d549-d1e3-4679-8aaf-8278f1500000} "-legacy-"(ERR): SendInputInternal failed!
+01-28 12:17:50.668 E/RdCoreAndroid( 7439):     /mnt/vss/_work/1/s/source/stack/libtermsrv/rdp/LegacyXPlat/XPlatUClient/Implementation/UClientInputAdaptor.cpp(1358): SendInputInternalSNDThreadWorker()
+01-28 12:17:50.676 E/RdCoreAndroid( 7439): {1b25d549-d1e3-4679-8aaf-8278f1500000} "-legacy-"(ERR): Failed to open input batch!
+01-28 12:17:50.676 E/RdCoreAndroid( 7439):     /mnt/vss/_work/1/s/source/stack/libtermsrv/rdp/LegacyXPlat/XPlatUClient/Implementation/UClientInputAdaptor.cpp(1153): SendInputInternal()
+01-28 12:17:50.676 E/RdCoreAndroid( 7439): {1b25d549-d1e3-4679-8aaf-8278f1500000} "-legacy-"(ERR): SendInputInternal failed!
+01-28 12:17:50.676 E/RdCoreAndroid( 7439):     /mnt/vss/_work/1/s/source/stack/libtermsrv/rdp/LegacyXPlat/XPlatUClient/Implementation/UClientInputAdaptor.cpp(1358): SendInputInternalSNDThreadWorker()
+01-28 12:17:50.684 E/RdCoreAndroid( 7439): {1b25d549-d1e3-4679-8aaf-8278f1500000} "-legacy-"(ERR): Failed to open input batch!
+01-28 12:17:50.684 E/RdCoreAndroid( 7439):     /mnt/vss/_work/1/s/source/stack/libtermsrv/rdp/LegacyXPlat/XPlatUClient/Implementation/UClientInputAdaptor.cpp(1153): SendInputInternal()
+01-28 12:17:50.684 E/RdCoreAndroid( 7439): {1b25d549-d1e3-4679-8aaf-8278f1500000} "-legacy-"(ERR): SendInputInternal failed!
+01-28 12:17:50.684 E/RdCoreAndroid( 7439):     /mnt/vss/_work/1/s/source/stack/libtermsrv/rdp/LegacyXPlat/XPlatUClient/Implementation/UClientInputAdaptor.cpp(1358): SendInputInternalSNDThreadWorker()
+01-28 12:17:50.692 E/RdCoreAndroid( 7439): {1b25d549-d1e3-4679-8aaf-8278f1500000} "-legacy-"(ERR): Failed to open input batch!
+01-28 12:17:50.692 E/RdCoreAndroid( 7439):     /mnt/vss/_work/1/s/source/stack/libtermsrv/rdp/LegacyXPlat/XPlatUClient/Implementation/UClientInputAdaptor.cpp(1153): SendInputInternal()
+01-28 12:17:50.692 E/RdCoreAndroid( 7439): {1b25d549-d1e3-4679-8aaf-8278f1500000} "-legacy-"(ERR): SendInputInternal failed!
+01-28 12:17:50.692 E/RdCoreAndroid( 7439):     /mnt/vss/_work/1/s/source/stack/libtermsrv/rdp/LegacyXPlat/XPlatUClient/Implementation/UClientInputAdaptor.cpp(1358): SendInputInternalSNDThreadWorker()
+01-28 12:17:50.700 E/RdCoreAndroid( 7439): {1b25d549-d1e3-4679-8aaf-8278f1500000} "-legacy-"(ERR): Failed to open input batch!
+01-28 12:17:50.700 E/RdCoreAndroid( 7439):     /mnt/vss/_work/1/s/source/stack/libtermsrv/rdp/LegacyXPlat/XPlatUClient/Implementation/UClientInputAdaptor.cpp(1153): SendInputInternal()
+01-28 12:17:50.701 E/RdCoreAndroid( 7439): {1b25d549-d1e3-4679-8aaf-8278f1500000} "-legacy-"(ERR): SendInputInternal failed!
+01-28 12:17:50.701 E/RdCoreAndroid( 7439):     /mnt/vss/_work/1/s/source/stack/libtermsrv/rdp/LegacyXPlat/XPlatUClient/Implementation/UClientInputAdaptor.cpp(1358): SendInputInternalSNDThreadWorker()
+01-28 12:17:50.709 E/RdCoreAndroid( 7439): {1b25d549-d1e3-4679-8aaf-8278f1500000} "-legacy-"(ERR): Failed to open input batch!
+01-28 12:17:50.709 E/RdCoreAndroid( 7439):     /mnt/vss/_work/1/s/source/stack/libtermsrv/rdp/LegacyXPlat/XPlatUClient/Implementation/UClientInputAdaptor.cpp(1153): SendInputInternal()
+01-28 12:17:50.709 E/RdCoreAndroid( 7439): {1b25d549-d1e3-4679-8aaf-8278f1500000} "-legacy-"(ERR): SendInputInternal failed!
+01-28 12:17:50.709 E/RdCoreAndroid( 7439):     /mnt/vss/_work/1/s/source/stack/libtermsrv/rdp/LegacyXPlat/XPlatUClient/Implementation/UClientInputAdaptor.cpp(1358): SendInputInternalSNDThreadWorker()
+01-28 12:17:50.717 E/RdCoreAndroid( 7439): {1b25d549-d1e3-4679-8aaf-8278f1500000} "-legacy-"(ERR): Failed to open input batch!
+01-28 12:17:50.717 E/RdCoreAndroid( 7439):     /mnt/vss/_work/1/s/source/stack/libtermsrv/rdp/LegacyXPlat/XPlatUClient/Implementation/UClientInputAdaptor.cpp(1153): SendInputInternal()
+01-28 12:17:50.717 E/RdCoreAndroid( 7439): {1b25d549-d1e3-4679-8aaf-8278f1500000} "-legacy-"(ERR): SendInputInternal failed!
+01-28 12:17:50.717 E/RdCoreAndroid( 7439):     /mnt/vss/_work/1/s/source/stack/libtermsrv/rdp/LegacyXPlat/XPlatUClient/Implementation/UClientInputAdaptor.cpp(1358): SendInputInternalSNDThreadWorker()
+01-28 12:17:50.718 E/RdCoreAndroid( 7439): {1b25d549-d1e3-4679-8aaf-8278f1500000} "-legacy-"(ERR): Failed to open input batch!
+01-28 12:17:50.718 E/RdCoreAndroid( 7439):     /mnt/vss/_work/1/s/source/stack/libtermsrv/rdp/LegacyXPlat/XPlatUClient/Implementation/UClientInputAdaptor.cpp(1153): SendInputInternal()
+01-28 12:17:50.718 E/RdCoreAndroid( 7439): {1b25d549-d1e3-4679-8aaf-8278f1500000} "-legacy-"(ERR): SendInputInternal failed!
+01-28 12:17:50.718 E/RdCoreAndroid( 7439):     /mnt/vss/_work/1/s/source/stack/libtermsrv/rdp/LegacyXPlat/XPlatUClient/Implementation/UClientInputAdaptor.cpp(1358): SendInputInternalSNDThreadWorker()
+01-28 12:17:50.734 E/RdCoreAndroid( 7439): {1b25d549-d1e3-4679-8aaf-8278f1500000} "-legacy-"(ERR): Failed to open input batch!
+01-28 12:17:50.734 E/RdCoreAndroid( 7439):     /mnt/vss/_work/1/s/source/stack/libtermsrv/rdp/LegacyXPlat/XPlatUClient/Implementation/UClientInputAdaptor.cpp(1153): SendInputInternal()
+01-28 12:17:50.734 E/RdCoreAndroid( 7439): {1b25d549-d1e3-4679-8aaf-8278f1500000} "-legacy-"(ERR): SendInputInternal failed!
+01-28 12:17:50.734 E/RdCoreAndroid( 7439):     /mnt/vss/_work/1/s/source/stack/libtermsrv/rdp/LegacyXPlat/XPlatUClient/Implementation/UClientInputAdaptor.cpp(1358): SendInputInternalSNDThreadWorker()
+01-28 12:17:50.742 E/RdCoreAndroid( 7439): {1b25d549-d1e3-4679-8aaf-8278f1500000} "-legacy-"(ERR): Failed to open input batch!
+01-28 12:17:50.742 E/RdCoreAndroid( 7439):     /mnt/vss/_work/1/s/source/stack/libtermsrv/rdp/LegacyXPlat/XPlatUClient/Implementation/UClientInputAdaptor.cpp(1153): SendInputInternal()
+01-28 12:17:50.743 E/RdCoreAndroid( 7439): {1b25d549-d1e3-4679-8aaf-8278f1500000} "-legacy-"(ERR): SendInputInternal failed!
+01-28 12:17:50.743 E/RdCoreAndroid( 7439):     /mnt/vss/_work/1/s/source/stack/libtermsrv/rdp/LegacyXPlat/XPlatUClient/Implementation/UClientInputAdaptor.cpp(1358): SendInputInternalSNDThreadWorker()
+01-28 12:17:50.751 E/RdCoreAndroid( 7439): {1b25d549-d1e3-4679-8aaf-8278f1500000} "-legacy-"(ERR): Failed to open input batch!
+01-28 12:17:50.751 E/RdCoreAndroid( 7439):     /mnt/vss/_work/1/s/source/stack/libtermsrv/rdp/LegacyXPlat/XPlatUClient/Implementation/UClientInputAdaptor.cpp(1153): SendInputInternal()
+01-28 12:17:50.752 E/RdCoreAndroid( 7439): {1b25d549-d1e3-4679-8aaf-8278f1500000} "-legacy-"(ERR): SendInputInternal failed!
+01-28 12:17:50.752 E/RdCoreAndroid( 7439):     /mnt/vss/_work/1/s/source/stack/libtermsrv/rdp/LegacyXPlat/XPlatUClient/Implementation/UClientInputAdaptor.cpp(1358): SendInputInternalSNDThreadWorker()
+01-28 12:17:50.759 E/RdCoreAndroid( 7439): {1b25d549-d1e3-4679-8aaf-8278f1500000} "-legacy-"(ERR): Failed to open input batch!
+01-28 12:17:50.759 E/RdCoreAndroid( 7439):     /mnt/vss/_work/1/s/source/stack/libtermsrv/rdp/LegacyXPlat/XPlatUClient/Implementation/UClientInputAdaptor.cpp(1153): SendInputInternal()
+01-28 12:17:50.760 E/RdCoreAndroid( 7439): {1b25d549-d1e3-4679-8aaf-8278f1500000} "-legacy-"(ERR): SendInputInternal failed!
+01-28 12:17:50.760 E/RdCoreAndroid( 7439):     /mnt/vss/_work/1/s/source/stack/libtermsrv/rdp/LegacyXPlat/XPlatUClient/Implementation/UClientInputAdaptor.cpp(1358): SendInputInternalSNDThreadWorker()
+01-28 12:17:50.760 E/RdCoreAndroid( 7439): {1b25d549-d1e3-4679-8aaf-8278f1500000} "-legacy-"(ERR): Failed to open input batch!
+01-28 12:17:50.760 E/RdCoreAndroid( 7439):     /mnt/vss/_work/1/s/source/stack/libtermsrv/rdp/LegacyXPlat/XPlatUClient/Implementation/UClientInputAdaptor.cpp(1153): SendInputInternal()
+01-28 12:17:50.760 E/RdCoreAndroid( 7439): {1b25d549-d1e3-4679-8aaf-8278f1500000} "-legacy-"(ERR): SendInputInternal failed!
+01-28 12:17:50.760 E/RdCoreAndroid( 7439):     /mnt/vss/_work/1/s/source/stack/libtermsrv/rdp/LegacyXPlat/XPlatUClient/Implementation/UClientInputAdaptor.cpp(1358): SendInputInternalSNDThreadWorker()
+01-28 12:17:50.768 E/RdCoreAndroid( 7439): {1b25d549-d1e3-4679-8aaf-8278f1500000} "-legacy-"(ERR): Failed to open input batch!
+01-28 12:17:50.768 E/RdCoreAndroid( 7439):     /mnt/vss/_work/1/s/source/stack/libtermsrv/rdp/LegacyXPlat/XPlatUClient/Implementation/UClientInputAdaptor.cpp(1153): SendInputInternal()
+01-28 12:17:50.768 E/RdCoreAndroid( 7439): {1b25d549-d1e3-4679-8aaf-8278f1500000} "-legacy-"(ERR): SendInputInternal failed!
+01-28 12:17:50.768 E/RdCoreAndroid( 7439):     /mnt/vss/_work/1/s/source/stack/libtermsrv/rdp/LegacyXPlat/XPlatUClient/Implementation/UClientInputAdaptor.cpp(1358): SendInputInternalSNDThreadWorker()
+01-28 12:17:50.775 E/RdCoreAndroid( 7439): {1b25d549-d1e3-4679-8aaf-8278f1500000} "-legacy-"(ERR): Failed to open input batch!
+01-28 12:17:50.775 E/RdCoreAndroid( 7439):     /mnt/vss/_work/1/s/source/stack/libtermsrv/rdp/LegacyXPlat/XPlatUClient/Implementation/UClientInputAdaptor.cpp(1153): SendInputInternal()
+01-28 12:17:50.776 E/RdCoreAndroid( 7439): {1b25d549-d1e3-4679-8aaf-8278f1500000} "-legacy-"(ERR): SendInputInternal failed!
+01-28 12:17:50.776 E/RdCoreAndroid( 7439):     /mnt/vss/_work/1/s/source/stack/libtermsrv/rdp/LegacyXPlat/XPlatUClient/Implementation/UClientInputAdaptor.cpp(1358): SendInputInternalSNDThreadWorker()
+01-28 12:17:50.784 E/RdCoreAndroid( 7439): {1b25d549-d1e3-4679-8aaf-8278f1500000} "-legacy-"(ERR): Failed to open input batch!
+01-28 12:17:50.784 E/RdCoreAndroid( 7439):     /mnt/vss/_work/1/s/source/stack/libtermsrv/rdp/LegacyXPlat/XPlatUClient/Implementation/UClientInputAdaptor.cpp(1153): SendInputInternal()
+01-28 12:17:50.784 E/RdCoreAndroid( 7439): {1b25d549-d1e3-4679-8aaf-8278f1500000} "-legacy-"(ERR): SendInputInternal failed!
+01-28 12:17:50.784 E/RdCoreAndroid( 7439):     /mnt/vss/_work/1/s/source/stack/libtermsrv/rdp/LegacyXPlat/XPlatUClient/Implementation/UClientInputAdaptor.cpp(1358): SendInputInternalSNDThreadWorker()
+01-28 12:17:50.792 E/RdCoreAndroid( 7439): {1b25d549-d1e3-4679-8aaf-8278f1500000} "-legacy-"(ERR): Failed to open input batch!
+01-28 12:17:50.792 E/RdCoreAndroid( 7439):     /mnt/vss/_work/1/s/source/stack/libtermsrv/rdp/LegacyXPlat/XPlatUClient/Implementation/UClientInputAdaptor.cpp(1153): SendInputInternal()
+01-28 12:17:50.792 E/RdCoreAndroid( 7439): {1b25d549-d1e3-4679-8aaf-8278f1500000} "-legacy-"(ERR): SendInputInternal failed!
+01-28 12:17:50.792 E/RdCoreAndroid( 7439):     /mnt/vss/_work/1/s/source/stack/libtermsrv/rdp/LegacyXPlat/XPlatUClient/Implementation/UClientInputAdaptor.cpp(1358): SendInputInternalSNDThreadWorker()
+01-28 12:17:50.801 E/RdCoreAndroid( 7439): {1b25d549-d1e3-4679-8aaf-8278f1500000} "-legacy-"(ERR): Failed to open input batch!
+01-28 12:17:50.801 E/RdCoreAndroid( 7439):     /mnt/vss/_work/1/s/source/stack/libtermsrv/rdp/LegacyXPlat/XPlatUClient/Implementation/UClientInputAdaptor.cpp(1153): SendInputInternal()
+01-28 12:17:50.801 E/RdCoreAndroid( 7439): {1b25d549-d1e3-4679-8aaf-8278f1500000} "-legacy-"(ERR): SendInputInternal failed!
+01-28 12:17:50.801 E/RdCoreAndroid( 7439):     /mnt/vss/_work/1/s/source/stack/libtermsrv/rdp/LegacyXPlat/XPlatUClient/Implementation/UClientInputAdaptor.cpp(1358): SendInputInternalSNDThreadWorker()
+01-28 12:17:50.809 E/RdCoreAndroid( 7439): {1b25d549-d1e3-4679-8aaf-8278f1500000} "-legacy-"(ERR): Failed to open input batch!
+01-28 12:17:50.809 E/RdCoreAndroid( 7439):     /mnt/vss/_work/1/s/source/stack/libtermsrv/rdp/LegacyXPlat/XPlatUClient/Implementation/UClientInputAdaptor.cpp(1153): SendInputInternal()
+01-28 12:17:50.809 E/RdCoreAndroid( 7439): {1b25d549-d1e3-4679-8aaf-8278f1500000} "-legacy-"(ERR): SendInputInternal failed!
+01-28 12:17:50.809 E/RdCoreAndroid( 7439):     /mnt/vss/_work/1/s/source/stack/libtermsrv/rdp/LegacyXPlat/XPlatUClient/Implementation/UClientInputAdaptor.cpp(1358): SendInputInternalSNDThreadWorker()
+01-28 12:17:50.817 E/RdCoreAndroid( 7439): {1b25d549-d1e3-4679-8aaf-8278f1500000} "-legacy-"(ERR): Failed to open input batch!
+01-28 12:17:50.817 E/RdCoreAndroid( 7439):     /mnt/vss/_work/1/s/source/stack/libtermsrv/rdp/LegacyXPlat/XPlatUClient/Implementation/UClientInputAdaptor.cpp(1153): SendInputInternal()
+01-28 12:17:50.817 E/RdCoreAndroid( 7439): {1b25d549-d1e3-4679-8aaf-8278f1500000} "-legacy-"(ERR): SendInputInternal failed!
+01-28 12:17:50.817 E/RdCoreAndroid( 7439):     /mnt/vss/_work/1/s/source/stack/libtermsrv/rdp/LegacyXPlat/XPlatUClient/Implementation/UClientInputAdaptor.cpp(1358): SendInputInternalSNDThreadWorker()
+01-28 12:17:50.825 E/RdCoreAndroid( 7439): {1b25d549-d1e3-4679-8aaf-8278f1500000} "-legacy-"(ERR): Failed to open input batch!
+01-28 12:17:50.825 E/RdCoreAndroid( 7439):     /mnt/vss/_work/1/s/source/stack/libtermsrv/rdp/LegacyXPlat/XPlatUClient/Implementation/UClientInputAdaptor.cpp(1153): SendInputInternal()
+01-28 12:17:50.825 E/RdCoreAndroid( 7439): {1b25d549-d1e3-4679-8aaf-8278f1500000} "-legacy-"(ERR): SendInputInternal failed!
+01-28 12:17:50.825 E/RdCoreAndroid( 7439):     /mnt/vss/_work/1/s/source/stack/libtermsrv/rdp/LegacyXPlat/XPlatUClient/Implementation/UClientInputAdaptor.cpp(1358): SendInputInternalSNDThreadWorker()
+01-28 12:17:50.834 E/RdCoreAndroid( 7439): {1b25d549-d1e3-4679-8aaf-8278f1500000} "-legacy-"(ERR): Failed to open input batch!
+01-28 12:17:50.834 E/RdCoreAndroid( 7439):     /mnt/vss/_work/1/s/source/stack/libtermsrv/rdp/LegacyXPlat/XPlatUClient/Implementation/UClientInputAdaptor.cpp(1153): SendInputInternal()
+01-28 12:17:50.834 E/RdCoreAndroid( 7439): {1b25d549-d1e3-4679-8aaf-8278f1500000} "-legacy-"(ERR): SendInputInternal failed!
+01-28 12:17:50.834 E/RdCoreAndroid( 7439):     /mnt/vss/_work/1/s/source/stack/libtermsrv/rdp/LegacyXPlat/XPlatUClient/Implementation/UClientInputAdaptor.cpp(1358): SendInputInternalSNDThreadWorker()
+01-28 12:17:50.842 E/RdCoreAndroid( 7439): {1b25d549-d1e3-4679-8aaf-8278f1500000} "-legacy-"(ERR): Failed to open input batch!
+01-28 12:17:50.842 E/RdCoreAndroid( 7439):     /mnt/vss/_work/1/s/source/stack/libtermsrv/rdp/LegacyXPlat/XPlatUClient/Implementation/UClientInputAdaptor.cpp(1153): SendInputInternal()
+01-28 12:17:50.842 E/RdCoreAndroid( 7439): {1b25d549-d1e3-4679-8aaf-8278f1500000} "-legacy-"(ERR): SendInputInternal failed!
+01-28 12:17:50.842 E/RdCoreAndroid( 7439):     /mnt/vss/_work/1/s/source/stack/libtermsrv/rdp/LegacyXPlat/XPlatUClient/Implementation/UClientInputAdaptor.cpp(1358): SendInputInternalSNDThreadWorker()
+01-28 12:17:50.850 E/RdCoreAndroid( 7439): {1b25d549-d1e3-4679-8aaf-8278f1500000} "-legacy-"(ERR): Failed to open input batch!
+01-28 12:17:50.850 E/RdCoreAndroid( 7439):     /mnt/vss/_work/1/s/source/stack/libtermsrv/rdp/LegacyXPlat/XPlatUClient/Implementation/UClientInputAdaptor.cpp(1153): SendInputInternal()
+01-28 12:17:50.851 E/RdCoreAndroid( 7439): {1b25d549-d1e3-4679-8aaf-8278f1500000} "-legacy-"(ERR): SendInputInternal failed!
+01-28 12:17:50.851 E/RdCoreAndroid( 7439):     /mnt/vss/_work/1/s/source/stack/libtermsrv/rdp/LegacyXPlat/XPlatUClient/Implementation/UClientInputAdaptor.cpp(1358): SendInputInternalSNDThreadWorker()
+01-28 12:17:50.859 E/RdCoreAndroid( 7439): {1b25d549-d1e3-4679-8aaf-8278f1500000} "-legacy-"(ERR): Failed to open input batch!
+01-28 12:17:50.859 E/RdCoreAndroid( 7439):     /mnt/vss/_work/1/s/source/stack/libtermsrv/rdp/LegacyXPlat/XPlatUClient/Implementation/UClientInputAdaptor.cpp(1153): SendInputInternal()
+01-28 12:17:50.859 E/RdCoreAndroid( 7439): {1b25d549-d1e3-4679-8aaf-8278f1500000} "-legacy-"(ERR): SendInputInternal failed!
+01-28 12:17:50.859 E/RdCoreAndroid( 7439):     /mnt/vss/_work/1/s/source/stack/libtermsrv/rdp/LegacyXPlat/XPlatUClient/Implementation/UClientInputAdaptor.cpp(1358): SendInputInternalSNDThreadWorker()
+01-28 12:17:50.867 E/RdCoreAndroid( 7439): {1b25d549-d1e3-4679-8aaf-8278f1500000} "-legacy-"(ERR): Failed to open input batch!
+01-28 12:17:50.867 E/RdCoreAndroid( 7439):     /mnt/vss/_work/1/s/source/stack/libtermsrv/rdp/LegacyXPlat/XPlatUClient/Implementation/UClientInputAdaptor.cpp(1153): SendInputInternal()
+01-28 12:17:50.867 E/RdCoreAndroid( 7439): {1b25d549-d1e3-4679-8aaf-8278f1500000} "-legacy-"(ERR): SendInputInternal failed!
+01-28 12:17:50.867 E/RdCoreAndroid( 7439):     /mnt/vss/_work/1/s/source/stack/libtermsrv/rdp/LegacyXPlat/XPlatUClient/Implementation/UClientInputAdaptor.cpp(1358): SendInputInternalSNDThreadWorker()
+01-28 12:17:50.876 E/RdCoreAndroid( 7439): {1b25d549-d1e3-4679-8aaf-8278f1500000} "-legacy-"(ERR): Failed to open input batch!
+01-28 12:17:50.876 E/RdCoreAndroid( 7439):     /mnt/vss/_work/1/s/source/stack/libtermsrv/rdp/LegacyXPlat/XPlatUClient/Implementation/UClientInputAdaptor.cpp(1153): SendInputInternal()
+01-28 12:17:50.876 E/RdCoreAndroid( 7439): {1b25d549-d1e3-4679-8aaf-8278f1500000} "-legacy-"(ERR): SendInputInternal failed!
+01-28 12:17:50.876 E/RdCoreAndroid( 7439):     /mnt/vss/_work/1/s/source/stack/libtermsrv/rdp/LegacyXPlat/XPlatUClient/Implementation/UClientInputAdaptor.cpp(1358): SendInputInternalSNDThreadWorker()
+01-28 12:17:50.884 E/RdCoreAndroid( 7439): {1b25d549-d1e3-4679-8aaf-8278f1500000} "-legacy-"(ERR): Failed to open input batch!
+01-28 12:17:50.884 E/RdCoreAndroid( 7439):     /mnt/vss/_work/1/s/source/stack/libtermsrv/rdp/LegacyXPlat/XPlatUClient/Implementation/UClientInputAdaptor.cpp(1153): SendInputInternal()
+01-28 12:17:50.884 E/RdCoreAndroid( 7439): {1b25d549-d1e3-4679-8aaf-8278f1500000} "-legacy-"(ERR): SendInputInternal failed!
+01-28 12:17:50.884 E/RdCoreAndroid( 7439):     /mnt/vss/_work/1/s/source/stack/libtermsrv/rdp/LegacyXPlat/XPlatUClient/Implementation/UClientInputAdaptor.cpp(1358): SendInputInternalSNDThreadWorker()
+01-28 12:17:50.892 E/RdCoreAndroid( 7439): {1b25d549-d1e3-4679-8aaf-8278f1500000} "-legacy-"(ERR): Failed to open input batch!
+01-28 12:17:50.892 E/RdCoreAndroid( 7439):     /mnt/vss/_work/1/s/source/stack/libtermsrv/rdp/LegacyXPlat/XPlatUClient/Implementation/UClientInputAdaptor.cpp(1153): SendInputInternal()
+01-28 12:17:50.892 E/RdCoreAndroid( 7439): {1b25d549-d1e3-4679-8aaf-8278f1500000} "-legacy-"(ERR): SendInputInternal failed!
+01-28 12:17:50.892 E/RdCoreAndroid( 7439):     /mnt/vss/_work/1/s/source/stack/libtermsrv/rdp/LegacyXPlat/XPlatUClient/Implementation/UClientInputAdaptor.cpp(1358): SendInputInternalSNDThreadWorker()
+01-28 12:17:50.901 E/RdCoreAndroid( 7439): {1b25d549-d1e3-4679-8aaf-8278f1500000} "-legacy-"(ERR): Failed to open input batch!
+01-28 12:17:50.901 E/RdCoreAndroid( 7439):     /mnt/vss/_work/1/s/source/stack/libtermsrv/rdp/LegacyXPlat/XPlatUClient/Implementation/UClientInputAdaptor.cpp(1153): SendInputInternal()
+01-28 12:17:50.901 E/RdCoreAndroid( 7439): {1b25d549-d1e3-4679-8aaf-8278f1500000} "-legacy-"(ERR): SendInputInternal failed!
+01-28 12:17:50.901 E/RdCoreAndroid( 7439):     /mnt/vss/_work/1/s/source/stack/libtermsrv/rdp/LegacyXPlat/XPlatUClient/Implementation/UClientInputAdaptor.cpp(1358): SendInputInternalSNDThreadWorker()
+01-28 12:17:50.909 E/RdCoreAndroid( 7439): {1b25d549-d1e3-4679-8aaf-8278f1500000} "-legacy-"(ERR): Failed to open input batch!
+01-28 12:17:50.909 E/RdCoreAndroid( 7439):     /mnt/vss/_work/1/s/source/stack/libtermsrv/rdp/LegacyXPlat/XPlatUClient/Implementation/UClientInputAdaptor.cpp(1153): SendInputInternal()
+01-28 12:17:50.909 E/RdCoreAndroid( 7439): {1b25d549-d1e3-4679-8aaf-8278f1500000} "-legacy-"(ERR): SendInputInternal failed!
+01-28 12:17:50.909 E/RdCoreAndroid( 7439):     /mnt/vss/_work/1/s/source/stack/libtermsrv/rdp/LegacyXPlat/XPlatUClient/Implementation/UClientInputAdaptor.cpp(1358): SendInputInternalSNDThreadWorker()
+01-28 12:17:50.917 E/RdCoreAndroid( 7439): {1b25d549-d1e3-4679-8aaf-8278f1500000} "-legacy-"(ERR): Failed to open input batch!
+01-28 12:17:50.917 E/RdCoreAndroid( 7439):     /mnt/vss/_work/1/s/source/stack/libtermsrv/rdp/LegacyXPlat/XPlatUClient/Implementation/UClientInputAdaptor.cpp(1153): SendInputInternal()
+01-28 12:17:50.918 E/RdCoreAndroid( 7439): {1b25d549-d1e3-4679-8aaf-8278f1500000} "-legacy-"(ERR): SendInputInternal failed!
+01-28 12:17:50.918 E/RdCoreAndroid( 7439):     /mnt/vss/_work/1/s/source/stack/libtermsrv/rdp/LegacyXPlat/XPlatUClient/Implementation/UClientInputAdaptor.cpp(1358): SendInputInternalSNDThreadWorker()
+01-28 12:17:50.926 E/RdCoreAndroid( 7439): {1b25d549-d1e3-4679-8aaf-8278f1500000} "-legacy-"(ERR): Failed to open input batch!
+01-28 12:17:50.926 E/RdCoreAndroid( 7439):     /mnt/vss/_work/1/s/source/stack/libtermsrv/rdp/LegacyXPlat/XPlatUClient/Implementation/UClientInputAdaptor.cpp(1153): SendInputInternal()
+01-28 12:17:50.926 E/RdCoreAndroid( 7439): {1b25d549-d1e3-4679-8aaf-8278f1500000} "-legacy-"(ERR): SendInputInternal failed!
+01-28 12:17:50.926 E/RdCoreAndroid( 7439):     /mnt/vss/_work/1/s/source/stack/libtermsrv/rdp/LegacyXPlat/XPlatUClient/Implementation/UClientInputAdaptor.cpp(1358): SendInputInternalSNDThreadWorker()
+01-28 12:17:50.934 E/RdCoreAndroid( 7439): {1b25d549-d1e3-4679-8aaf-8278f1500000} "-legacy-"(ERR): Failed to open input batch!
+01-28 12:17:50.934 E/RdCoreAndroid( 7439):     /mnt/vss/_work/1/s/source/stack/libtermsrv/rdp/LegacyXPlat/XPlatUClient/Implementation/UClientInputAdaptor.cpp(1153): SendInputInternal()
+01-28 12:17:50.934 E/RdCoreAndroid( 7439): {1b25d549-d1e3-4679-8aaf-8278f1500000} "-legacy-"(ERR): SendInputInternal failed!
+01-28 12:17:50.934 E/RdCoreAndroid( 7439):     /mnt/vss/_work/1/s/source/stack/libtermsrv/rdp/LegacyXPlat/XPlatUClient/Implementation/UClientInputAdaptor.cpp(1358): SendInputInternalSNDThreadWorker()
+01-28 12:17:50.942 E/RdCoreAndroid( 7439): {1b25d549-d1e3-4679-8aaf-8278f1500000} "-legacy-"(ERR): Failed to open input batch!
+01-28 12:17:50.942 E/RdCoreAndroid( 7439):     /mnt/vss/_work/1/s/source/stack/libtermsrv/rdp/LegacyXPlat/XPlatUClient/Implementation/UClientInputAdaptor.cpp(1153): SendInputInternal()
+01-28 12:17:50.942 E/RdCoreAndroid( 7439): {1b25d549-d1e3-4679-8aaf-8278f1500000} "-legacy-"(ERR): SendInputInternal failed!
+01-28 12:17:50.942 E/RdCoreAndroid( 7439):     /mnt/vss/_work/1/s/source/stack/libtermsrv/rdp/LegacyXPlat/XPlatUClient/Implementation/UClientInputAdaptor.cpp(1358): SendInputInternalSNDThreadWorker()
+01-28 12:17:50.943 E/RdCoreAndroid( 7439): {1b25d549-d1e3-4679-8aaf-8278f1500000} "-legacy-"(ERR): Failed to open input batch!
+01-28 12:17:50.943 E/RdCoreAndroid( 7439):     /mnt/vss/_work/1/s/source/stack/libtermsrv/rdp/LegacyXPlat/XPlatUClient/Implementation/UClientInputAdaptor.cpp(1153): SendInputInternal()
+01-28 12:17:50.944 E/RdCoreAndroid( 7439): {1b25d549-d1e3-4679-8aaf-8278f1500000} "-legacy-"(ERR): SendInputInternal failed!
+01-28 12:17:50.944 E/RdCoreAndroid( 7439):     /mnt/vss/_work/1/s/source/stack/libtermsrv/rdp/LegacyXPlat/XPlatUClient/Implementation/UClientInputAdaptor.cpp(1358): SendInputInternalSNDThreadWorker()
+01-28 12:17:50.944 E/RdCoreAndroid( 7439): {1b25d549-d1e3-4679-8aaf-8278f1500000} "-legacy-"(ERR): Failed to open input batch!
+01-28 12:17:50.944 E/RdCoreAndroid( 7439):     /mnt/vss/_work/1/s/source/stack/libtermsrv/rdp/LegacyXPlat/XPlatUClient/Implementation/UClientInputAdaptor.cpp(1153): SendInputInternal()
+01-28 12:17:50.944 E/RdCoreAndroid( 7439): {1b25d549-d1e3-4679-8aaf-8278f1500000} "-legacy-"(ERR): SendInputInternal failed!
+01-28 12:17:50.944 E/RdCoreAndroid( 7439):     /mnt/vss/_work/1/s/source/stack/libtermsrv/rdp/LegacyXPlat/XPlatUClient/Implementation/UClientInputAdaptor.cpp(1358): SendInputInternalSNDThreadWorker()
+01-28 12:17:51.116 V/AutofillManager( 7439): requestHideFillUi(null): anchor = null
+01-28 12:17:51.149 E/RdCoreAndroid( 7439): {1b25d549-d1e3-4679-8aaf-8278f1500000} "-legacy-"(ERR): Failed to open input batch!
+01-28 12:17:51.149 E/RdCoreAndroid( 7439):     /mnt/vss/_work/1/s/source/stack/libtermsrv/rdp/LegacyXPlat/XPlatUClient/Implementation/UClientInputAdaptor.cpp(1153): SendInputInternal()
+01-28 12:17:51.149 E/RdCoreAndroid( 7439): {1b25d549-d1e3-4679-8aaf-8278f1500000} "-legacy-"(ERR): SendInputInternal failed!
+01-28 12:17:51.149 E/RdCoreAndroid( 7439):     /mnt/vss/_work/1/s/source/stack/libtermsrv/rdp/LegacyXPlat/XPlatUClient/Implementation/UClientInputAdaptor.cpp(1358): SendInputInternalSNDThreadWorker()
+01-28 12:17:51.158 E/RdCoreAndroid( 7439): {1b25d549-d1e3-4679-8aaf-8278f1500000} "-legacy-"(ERR): Failed to open input batch!
+01-28 12:17:51.158 E/RdCoreAndroid( 7439):     /mnt/vss/_work/1/s/source/stack/libtermsrv/rdp/LegacyXPlat/XPlatUClient/Implementation/UClientInputAdaptor.cpp(1153): SendInputInternal()
+01-28 12:17:51.158 E/RdCoreAndroid( 7439): {1b25d549-d1e3-4679-8aaf-8278f1500000} "-legacy-"(ERR): SendInputInternal failed!
+01-28 12:17:51.158 E/RdCoreAndroid( 7439):     /mnt/vss/_work/1/s/source/stack/libtermsrv/rdp/LegacyXPlat/XPlatUClient/Implementation/UClientInputAdaptor.cpp(1358): SendInputInternalSNDThreadWorker()
+01-28 12:17:51.166 E/RdCoreAndroid( 7439): {1b25d549-d1e3-4679-8aaf-8278f1500000} "-legacy-"(ERR): Failed to open input batch!
+01-28 12:17:51.166 E/RdCoreAndroid( 7439):     /mnt/vss/_work/1/s/source/stack/libtermsrv/rdp/LegacyXPlat/XPlatUClient/Implementation/UClientInputAdaptor.cpp(1153): SendInputInternal()
+01-28 12:17:51.166 E/RdCoreAndroid( 7439): {1b25d549-d1e3-4679-8aaf-8278f1500000} "-legacy-"(ERR): SendInputInternal failed!
+01-28 12:17:51.166 E/RdCoreAndroid( 7439):     /mnt/vss/_work/1/s/source/stack/libtermsrv/rdp/LegacyXPlat/XPlatUClient/Implementation/UClientInputAdaptor.cpp(1358): SendInputInternalSNDThreadWorker()
+01-28 12:17:51.175 E/RdCoreAndroid( 7439): {1b25d549-d1e3-4679-8aaf-8278f1500000} "-legacy-"(ERR): Failed to open input batch!
+01-28 12:17:51.175 E/RdCoreAndroid( 7439):     /mnt/vss/_work/1/s/source/stack/libtermsrv/rdp/LegacyXPlat/XPlatUClient/Implementation/UClientInputAdaptor.cpp(1153): SendInputInternal()
+01-28 12:17:51.175 E/RdCoreAndroid( 7439): {1b25d549-d1e3-4679-8aaf-8278f1500000} "-legacy-"(ERR): SendInputInternal failed!
+01-28 12:17:51.175 E/RdCoreAndroid( 7439):     /mnt/vss/_work/1/s/source/stack/libtermsrv/rdp/LegacyXPlat/XPlatUClient/Implementation/UClientInputAdaptor.cpp(1358): SendInputInternalSNDThreadWorker()
+01-28 12:17:51.183 E/RdCoreAndroid( 7439): {1b25d549-d1e3-4679-8aaf-8278f1500000} "-legacy-"(ERR): Failed to open input batch!
+01-28 12:17:51.183 E/RdCoreAndroid( 7439):     /mnt/vss/_work/1/s/source/stack/libtermsrv/rdp/LegacyXPlat/XPlatUClient/Implementation/UClientInputAdaptor.cpp(1153): SendInputInternal()
+01-28 12:17:51.183 E/RdCoreAndroid( 7439): {1b25d549-d1e3-4679-8aaf-8278f1500000} "-legacy-"(ERR): SendInputInternal failed!
+01-28 12:17:51.183 E/RdCoreAndroid( 7439):     /mnt/vss/_work/1/s/source/stack/libtermsrv/rdp/LegacyXPlat/XPlatUClient/Implementation/UClientInputAdaptor.cpp(1358): SendInputInternalSNDThreadWorker()
+01-28 12:17:51.192 E/RdCoreAndroid( 7439): {1b25d549-d1e3-4679-8aaf-8278f1500000} "-legacy-"(ERR): Failed to open input batch!
+01-28 12:17:51.192 E/RdCoreAndroid( 7439):     /mnt/vss/_work/1/s/source/stack/libtermsrv/rdp/LegacyXPlat/XPlatUClient/Implementation/UClientInputAdaptor.cpp(1153): SendInputInternal()
+01-28 12:17:51.192 E/RdCoreAndroid( 7439): {1b25d549-d1e3-4679-8aaf-8278f1500000} "-legacy-"(ERR): SendInputInternal failed!
+01-28 12:17:51.192 E/RdCoreAndroid( 7439):     /mnt/vss/_work/1/s/source/stack/libtermsrv/rdp/LegacyXPlat/XPlatUClient/Implementation/UClientInputAdaptor.cpp(1358): SendInputInternalSNDThreadWorker()
+01-28 12:17:51.200 E/RdCoreAndroid( 7439): {1b25d549-d1e3-4679-8aaf-8278f1500000} "-legacy-"(ERR): Failed to open input batch!
+01-28 12:17:51.200 E/RdCoreAndroid( 7439):     /mnt/vss/_work/1/s/source/stack/libtermsrv/rdp/LegacyXPlat/XPlatUClient/Implementation/UClientInputAdaptor.cpp(1153): SendInputInternal()
+01-28 12:17:51.200 E/RdCoreAndroid( 7439): {1b25d549-d1e3-4679-8aaf-8278f1500000} "-legacy-"(ERR): SendInputInternal failed!
+01-28 12:17:51.200 E/RdCoreAndroid( 7439):     /mnt/vss/_work/1/s/source/stack/libtermsrv/rdp/LegacyXPlat/XPlatUClient/Implementation/UClientInputAdaptor.cpp(1358): SendInputInternalSNDThreadWorker()
+01-28 12:17:51.208 E/RdCoreAndroid( 7439): {1b25d549-d1e3-4679-8aaf-8278f1500000} "-legacy-"(ERR): Failed to open input batch!
+01-28 12:17:51.208 E/RdCoreAndroid( 7439):     /mnt/vss/_work/1/s/source/stack/libtermsrv/rdp/LegacyXPlat/XPlatUClient/Implementation/UClientInputAdaptor.cpp(1153): SendInputInternal()
+01-28 12:17:51.208 E/RdCoreAndroid( 7439): {1b25d549-d1e3-4679-8aaf-8278f1500000} "-legacy-"(ERR): SendInputInternal failed!
+01-28 12:17:51.208 E/RdCoreAndroid( 7439):     /mnt/vss/_work/1/s/source/stack/libtermsrv/rdp/LegacyXPlat/XPlatUClient/Implementation/UClientInputAdaptor.cpp(1358): SendInputInternalSNDThreadWorker()
+01-28 12:17:51.217 E/RdCoreAndroid( 7439): {1b25d549-d1e3-4679-8aaf-8278f1500000} "-legacy-"(ERR): Failed to open input batch!
+01-28 12:17:51.217 E/RdCoreAndroid( 7439):     /mnt/vss/_work/1/s/source/stack/libtermsrv/rdp/LegacyXPlat/XPlatUClient/Implementation/UClientInputAdaptor.cpp(1153): SendInputInternal()
+01-28 12:17:51.217 E/RdCoreAndroid( 7439): {1b25d549-d1e3-4679-8aaf-8278f1500000} "-legacy-"(ERR): SendInputInternal failed!
+01-28 12:17:51.217 E/RdCoreAndroid( 7439):     /mnt/vss/_work/1/s/source/stack/libtermsrv/rdp/LegacyXPlat/XPlatUClient/Implementation/UClientInputAdaptor.cpp(1358): SendInputInternalSNDThreadWorker()
+01-28 12:17:51.225 E/RdCoreAndroid( 7439): {1b25d549-d1e3-4679-8aaf-8278f1500000} "-legacy-"(ERR): Failed to open input batch!
+01-28 12:17:51.225 E/RdCoreAndroid( 7439):     /mnt/vss/_work/1/s/source/stack/libtermsrv/rdp/LegacyXPlat/XPlatUClient/Implementation/UClientInputAdaptor.cpp(1153): SendInputInternal()
+01-28 12:17:51.225 E/RdCoreAndroid( 7439): {1b25d549-d1e3-4679-8aaf-8278f1500000} "-legacy-"(ERR): SendInputInternal failed!
+01-28 12:17:51.225 E/RdCoreAndroid( 7439):     /mnt/vss/_work/1/s/source/stack/libtermsrv/rdp/LegacyXPlat/XPlatUClient/Implementation/UClientInputAdaptor.cpp(1358): SendInputInternalSNDThreadWorker()
+01-28 12:17:51.233 E/RdCoreAndroid( 7439): {1b25d549-d1e3-4679-8aaf-8278f1500000} "-legacy-"(ERR): Failed to open input batch!
+01-28 12:17:51.233 E/RdCoreAndroid( 7439):     /mnt/vss/_work/1/s/source/stack/libtermsrv/rdp/LegacyXPlat/XPlatUClient/Implementation/UClientInputAdaptor.cpp(1153): SendInputInternal()
+01-28 12:17:51.233 E/RdCoreAndroid( 7439): {1b25d549-d1e3-4679-8aaf-8278f1500000} "-legacy-"(ERR): SendInputInternal failed!
+01-28 12:17:51.233 E/RdCoreAndroid( 7439):     /mnt/vss/_work/1/s/source/stack/libtermsrv/rdp/LegacyXPlat/XPlatUClient/Implementation/UClientInputAdaptor.cpp(1358): SendInputInternalSNDThreadWorker()
+01-28 12:17:51.241 E/RdCoreAndroid( 7439): {1b25d549-d1e3-4679-8aaf-8278f1500000} "-legacy-"(ERR): Failed to open input batch!
+01-28 12:17:51.241 E/RdCoreAndroid( 7439):     /mnt/vss/_work/1/s/source/stack/libtermsrv/rdp/LegacyXPlat/XPlatUClient/Implementation/UClientInputAdaptor.cpp(1153): SendInputInternal()
+01-28 12:17:51.241 E/RdCoreAndroid( 7439): {1b25d549-d1e3-4679-8aaf-8278f1500000} "-legacy-"(ERR): SendInputInternal failed!
+01-28 12:17:51.241 E/RdCoreAndroid( 7439):     /mnt/vss/_work/1/s/source/stack/libtermsrv/rdp/LegacyXPlat/XPlatUClient/Implementation/UClientInputAdaptor.cpp(1358): SendInputInternalSNDThreadWorker()
+01-28 12:17:51.245 E/RdCoreAndroid( 7439): {1b25d549-d1e3-4679-8aaf-8278f1500000} "-legacy-"(ERR): Failed to open input batch!
+01-28 12:17:51.245 E/RdCoreAndroid( 7439):     /mnt/vss/_work/1/s/source/stack/libtermsrv/rdp/LegacyXPlat/XPlatUClient/Implementation/UClientInputAdaptor.cpp(1153): SendInputInternal()
+01-28 12:17:51.245 E/RdCoreAndroid( 7439): {1b25d549-d1e3-4679-8aaf-8278f1500000} "-legacy-"(ERR): SendInputInternal failed!
+01-28 12:17:51.245 E/RdCoreAndroid( 7439):     /mnt/vss/_work/1/s/source/stack/libtermsrv/rdp/LegacyXPlat/XPlatUClient/Implementation/UClientInputAdaptor.cpp(1358): SendInputInternalSNDThreadWorker()
+01-28 12:17:51.246 E/RdCoreAndroid( 7439): {1b25d549-d1e3-4679-8aaf-8278f1500000} "-legacy-"(ERR): Failed to open input batch!
+01-28 12:17:51.246 E/RdCoreAndroid( 7439):     /mnt/vss/_work/1/s/source/stack/libtermsrv/rdp/LegacyXPlat/XPlatUClient/Implementation/UClientInputAdaptor.cpp(1153): SendInputInternal()
+01-28 12:17:51.246 E/RdCoreAndroid( 7439): {1b25d549-d1e3-4679-8aaf-8278f1500000} "-legacy-"(ERR): SendInputInternal failed!
+01-28 12:17:51.246 E/RdCoreAndroid( 7439):     /mnt/vss/_work/1/s/source/stack/libtermsrv/rdp/LegacyXPlat/XPlatUClient/Implementation/UClientInputAdaptor.cpp(1358): SendInputInternalSNDThreadWorker()
+01-28 12:17:51.424 V/AutofillManager( 7439): requestHideFillUi(null): anchor = null
+01-28 12:17:51.458 E/RdCoreAndroid( 7439): {1b25d549-d1e3-4679-8aaf-8278f1500000} "-legacy-"(ERR): Failed to open input batch!
+01-28 12:17:51.458 E/RdCoreAndroid( 7439):     /mnt/vss/_work/1/s/source/stack/libtermsrv/rdp/LegacyXPlat/XPlatUClient/Implementation/UClientInputAdaptor.cpp(1153): SendInputInternal()
+01-28 12:17:51.458 E/RdCoreAndroid( 7439): {1b25d549-d1e3-4679-8aaf-8278f1500000} "-legacy-"(ERR): SendInputInternal failed!
+01-28 12:17:51.458 E/RdCoreAndroid( 7439):     /mnt/vss/_work/1/s/source/stack/libtermsrv/rdp/LegacyXPlat/XPlatUClient/Implementation/UClientInputAdaptor.cpp(1358): SendInputInternalSNDThreadWorker()
+01-28 12:17:51.466 E/RdCoreAndroid( 7439): {1b25d549-d1e3-4679-8aaf-8278f1500000} "-legacy-"(ERR): Failed to open input batch!
+01-28 12:17:51.466 E/RdCoreAndroid( 7439):     /mnt/vss/_work/1/s/source/stack/libtermsrv/rdp/LegacyXPlat/XPlatUClient/Implementation/UClientInputAdaptor.cpp(1153): SendInputInternal()
+01-28 12:17:51.466 E/RdCoreAndroid( 7439): {1b25d549-d1e3-4679-8aaf-8278f1500000} "-legacy-"(ERR): SendInputInternal failed!
+01-28 12:17:51.466 E/RdCoreAndroid( 7439):     /mnt/vss/_work/1/s/source/stack/libtermsrv/rdp/LegacyXPlat/XPlatUClient/Implementation/UClientInputAdaptor.cpp(1358): SendInputInternalSNDThreadWorker()
+01-28 12:17:51.474 E/RdCoreAndroid( 7439): {1b25d549-d1e3-4679-8aaf-8278f1500000} "-legacy-"(ERR): Failed to open input batch!
+01-28 12:17:51.474 E/RdCoreAndroid( 7439):     /mnt/vss/_work/1/s/source/stack/libtermsrv/rdp/LegacyXPlat/XPlatUClient/Implementation/UClientInputAdaptor.cpp(1153): SendInputInternal()
+01-28 12:17:51.474 E/RdCoreAndroid( 7439): {1b25d549-d1e3-4679-8aaf-8278f1500000} "-legacy-"(ERR): SendInputInternal failed!
+01-28 12:17:51.474 E/RdCoreAndroid( 7439):     /mnt/vss/_work/1/s/source/stack/libtermsrv/rdp/LegacyXPlat/XPlatUClient/Implementation/UClientInputAdaptor.cpp(1358): SendInputInternalSNDThreadWorker()
+01-28 12:17:51.483 E/RdCoreAndroid( 7439): {1b25d549-d1e3-4679-8aaf-8278f1500000} "-legacy-"(ERR): Failed to open input batch!
+01-28 12:17:51.483 E/RdCoreAndroid( 7439):     /mnt/vss/_work/1/s/source/stack/libtermsrv/rdp/LegacyXPlat/XPlatUClient/Implementation/UClientInputAdaptor.cpp(1153): SendInputInternal()
+01-28 12:17:51.483 E/RdCoreAndroid( 7439): {1b25d549-d1e3-4679-8aaf-8278f1500000} "-legacy-"(ERR): SendInputInternal failed!
+01-28 12:17:51.483 E/RdCoreAndroid( 7439):     /mnt/vss/_work/1/s/source/stack/libtermsrv/rdp/LegacyXPlat/XPlatUClient/Implementation/UClientInputAdaptor.cpp(1358): SendInputInternalSNDThreadWorker()
+01-28 12:17:51.492 E/RdCoreAndroid( 7439): {1b25d549-d1e3-4679-8aaf-8278f1500000} "-legacy-"(ERR): Failed to open input batch!
+01-28 12:17:51.492 E/RdCoreAndroid( 7439):     /mnt/vss/_work/1/s/source/stack/libtermsrv/rdp/LegacyXPlat/XPlatUClient/Implementation/UClientInputAdaptor.cpp(1153): SendInputInternal()
+01-28 12:17:51.492 E/RdCoreAndroid( 7439): {1b25d549-d1e3-4679-8aaf-8278f1500000} "-legacy-"(ERR): SendInputInternal failed!
+01-28 12:17:51.492 E/RdCoreAndroid( 7439):     /mnt/vss/_work/1/s/source/stack/libtermsrv/rdp/LegacyXPlat/XPlatUClient/Implementation/UClientInputAdaptor.cpp(1358): SendInputInternalSNDThreadWorker()
+01-28 12:17:51.498 E/RdCoreAndroid( 7439): {1b25d549-d1e3-4679-8aaf-8278f1500000} "-legacy-"(ERR): Failed to open input batch!
+01-28 12:17:51.498 E/RdCoreAndroid( 7439):     /mnt/vss/_work/1/s/source/stack/libtermsrv/rdp/LegacyXPlat/XPlatUClient/Implementation/UClientInputAdaptor.cpp(1153): SendInputInternal()
+01-28 12:17:51.498 E/RdCoreAndroid( 7439): {1b25d549-d1e3-4679-8aaf-8278f1500000} "-legacy-"(ERR): SendInputInternal failed!
+01-28 12:17:51.498 E/RdCoreAndroid( 7439):     /mnt/vss/_work/1/s/source/stack/libtermsrv/rdp/LegacyXPlat/XPlatUClient/Implementation/UClientInputAdaptor.cpp(1358): SendInputInternalSNDThreadWorker()
+01-28 12:17:51.507 E/RdCoreAndroid( 7439): {1b25d549-d1e3-4679-8aaf-8278f1500000} "-legacy-"(ERR): Failed to open input batch!
+01-28 12:17:51.507 E/RdCoreAndroid( 7439):     /mnt/vss/_work/1/s/source/stack/libtermsrv/rdp/LegacyXPlat/XPlatUClient/Implementation/UClientInputAdaptor.cpp(1153): SendInputInternal()
+01-28 12:17:51.507 E/RdCoreAndroid( 7439): {1b25d549-d1e3-4679-8aaf-8278f1500000} "-legacy-"(ERR): SendInputInternal failed!
+01-28 12:17:51.507 E/RdCoreAndroid( 7439):     /mnt/vss/_work/1/s/source/stack/libtermsrv/rdp/LegacyXPlat/XPlatUClient/Implementation/UClientInputAdaptor.cpp(1358): SendInputInternalSNDThreadWorker()
+01-28 12:17:51.517 E/RdCoreAndroid( 7439): {1b25d549-d1e3-4679-8aaf-8278f1500000} "-legacy-"(ERR): Failed to open input batch!
+01-28 12:17:51.517 E/RdCoreAndroid( 7439):     /mnt/vss/_work/1/s/source/stack/libtermsrv/rdp/LegacyXPlat/XPlatUClient/Implementation/UClientInputAdaptor.cpp(1153): SendInputInternal()
+01-28 12:17:51.518 E/RdCoreAndroid( 7439): {1b25d549-d1e3-4679-8aaf-8278f1500000} "-legacy-"(ERR): SendInputInternal failed!
+01-28 12:17:51.518 E/RdCoreAndroid( 7439):     /mnt/vss/_work/1/s/source/stack/libtermsrv/rdp/LegacyXPlat/XPlatUClient/Implementation/UClientInputAdaptor.cpp(1358): SendInputInternalSNDThreadWorker()
+01-28 12:17:51.525 E/RdCoreAndroid( 7439): {1b25d549-d1e3-4679-8aaf-8278f1500000} "-legacy-"(ERR): Failed to open input batch!
+01-28 12:17:51.525 E/RdCoreAndroid( 7439):     /mnt/vss/_work/1/s/source/stack/libtermsrv/rdp/LegacyXPlat/XPlatUClient/Implementation/UClientInputAdaptor.cpp(1153): SendInputInternal()
+01-28 12:17:51.528 E/RdCoreAndroid( 7439): {1b25d549-d1e3-4679-8aaf-8278f1500000} "-legacy-"(ERR): SendInputInternal failed!
+01-28 12:17:51.528 E/RdCoreAndroid( 7439):     /mnt/vss/_work/1/s/source/stack/libtermsrv/rdp/LegacyXPlat/XPlatUClient/Implementation/UClientInputAdaptor.cpp(1358): SendInputInternalSNDThreadWorker()
+01-28 12:17:51.535 E/RdCoreAndroid( 7439): {1b25d549-d1e3-4679-8aaf-8278f1500000} "-legacy-"(ERR): Failed to open input batch!
+01-28 12:17:51.535 E/RdCoreAndroid( 7439):     /mnt/vss/_work/1/s/source/stack/libtermsrv/rdp/LegacyXPlat/XPlatUClient/Implementation/UClientInputAdaptor.cpp(1153): SendInputInternal()
+01-28 12:17:51.535 E/RdCoreAndroid( 7439): {1b25d549-d1e3-4679-8aaf-8278f1500000} "-legacy-"(ERR): SendInputInternal failed!
+01-28 12:17:51.535 E/RdCoreAndroid( 7439):     /mnt/vss/_work/1/s/source/stack/libtermsrv/rdp/LegacyXPlat/XPlatUClient/Implementation/UClientInputAdaptor.cpp(1358): SendInputInternalSNDThreadWorker()
+01-28 12:17:51.541 E/RdCoreAndroid( 7439): {1b25d549-d1e3-4679-8aaf-8278f1500000} "-legacy-"(ERR): Failed to open input batch!
+01-28 12:17:51.541 E/RdCoreAndroid( 7439):     /mnt/vss/_work/1/s/source/stack/libtermsrv/rdp/LegacyXPlat/XPlatUClient/Implementation/UClientInputAdaptor.cpp(1153): SendInputInternal()
+01-28 12:17:51.542 E/RdCoreAndroid( 7439): {1b25d549-d1e3-4679-8aaf-8278f1500000} "-legacy-"(ERR): SendInputInternal failed!
+01-28 12:17:51.542 E/RdCoreAndroid( 7439):     /mnt/vss/_work/1/s/source/stack/libtermsrv/rdp/LegacyXPlat/XPlatUClient/Implementation/UClientInputAdaptor.cpp(1358): SendInputInternalSNDThreadWorker()
+01-28 12:17:51.550 E/RdCoreAndroid( 7439): {1b25d549-d1e3-4679-8aaf-8278f1500000} "-legacy-"(ERR): Failed to open input batch!
+01-28 12:17:51.550 E/RdCoreAndroid( 7439):     /mnt/vss/_work/1/s/source/stack/libtermsrv/rdp/LegacyXPlat/XPlatUClient/Implementation/UClientInputAdaptor.cpp(1153): SendInputInternal()
+01-28 12:17:51.550 E/RdCoreAndroid( 7439): {1b25d549-d1e3-4679-8aaf-8278f1500000} "-legacy-"(ERR): SendInputInternal failed!
+01-28 12:17:51.550 E/RdCoreAndroid( 7439):     /mnt/vss/_work/1/s/source/stack/libtermsrv/rdp/LegacyXPlat/XPlatUClient/Implementation/UClientInputAdaptor.cpp(1358): SendInputInternalSNDThreadWorker()
+01-28 12:17:51.559 E/RdCoreAndroid( 7439): {1b25d549-d1e3-4679-8aaf-8278f1500000} "-legacy-"(ERR): Failed to open input batch!
+01-28 12:17:51.559 E/RdCoreAndroid( 7439):     /mnt/vss/_work/1/s/source/stack/libtermsrv/rdp/LegacyXPlat/XPlatUClient/Implementation/UClientInputAdaptor.cpp(1153): SendInputInternal()
+01-28 12:17:51.560 E/RdCoreAndroid( 7439): {1b25d549-d1e3-4679-8aaf-8278f1500000} "-legacy-"(ERR): SendInputInternal failed!
+01-28 12:17:51.560 E/RdCoreAndroid( 7439):     /mnt/vss/_work/1/s/source/stack/libtermsrv/rdp/LegacyXPlat/XPlatUClient/Implementation/UClientInputAdaptor.cpp(1358): SendInputInternalSNDThreadWorker()
+01-28 12:17:51.569 E/RdCoreAndroid( 7439): {1b25d549-d1e3-4679-8aaf-8278f1500000} "-legacy-"(ERR): Failed to open input batch!
+01-28 12:17:51.569 E/RdCoreAndroid( 7439):     /mnt/vss/_work/1/s/source/stack/libtermsrv/rdp/LegacyXPlat/XPlatUClient/Implementation/UClientInputAdaptor.cpp(1153): SendInputInternal()
+01-28 12:17:51.569 E/RdCoreAndroid( 7439): {1b25d549-d1e3-4679-8aaf-8278f1500000} "-legacy-"(ERR): SendInputInternal failed!
+01-28 12:17:51.569 E/RdCoreAndroid( 7439):     /mnt/vss/_work/1/s/source/stack/libtermsrv/rdp/LegacyXPlat/XPlatUClient/Implementation/UClientInputAdaptor.cpp(1358): SendInputInternalSNDThreadWorker()
+01-28 12:17:51.574 E/RdCoreAndroid( 7439): {1b25d549-d1e3-4679-8aaf-8278f1500000} "-legacy-"(ERR): Failed to open input batch!
+01-28 12:17:51.574 E/RdCoreAndroid( 7439):     /mnt/vss/_work/1/s/source/stack/libtermsrv/rdp/LegacyXPlat/XPlatUClient/Implementation/UClientInputAdaptor.cpp(1153): SendInputInternal()
+01-28 12:17:51.575 E/RdCoreAndroid( 7439): {1b25d549-d1e3-4679-8aaf-8278f1500000} "-legacy-"(ERR): SendInputInternal failed!
+01-28 12:17:51.575 E/RdCoreAndroid( 7439):     /mnt/vss/_work/1/s/source/stack/libtermsrv/rdp/LegacyXPlat/XPlatUClient/Implementation/UClientInputAdaptor.cpp(1358): SendInputInternalSNDThreadWorker()
+01-28 12:17:51.581 E/RdCoreAndroid( 7439): {1b25d549-d1e3-4679-8aaf-8278f1500000} "-legacy-"(ERR): Failed to open input batch!
+01-28 12:17:51.581 E/RdCoreAndroid( 7439):     /mnt/vss/_work/1/s/source/stack/libtermsrv/rdp/LegacyXPlat/XPlatUClient/Implementation/UClientInputAdaptor.cpp(1153): SendInputInternal()
+01-28 12:17:51.582 E/RdCoreAndroid( 7439): {1b25d549-d1e3-4679-8aaf-8278f1500000} "-legacy-"(ERR): SendInputInternal failed!
+01-28 12:17:51.582 E/RdCoreAndroid( 7439):     /mnt/vss/_work/1/s/source/stack/libtermsrv/rdp/LegacyXPlat/XPlatUClient/Implementation/UClientInputAdaptor.cpp(1358): SendInputInternalSNDThreadWorker()
+01-28 12:17:51.583 E/RdCoreAndroid( 7439): {1b25d549-d1e3-4679-8aaf-8278f1500000} "-legacy-"(ERR): Failed to open input batch!
+01-28 12:17:51.583 E/RdCoreAndroid( 7439):     /mnt/vss/_work/1/s/source/stack/libtermsrv/rdp/LegacyXPlat/XPlatUClient/Implementation/UClientInputAdaptor.cpp(1153): SendInputInternal()
+01-28 12:17:51.583 E/RdCoreAndroid( 7439): {1b25d549-d1e3-4679-8aaf-8278f1500000} "-legacy-"(ERR): SendInputInternal failed!
+01-28 12:17:51.583 E/RdCoreAndroid( 7439):     /mnt/vss/_work/1/s/source/stack/libtermsrv/rdp/LegacyXPlat/XPlatUClient/Implementation/UClientInputAdaptor.cpp(1358): SendInputInternalSNDThreadWorker()
+01-28 12:17:52.560 W/[N]ConnectionDelegate( 7439): Client receive auth challenge begin
+01-28 12:17:52.560 I/[N]NativeRdpSessionWrapper( 7439): onProtocolStateChanged: 2
+01-28 12:17:52.568 W/[N]ConnectionDelegate( 7439): Client receive credentials challenge
+01-28 12:17:52.568 W/[N]ConnectionDelegate( 7439): Client receive challenge from 2
+01-28 12:17:52.568 W/[N]ConnectionDelegate( 7439): GATEWAY call password challenge from java layer >>>>
+01-28 12:17:52.569 W/[N]NativeGlobalPlugin( 7439): [RDC-RdpSession]:RdpSession onPasswordChallenge
+01-28 12:17:52.570 W/[N]ConnectionDelegate( 7439): GATEWAY call password challenge from java layer <<<<
+01-28 12:17:52.577 W/[N]NativeGlobalPlugin( 7439): [UI-SessionActivity]:SessionActivity onPasswordChallenge
+01-28 12:17:52.582 V/TextView( 7439): notifyAutoFillManagerAfterTextChanged
+01-28 12:17:52.582 V/AutofillManager( 7439): notifyValueChanged(1073741847): ignoring on state FINISHED
+01-28 12:17:52.582 V/TextView( 7439): notifyAutoFillManagerAfterTextChanged
+01-28 12:17:52.582 V/AutofillManager( 7439): notifyValueChanged(1073741847): ignoring on state FINISHED
+01-28 12:17:52.583 V/TextView( 7439): notifyAutoFillManagerAfterTextChanged
+01-28 12:17:52.583 V/AutofillManager( 7439): notifyValueChanged(1073741848): ignoring on state FINISHED
+01-28 12:17:52.583 V/TextView( 7439): notifyAutoFillManagerAfterTextChanged
+01-28 12:17:52.583 V/AutofillManager( 7439): notifyValueChanged(1073741848): ignoring on state FINISHED
+01-28 12:17:52.583 V/TextView( 7439): notifyAutoFillManagerAfterTextChanged
+01-28 12:17:52.583 V/AutofillManager( 7439): notifyValueChanged(1073741848): ignoring on state FINISHED
+01-28 12:17:52.607 V/TextView( 7439): notifyAutoFillManagerAfterTextChanged
+01-28 12:17:52.607 V/AutofillManager( 7439): notifyValueChanged(1073741847): ignoring on state FINISHED
+01-28 12:17:52.609 D/WindowOnBackDispatcher( 7439): setTopOnBackInvokedCallback (unwrapped): android.view.ViewRootImpl$$ExternalSyntheticLambda12@1dc1ee0
+01-28 12:17:52.663 D/ImeBackDispatcher( 7439): switch root view (mImeCallbacks.size=0)
+01-28 12:17:52.669 D/InsetsController( 7439): hide(ime())
+01-28 12:17:52.669 I/ImeTracker( 7439): com.microsoft.rdc.androidx:db263fc6: onCancelled at PHASE_CLIENT_ALREADY_HIDDEN
+01-28 12:17:53.451 V/AutofillManager( 7439): requestHideFillUi(null): anchor = null
+01-28 12:17:53.796 V/AutofillManager( 7439): requestHideFillUi(null): anchor = null
+01-28 12:17:53.924 W/[N]NativeRdpSessionWrapper( 7439): cancelPasswordChallenge 0
+01-28 12:17:53.924 W/[N]NativeRdpSessionWrapper( 7439): set empty password
+01-28 12:17:53.924 W/[N]NativeRdpSessionWrapper( 7439): call disconnect
+01-28 12:17:53.924 W/[N]ConnectionDelegate( 7439): GATEWAY cancel password challenge
+01-28 12:17:53.924 I/[N]NativeRdpSessionWrapper( 7439): onProtocolStateChanged: 9
+01-28 12:17:53.924 I/ImeTracker( 7439): com.microsoft.rdc.androidx:80a942a2: onRequestHide at ORIGIN_CLIENT reason HIDE_SOFT_INPUT fromUser false
+01-28 12:17:53.925 D/InsetsController( 7439): hide(ime())
+01-28 12:17:53.925 I/ImeTracker( 7439): com.microsoft.rdc.androidx:80a942a2: onCancelled at PHASE_CLIENT_ALREADY_HIDDEN
+01-28 12:17:53.925 D/ImeBackDispatcher( 7439): Clear (mImeCallbacks.size=0)
+01-28 12:17:53.925 D/ImeBackDispatcher( 7439): switch root view (mImeCallbacks.size=0)
+01-28 12:17:53.925 D/WindowOnBackDispatcher( 7439): setTopOnBackInvokedCallback (unwrapped): null
+01-28 12:17:53.935 D/HWUI    ( 7439): endAllActiveAnimators on 0x72eaecccd0 (RippleDrawable) with handle 0x719ad8bc80
+01-28 12:17:53.957 D/ViewRootImpl( 7439): Skipping stats log for color mode
+01-28 12:17:53.959 V/AutofillClientController( 7439): onActivityResumed()
+01-28 12:17:53.959 V/AutofillClientController( 7439): onActivityResumed(): Relayout fix not enabled
+01-28 12:17:53.962 V/AutofillClientController( 7439): onActivityPostResumed()
+01-28 12:17:53.978 E/[N]key_input_jni( 7439): keyInputDelegatePtrFromNativeRdpSessionPtr: NativeRdpSessionWrapper is null
+01-28 12:17:54.020 D/ImeBackDispatcher( 7439): switch root view (mImeCallbacks.size=0)
+01-28 12:17:54.029 D/InsetsController( 7439): hide(ime())
+01-28 12:17:54.029 I/ImeTracker( 7439): com.microsoft.rdc.androidx:3f9b8ddb: onCancelled at PHASE_CLIENT_ALREADY_HIDDEN
+01-28 12:17:54.470 D/VRI[SessionActivity]( 7439): visibilityChanged oldVisibility=true newVisibility=false
+01-28 12:17:54.486 I/AutofillManager( 7439): onInvisibleForAutofill(): expiringResponse
+01-28 12:17:54.486 V/AutofillManager( 7439): updateSessionLocked(): id=null, bounds=null, value=null, action=5, flags=0
+01-28 12:17:54.488 D/AutofillManager( 7439): onActivityFinishing(): calling cancelLocked()
+01-28 12:17:54.488 V/AutofillManager( 7439): cancelSessionLocked(): FINISHED
+01-28 12:17:54.488 D/WindowOnBackDispatcher( 7439): setTopOnBackInvokedCallback (unwrapped): null
+01-28 12:17:54.491 D/ViewRootImpl( 7439): Skipping stats log for color mode
+01-28 12:17:55.443 V/AutofillManager( 7439): requestHideFillUi(null): anchor = null
+01-28 12:17:55.761 W/System  ( 7439): A resource failed to call CursorWindow.close. 
+01-28 12:17:55.761 W/System  ( 7439): A resource failed to call AbstractCursor.close. 
+01-28 12:17:55.762 W/System  ( 7439): A resource failed to call CursorWindow.close. 
+01-28 12:17:55.762 W/System  ( 7439): A resource failed to call AbstractCursor.close. 
+01-28 12:17:55.764 W/System  ( 7439): A resource failed to call CursorWindow.close. 
+01-28 12:17:55.764 W/System  ( 7439): A resource failed to call AbstractCursor.close. 
+01-28 12:17:56.572 V/AutofillManager( 7439): requestHideFillUi(null): anchor = null
+01-28 12:17:56.705 V/AutofillManager( 7439): visibility changed for 1073741825:i1556: false
+01-28 12:17:56.705 V/AutofillManager( 7439): Ignoring visibility change on 1073741825:i1556: no tracked views
+01-28 12:17:57.345 V/AutofillManager( 7439): requestHideFillUi(null): anchor = null
+01-28 12:17:57.850 V/AutofillManager( 7439): requestHideFillUi(null): anchor = null
+01-28 12:17:59.377 D/ImeBackDispatcher( 7439): Clear (mImeCallbacks.size=0)
+01-28 12:17:59.377 D/ImeBackDispatcher( 7439): switch root view (mImeCallbacks.size=0)
+01-28 12:17:59.736 D/VRI[HomeActivity]( 7439): visibilityChanged oldVisibility=true newVisibility=false
+01-28 12:17:59.758 I/AutofillManager( 7439): onInvisibleForAutofill(): expiringResponse
+01-28 12:17:59.758 V/AutofillManager( 7439): updateSessionLocked(): id=null, bounds=null, value=null, action=5, flags=0
+01-28 12:17:59.801 D/HWUI    ( 7439): endAllActiveAnimators on 0x72ead0a2d0 (UnprojectedRipple) with handle 0x719ad8bad0

@@ -1,0 +1,41 @@
+﻿================================================================================
+PROOF 1: ACCESS CONTROL VIOLATION - TECHNICAL DOCUMENTATION
+================================================================================
+
+TEST METHODOLOGY:
+- PowerShell cmdlet: Get-EventLog
+- Administrative privilege test on Windows Event Logs
+- Test performed: 2026-01-28 00:45:43
+
+TECHNICAL FINDINGS:
+
+Security Event Log (Critical for forensic investigation):
+  Status: BLOCKED
+  Test Time: 2026-01-28 00:45:43.078
+  Error: Requested registry access is not allowed.
+  Registry Path: HKLM\SYSTEM\CurrentControlSet\Services\EventLog\Security
+  Required Permission: SeSecurityPrivilege (Manage auditing and security log)
+  
+System Event Log:
+  Status: ACCESSIBLE
+  Test Time: 2026-01-28 00:45:43.088
+  
+  
+Application Event Log:
+  Status: ACCESSIBLE
+  Test Time: 2026-01-28 00:45:43.092
+  
+
+TECHNICAL SIGNIFICANCE:
+- Security log access denial indicates registry permission modification
+- Normal user accounts with administrative rights should have SeSecurityPrivilege
+- Denial suggests: (a) explicit permission revocation, or (b) system compromise
+- This prevents viewing: login attempts, file access, permission changes, deletions
+
+WINDOWS ERROR CODES:
+Requested registry access is not allowed.
+
+CHAIN OF CUSTODY:
+- Evidence Type: System Access Control Test Results
+- Collection Method: Automated PowerShell cmdlet execution
+- Hash: [To be calculated at evidence package completion]

@@ -1,0 +1,50 @@
+﻿
+
+Name                  : Dom
+                        ain
+Enabled               : Tru
+                        e
+DefaultInboundAction  : Not
+                        Con
+                        fig
+                        ure
+                        d
+DefaultOutboundAction : Not
+                        Con
+                        fig
+                        ure
+                        d
+
+Name                  : Pri
+                        vat
+                        e
+Enabled               : Tru
+                        e
+DefaultInboundAction  : Not
+                        Con
+                        fig
+                        ure
+                        d
+DefaultOutboundAction : Not
+                        Con
+                        fig
+                        ure
+                        d
+
+Name                  : Pub
+                        lic
+Enabled               : Tru
+                        e
+DefaultInboundAction  : Not
+                        Con
+                        fig
+                        ure
+                        d
+DefaultOutboundAction : Not
+                        Con
+                        fig
+                        ure
+                        d
+
+
+

@@ -1,0 +1,13 @@
+﻿SECURITY LOG ACCESS DENIED
+Time: 2026-01-28 00:45:45
+Error: Requested registry access is not allowed.
+
+This log would contain critical forensic evidence including:
+- File deletion events (Event ID 4663, 4660)
+- Privilege escalation (Event ID 4672, 4673)
+- Login/logout events (Event ID 4624, 4634, 4647)
+- Security policy changes (Event ID 4719)
+- Process creation (Event ID 4688 if enabled)
+
+The inability to access this log severely hampers forensic investigation
+and is itself evidence of system compromise or malicious permission changes.

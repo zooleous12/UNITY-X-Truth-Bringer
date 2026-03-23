@@ -1,0 +1,5 @@
+﻿NOT FOUND: C:\Users\zoole\AppData\Local\Antigravity
+FOUND: C:\Users\zoole\AppData\Roaming\Antigravity
+NOT FOUND: C:\Program Files\Antigravity
+NOT FOUND: C:\Program Files (x86)\Antigravity
+FOUND: C:\Users\zoole\.gemini

@@ -1,0 +1,47 @@
+﻿================================================================================
+PROOF 2: EVENT LOG ANALYSIS - TECHNICAL DOCUMENTATION
+================================================================================
+
+COLLECTION PARAMETERS:
+- Time Range: 2026-01-25 00:45:43 to 2026-01-28 00:45:45
+- Duration: 72 hours
+- Collection Method: PowerShell Get-EventLog and Get-WinEvent cmdlets
+
+EVENT COUNTS:
+- Application Log: 918 events
+- System Log: 489 events  
+- Security Log: ACCESS DENIED - 0 events collected
+
+ANTIGRAVITY DELETION TIMELINE:
+According to user report, the deletion occurred approximately 2026-01-27 23:58:00
+to 2026-01-28 00:02:00 (during active application use).
+
+FORENSICALLY RELEVANT EVENT IDs TO INVESTIGATE:
+
+Security Log (if accessible):
+- 4663: File/Object Access (shows file deletions)
+- 4660: Object Deleted
+- 4688: Process Creation (if enabled - shows what program deleted files)
+- 4672: Special Privileges Assigned (shows privilege escalation)
+- 4673: Privileged Service Called
+- 4697: Service Installation
+- 4698-4702: Scheduled Task events
+
+System Log:
+- 7034, 7036: Service crashes/state changes
+- 1000, 1001: Application errors/crashes
+- 6005, 6006, 6008: System start/stop events (unexpected reboots)
+- 104: Log cleared (evidence tampering)
+
+Application Log:
+- 1000: Application Error
+- 1001: Windows Error Reporting
+- Application-specific crash dumps
+
+FILES GENERATED:
+- application_log_72h.txt (877440 bytes) - application_log_errors_72h.txt (25936 bytes) - system_log_72h.txt (513211 bytes) - system_log_errors_72h.txt (56239 bytes)
+
+CHAIN OF CUSTODY:
+- Raw logs preserved in unmodified format
+- Timestamps preserved in original system timezone
+- File hashes: [To be calculated]

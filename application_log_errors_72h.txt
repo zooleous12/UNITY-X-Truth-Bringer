@@ -1,0 +1,1018 @@
+﻿
+
+TimeGenerated : 1/26/2026 
+                8:20:41 PM
+EntryType     : Error
+Source        : Application
+                 Error
+EventID       : 1000
+Message       : Faulting ap
+                plication 
+                name: Snipp
+                ingTool.exe
+                , version: 
+                11.2510.31.
+                0, time 
+                stamp: 
+                0x690bfb23
+                Faulting 
+                module 
+                name: ucrtb
+                ase.dll, 
+                version: 10
+                .0.26100.70
+                19, time 
+                stamp: 
+                0x55eee9bf
+                Exception 
+                code: 
+                0xc0000409
+                Fault 
+                offset: 0x0
+                0000000000a
+                4ace
+                Faulting 
+                process 
+                id: 0x735c
+                Faulting ap
+                plication 
+                start 
+                time: 0x1dc
+                8f3bc0858e2
+                9
+                Faulting ap
+                plication 
+                path: 
+                C:\Program 
+                Files\Windo
+                wsApps\Micr
+                osoft.Scree
+                nSketch_11.
+                2510.31.0_x
+                64__8wekyb3
+                d8bbwe\Snip
+                pingTool\Sn
+                ippingTool.
+                exe
+                Faulting 
+                module 
+                path: C:\Wi
+                ndows\Syste
+                m32\ucrtbas
+                e.dll
+                Report Id: 
+                d3e73823-16
+                18-408d-b19
+                c-a34b37a35
+                f9f
+                Faulting 
+                package 
+                full name: 
+                Microsoft.S
+                creenSketch
+                _11.2510.31
+                .0_x64__8we
+                kyb3d8bbwe
+                Faulting pa
+                ckage-relat
+                ive applica
+                tion ID: 
+                App
+
+TimeGenerated : 1/26/2026 
+                2:07:12 PM
+EntryType     : Error
+Source        : .NET 
+                Runtime
+EventID       : 1022
+Message       : .NET 
+                Runtime 
+                version 4.0
+                .30319.0 - 
+                There was 
+                a failure i
+                nitializing
+                 profiling 
+                API attach 
+                infrastruct
+                ure.  This 
+                process 
+                will not 
+                allow a 
+                profiler 
+                to attach. 
+                 HRESULT: 0
+                x80004005. 
+                 Process 
+                ID 
+                (decimal): 
+                30344.  
+                Message 
+                ID: 
+                [0x2509].
+
+TimeGenerated : 1/26/2026 
+                1:57:47 PM
+EntryType     : Error
+Source        : Application
+                 Hang
+EventID       : 1002
+Message       : The 
+                program 
+                comet.exe 
+                version 143
+                .2.7499.376
+                54 stopped 
+                interacting
+                 with 
+                Windows 
+                and was 
+                closed. To 
+                see if 
+                more inform
+                ation 
+                about the 
+                problem is 
+                available, 
+                check the 
+                problem 
+                history in 
+                the 
+                Security 
+                and Mainten
+                ance 
+                control 
+                panel.
+                
+
+TimeGenerated : 1/26/2026 
+                1:54:17 PM
+EntryType     : Warning
+Source        : Windows 
+                Search 
+                Service
+EventID       : 10024
+Message       : The filter 
+                host 
+                process 
+                19924 did 
+                not 
+                respond 
+                and is 
+                being 
+                forcibly te
+                rminated. 
+                
+
+TimeGenerated : 1/26/2026 
+                1:53:46 PM
+EntryType     : Warning
+Source        : Windows 
+                Search 
+                Service
+EventID       : 10024
+Message       : The filter 
+                host 
+                process 
+                11720 did 
+                not 
+                respond 
+                and is 
+                being 
+                forcibly te
+                rminated. 
+                
+
+TimeGenerated : 1/26/2026 
+                1:53:45 PM
+EntryType     : Warning
+Source        : Windows 
+                Search 
+                Service
+EventID       : 10024
+Message       : The filter 
+                host 
+                process 
+                18404 did 
+                not 
+                respond 
+                and is 
+                being 
+                forcibly te
+                rminated. 
+                
+
+TimeGenerated : 1/26/2026 
+                1:26:11 PM
+EntryType     : Error
+Source        : .NET 
+                Runtime
+EventID       : 1022
+Message       : .NET 
+                Runtime 
+                version 4.0
+                .30319.0 - 
+                There was 
+                a failure i
+                nitializing
+                 profiling 
+                API attach 
+                infrastruct
+                ure.  This 
+                process 
+                will not 
+                allow a 
+                profiler 
+                to attach. 
+                 HRESULT: 0
+                x80004005. 
+                 Process 
+                ID 
+                (decimal): 
+                13884.  
+                Message 
+                ID: 
+                [0x2509].
+
+TimeGenerated : 1/26/2026 
+                1:26:09 PM
+EntryType     : Error
+Source        : .NET 
+                Runtime
+EventID       : 1022
+Message       : .NET 
+                Runtime 
+                version 4.0
+                .30319.0 - 
+                There was 
+                a failure i
+                nitializing
+                 profiling 
+                API attach 
+                infrastruct
+                ure.  This 
+                process 
+                will not 
+                allow a 
+                profiler 
+                to attach. 
+                 HRESULT: 0
+                x80004005. 
+                 Process 
+                ID 
+                (decimal): 
+                14368.  
+                Message 
+                ID: 
+                [0x2509].
+
+TimeGenerated : 1/26/2026 
+                11:00:31 AM
+EntryType     : Error
+Source        : Application
+                 Hang
+EventID       : 1002
+Message       : The 
+                program WIN
+                WORD.EXE 
+                version 16.
+                0.19530.201
+                84 stopped 
+                interacting
+                 with 
+                Windows 
+                and was 
+                closed. To 
+                see if 
+                more inform
+                ation 
+                about the 
+                problem is 
+                available, 
+                check the 
+                problem 
+                history in 
+                the 
+                Security 
+                and Mainten
+                ance 
+                control 
+                panel.
+                
+
+TimeGenerated : 1/26/2026 
+                11:00:18 AM
+EntryType     : Error
+Source        : Application
+                 Hang
+EventID       : 1002
+Message       : The 
+                program 
+                comet.exe 
+                version 143
+                .2.7499.376
+                54 stopped 
+                interacting
+                 with 
+                Windows 
+                and was 
+                closed. To 
+                see if 
+                more inform
+                ation 
+                about the 
+                problem is 
+                available, 
+                check the 
+                problem 
+                history in 
+                the 
+                Security 
+                and Mainten
+                ance 
+                control 
+                panel.
+                
+
+TimeGenerated : 1/26/2026 
+                10:59:06 AM
+EntryType     : Error
+Source        : Application
+                 Hang
+EventID       : 1002
+Message       : The 
+                program exp
+                lorer.exe 
+                version 10.
+                0.26100.701
+                9 stopped i
+                nteracting 
+                with 
+                Windows 
+                and was 
+                closed. To 
+                see if 
+                more inform
+                ation 
+                about the 
+                problem is 
+                available, 
+                check the 
+                problem 
+                history in 
+                the 
+                Security 
+                and Mainten
+                ance 
+                control 
+                panel.
+                
+
+TimeGenerated : 1/26/2026 
+                8:26:29 AM
+EntryType     : Warning
+Source        : Microsoft-W
+                indows-Rest
+                artManager
+EventID       : 10010
+Message       : Application
+                 'C:\Progra
+                m Files\Mic
+                rosoft Offi
+                ce\root\Off
+                ice16\WINWO
+                RD.EXE' 
+                (pid 
+                19936) 
+                cannot be 
+                restarted 
+                - 1.
+
+TimeGenerated : 1/26/2026 
+                8:26:29 AM
+EntryType     : Warning
+Source        : Microsoft-W
+                indows-Rest
+                artManager
+EventID       : 10010
+Message       : Application
+                 'C:\Progra
+                m Files\Mic
+                rosoft Offi
+                ce\root\vfs
+                \ProgramFil
+                esCommonX64
+                \Microsoft 
+                Shared\Offi
+                ce16\AI\aim
+                gr.exe' 
+                (pid 
+                10680) 
+                cannot be 
+                restarted 
+                - 1.
+
+TimeGenerated : 1/26/2026 
+                8:26:29 AM
+EntryType     : Warning
+Source        : Microsoft-W
+                indows-Rest
+                artManager
+EventID       : 10010
+Message       : Application
+                 'C:\Progra
+                m Files\Mic
+                rosoft Offi
+                ce\root\Off
+                ice16\WINWO
+                RD.EXE' 
+                (pid 
+                27084) 
+                cannot be 
+                restarted 
+                - 1.
+
+TimeGenerated : 1/26/2026 
+                8:26:29 AM
+EntryType     : Warning
+Source        : Microsoft-W
+                indows-Rest
+                artManager
+EventID       : 10010
+Message       : Application
+                 'C:\Progra
+                m Files\Mic
+                rosoft Offi
+                ce\root\vfs
+                \ProgramFil
+                esCommonX64
+                \Microsoft 
+                Shared\Offi
+                ce16\AI\ai.
+                exe' (pid 
+                22900) 
+                cannot be 
+                restarted 
+                - 1.
+
+TimeGenerated : 1/26/2026 
+                8:26:29 AM
+EntryType     : Warning
+Source        : Microsoft-W
+                indows-Rest
+                artManager
+EventID       : 10010
+Message       : Application
+                 'C:\Progra
+                m Files\Mic
+                rosoft Offi
+                ce\root\vfs
+                \ProgramFil
+                esCommonX64
+                \Microsoft 
+                Shared\Offi
+                ce16\AI\ai.
+                exe' (pid 
+                26296) 
+                cannot be 
+                restarted 
+                - 1.
+
+TimeGenerated : 1/26/2026 
+                8:26:29 AM
+EntryType     : Warning
+Source        : Microsoft-W
+                indows-Rest
+                artManager
+EventID       : 10010
+Message       : Application
+                 'C:\Progra
+                m Files\Mic
+                rosoft Offi
+                ce\root\vfs
+                \ProgramFil
+                esCommonX64
+                \Microsoft 
+                Shared\Offi
+                ce16\AI\ai.
+                exe' (pid 
+                5668) 
+                cannot be 
+                restarted 
+                - 1.
+
+TimeGenerated : 1/26/2026 
+                5:07:56 AM
+EntryType     : Error
+Source        : Microsoft-W
+                indows-Rest
+                artManager
+EventID       : 10006
+Message       : Application
+                 or 
+                service 
+                'rg.exe' 
+                could not 
+                be shut 
+                down.
+
+TimeGenerated : 1/26/2026 
+                5:07:56 AM
+EntryType     : Error
+Source        : Microsoft-W
+                indows-Rest
+                artManager
+EventID       : 10006
+Message       : Application
+                 or 
+                service 
+                'rg.exe' 
+                could not 
+                be shut 
+                down.
+
+TimeGenerated : 1/26/2026 
+                1:35:24 AM
+EntryType     : Warning
+Source        : Windows 
+                Search 
+                Service
+EventID       : 10024
+Message       : The filter 
+                host 
+                process 
+                31260 did 
+                not 
+                respond 
+                and is 
+                being 
+                forcibly te
+                rminated. 
+                
+
+TimeGenerated : 1/26/2026 
+                1:34:45 AM
+EntryType     : Warning
+Source        : Windows 
+                Search 
+                Service
+EventID       : 10024
+Message       : The filter 
+                host 
+                process 
+                29052 did 
+                not 
+                respond 
+                and is 
+                being 
+                forcibly te
+                rminated. 
+                
+
+TimeGenerated : 1/26/2026 
+                1:34:11 AM
+EntryType     : Error
+Source        : .NET 
+                Runtime
+EventID       : 1022
+Message       : .NET 
+                Runtime 
+                version 4.0
+                .30319.0 - 
+                There was 
+                a failure i
+                nitializing
+                 profiling 
+                API attach 
+                infrastruct
+                ure.  This 
+                process 
+                will not 
+                allow a 
+                profiler 
+                to attach. 
+                 HRESULT: 0
+                x80004005. 
+                 Process 
+                ID 
+                (decimal): 
+                29592.  
+                Message 
+                ID: 
+                [0x2509].
+
+TimeGenerated : 1/26/2026 
+                12:42:14 AM
+EntryType     : Warning
+Source        : Windows 
+                Search 
+                Service
+EventID       : 10024
+Message       : The filter 
+                host 
+                process 
+                18164 did 
+                not 
+                respond 
+                and is 
+                being 
+                forcibly te
+                rminated. 
+                
+
+TimeGenerated : 1/26/2026 
+                12:36:25 AM
+EntryType     : Warning
+Source        : Windows 
+                Search 
+                Service
+EventID       : 10024
+Message       : The filter 
+                host 
+                process 
+                22608 did 
+                not 
+                respond 
+                and is 
+                being 
+                forcibly te
+                rminated. 
+                
+
+TimeGenerated : 1/26/2026 
+                12:36:25 AM
+EntryType     : Warning
+Source        : Windows 
+                Search 
+                Service
+EventID       : 10024
+Message       : The filter 
+                host 
+                process 
+                25000 did 
+                not 
+                respond 
+                and is 
+                being 
+                forcibly te
+                rminated. 
+                
+
+TimeGenerated : 1/26/2026 
+                12:35:51 AM
+EntryType     : Warning
+Source        : Windows 
+                Search 
+                Service
+EventID       : 10024
+Message       : The filter 
+                host 
+                process 
+                15492 did 
+                not 
+                respond 
+                and is 
+                being 
+                forcibly te
+                rminated. 
+                
+
+TimeGenerated : 1/26/2026 
+                12:28:28 AM
+EntryType     : Warning
+Source        : Windows 
+                Search 
+                Service
+EventID       : 10024
+Message       : The filter 
+                host 
+                process 
+                24000 did 
+                not 
+                respond 
+                and is 
+                being 
+                forcibly te
+                rminated. 
+                
+
+TimeGenerated : 1/26/2026 
+                12:28:28 AM
+EntryType     : Warning
+Source        : Windows 
+                Search 
+                Service
+EventID       : 10024
+Message       : The filter 
+                host 
+                process 
+                11652 did 
+                not 
+                respond 
+                and is 
+                being 
+                forcibly te
+                rminated. 
+                
+
+TimeGenerated : 1/26/2026 
+                12:28:23 AM
+EntryType     : Warning
+Source        : Windows 
+                Search 
+                Service
+EventID       : 10024
+Message       : The filter 
+                host 
+                process 
+                14608 did 
+                not 
+                respond 
+                and is 
+                being 
+                forcibly te
+                rminated. 
+                
+
+TimeGenerated : 1/26/2026 
+                12:28:22 AM
+EntryType     : Warning
+Source        : Windows 
+                Search 
+                Service
+EventID       : 10024
+Message       : The filter 
+                host 
+                process 
+                17560 did 
+                not 
+                respond 
+                and is 
+                being 
+                forcibly te
+                rminated. 
+                
+
+TimeGenerated : 1/25/2026 
+                11:47:10 PM
+EntryType     : Error
+Source        : Application
+                 Hang
+EventID       : 1002
+Message       : The 
+                program dll
+                host.exe 
+                version 10.
+                0.26100.1 
+                stopped int
+                eracting 
+                with 
+                Windows 
+                and was 
+                closed. To 
+                see if 
+                more inform
+                ation 
+                about the 
+                problem is 
+                available, 
+                check the 
+                problem 
+                history in 
+                the 
+                Security 
+                and Mainten
+                ance 
+                control 
+                panel.
+                
+
+TimeGenerated : 1/25/2026 
+                10:03:22 PM
+EntryType     : Error
+Source        : Application
+                 Hang
+EventID       : 1002
+Message       : The 
+                program dll
+                host.exe 
+                version 10.
+                0.26100.115
+                0 stopped i
+                nteracting 
+                with 
+                Windows 
+                and was 
+                closed. To 
+                see if 
+                more inform
+                ation 
+                about the 
+                problem is 
+                available, 
+                check the 
+                problem 
+                history in 
+                the 
+                Security 
+                and Mainten
+                ance 
+                control 
+                panel.
+                
+
+TimeGenerated : 1/25/2026 
+                10:00:58 PM
+EntryType     : Error
+Source        : Application
+                 Hang
+EventID       : 1002
+Message       : The 
+                program 
+                chrome.exe 
+                version 144
+                .0.7559.97 
+                stopped int
+                eracting 
+                with 
+                Windows 
+                and was 
+                closed. To 
+                see if 
+                more inform
+                ation 
+                about the 
+                problem is 
+                available, 
+                check the 
+                problem 
+                history in 
+                the 
+                Security 
+                and Mainten
+                ance 
+                control 
+                panel.
+                
+
+TimeGenerated : 1/25/2026 
+                8:59:31 PM
+EntryType     : Error
+Source        : .NET 
+                Runtime
+EventID       : 1022
+Message       : .NET 
+                Runtime 
+                version 4.0
+                .30319.0 - 
+                There was 
+                a failure i
+                nitializing
+                 profiling 
+                API attach 
+                infrastruct
+                ure.  This 
+                process 
+                will not 
+                allow a 
+                profiler 
+                to attach. 
+                 HRESULT: 0
+                x80004005. 
+                 Process 
+                ID 
+                (decimal): 
+                22212.  
+                Message 
+                ID: 
+                [0x2509].
+
+TimeGenerated : 1/25/2026 
+                3:22:55 AM
+EntryType     : Error
+Source        : Application
+                 Error
+EventID       : 1000
+Message       : Faulting ap
+                plication 
+                name: Explo
+                rer.EXE, 
+                version: 10
+                .0.26100.70
+                19, time 
+                stamp: 
+                0x70ba4c6d
+                Faulting 
+                module 
+                name: archi
+                veint.dll, 
+                version: 
+                3.8.1.0, 
+                time 
+                stamp: 
+                0x160eebe6
+                Exception 
+                code: 
+                0xc0000005
+                Fault 
+                offset: 0x0
+                0000000000f
+                22c5
+                Faulting 
+                process 
+                id: 0x2078
+                Faulting ap
+                plication 
+                start 
+                time: 0x1dc
+                8cc1e85fd96
+                3
+                Faulting ap
+                plication 
+                path: C:\Wi
+                ndows\Explo
+                rer.EXE
+                Faulting 
+                module 
+                path: C:\Wi
+                ndows\syste
+                m32\archive
+                int.dll
+                Report Id: 
+                58e7a975-52
+                5b-4467-a67
+                7-9a08532ac
+                464
+                Faulting 
+                package 
+                full name: 
+                Faulting pa
+                ckage-relat
+                ive applica
+                tion ID: 
+
+TimeGenerated : 1/25/2026 
+                3:22:54 AM
+EntryType     : Error
+Source        : .NET 
+                Runtime
+EventID       : 1026
+Message       : Application
+                : Explorer.
+                EXE
+                Framework 
+                Version: 
+                v4.0.30319
+                Description
+                : The 
+                process 
+                was 
+                terminated 
+                due to an 
+                unhandled 
+                exception.
+                Exception 
+                Info: 
+                exception 
+                code 
+                c0000005, 
+                exception 
+                address 000
+                07FFE8F9222
+                C5
+                
+
+TimeGenerated : 1/25/2026 
+                2:30:12 AM
+EntryType     : Error
+Source        : .NET 
+                Runtime
+EventID       : 1022
+Message       : .NET 
+                Runtime 
+                version 4.0
+                .30319.0 - 
+                There was 
+                a failure i
+                nitializing
+                 profiling 
+                API attach 
+                infrastruct
+                ure.  This 
+                process 
+                will not 
+                allow a 
+                profiler 
+                to attach. 
+                 HRESULT: 0
+                x80004005. 
+                 Process 
+                ID 
+                (decimal): 
+                29812.  
+                Message 
+                ID: 
+                [0x2509].
+
+
+

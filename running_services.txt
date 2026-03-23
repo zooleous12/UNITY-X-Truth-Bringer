@@ -1,0 +1,132 @@
+﻿
+Name                                      DisplayName                                                 Status StartType
+----                                      -----------                                                 ------ ---------
+AppIDSvc                                  Application Identity                                       Running    Manual
+Appinfo                                   Application Information                                    Running    Manual
+AppMgmt                                   Application Management                                     Running    Manual
+AppXSvc                                   AppX Deployment Service (AppXSVC)                          Running    Manual
+AudioEndpointBuilder                      Windows Audio Endpoint Builder                             Running Automatic
+Audiosrv                                  Windows Audio                                              Running Automatic
+BDESVC                                    BitLocker Drive Encryption Service                         Running    Manual
+BFE                                       Base Filtering Engine                                      Running Automatic
+BITS                                      Background Intelligent Transfer Service                    Running Automatic
+BluetoothUserService_10f16b               Bluetooth User Support Service_10f16b                      Running    Manual
+BrokerInfrastructure                      Background Tasks Infrastructure Service                    Running Automatic
+BTAGService                               Bluetooth Audio Gateway Service                            Running    Manual
+BthAvctpSvc                               AVCTP service                                              Running    Manual
+bthserv                                   Bluetooth Support Service                                  Running    Manual
+camsvc                                    Capability Access Manager Service                          Running Automatic
+cbdhsvc_10f16b                            Clipboard User Service_10f16b                              Running Automatic
+CDPSvc                                    Connected Devices Platform Service                         Running Automatic
+CDPUserSvc_10f16b                         Connected Devices Platform User Service_10f16b             Running Automatic
+ClickToRunSvc                             Microsoft Office Click-to-Run Service                      Running Automatic
+CloudBackupRestoreSvc_10f16b              Cloud Backup and Restore Service_10f16b                    Running    Manual
+CoreMessagingRegistrar                    CoreMessaging                                              Running Automatic
+cplspcon                                  Intel(R) Content Protection HDCP Service                   Running Automatic
+CredentialEnrollmentManagerUserSvc_10f16b CredentialEnrollmentManagerUserSvc_10f16b                  Running    Manual
+CryptSvc                                  Cryptographic Services                                     Running Automatic
+DcomLaunch                                DCOM Server Process Launcher                               Running Automatic
+DeviceAssociationService                  Device Association Service                                 Running Automatic
+DevicesFlowUserSvc_10f16b                 DevicesFlow_10f16b                                         Running    Manual
+Dhcp                                      DHCP Client                                                Running Automatic
+DispBrokerDesktopSvc                      Display Policy Service                                     Running Automatic
+DisplayEnhancementService                 Display Enhancement Service                                Running    Manual
+Dnscache                                  DNS Client                                                 Running Automatic
+DPS                                       Diagnostic Policy Service                                  Running Automatic
+DsSvc                                     Data Sharing Service                                       Running    Manual
+EventLog                                  Windows Event Log                                          Running Automatic
+EventSystem                               COM+ Event System                                          Running Automatic
+FDResPub                                  Function Discovery Resource Publication                    Running    Manual
+FontCache                                 Windows Font Cache Service                                 Running Automatic
+gpsvc                                     Group Policy Client                                        Running Automatic
+hidserv                                   Human Interface Device Service                             Running    Manual
+hns                                       Host Network Service                                       Running    Manual
+HvHost                                    HV Host Service                                            Running    Manual
+IKEEXT                                    IKE and AuthIP IPsec Keying Modules                        Running Automatic
+InstallService                            Microsoft Store Install Service                            Running    Manual
+IntelAudioService                         Intel(R) Audio Service                                     Running Automatic
+ipfsvc                                    Intel(R) Innovation Platform Framework Service             Running Automatic
+iphlpsvc                                  IP Helper                                                  Running Automatic
+jhi_service                               Intel(R) Dynamic Application Loader Host Interface Service Running Automatic
+KeyIso                                    CNG Key Isolation                                          Running    Manual
+LanmanServer                              Server                                                     Running Automatic
+LanmanWorkstation                         Workstation                                                Running Automatic
+lfsvc                                     Geolocation Service                                        Running    Manual
+LicenseManager                            Windows License Manager Service                            Running    Manual
+lmhosts                                   TCP/IP NetBIOS Helper                                      Running    Manual
+LSM                                       Local Session Manager                                      Running Automatic
+MDCoreSvc                                 Microsoft Defender Core Service                            Running Automatic
+mpssvc                                    Windows Defender Firewall                                  Running Automatic
+NcbService                                Network Connection Broker                                  Running    Manual
+NcdAutoSetup                              Network Connected Devices Auto-Setup                       Running    Manual
+Netman                                    Network Connections                                        Running    Manual
+netprofm                                  Network List Service                                       Running    Manual
+NgcCtnrSvc                                Microsoft Passport Container                               Running    Manual
+NgcSvc                                    Microsoft Passport                                         Running    Manual
+NPSMSvc_10f16b                            Now Playing Session Manager Service_10f16b                 Running    Manual
+nsi                                       Network Store Interface Service                            Running Automatic
+nvagent                                   Network Virtualization Service                             Running    Manual
+OneSyncSvc_10f16b                         Sync Host_10f16b                                           Running Automatic
+PimIndexMaintenanceSvc_10f16b             Contact Data_10f16b                                        Running    Manual
+PlugPlay                                  Plug and Play                                              Running    Manual
+PolicyAgent                               IPsec Policy Agent                                         Running    Manual
+Power                                     Power                                                      Running Automatic
+ProfSvc                                   User Profile Service                                       Running Automatic
+RasMan                                    Remote Access Connection Manager                           Running    Manual
+RmSvc                                     Radio Management Service                                   Running    Manual
+RpcEptMapper                              RPC Endpoint Mapper                                        Running Automatic
+RpcSs                                     Remote Procedure Call (RPC)                                Running Automatic
+RstMwService                              Intel(R) Storage Middleware Service                        Running Automatic
+RtkAudioUniversalService                  Realtek Audio Universal Service                            Running Automatic
+SamSs                                     Security Accounts Manager                                  Running Automatic
+Schedule                                  Task Scheduler                                             Running Automatic
+SDRSVC                                    Windows Backup                                             Running    Manual
+seclogon                                  Secondary Logon                                            Running    Manual
+SecurityHealthService                     Windows Security Service                                   Running    Manual
+SENS                                      System Event Notification Service                          Running Automatic
+SensorService                             Sensor Service                                             Running    Manual
+SharedAccess                              Internet Connection Sharing (ICS)                          Running    Manual
+ShellHWDetection                          Shell Hardware Detection                                   Running Automatic
+SSDPSRV                                   SSDP Discovery                                             Running    Manual
+SstpSvc                                   Secure Socket Tunneling Protocol Service                   Running    Manual
+StateRepository                           State Repository Service                                   Running Automatic
+StiSvc                                    Windows Image Acquisition (WIA)                            Running Automatic
+StorSvc                                   Storage Service                                            Running Automatic
+SysMain                                   SysMain                                                    Running Automatic
+SystemEventsBroker                        System Events Broker                                       Running Automatic
+TextInputManagementService                Text Input Management Service                              Running  Disabled
+Themes                                    Themes                                                     Running Automatic
+TimeBrokerSvc                             Time Broker                                                Running    Manual
+TokenBroker                               Web Account Manager                                        Running    Manual
+TrustedInstaller                          Windows Modules Installer                                  Running    Manual
+UdkUserSvc_10f16b                         Udk User Service_10f16b                                    Running    Manual
+UnistoreSvc_10f16b                        User Data Storage_10f16b                                   Running    Manual
+UserDataSvc_10f16b                        User Data Access_10f16b                                    Running    Manual
+UserManager                               User Manager                                               Running Automatic
+UsoSvc                                    Update Orchestrator Service                                Running    Manual
+VaultSvc                                  Credential Manager                                         Running    Manual
+vmcompute                                 Hyper-V Host Compute Service                               Running    Manual
+WavesAudioService                         Waves Audio Universal Services                             Running Automatic
+WavesSysSvc                               Waves Audio Services                                       Running Automatic
+Wcmsvc                                    Windows Connection Manager                                 Running Automatic
+wcncsvc                                   Windows Connect Now - Config Registrar                     Running    Manual
+WdiServiceHost                            Diagnostic Service Host                                    Running    Manual
+WdiSystemHost                             Diagnostic System Host                                     Running    Manual
+WdNisSvc                                  Microsoft Defender Antivirus Network Inspection Service    Running    Manual
+WebClient                                 WebClient                                                  Running    Manual
+webthreatdefsvc                           Web Threat Defense Service                                 Running    Manual
+webthreatdefusersvc_10f16b                Web Threat Defense User Service_10f16b                     Running Automatic
+whesvc                                    Windows Health and Optimized Experiences                   Running Automatic
+WinDefend                                 Microsoft Defender Antivirus Service                       Running Automatic
+WinHttpAutoProxySvc                       WinHTTP Web Proxy Auto-Discovery Service                   Running    Manual
+Winmgmt                                   Windows Management Instrumentation                         Running Automatic
+WinRM                                     Windows Remote Management (WS-Management)                  Running Automatic
+WlanSvc                                   WLAN AutoConfig                                            Running Automatic
+WMIRegistrationService                    Intel(R) Management Engine WMI Provider Registration       Running Automatic
+WpnService                                Windows Push Notifications System Service                  Running Automatic
+WpnUserService_10f16b                     Windows Push Notifications User Service_10f16b             Running Automatic
+wscsvc                                    Security Center                                            Running Automatic
+WSearch                                   Windows Search                                             Running Automatic
+WSLService                                WSL Service                                                Running Automatic
+
+
