@@ -1,0 +1,671 @@
+ServiceWorker
+Registrations in: /home/zooleous/.config/opera/Default (17)
+Scope: chrome-extension://aimiinbnnkboelefkjlenlgimcabobli/
+Storage key:
+Origin: chrome-extension://aimiinbnnkboelefkjlenlgimcabobli
+Top level site: chrome-extension://aimiinbnnkboelefkjlenlgimcabobli
+Ancestor chain bit: SameSite
+Registration ID: 23
+Navigation preload enabled: false
+Navigation preload header length: 4
+Active worker:
+Installation Status: ACTIVATED
+Running Status: STOPPED
+Fetch handler existence: DOES_NOT_EXIST
+Fetch handler type: NO_HANDLER
+Script: chrome-extension://aimiinbnnkboelefkjlenlgimcabobli/background.js
+Version ID: 23
+Renderer process ID: 0
+Renderer thread ID: -1
+DevTools agent route ID: -2
+Log:
+
+Scope: chrome-extension://bancimphigfbdkmbmhlpcbndafddppdb/
+Storage key:
+Origin: chrome-extension://bancimphigfbdkmbmhlpcbndafddppdb
+Top level site: chrome-extension://bancimphigfbdkmbmhlpcbndafddppdb
+Ancestor chain bit: SameSite
+Registration ID: 25
+Navigation preload enabled: false
+Navigation preload header length: 4
+Active worker:
+Installation Status: ACTIVATED
+Running Status: RUNNING
+Fetch handler existence: DOES_NOT_EXIST
+Fetch handler type: NO_HANDLER
+Script: chrome-extension://bancimphigfbdkmbmhlpcbndafddppdb/js/background.js
+Version ID: 25
+Renderer process ID: 3609
+Renderer thread ID: 1
+DevTools agent route ID: 1
+Log:
+
+Scope: chrome-extension://ebongfbmlegepmkkdjlnlmdcmckedlal/
+Storage key:
+Origin: chrome-extension://ebongfbmlegepmkkdjlnlmdcmckedlal
+Top level site: chrome-extension://ebongfbmlegepmkkdjlnlmdcmckedlal
+Ancestor chain bit: SameSite
+Registration ID: 0
+Navigation preload enabled: false
+Navigation preload header length: 4
+Active worker:
+Installation Status: ACTIVATED
+Running Status: STOPPED
+Fetch handler existence: DOES_NOT_EXIST
+Fetch handler type: NO_HANDLER
+Script: chrome-extension://ebongfbmlegepmkkdjlnlmdcmckedlal/worker.js
+Version ID: 0
+Renderer process ID: 0
+Renderer thread ID: -1
+DevTools agent route ID: -2
+Log:
+
+Scope: chrome-extension://enegjkbbakeegngfapepobipndnebkdk/
+Storage key:
+Origin: chrome-extension://enegjkbbakeegngfapepobipndnebkdk
+Top level site: chrome-extension://enegjkbbakeegngfapepobipndnebkdk
+Ancestor chain bit: SameSite
+Registration ID: 1
+Navigation preload enabled: false
+Navigation preload header length: 4
+Active worker:
+Installation Status: ACTIVATED
+Running Status: RUNNING
+Fetch handler existence: DOES_NOT_EXIST
+Fetch handler type: NO_HANDLER
+Script: chrome-extension://enegjkbbakeegngfapepobipndnebkdk/main.js
+Version ID: 1
+Renderer process ID: 486103
+Renderer thread ID: 1
+DevTools agent route ID: 1
+Log:
+
+Scope: chrome-extension://fnfdomooadjpfohbepiaonnbdmkdjiog/
+Storage key:
+Origin: chrome-extension://fnfdomooadjpfohbepiaonnbdmkdjiog
+Top level site: chrome-extension://fnfdomooadjpfohbepiaonnbdmkdjiog
+Ancestor chain bit: SameSite
+Registration ID: 18
+Navigation preload enabled: false
+Navigation preload header length: 4
+Active worker:
+Installation Status: ACTIVATED
+Running Status: STOPPED
+Fetch handler existence: DOES_NOT_EXIST
+Fetch handler type: NO_HANDLER
+Script: chrome-extension://fnfdomooadjpfohbepiaonnbdmkdjiog/service-worker-loader.js
+Version ID: 18
+Renderer process ID: 0
+Renderer thread ID: -1
+DevTools agent route ID: -2
+Client:
+ID: 27e63579-3650-4a5d-ab49-c1a77ec8082d
+URL:
+Client:
+ID: 7aeaa798-bdc3-4340-9b7d-f939a8b36c31
+URL: chrome-extension://fnfdomooadjpfohbepiaonnbdmkdjiog/html/offscreen.html
+Client:
+ID: a7bd1742-e4dd-4868-861c-e97758248db0
+URL:
+Log:
+
+Scope: chrome-extension://jegfmclagmheobcjojbiohjekamkpbeb/
+Storage key:
+Origin: chrome-extension://jegfmclagmheobcjojbiohjekamkpbeb
+Top level site: chrome-extension://jegfmclagmheobcjojbiohjekamkpbeb
+Ancestor chain bit: SameSite
+Registration ID: 26
+Navigation preload enabled: false
+Navigation preload header length: 4
+Active worker:
+Installation Status: ACTIVATED
+Running Status: STOPPED
+Fetch handler existence: DOES_NOT_EXIST
+Fetch handler type: NO_HANDLER
+Script: chrome-extension://jegfmclagmheobcjojbiohjekamkpbeb/service-worker.js
+Version ID: 26
+Renderer process ID: 0
+Renderer thread ID: -1
+DevTools agent route ID: -2
+Client:
+ID: 0dc3f7a6-0c15-4062-b202-dd69b37691dc
+URL: chrome-extension://jegfmclagmheobcjojbiohjekamkpbeb/views/embed.html?t=1771500485331&authuser=0&hl=en&ogsUrl=https%3A%2F%2Fogs.google.com%2Fu%2F0%2Fwidget%2Fapp%3Fawwd%3D1%26gpa%3D3%26em%3D2%26scv%3D1%26dpi%3D128566913%26origin%3Dhttps%253A%252F%252Ftakeout.google.com%26cn%3Dapp%26pid%3D269%26spid%3D192%26hl%3Den
+Client:
+ID: 132b2c12-f592-4cc8-9514-49d1d56eca2e
+URL: chrome-extension://jegfmclagmheobcjojbiohjekamkpbeb/views/embed.html?t=1771499752496&authuser=1&hl=en&ogsUrl=https%3A%2F%2Fogs.google.com%2Fu%2F1%2Fwidget%2Fapp%3Feom%3D1%26awwd%3D1%26gpa%3D3%26em%3D2%26scv%3D1%26dpi%3D128566913%26origin%3Dhttps%253A%252F%252Fmyaccount.google.com%26cn%3Dapp%26pid%3D269%26spid%3D192%26hl%3Den
+Client:
+ID: 17b40d8d-c05a-4276-8101-8f094f86eae1
+URL: chrome-extension://jegfmclagmheobcjojbiohjekamkpbeb/views/embed.html?t=1771499723508&authuser=1&hl=en&ogsUrl=https%3A%2F%2Fogs.google.com%2Fu%2F1%2Fwidget%2Fapp%3Fawwd%3D1%26em%3D2%26scv%3D1%26dpi%3D67766468%26origin%3Dhttps%253A%252F%252Fwww.google.com%26cn%3Dapp%26pid%3D269%26spid%3D401%26hl%3Den
+Client:
+ID: 25115046-2ae6-4cba-a998-4b1c3525884a
+URL: chrome-extension://jegfmclagmheobcjojbiohjekamkpbeb/views/embed.html?t=1771486659054&authuser=1&hl=en&ogsUrl=https%3A%2F%2Fogs.google.com%2Fu%2F1%2Fwidget%2Fapp%3Feom%3D1%26awwd%3D1%26gpa%3D3%26em%3D2%26scv%3D1%26dpi%3D128566913%26origin%3Dhttps%253A%252F%252Fmyaccount.google.com%26cn%3Dapp%26pid%3D269%26spid%3D192%26hl%3Den
+Client:
+ID: 2acccccf-21fe-4a37-ad96-d1c8bf16f6a5
+URL: chrome-extension://jegfmclagmheobcjojbiohjekamkpbeb/views/embed.html?t=1771493529066&authuser=0&hl=en&ogsUrl=https%3A%2F%2Fogs.google.com%2Fu%2F0%2Fwidget%2Fapp%3Fawwd%3D1%26gpa%3D3%26em%3D2%26scv%3D1%26dpi%3D70251319%26origin%3Dhttps%253A%252F%252Fmail.google.com%26cn%3Dapp%26pid%3D23%26spid%3D23%26hl%3Den
+Client:
+ID: 2b5e1b28-02a5-4527-b3e7-b7a825938861
+URL: chrome-extension://jegfmclagmheobcjojbiohjekamkpbeb/views/embed.html?t=1771486471202&authuser=1&hl=en&ogsUrl=https%3A%2F%2Fogs.google.com%2Fu%2F1%2Fwidget%2Fapp%3Feom%3D1%26awwd%3D1%26gpa%3D3%26em%3D2%26scv%3D1%26dpi%3D128566913%26origin%3Dhttps%253A%252F%252Fmyaccount.google.com%26cn%3Dapp%26pid%3D269%26spid%3D192%26hl%3Den
+Client:
+ID: 6862b381-997a-4cbc-a879-f8acdd9ed601
+URL: chrome-extension://jegfmclagmheobcjojbiohjekamkpbeb/views/embed.html?t=1771493510576&authuser=0&hl=en&ogsUrl=https%3A%2F%2Fogs.google.com%2Fu%2F0%2Fwidget%2Fapp%3Fawwd%3D1%26em%3D2%26scv%3D1%26dpi%3D109303191%26origin%3Dhttps%253A%252F%252Fcontacts.google.com%26cn%3Dapp%26pid%3D269%26spid%3D53%26hl%3Den
+Client:
+ID: 6d01479c-3118-4f58-806b-59682203d01b
+URL: chrome-extension://jegfmclagmheobcjojbiohjekamkpbeb/views/embed.html?t=1771493494296&authuser=0&hl=en&ogsUrl=https%3A%2F%2Fogs.google.com%2Fu%2F0%2Fwidget%2Fapp%3Fawwd%3D1%26gpa%3D3%26em%3D2%26scv%3D1%26dpi%3D70251319%26origin%3Dhttps%253A%252F%252Fmail.google.com%26cn%3Dapp%26pid%3D23%26spid%3D23%26hl%3Den
+Client:
+ID: 7e168cea-5753-4e1a-9335-b91b8e2a0e2d
+URL: chrome-extension://jegfmclagmheobcjojbiohjekamkpbeb/views/embed.html?t=1771493876139&authuser=1&hl=en&darkmode=1&ogsUrl=https%3A%2F%2Fogs.google.com%2Fu%2F1%2Fwidget%2Fapp%3Fawwd%3D1%26gpa%3D3%26em%3D2%26scv%3D1%26dpi%3D72175901%26origin%3Dhttps%253A%252F%252Fdrive.google.com%26cn%3Dapp%26pid%3D49%26spid%3D49%26hl%3Den%26dm%3D
+Client:
+ID: 81f3ef58-da5b-438f-8218-33462da2c681
+URL: chrome-extension://jegfmclagmheobcjojbiohjekamkpbeb/views/embed.html?t=1771486745304&authuser=1&hl=en&darkmode=1&ogsUrl=https%3A%2F%2Fogs.google.com%2Fu%2F1%2Fwidget%2Fapp%3Fawwd%3D1%26gpa%3D3%26em%3D2%26scv%3D1%26dpi%3D72175901%26origin%3Dhttps%253A%252F%252Fdrive.google.com%26cn%3Dapp%26pid%3D49%26spid%3D49%26hl%3Den%26dm%3D
+Client:
+ID: 930b1593-5bd0-4894-a70a-e9c469dfd314
+URL: chrome-extension://jegfmclagmheobcjojbiohjekamkpbeb/views/embed.html?t=1771496307509&authuser=0&hl=en&ogsUrl=https%3A%2F%2Fogs.google.com%2Fu%2F0%2Fwidget%2Fapp%3Feom%3D1%26awwd%3D1%26gpa%3D3%26em%3D2%26scv%3D1%26dpi%3D128566913%26origin%3Dhttps%253A%252F%252Fmyaccount.google.com%26cn%3Dapp%26pid%3D269%26spid%3D192%26hl%3Den
+Client:
+ID: 98331042-ac44-4b7a-b887-436550902d89
+URL: chrome-extension://jegfmclagmheobcjojbiohjekamkpbeb/views/embed.html?t=1771486526708&authuser=1&hl=en&ogsUrl=https%3A%2F%2Fogs.google.com%2Fu%2F1%2Fwidget%2Fapp%3Fawwd%3D1%26em%3D2%26scv%3D1%26dpi%3D67766468%26origin%3Dhttps%253A%252F%252Fwww.google.com%26cn%3Dapp%26pid%3D269%26spid%3D401%26hl%3Den
+Client:
+ID: 9fa19884-c348-43ea-b7fd-0804b8f7267c
+URL: chrome-extension://jegfmclagmheobcjojbiohjekamkpbeb/views/embed.html?t=1771491934112&authuser=0&hl=en&ogsUrl=https%3A%2F%2Fogs.google.com%2Fu%2F0%2Fwidget%2Fapp%3Fawwd%3D1%26gpa%3D3%26em%3D2%26scv%3D1%26dpi%3D70251319%26origin%3Dhttps%253A%252F%252Fmail.google.com%26cn%3Dapp%26pid%3D23%26spid%3D23%26hl%3Den
+Client:
+ID: a6cca788-6e56-4926-9467-e49b668aee44
+URL: chrome-extension://jegfmclagmheobcjojbiohjekamkpbeb/views/embed.html?t=1771493723493&authuser=1&hl=en&ogsUrl=https%3A%2F%2Fogs.google.com%2Fu%2F1%2Fwidget%2Fapp%3Fawwd%3D1%26gpa%3D3%26em%3D2%26scv%3D1%26dpi%3D70251319%26origin%3Dhttps%253A%252F%252Fmail.google.com%26cn%3Dapp%26pid%3D23%26spid%3D23%26hl%3Den
+Client:
+ID: ab809106-501c-430d-8705-07b7daa3cc60
+URL: chrome-extension://jegfmclagmheobcjojbiohjekamkpbeb/views/embed.html?t=1771491772868&hl=en&authuser=0
+Client:
+ID: ba7b8c99-8696-4e8b-b149-8ae28d9ca79c
+URL: chrome-extension://jegfmclagmheobcjojbiohjekamkpbeb/views/embed.html?t=1771493671332&authuser=0&hl=en&ogsUrl=https%3A%2F%2Fogs.google.com%2Fu%2F0%2Fwidget%2Fapp%3Fawwd%3D1%26gpa%3D3%26em%3D2%26scv%3D1%26dpi%3D70251319%26origin%3Dhttps%253A%252F%252Fmail.google.com%26cn%3Dapp%26pid%3D23%26spid%3D23%26hl%3Den
+Client:
+ID: e5a4f45a-0f1e-43ac-bb4f-057ff460c195
+URL: chrome-extension://jegfmclagmheobcjojbiohjekamkpbeb/views/embed.html?t=1771491765221&authuser=0&hl=en&ogsUrl=https%3A%2F%2Fogs.google.com%2Fu%2F0%2Fwidget%2Fapp%3Fawwd%3D1%26gpa%3D3%26em%3D2%26scv%3D1%26dpi%3D128566913%26origin%3Dhttps%253A%252F%252Ftakeout.google.com%26cn%3Dapp%26pid%3D269%26spid%3D192%26hl%3Den
+Client:
+ID: f4e7a4a7-9148-4595-b873-6598b433eba9
+URL: chrome-extension://jegfmclagmheobcjojbiohjekamkpbeb/views/embed.html?t=1771486552152&authuser=1&hl=en&ogsUrl=https%3A%2F%2Fogs.google.com%2Fu%2F1%2Fwidget%2Fapp%3Feom%3D1%26awwd%3D1%26gpa%3D3%26em%3D2%26scv%3D1%26dpi%3D128566913%26origin%3Dhttps%253A%252F%252Fmyaccount.google.com%26cn%3Dapp%26pid%3D269%26spid%3D192%26hl%3Den
+Log:
+
+Scope: chrome-extension://jifbgnmbgbdiedhdecealmlgmekpagde/
+Storage key:
+Origin: chrome-extension://jifbgnmbgbdiedhdecealmlgmekpagde
+Top level site: chrome-extension://jifbgnmbgbdiedhdecealmlgmekpagde
+Ancestor chain bit: SameSite
+Registration ID: 8
+Navigation preload enabled: false
+Navigation preload header length: 4
+Active worker:
+Installation Status: ACTIVATED
+Running Status: STOPPED
+Fetch handler existence: DOES_NOT_EXIST
+Fetch handler type: NO_HANDLER
+Script: chrome-extension://jifbgnmbgbdiedhdecealmlgmekpagde/service_worker.js
+Version ID: 8
+Renderer process ID: 0
+Renderer thread ID: -1
+DevTools agent route ID: -2
+Log:
+Console: {"lineNumber":1,"message":"SERVICE WORKER ->  Initializing store","message_level":0,"sourceIdentifier":3,"sourceURL":"chrome-extension://jifbgnmbgbdiedhdecealmlgmekpagde/common.js"}
+Console: {"lineNumber":1,"message":"OLD_EXTENSION_MIGRATION ->  Starting old extension migration for ariaAuthSession","message_level":1,"sourceIdentifier":3,"sourceURL":"chrome-extension://jifbgnmbgbdiedhdecealmlgmekpagde/common.js"}
+Console: {"lineNumber":1,"message":"OLD_EXTENSION_MIGRATION ->  Starting old extension migration for ariaAppMessaging","message_level":1,"sourceIdentifier":3,"sourceURL":"chrome-extension://jifbgnmbgbdiedhdecealmlgmekpagde/common.js"}
+Console: {"lineNumber":1,"message":"OLD_EXTENSION_MIGRATION ->  Skipping migration: storageEmpty=false, noConversations=false","message_level":1,"sourceIdentifier":3,"sourceURL":"chrome-extension://jifbgnmbgbdiedhdecealmlgmekpagde/common.js"}
+Console: {"lineNumber":1,"message":"OLD_EXTENSION_MIGRATION ->  Skipping migration: storageEmpty=false, noConversations=false","message_level":1,"sourceIdentifier":3,"sourceURL":"chrome-extension://jifbgnmbgbdiedhdecealmlgmekpagde/common.js"}
+Console: {"lineNumber":1,"message":"SERVICE WORKER ->  AudienceService -> isBetaAudience  false","message_level":1,"sourceIdentifier":3,"sourceURL":"chrome-extension://jifbgnmbgbdiedhdecealmlgmekpagde/common.js"}
+Console: {"lineNumber":1,"message":"SERVICE WORKER ->  AudienceService -> getAudienceIdentifier  opera stable","message_level":1,"sourceIdentifier":3,"sourceURL":"chrome-extension://jifbgnmbgbdiedhdecealmlgmekpagde/common.js"}
+Console: {"lineNumber":1,"message":"SERVICE WORKER ->  AudienceService -> isBetaAudience  false","message_level":1,"sourceIdentifier":3,"sourceURL":"chrome-extension://jifbgnmbgbdiedhdecealmlgmekpagde/common.js"}
+Console: {"lineNumber":1,"message":"SERVICE WORKER ->  AudienceService -> getAudienceType  Stable","message_level":1,"sourceIdentifier":3,"sourceURL":"chrome-extension://jifbgnmbgbdiedhdecealmlgmekpagde/common.js"}
+Console: {"lineNumber":1,"message":"SERVICE WORKER ->  [audio-service] Initializing service worker part","message_level":1,"sourceIdentifier":3,"sourceURL":"chrome-extension://jifbgnmbgbdiedhdecealmlgmekpagde/common.js"}
+Console: {"lineNumber":1,"message":"SERVICE WORKER ->  [audio-service] Initializing service worker part","message_level":1,"sourceIdentifier":3,"sourceURL":"chrome-extension://jifbgnmbgbdiedhdecealmlgmekpagde/common.js"}
+Console: {"lineNumber":1,"message":"SERVICE WORKER ->  [audio-service] Service worker initialization complete","message_level":1,"sourceIdentifier":3,"sourceURL":"chrome-extension://jifbgnmbgbdiedhdecealmlgmekpagde/common.js"}
+Console: {"lineNumber":1,"message":"SERVICE WORKER ->  Checking for unfinished research conversations...","message_level":1,"sourceIdentifier":3,"sourceURL":"chrome-extension://jifbgnmbgbdiedhdecealmlgmekpagde/common.js"}
+Console: {"lineNumber":1,"message":"SERVICE WORKER ->  No unfinished research conversations found","message_level":1,"sourceIdentifier":3,"sourceURL":"chrome-extension://jifbgnmbgbdiedhdecealmlgmekpagde/common.js"}
+Console: {"lineNumber":1,"message":"SERVICE WORKER ->  [audio-service] Service worker initialization complete","message_level":1,"sourceIdentifier":3,"sourceURL":"chrome-extension://jifbgnmbgbdiedhdecealmlgmekpagde/common.js"}
+Console: {"lineNumber":1,"message":"SERVICE WORKER ->  OperaAuthProvider -> getLoggedInState ->  true","message_level":1,"sourceIdentifier":3,"sourceURL":"chrome-extension://jifbgnmbgbdiedhdecealmlgmekpagde/common.js"}
+Console: {"lineNumber":1,"message":"SERVICE WORKER ->  OperaAuthProvider ->  fireLoggedStatusSubscriptions -> isLoggedIn =  true","message_level":1,"sourceIdentifier":3,"sourceURL":"chrome-extension://jifbgnmbgbdiedhdecealmlgmekpagde/common.js"}
+Console: {"lineNumber":1,"message":"SERVICE WORKER ->  handleAuthStateChanged ->  true","message_level":1,"sourceIdentifier":3,"sourceURL":"chrome-extension://jifbgnmbgbdiedhdecealmlgmekpagde/common.js"}
+Console: {"lineNumber":1,"message":"SERVICE WORKER ->  Initializing encryption key","message_level":0,"sourceIdentifier":3,"sourceURL":"chrome-extension://jifbgnmbgbdiedhdecealmlgmekpagde/common.js"}
+Console: {"lineNumber":1,"message":"SERVICE WORKER ->  OperaAuthProvider -> getAccessTokenResponse -> initiated...","message_level":1,"sourceIdentifier":3,"sourceURL":"chrome-extension://jifbgnmbgbdiedhdecealmlgmekpagde/common.js"}
+Console: {"lineNumber":1,"message":"SERVICE WORKER ->  OperaAuthProvider -> getAccessTokenResponse -> building args [object Object]","message_level":1,"sourceIdentifier":3,"sourceURL":"chrome-extension://jifbgnmbgbdiedhdecealmlgmekpagde/common.js"}
+Console: {"lineNumber":1,"message":"SERVICE WORKER ->  OperaAuthProvider -> getAccessTokenResponse raw ->  [object Object]","message_level":1,"sourceIdentifier":3,"sourceURL":"chrome-extension://jifbgnmbgbdiedhdecealmlgmekpagde/common.js"}
+Console: {"lineNumber":1,"message":"SERVICE WORKER ->  OperaAuthProvider -> getAccessTokenResponse mapped ->  [object Object]","message_level":1,"sourceIdentifier":3,"sourceURL":"chrome-extension://jifbgnmbgbdiedhdecealmlgmekpagde/common.js"}
+Console: {"lineNumber":1,"message":"SERVICE WORKER ->  OperaAuthProvider -> getAccessTokenResponse -> done","message_level":1,"sourceIdentifier":3,"sourceURL":"chrome-extension://jifbgnmbgbdiedhdecealmlgmekpagde/common.js"}
+Console: {"lineNumber":1,"message":"SERVICE WORKER ->  handleAuthStateChanged -> authStateRequest [object Object]","message_level":1,"sourceIdentifier":3,"sourceURL":"chrome-extension://jifbgnmbgbdiedhdecealmlgmekpagde/common.js"}
+Console: {"lineNumber":1,"message":"SERVICE WORKER ->  handleLoadUserCapabilities -> FETCH USER CAPABILITIES START (legacy)...","message_level":1,"sourceIdentifier":3,"sourceURL":"chrome-extension://jifbgnmbgbdiedhdecealmlgmekpagde/common.js"}
+Console: {"lineNumber":1,"message":"SERVICE WORKER ->  ChatService -> Get or fetch user capabilities with caching","message_level":0,"sourceIdentifier":3,"sourceURL":"chrome-extension://jifbgnmbgbdiedhdecealmlgmekpagde/common.js"}
+Console: {"lineNumber":1,"message":"SERVICE WORKER ->  Flushing buffered native events","message_level":0,"sourceIdentifier":3,"sourceURL":"chrome-extension://jifbgnmbgbdiedhdecealmlgmekpagde/common.js"}
+Console: {"lineNumber":1,"message":"SERVICE WORKER ->  handleLoadUserCapabilities -> FETCH USER CAPABILITIES success [object Object]","message_level":1,"sourceIdentifier":3,"sourceURL":"chrome-extension://jifbgnmbgbdiedhdecealmlgmekpagde/common.js"}
+Console: {"lineNumber":1,"message":"SERVICE WORKER ->  handleLoadUserCapabilities -> shouldRefreshAvailableModels true","message_level":0,"sourceIdentifier":3,"sourceURL":"chrome-extension://jifbgnmbgbdiedhdecealmlgmekpagde/common.js"}
+Console: {"lineNumber":1,"message":"SERVICE WORKER ->  PromptsService -> loadPrompts  [object Object],[object Object]","message_level":1,"sourceIdentifier":3,"sourceURL":"chrome-extension://jifbgnmbgbdiedhdecealmlgmekpagde/common.js"}
+Console: {"lineNumber":1,"message":"%c SERVICE WORKER -> Runtime message background:blue;color:white {\"type\":\"webext.fetch_state\",\"channelName\":\"webext.channel\"}","message_level":1,"sourceIdentifier":3,"sourceURL":"chrome-extension://jifbgnmbgbdiedhdecealmlgmekpagde/common.js"}
+Console: {"lineNumber":1,"message":"%c SERVICE WORKER -> Runtime message background:blue;color:white {\"serviceId\":\"audio-service\",\"action\":\"GET_STATE\",\"environment\":{\"windowId\":1511764389,\"tabId\":-1511764519}}","message_level":1,"sourceIdentifier":3,"sourceURL":"chrome-extension://jifbgnmbgbdiedhdecealmlgmekpagde/common.js"}
+Console: {"lineNumber":1,"message":"SERVICE WORKER ->  [audio-service] No handler for action GET_STATE","message_level":0,"sourceIdentifier":3,"sourceURL":"chrome-extension://jifbgnmbgbdiedhdecealmlgmekpagde/common.js"}
+Console: {"lineNumber":1,"message":"SERVICE WORKER ->  [audio-service] No handler for action GET_STATE","message_level":0,"sourceIdentifier":3,"sourceURL":"chrome-extension://jifbgnmbgbdiedhdecealmlgmekpagde/common.js"}
+Console: {"lineNumber":1,"message":"%c SERVICE WORKER -> Runtime message background:blue;color:white {\"serviceId\":\"audio-service\",\"action\":\"GET_STATE\",\"environment\":{\"windowId\":1511764389,\"tabId\":-1511764519}}","message_level":1,"sourceIdentifier":3,"sourceURL":"chrome-extension://jifbgnmbgbdiedhdecealmlgmekpagde/common.js"}
+Console: {"lineNumber":1,"message":"SERVICE WORKER ->  [audio-service] No handler for action GET_STATE","message_level":0,"sourceIdentifier":3,"sourceURL":"chrome-extension://jifbgnmbgbdiedhdecealmlgmekpagde/common.js"}
+Console: {"lineNumber":1,"message":"SERVICE WORKER ->  [audio-service] No handler for action GET_STATE","message_level":0,"sourceIdentifier":3,"sourceURL":"chrome-extension://jifbgnmbgbdiedhdecealmlgmekpagde/common.js"}
+
+
+Scope: chrome-extension://ompjkhnkeoicimmaehlcmgmpghobbjoj/
+Storage key:
+Origin: chrome-extension://ompjkhnkeoicimmaehlcmgmpghobbjoj
+Top level site: chrome-extension://ompjkhnkeoicimmaehlcmgmpghobbjoj
+Ancestor chain bit: SameSite
+Registration ID: 9
+Navigation preload enabled: false
+Navigation preload header length: 4
+Active worker:
+Installation Status: ACTIVATED
+Running Status: STOPPED
+Fetch handler existence: DOES_NOT_EXIST
+Fetch handler type: NO_HANDLER
+Script: chrome-extension://ompjkhnkeoicimmaehlcmgmpghobbjoj/background.js
+Version ID: 9
+Renderer process ID: 0
+Renderer thread ID: -1
+DevTools agent route ID: -2
+Log:
+
+Scope: https://console.cloud.google.com/
+Storage key:
+Origin: https://console.cloud.google.com
+Top level site: https://google.com
+Ancestor chain bit: SameSite
+Registration ID: 27
+Navigation preload enabled: false
+Navigation preload header length: 4
+Active worker:
+Installation Status: ACTIVATED
+Running Status: STOPPED
+Fetch handler existence: EXISTS
+Fetch handler type: NOT_SKIPPABLE
+Script: https://console.cloud.google.com/p/sw/serviceworker.js
+Version ID: 27
+Renderer process ID: 0
+Renderer thread ID: -1
+DevTools agent route ID: -2
+Client:
+ID: 1061cd75-0a20-4329-94d5-ad8da50cf5ac
+URL: https://console.cloud.google.com/pangolin/iframe.html?cb=2003613517440404&authuser=0
+Client:
+ID: 14aa9a24-dfae-4e7f-bf14-dd0bdb3859ad
+URL: https://console.cloud.google.com/p/bscframe
+Client:
+ID: 5a440013-39a5-44e1-b324-32080eb228e8
+URL: https://console.cloud.google.com/p/bscframe
+Client:
+ID: 718f69f2-a1f1-4104-bb2a-5407150aa4e8
+URL: https://console.cloud.google.com/welcome?pli=1&project=still-totality-486106-e2
+Client:
+ID: 83f3d5cd-619f-4684-b3cd-5779c2b9f6a4
+URL: https://console.cloud.google.com/pangolin/iframe.html?cb=847373615269749&authuser=0
+Client:
+ID: 840ada55-c942-4d3b-836c-0375c68d7f47
+URL: https://console.cloud.google.com/pangolin/iframe.html?cb=7959303611630507&authuser=0
+Client:
+ID: 95433f5e-9984-447c-88fc-02e97a0cb417
+URL: https://console.cloud.google.com/p/bscframe
+Client:
+ID: a70592cd-1a74-4ba9-80db-898d752429b3
+URL: https://console.cloud.google.com/gemini/iframe?project=still-totality-486106-e2&folder=&organizationId=
+Client:
+ID: da2c4a21-8891-472b-a07e-893eab1ed03c
+URL: https://console.cloud.google.com/billing/01BBEF-3092D3-CC45E9/reports;grouping=GROUP_BY_SKU;projects=still-totality-486106-e2?cloudshell=true&project=still-totality-486106-e2
+Client:
+ID: dd154541-b72e-4be8-8e53-8c4788a6c752
+URL: https://console.cloud.google.com/logs/query;query=%2528logName%20%3D%20%22projects%2Fstill-totality-486106-e2%2Flogs%2Fcloudaudit.googleapis.com%252Factivity%22%20OR%20logName%20%3D%20%22projects%2Fstill-totality-486106-e2%2Flogs%2Fcloudaudit.googleapis.com%252Fdata_access%22%20OR%20labels.activity_type_name:*%2529%0Aresource.type%3D%22project%22%0Aresource.labels.project_id%3D%22still-totality-486106-e2%22;cursorTimestamp=2026-02-01T11:17:45.126386Z;startTime=2026-02-01T06:00:00.000Z;endTime=2026-02-01T12:00:00.000Z?chat=true&project=still-totality-486106-e2&supportedpurview=project,folder
+Client:
+ID: e7519e0c-feb1-4dae-9831-63ab6297b9e7
+URL: https://console.cloud.google.com/logs/query;query=%2528logName%20%3D%20%22projects%2Fstill-totality-486106-e2%2Flogs%2Fcloudaudit.googleapis.com%252Factivity%22%20OR%20logName%20%3D%20%22projects%2Fstill-totality-486106-e2%2Flogs%2Fcloudaudit.googleapis.com%252Fdata_access%22%20OR%20labels.activity_type_name:*%2529%0Aresource.type%3D%22project%22%0Aresource.labels.project_id%3D%22still-totality-486106-e2%22;cursorTimestamp=2026-02-01T11:17:45.126386Z;startTime=2026-02-01T06:00:00.000Z;endTime=2026-02-01T12:00:00.000Z?chat=true&project=still-totality-486106-e2&supportedpurview=project,folder
+Client:
+ID: f3c6773a-b39f-4cd4-8b18-dcbe8ab7110b
+URL: https://console.cloud.google.com/p/bscframe
+Client:
+ID: faa1b643-bc85-45f9-92b3-fdf968dc3e48
+URL: https://console.cloud.google.com/billing/01BBEF-3092D3-CC45E9/reports;grouping=GROUP_BY_SKU;projects=still-totality-486106-e2?cloudshell=true&project=still-totality-486106-e2
+Log:
+
+Scope: https://mail.google.com/mail/u/1/
+Storage key:
+Origin: https://mail.google.com
+Top level site: https://google.com
+Ancestor chain bit: SameSite
+Registration ID: 32
+Navigation preload enabled: false
+Navigation preload header length: 4
+Active worker:
+Installation Status: ACTIVATED
+Running Status: STOPPED
+Fetch handler existence: EXISTS
+Fetch handler type: NOT_SKIPPABLE
+Script: https://mail.google.com/mail/u/1/sw.js?offline_allowed=1
+Version ID: 43
+Renderer process ID: 0
+Renderer thread ID: -1
+DevTools agent route ID: -2
+Log:
+
+Scope: https://meet.google.com/
+Storage key:
+Origin: https://meet.google.com
+Top level site: https://google.com
+Ancestor chain bit: SameSite
+Registration ID: 12
+Navigation preload enabled: true
+Navigation preload header length: 4
+Active worker:
+Installation Status: ACTIVATED
+Running Status: STOPPED
+Fetch handler existence: EXISTS
+Fetch handler type: NOT_SKIPPABLE
+Script: https://meet.google.com/meetsw.js?xhrRoot=%2F_%2FMeetingsUi&mssRowKey=boq-rtc.MeetingsUi.en.ZGCtPIISWLM.2020.O&buildLabel=boq_meetingsuiserver_20260212.04_p1
+Version ID: 41
+Renderer process ID: 0
+Renderer thread ID: -1
+DevTools agent route ID: -2
+Client:
+ID: 0fbed068-000e-422e-b3ea-da86f3c0ac72
+URL: https://meet.google.com/call?authuser=0&hl=en&mc=KAIwAZoBFDoScGludG9fZjl6M3ZtZDgwcnk5ogE7GgIQADICUAA6AhABSgQIARABWgIIAGoCCAFyAggBegIIAogBAZIBAhABmgEEGAEgAKIBAhAA4gECCACyAQcYAyAAKgEwwgECIAHYAQE&origin=https://mail.google.com&iilm=1771491946220&pli=1
+Client:
+ID: 3063a409-1d83-4e00-866b-64d3369ed728
+URL: https://meet.google.com/_/frame?authuser=0&frameType=1&origin=https%3A%2F%2Fmail.google.com&dip=1#cb=pip_frame
+Client:
+ID: 65475869-27a8-499c-bbbc-d078094c3f50
+URL: https://meet.google.com/_/frame?authuser=0&frameType=1&origin=https%3A%2F%2Fmail.google.com&dip=1#cb=pip_frame
+Client:
+ID: 86c17e29-85bd-4e08-8371-91ef135243ae
+URL: https://meet.google.com/call?authuser=0&hl=en&mc=KAIwAZoBFDoScGludG9fdHRuYzJmemQ3M3BhogE7GgIQADICUAA6AhABSgQIARABWgIIAGoCCAFyAggBegIIAogBAZIBAhABmgEEGAEgAKIBAhAA4gECCACyAQcYAyAAKgEwwgECIAHYAQE&origin=https%3A%2F%2Fmail.google.com&iilm=1771493541307
+Client:
+ID: c8a63b89-7c94-4026-96ae-563ca01c340c
+URL: https://meet.google.com/call?authuser=0&hl=en&mc=KAIwAZoBFDoScGludG9fOGN4NGx4OHc4N2ozogE7GgIQADICUAA6AhABSgQIARABWgIIAGoCCAFyAggBegIIAogBAZIBAhABmgEEGAEgAKIBAhAA4gECCACyAQcYAyAAKgEwwgECIAHYAQE&origin=https%3A%2F%2Fmail.google.com&iilm=1771493682924
+Client:
+ID: ef6a457a-53d5-44b2-9dcf-6e6873e25f91
+URL: https://meet.google.com/_/frame?authuser=0&frameType=1&origin=https%3A%2F%2Fmail.google.com&dip=1#cb=pip_frame
+Log:
+
+Scope: https://shell.cloud.google.com/
+Storage key:
+Origin: https://shell.cloud.google.com
+Top level site: https://google.com
+Ancestor chain bit: SameSite
+Registration ID: 28
+Navigation preload enabled: false
+Navigation preload header length: 4
+Active worker:
+Installation Status: ACTIVATED
+Running Status: STOPPED
+Fetch handler existence: EXISTS
+Fetch handler type: EMPTY_FETCH_HANDLER
+Script: https://shell.cloud.google.com/sw.js
+Version ID: 28
+Renderer process ID: 0
+Renderer thread ID: -1
+DevTools agent route ID: -2
+Client:
+ID: 0cc30f24-3093-4093-b376-56c2c0a4038f
+URL: https://shell.cloud.google.com/embeddedcloudshell?hl=en_US&hostappurl=https%3A%2F%2Fconsole.cloud.google.com%2Fbilling%2F01BBEF-3092D3-CC45E9%2Freports%3Bgrouping%3DGROUP_BY_SKU%3Bprojects%3Dstill-totality-486106-e2%3Fcloudshell%3Dtrue%26project%3Dstill-totality-486106-e2&embedded=true&embedding_options=%5B%22E0D7C7E7-7F61-4BF3-A9D4-5D66A432BD34%22%2C1%5D&theme=dark&authuser=0&usegapi=1&jsh=m%3B%2F_%2Fscs%2Fabc-static%2F_%2Fjs%2Fk%3Dgapi.lb.en.2kN9-TZiXrM.O%2Fd%3D1%2Frs%3DAHpOoo_B4hu0FeWRuWHfxnZ3V0WubwN7Qw%2Fm%3D__features__#id=I0_1771499654619&_gfid=I0_1771499654619&parent=https://console.cloud.google.com&pfname=&rpctoken=24518271
+Client:
+ID: 6f53a7f7-3658-403c-ab30-5ec56abb7e2a
+URL: https://shell.cloud.google.com/blank/gapi?onload=CSH_ISOLATED_GAPI_ONLOAD1771499656157&authuser=0&hostappurl=https%3A%2F%2Fconsole.cloud.google.com%2Fbilling%2F01BBEF-3092D3-CC45E9%2Freports%3Bgrouping%3DGROUP_BY_SKU%3Bprojects%3Dstill-totality-486106-e2%3Fcloudshell%3Dtrue%26project%3Dstill-totality-486106-e2
+Log:
+
+Scope: https://stripchat.com/
+Storage key:
+Origin: https://stripchat.com
+Top level site: https://stripchat.com
+Ancestor chain bit: SameSite
+Registration ID: 30
+Navigation preload enabled: false
+Navigation preload header length: 4
+Active worker:
+Installation Status: ACTIVATED
+Running Status: STOPPED
+Fetch handler existence: EXISTS
+Fetch handler type: NOT_SKIPPABLE
+Script: https://stripchat.com/service-worker.js?pwaApiDiscoverHost=https://stripchat.app&h=a3f482a
+Version ID: 33
+Renderer process ID: 0
+Renderer thread ID: -1
+DevTools agent route ID: -2
+Log:
+
+Scope: https://www.googletagmanager.com/static/service_worker
+Storage key:
+Origin: https://www.googletagmanager.com
+Top level site: https://google.com
+Ancestor chain bit: CrossSite
+Registration ID: 7
+Navigation preload enabled: false
+Navigation preload header length: 4
+Active worker:
+Installation Status: ACTIVATED
+Running Status: STOPPED
+Fetch handler existence: DOES_NOT_EXIST
+Fetch handler type: NO_HANDLER
+Script: https://www.googletagmanager.com/static/service_worker/6240/sw.js?origin=https%3A%2F%2Fassistant.google.com
+Version ID: 44
+Renderer process ID: 0
+Renderer thread ID: -1
+DevTools agent route ID: -2
+Client:
+ID: e9e4f8c3-b442-4a81-bb78-c33509bdacd0
+URL: https://www.googletagmanager.com/static/service_worker/6240/sw_iframe.html?origin=https%3A%2F%2Fassistant.google.com
+Client:
+ID: f0827554-b709-4c23-a58a-bd19c929a6c9
+URL: https://www.googletagmanager.com/static/service_worker/6240/sw_iframe.html?origin=https%3A%2F%2Fplay.google.com
+Client:
+ID: f5bcbcd7-4a65-47d5-a57b-42e315583fa9
+URL: https://www.googletagmanager.com/static/service_worker/6240/sw_iframe.html?origin=https%3A%2F%2Fworkspace.google.com
+Log:
+
+Scope: https://www.googletagmanager.com/static/service_worker
+Storage key:
+Origin: https://www.googletagmanager.com
+Top level site: https://linkedin.com
+Ancestor chain bit: CrossSite
+Registration ID: 13
+Navigation preload enabled: false
+Navigation preload header length: 4
+Active worker:
+Installation Status: ACTIVATED
+Running Status: STOPPED
+Fetch handler existence: DOES_NOT_EXIST
+Fetch handler type: NO_HANDLER
+Script: https://www.googletagmanager.com/static/service_worker/6240/sw.js?origin=https%3A%2F%2Fwww.linkedin.com
+Version ID: 13
+Renderer process ID: 0
+Renderer thread ID: -1
+DevTools agent route ID: -2
+Log:
+
+Scope: https://www.googletagmanager.com/static/service_worker
+Storage key:
+Origin: https://www.googletagmanager.com
+Top level site: https://manus.im
+Ancestor chain bit: CrossSite
+Registration ID: 31
+Navigation preload enabled: false
+Navigation preload header length: 4
+Active worker:
+Installation Status: ACTIVATED
+Running Status: RUNNING
+Fetch handler existence: DOES_NOT_EXIST
+Fetch handler type: NO_HANDLER
+Script: https://www.googletagmanager.com/static/service_worker/6240/sw.js?origin=https%3A%2F%2Fmanus.im
+Version ID: 42
+Renderer process ID: 11773
+Renderer thread ID: 12
+DevTools agent route ID: 166
+Client:
+ID: 10c2ca9e-e94d-4f47-b1c9-55ee36fa59ba
+URL: https://www.googletagmanager.com/static/service_worker/6240/sw_iframe.html?origin=https%3A%2F%2Fmanus.im
+Log:
+
+Scope: https://www.googletagmanager.com/static/service_worker
+Storage key:
+Origin: https://www.googletagmanager.com
+Top level site: https://opera.com
+Ancestor chain bit: CrossSite
+Registration ID: 3
+Navigation preload enabled: false
+Navigation preload header length: 4
+Active worker:
+Installation Status: ACTIVATED
+Running Status: STOPPED
+Fetch handler existence: DOES_NOT_EXIST
+Fetch handler type: NO_HANDLER
+Script: https://www.googletagmanager.com/static/service_worker/6240/sw.js?origin=https%3A%2F%2Fcashback.opera.com
+Version ID: 31
+Renderer process ID: 0
+Renderer thread ID: -1
+DevTools agent route ID: -2
+Log:
+
+Scope: https://chat.google.com/
+Storage key:
+Origin: https://chat.google.com
+Top level site: https://google.com
+Ancestor chain bit: SameSite
+Registration ID: 10 (unregistered)
+Navigation preload enabled: true
+Navigation preload header length: 4
+Active worker:
+Installation Status: ACTIVATED
+Running Status: RUNNING
+Fetch handler existence: EXISTS
+Fetch handler type: NOT_SKIPPABLE
+Script: https://chat.google.com/serviceworker.js?xhrRoot=%2Fu%2F0%2F_%2FDynamiteWebUi&mssRowKey=boq-dynamite.DynamiteWebUi.en.ZhjqOW3p0w0.2020.O&buildLabel=boq_dynamiteuiserver_20260214.00_p2
+Version ID: 40
+Renderer process ID: 422736
+Renderer thread ID: 61
+DevTools agent route ID: 64
+Client:
+ID: 09a560cc-4e1d-46f9-a114-8eb2d4204cbd
+URL: https://chat.google.com/u/0/frame?shell=6&origin=https%3A%2F%2Fmail.google.com&oi=1&dip=3#cb=gtn-brain-iframe-id&id=spareFrame3
+Client:
+ID: 137b87ff-985f-4587-85dd-efed9de19f8b
+URL: https://chat.google.com/u/0/frame?shell=6&origin=https%3A%2F%2Fmail.google.com&oi=1&dip=3#cb=gtn-brain-iframe-id&id=spareFrame1
+Client:
+ID: 15f2cd32-b0d3-463d-9305-e3b6dbd22a34
+URL: https://chat.google.com/u/0/mole/world?wfi=gtn-brain-iframe-id&hs=%5B%22h_hs%22%2Cnull%2Cnull%2C%5B2%2C1%5D%2Cnull%2Cnull%2C%22gmail.pinto-server_20260216.14_p0%22%2Cnull%2Cnull%2C%5B6%2C58%2C17%2C20%2C1%2C19%2C31%2C60%2C67%2C93%5D%2Cnull%2Cnull%2C%22FDznAa5Yy5A.en.L.es5%22%2Cnull%2Cnull%2Cnull%2Cnull%2Cnull%2C0%5D&hl=en&ilt=1304689400668973718&dip=3&shell=6&has_stream_view=false&origin=https%3A%2F%2Fmail.google.com&oi=1#hot=1771493523701
+Client:
+ID: 2d5fe5be-996b-4093-8a1f-2f03683b1a4b
+URL: https://chat.google.com/u/0/frame?shell=6&origin=https%3A%2F%2Fmail.google.com&oi=1&dip=3#cb=gtn-brain-iframe-id&id=spareFrame2
+Client:
+ID: 3790eee4-34fe-4e5e-acc8-6c6688966905
+URL: https://chat.google.com/u/0/frame?shell=6&pt=6&origin=https%3A%2F%2Fmail.google.com&oi=1&dip=3#cb=gtn-brain-iframe-id&id=world&pt=6
+Client:
+ID: 39548e8f-6089-40e0-aa58-aee748adb0b0
+URL: https://chat.google.com/u/0/frame?shell=6&origin=https%3A%2F%2Fmail.google.com&oi=1&dip=3#cb=gtn-brain-iframe-id&id=spareFrame2
+Client:
+ID: 68ab2534-9a17-47d1-bcd6-7e81ee1e4e74
+URL: https://chat.google.com/u/0/mole/world?wfi=gtn-brain-iframe-id&hs=%5B%22h_hs%22%2Cnull%2Cnull%2C%5B2%2C1%5D%2Cnull%2Cnull%2C%22gmail.pinto-server_20260216.14_p0%22%2Cnull%2Cnull%2C%5B6%2C58%2C17%2C20%2C1%2C19%2C31%2C60%2C67%2C93%5D%2Cnull%2Cnull%2C%22FDznAa5Yy5A.en.L.es5%22%2Cnull%2Cnull%2Cnull%2Cnull%2Cnull%2C0%5D&hl=en&ilt=308205453064110501&dip=3&shell=6&has_stream_view=false&origin=https%3A%2F%2Fmail.google.com&oi=1#hot=1771493485853
+Client:
+ID: 7049b4ba-a066-4025-b48b-91c20c5c34ea
+URL: https://chat.google.com/u/0/frame?shell=6&pt=6&origin=https%3A%2F%2Fmail.google.com&oi=1&dip=3#cb=gtn-brain-iframe-id&id=world&pt=6
+Client:
+ID: 746cb174-df38-4fc8-b90a-8d513f3e823c
+URL: https://chat.google.com/u/0/frame?shell=6&origin=https%3A%2F%2Fmail.google.com&oi=1&dip=3#cb=gtn-brain-iframe-id&id=spareFrame3
+Client:
+ID: 755d88d0-522a-4e63-ab76-af503fe94d80
+URL: https://chat.google.com/u/0/mole/world?wfi=gtn-brain-iframe-id&hs=%5B%22h_hs%22%2Cnull%2Cnull%2C%5B2%2C1%5D%2Cnull%2Cnull%2C%22gmail.pinto-server_20260216.14_p0%22%2Cnull%2Cnull%2C%5B6%2C58%2C17%2C20%2C1%2C19%2C31%2C60%2C67%2C93%5D%2Cnull%2Cnull%2C%22FDznAa5Yy5A.en.L.es5%22%2Cnull%2Cnull%2Cnull%2Cnull%2Cnull%2C0%5D&hl=en&ilt=5278301445994332725&dip=3&shell=6&has_stream_view=false&origin=https%3A%2F%2Fmail.google.com&oi=1#hot=1771493666139
+Client:
+ID: 7ef2e35b-915c-4f2d-9014-62ca1ee33c4e
+URL: https://chat.google.com/u/0/mole/world?wfi=gtn-brain-iframe-id&hs=%5B%22h_hs%22,null,null,%5B2,1%5D,null,null,%22gmail.pinto-server_20260216.14_p0%22,null,null,%5B6,58,17,20,1,19,31,60,67,93%5D,null,null,%22FDznAa5Yy5A.en.L.es5%22,null,null,null,null,null,0%5D&hl=en&ilt=-665773425784272318&dip=3&shell=6&has_stream_view=false&origin=https://mail.google.com&oi=1&pli=1#hot=1771491926562
+Client:
+ID: 8073deb0-e2fb-43c2-b354-bd986e9246a3
+URL: https://chat.google.com/u/0/frame?shell=6&origin=https%3A%2F%2Fmail.google.com&oi=1&dip=3#cb=gtn-brain-iframe-id&id=spareFrame1
+Client:
+ID: ac677b48-066d-41ee-a83d-f57db68bc61c
+URL: https://chat.google.com/u/0/frame?shell=6&pt=15&origin=https%3A%2F%2Fmail.google.com&oi=1&dip=3#cb=gtn-brain-iframe-id&id=single_full_screen&pt=15
+Client:
+ID: b4b8a469-e716-475d-b5fc-ee52f4ebb088
+URL: https://chat.google.com/u/0/frame?shell=6&pt=15&origin=https%3A%2F%2Fmail.google.com&oi=1&dip=3#cb=gtn-brain-iframe-id&id=single_full_screen&pt=15
+Client:
+ID: be9c7713-68a7-4f6c-a2a2-9fc4e466b781
+URL: https://chat.google.com/u/0/frame?shell=6&origin=https%3A%2F%2Fmail.google.com&oi=1&dip=3#cb=gtn-brain-iframe-id&id=spareFrame2
+Client:
+ID: d354718c-b51f-44be-8b33-e571169f4f18
+URL: https://chat.google.com/u/0/frame?shell=6&origin=https%3A%2F%2Fmail.google.com&oi=1&dip=3#cb=gtn-brain-iframe-id&id=spareFrame3
+Client:
+ID: dc2c6e42-511a-46aa-85c2-46efd342f9bb
+URL: https://chat.google.com/u/0/frame?shell=6&origin=https%3A%2F%2Fmail.google.com&oi=1&dip=3#cb=gtn-brain-iframe-id&id=spareFrame1
+Client:
+ID: f0466cae-ab0d-4b54-ae6d-9bebead43b48
+URL: https://chat.google.com/u/0/frame?shell=6&pt=6&origin=https%3A%2F%2Fmail.google.com&oi=1&dip=3#cb=gtn-brain-iframe-id&id=world&pt=6
+Client:
+ID: f1299cbd-248b-4514-89df-60e7eb6c03dd
+URL: https://chat.google.com/u/0/frame?shell=6&pt=15&origin=https%3A%2F%2Fmail.google.com&oi=1&dip=3#cb=gtn-brain-iframe-id&id=single_full_screen&pt=15
+Log:
+
+Scope: https://mail.google.com/mail/u/0/
+Storage key:
+Origin: https://mail.google.com
+Top level site: https://google.com
+Ancestor chain bit: SameSite
+Registration ID: 11 (unregistered)
+Navigation preload enabled: false
+Navigation preload header length: 4
+Active worker:
+Installation Status: ACTIVATED
+Running Status: STOPPED
+Fetch handler existence: EXISTS
+Fetch handler type: NOT_SKIPPABLE
+Script: https://mail.google.com/mail/u/0/sw.js?offline_allowed=1
+Version ID: 45
+Renderer process ID: 0
+Renderer thread ID: -1
+DevTools agent route ID: -2
+Client:
+ID: 61c8f0cd-c64e-4a2e-a632-af8f8de8cc88
+URL: https://mail.google.com/mail/u/0/#inbox/FMfcgzQfBspgngsltxmwtrSphdtpzkld
+Client:
+ID: a9a600fd-d009-4058-96c5-3b0b0316a9d2
+URL: https://mail.google.com/mail/u/0/#sent/QgrcJHrntPHWsqdZgTGpnwpHMjtnJgPZdLL
+Client:
+ID: ad76031a-56cb-4e9d-b54a-316db85a1ade
+URL: https://mail.google.com/mail/u/0/?fs=1&tf=cm&source=mailto&to=reply%2BBVXBA7YT6DQDF7Z6O6APWQDJ3CGALEVBNHHODV7E4Q@reply.github.com
+Client:
+ID: b3f03a80-5205-4807-99a6-1986eb593bdf
+URL: https://mail.google.com/mail/u/0/#settings/accounts
+Log:
+Unregistered worker:
+Installation Status: REDUNDANT
+Running Status: STOPPED
+Fetch handler existence: EXISTS
+Fetch handler type: NOT_SKIPPABLE
+Script: https://mail.google.com/mail/u/0/sw.js?offline_allowed=1
+Version ID: 11
+Renderer process ID: 0
+Renderer thread ID: -1
+DevTools agent route ID: -2
+Log:
+Unregistered worker:
+Installation Status: REDUNDANT
+Running Status: STOPPED
+Fetch handler existence: DOES_NOT_EXIST
+Fetch handler type: NO_HANDLER
+Script: https://www.googletagmanager.com/static/service_worker/6240/sw.js?origin=https%3A%2F%2Fgemini.google.com
+Version ID: 35
+Renderer process ID: 0
+Renderer thread ID: -1
+DevTools agent route ID: -2
+Log:
+Unregistered worker:
+Installation Status: REDUNDANT
+Running Status: STOPPED
+Fetch handler existence: DOES_NOT_EXIST
+Fetch handler type: NO_HANDLER
+Script: https://www.googletagmanager.com/static/service_worker/6240/sw.js?origin=https%3A%2F%2Fdocs.cloud.google.com
+Version ID: 38
+Renderer process ID: 0
+Renderer thread ID: -1
+DevTools agent route ID: -2
+Log:
+Unregistered worker:
+Installation Status: REDUNDANT
+Running Status: STOPPED
+Fetch handler existence: DOES_NOT_EXIST
+Fetch handler type: NO_HANDLER
+Script: https://www.googletagmanager.com/static/service_worker/6240/sw.js?origin=https%3A%2F%2Fplay.google.com
+Version ID: 39
+Renderer process ID: 0
+Renderer thread ID: -1
+DevTools agent route ID: -2
+Log:

@@ -1,0 +1,761 @@
+h
+
+.$$$     $.                                   .$$$     $.
+$$$$     $$. .$$$  $$$ .$$$$$$.  .$$$$$$$$$$. $$$$     $$. .$$$$$$$. .$$$$$$.
+$ $$     $$$ $ $$  $$$ $ $$$$$$. $$$$$ $$$$$$ $ $$     $$$ $ $$   $$ $ $$$$$$.
+$ `$     $$$ $ `$  $$$ $ `$  $$$ $$' $ `$ `$$ $ `$     $$$ $ `$      $ `$  $$$'
+$. $     $$$ $. $$$$$$ $. $$$$$$ `$  $. $  :' $. $     $$$ $. $$$$   $. $$$$$.
+$::$  .  $$$ $::$  $$$ $::$  $$$     $::$     $::$  .  $$$ $::$      $::$  $$$$
+$;;$ $$$ $$$ $;;$  $$$ $;;$  $$$     $;;$     $;;$ $$$ $$$ $;;$      $;;$  $$$$
+$$$$$$ $$$$$ $$$$  $$$ $$$$  $$$     $$$$     $$$$$$ $$$$$ $$$$$$$$$ $$$$$$$$$'
+
+
+WhatWeb - Next generation web scanner version 0.6.3.
+Developed by Andrew Horton (urbanadventurer) and Brendan Coles (bcoles).
+Homepage: https://morningstarsecurity.com/research/whatweb
+
+Usage: whatweb [options] <URLs>
+
+TARGET SELECTION:
+  <TARGETs>                     Enter URLs, hostnames, IP addresses, filenames or
+                                IP ranges in CIDR, x.x.x-x, or x.x.x.x-x.x.x.x
+                                format.
+  --input-file=FILE, -i         Read targets from a file. You can pipe
+                                hostnames or URLs directly with -i /dev/stdin.
+
+TARGET MODIFICATION:
+  --url-prefix                  Add a prefix to target URLs.
+  --url-suffix                  Add a suffix to target URLs.
+  --url-pattern                 Insert the targets into a URL.
+                                e.g. example.com/%insert%/robots.txt
+
+AGGRESSION:
+The aggression level controls the trade-off between speed/stealth and
+reliability.
+  --aggression, -a=LEVEL        Set the aggression level. Default: 1.
+  1. Stealthy                   Makes one HTTP request per target and also
+                                follows redirects.
+  3. Aggressive                 If a level 1 plugin is matched, additional
+                                requests will be made.
+  4. Heavy                      Makes a lot of HTTP requests per target. URLs
+                                from all plugins are attempted.
+
+HTTP OPTIONS:
+  --user-agent, -U=AGENT        Identify as AGENT instead of WhatWeb/0.6.3.
+  --header, -H                  Add an HTTP header. eg "Foo:Bar". Specifying a
+                                default header will replace it. Specifying an
+                                empty value, e.g. "User-Agent:" will remove it.
+  --follow-redirect=WHEN        Control when to follow redirects. WHEN may be
+                                `never', `http-only', `meta-only', `same-site',
+                                or `always'. Default: always.
+  --max-redirects=NUM           Maximum number of redirects. Default: 10.
+
+AUTHENTICATION:
+  --user, -u=<user:password>    HTTP basic authentication.
+  --cookie, -c=COOKIES          Use cookies, e.g. 'name=value; name2=value2'.
+  --cookie-jar=FILE             Read cookies from a file and save cookies to the
+                                same file. Creates the file if it doesn't exist.
+  --no-cookies                  Disable automatic cookie handling (improves performance with high thread counts).
+
+PROXY:
+  --proxy                       <hostname[:port]> Set proxy hostname and port.
+                                Default: 8080.
+  --proxy-user                  <username:password> Set proxy user and password.
+
+PLUGINS:
+  --list-plugins, -l            List all plugins.
+  --info-plugins, -I=[SEARCH]   List all plugins with detailed information.
+                                Optionally search with keywords in a comma
+                                delimited list.
+  --search-plugins=STRING       Search plugins for a keyword.
+  --plugins, -p=LIST            Select plugins. LIST is a comma delimited set
+                                of selected plugins. Default is all.
+                                Each element can be a directory, file or plugin
+                                name and can optionally have a modifier, +/-.
+                                Examples: +/tmp/moo.rb,+/tmp/foo.rb
+                                title,md5,+./plugins-disabled/
+                                ./plugins-disabled,-md5
+                                -p + is a shortcut for -p +plugins-disabled.
+  --grep, -g=STRING|REGEXP      Search for STRING or a Regular Expression. Shows
+                                only the results that match.
+                                Examples: --grep "hello"
+                                --grep "/he[l]*o/"
+  --custom-plugin=DEFINITION    Define a custom plugin named Custom-Plugin,
+                                Examples: ":text=>'powered by abc'"
+                                ":version=>/powered[ ]?by ab[0-9]/"
+                                ":ghdb=>'intitle:abc \"powered by abc\"'"
+                                ":md5=>'8666257030b94d3bdb46e05945f60b42'"
+                                "{:text=>'powered by abc'}"
+  --dorks=PLUGIN                List Google dorks for the selected plugin.
+
+OUTPUT:
+  --verbose, -v                 Verbose output includes plugin descriptions.
+                                Use twice for debugging.
+  --colour,--color=WHEN         control whether colour is used. WHEN may be
+                                `never', `always', or `auto'.
+  --quiet, -q                   Do not display brief logging to STDOUT.
+  --no-errors                   Suppress error messages.
+
+LOGGING:
+  --log-brief=FILE              Log brief, one-line output.
+  --log-verbose=FILE            Log verbose output.
+  --log-errors=FILE             Log errors.
+  --log-xml=FILE                Log XML format.
+  --log-json=FILE               Log JSON format.
+  --log-sql=FILE                Log SQL INSERT statements.
+  --log-sql-create=FILE         Create SQL database tables.
+  --log-json-verbose=FILE       Log JSON Verbose format.
+  --log-magictree=FILE          Log MagicTree XML format.
+  --log-object=FILE             Log Ruby object inspection format.
+  --log-mongo-database          Name of the MongoDB database.
+  --log-mongo-collection        Name of the MongoDB collection.
+                                Default: whatweb.
+  --log-mongo-host              MongoDB hostname or IP address.
+                                Default: 0.0.0.0.
+  --log-mongo-username          MongoDB username. Default: nil.
+  --log-mongo-password          MongoDB password. Default: nil.
+  --log-elastic-index           Name of the index to store results. Default: whatweb
+  --log-elastic-host            Host:port of the elastic http interface. Default: 127.0.0.1:9200
+
+PERFORMANCE & STABILITY:
+  --max-threads, -t             Number of simultaneous threads. Default: 25.
+  --open-timeout                Time in seconds. Default: 15.
+  --read-timeout                Time in seconds. Default: 30.
+  --wait=SECONDS                Wait SECONDS between connections.
+                                This is useful when using a single thread.
+
+HELP & MISCELLANEOUS:
+  --short-help                  Short usage help.
+  --help, -h                    Complete usage help.
+  --debug                       Raise errors in plugins.
+  --version                     Display version information.
+
+EXAMPLE USAGE:
+* Scan example.com.
+  ./whatweb example.com
+
+* Scan reddit.com slashdot.org with verbose plugin descriptions.
+  ./whatweb -v reddit.com slashdot.org
+
+* An aggressive scan of wired.com detects the exact version of WordPress.
+  ./whatweb -a 3 www.wired.com
+
+* Scan the local network quickly and suppress errors.
+  whatweb --no-errors 192.168.0.0/24
+
+* Scan the local network for https websites.
+  whatweb --no-errors --url-prefix https:// 192.168.0.0/24
+
+* Scan for crossdomain policies in the Alexa Top 1000.
+  ./whatweb -i plugin-development/alexa-top-100.txt \
+  --url-suffix /crossdomain.xml -p crossdomain_xml
+
+zooleous@PinkPinkPoke:~$ scan 
+Command 'scan' not found, but can be installed with:
+sudo apt install dvb-apps    
+sudo apt install nmh         
+sudo apt install mailutils-mh
+zooleous@PinkPinkPoke:~$ whatweb --no-errors 192.168.0.0/24 
+
+http://192.168.0.1 [200 OK] Bootstrap, Country[RESERVED][ZZ], HTTPServer[Xfinity Broadband Router Server], IP[192.168.0.1], JQuery[3.4.1], PasswordField[password], Script[text/javascript], Strict-Transport-Security[max-age=15768000; includeSubdomains], Title[Cox], UncommonHeaders[x-robots-tag,x-content-type-options,content-security-policy], X-Frame-Options[deny], X-XSS-Protection[1; mode=block]
+https://192.168.0.1 [200 OK] Bootstrap, Country[RESERVED][ZZ], HTTPServer[Xfinity Broadband Router Server], IP[192.168.0.1], JQuery[3.4.1], PasswordField[password], Script[text/javascript], Strict-Transport-Security[max-age=15768000; includeSubdomains], Title[Cox], UncommonHeaders[x-robots-tag,x-content-type-options,content-security-policy], X-Frame-Options[deny], X-XSS-Protection[1; mode=block]
+
+
+^C/usr/lib/ruby/vendor_ruby/whatweb/scan.rb:78:in `alive?': Interrupt
+        from /usr/lib/ruby/vendor_ruby/whatweb/scan.rb:78:in `block (2 levels) in scan'
+        from /usr/lib/ruby/vendor_ruby/whatweb/scan.rb:78:in `map'
+        from /usr/lib/ruby/vendor_ruby/whatweb/scan.rb:78:in `block in scan'
+        from <internal:kernel>:187:in `loop'
+        from /usr/lib/ruby/vendor_ruby/whatweb/scan.rb:74:in `scan'
+        from /usr/bin/whatweb:663:in `<main>'
+
+zooleous@PinkPinkPoke:~$ ./whatweb -i plugin-development/alexa-top-100.txt \
+  --url-suffix /crossdomain.xml -p crossdomain_xml
+
+zsh: no such file or directory: ./whatweb
+zooleous@PinkPinkPoke:~$ whatweb -i plugin-development/alexa-top-100.txt \ 
+  --url-suffix /crossdomain.xml -p crossdomain_xml
+
+No targets selected
+zooleous@PinkPinkPoke:~$ whatweb --url-suffix /crossdomain.xml -p crossdomain_xml
+
+No targets selected
+zooleous@PinkPinkPoke:~$ /whatweb -v reddit.com slashdot.org 
+
+zsh: no such file or directory: /whatweb
+zooleous@PinkPinkPoke:~$ whatweb -v reddit.com slashdot.org 
+
+WhatWeb report for http://reddit.com
+Status    : 301 Moved Permanently
+Title     : <None>
+IP        : 151.101.193.140
+Country   : UNITED STATES, US
+
+Summary   : HTTPServer[snooserv], RedirectLocation[https://reddit.com/], UncommonHeaders[retry-after,x-content-type-options,report-to,nel], Via-Proxy[1.1 varnish], X-Frame-Options[SAMEORIGIN], X-XSS-Protection[1; mode=block]
+
+Detected Plugins:
+[ HTTPServer ]
+        HTTP server header string. This plugin also attempts to 
+        identify the operating system from the server header. 
+
+        String       : snooserv (from server string)
+
+[ RedirectLocation ]
+        HTTP Server string location. used with http-status 301 and 
+        302 
+
+        String       : https://reddit.com/ (from location)
+
+[ UncommonHeaders ]
+        Uncommon HTTP server headers. The blacklist includes all 
+        the standard headers and many non standard but common ones. 
+        Interesting but fairly common headers should have their own 
+        plugins, eg. x-powered-by, server and x-aspnet-version. 
+        Info about headers can be found at www.http-stats.com 
+
+        String       : retry-after,x-content-type-options,report-to,nel (from headers)
+
+[ Via-Proxy ]
+        This plugin extracts the proxy server details from the Via 
+        param of the HTTP header. 
+
+        String       : 1.1 varnish
+
+[ X-Frame-Options ]
+        This plugin retrieves the X-Frame-Options value from the 
+        HTTP header. - More Info: 
+        http://msdn.microsoft.com/en-us/library/cc288472%28VS.85%29.
+        aspx
+
+        String       : SAMEORIGIN
+
+[ X-XSS-Protection ]
+        This plugin retrieves the X-XSS-Protection value from the 
+        HTTP header. - More Info: 
+        http://msdn.microsoft.com/en-us/library/cc288472%28VS.85%29.
+        aspx
+
+        String       : 1; mode=block
+
+HTTP Headers:
+        HTTP/1.1 301 Moved Permanently
+        Connection: close
+        Content-Length: 0
+        Retry-After: 0
+        Location: https://reddit.com/
+        Accept-Ranges: bytes
+        Date: Thu, 19 Feb 2026 05:32:10 GMT
+        Via: 1.1 varnish
+        X-Content-Type-Options: nosniff
+        X-Frame-Options: SAMEORIGIN
+        X-XSS-Protection: 1; mode=block
+        Cache-Control: private, max-age=3600
+        Server: snooserv
+        Report-To: {"group": "w3-reporting-nel", "max_age": 14400, "include_subdomains": true,  "endpoints": [{ "url": "https://w3-reporting-nel.reddit.com/reports" }]}, {"group": "w3-reporting", "max_age": 14400, "include_subdomains": true, "endpoints": [{ "url": "https://w3-reporting.reddit.com/reports" }]}, {"group": "w3-reporting-csp", "max_age": 14400, "include_subdomains": true, "endpoints": [{ "url": "https://w3-reporting-csp.reddit.com/reports" }]}
+        NEL: {"report_to": "w3-reporting-nel", "max_age": 14400, "include_subdomains": false, "success_fraction": 1.0, "failure_fraction": 1.0}
+
+WhatWeb report for http://slashdot.org
+Status    : 301 Moved Permanently
+Title     : 301 Moved Permanently
+IP        : 104.18.4.215
+Country   : UNITED STATES, US
+
+Summary   : HTTPServer[cloudflare], RedirectLocation[https://slashdot.org/], UncommonHeaders[cf-ray,cf-cache-status,alt-svc]
+
+Detected Plugins:
+[ HTTPServer ]
+        HTTP server header string. This plugin also attempts to 
+        identify the operating system from the server header. 
+
+        String       : cloudflare (from server string)
+
+[ RedirectLocation ]
+        HTTP Server string location. used with http-status 301 and 
+        302 
+
+        String       : https://slashdot.org/ (from location)
+
+[ UncommonHeaders ]
+        Uncommon HTTP server headers. The blacklist includes all 
+        the standard headers and many non standard but common ones. 
+        Interesting but fairly common headers should have their own 
+        plugins, eg. x-powered-by, server and x-aspnet-version. 
+        Info about headers can be found at www.http-stats.com 
+
+        String       : cf-ray,cf-cache-status,alt-svc (from headers)
+
+HTTP Headers:
+        HTTP/1.1 301 Moved Permanently
+        Date: Thu, 19 Feb 2026 05:32:10 GMT
+        Content-Type: text/html
+        Transfer-Encoding: chunked
+        Connection: close
+        Server: cloudflare
+        Location: https://slashdot.org/
+        CF-Ray: 9d0361d66f77c0c4-PHX
+        CF-Cache-Status: DYNAMIC
+        Vary: Accept-Encoding
+        alt-svc: h3=":443"; ma=86400
+
+WhatWeb report for https://reddit.com
+Status    : 301 Moved Permanently
+Title     : <None>
+IP        : 151.101.193.140
+Country   : UNITED STATES, US
+
+Summary   : HTTPServer[snooserv], RedirectLocation[https://www.reddit.com/], Strict-Transport-Security[max-age=31536000; includeSubdomains; preload], UncommonHeaders[retry-after,x-content-type-options,report-to,nel], Via-Proxy[1.1 varnish], X-Frame-Options[SAMEORIGIN], X-XSS-Protection[1; mode=block]
+
+Detected Plugins:
+[ HTTPServer ]
+        HTTP server header string. This plugin also attempts to 
+        identify the operating system from the server header. 
+
+        String       : snooserv (from server string)
+
+[ RedirectLocation ]
+        HTTP Server string location. used with http-status 301 and 
+        302 
+
+        String       : https://www.reddit.com/ (from location)
+
+[ Strict-Transport-Security ]
+        Strict-Transport-Security is an HTTP header that restricts 
+        a web browser from accessing a website without the security 
+        of the HTTPS protocol. 
+
+        String       : max-age=31536000; includeSubdomains; preload
+
+[ UncommonHeaders ]
+        Uncommon HTTP server headers. The blacklist includes all 
+        the standard headers and many non standard but common ones. 
+        Interesting but fairly common headers should have their own 
+        plugins, eg. x-powered-by, server and x-aspnet-version. 
+        Info about headers can be found at www.http-stats.com 
+
+        String       : retry-after,x-content-type-options,report-to,nel (from headers)
+
+[ Via-Proxy ]
+        This plugin extracts the proxy server details from the Via 
+        param of the HTTP header. 
+
+        String       : 1.1 varnish
+
+[ X-Frame-Options ]
+        This plugin retrieves the X-Frame-Options value from the 
+        HTTP header. - More Info: 
+        http://msdn.microsoft.com/en-us/library/cc288472%28VS.85%29.
+        aspx
+
+        String       : SAMEORIGIN
+
+[ X-XSS-Protection ]
+        This plugin retrieves the X-XSS-Protection value from the 
+        HTTP header. - More Info: 
+        http://msdn.microsoft.com/en-us/library/cc288472%28VS.85%29.
+        aspx
+
+        String       : 1; mode=block
+
+HTTP Headers:
+        HTTP/1.1 301 Moved Permanently
+        Connection: close
+        Content-Length: 0
+        Retry-After: 0
+        Location: https://www.reddit.com/
+        Accept-Ranges: bytes
+        Date: Thu, 19 Feb 2026 05:32:10 GMT
+        Via: 1.1 varnish
+        Strict-Transport-Security: max-age=31536000; includeSubdomains; preload
+        X-Content-Type-Options: nosniff
+        X-Frame-Options: SAMEORIGIN
+        X-XSS-Protection: 1; mode=block
+        Cache-Control: private, max-age=3600
+        Server: snooserv
+        Report-To: {"group": "w3-reporting-nel", "max_age": 14400, "include_subdomains": true,  "endpoints": [{ "url": "https://w3-reporting-nel.reddit.com/reports" }]}, {"group": "w3-reporting", "max_age": 14400, "include_subdomains": true, "endpoints": [{ "url": "https://w3-reporting.reddit.com/reports" }]}, {"group": "w3-reporting-csp", "max_age": 14400, "include_subdomains": true, "endpoints": [{ "url": "https://w3-reporting-csp.reddit.com/reports" }]}
+        NEL: {"report_to": "w3-reporting-nel", "max_age": 14400, "include_subdomains": false, "success_fraction": 1.0, "failure_fraction": 1.0}
+
+WhatWeb report for https://reddit.com/
+Status    : 301 Moved Permanently
+Title     : <None>
+IP        : 151.101.65.140
+Country   : UNITED STATES, US
+
+Summary   : HTTPServer[snooserv], RedirectLocation[https://www.reddit.com/], Strict-Transport-Security[max-age=31536000; includeSubdomains; preload], UncommonHeaders[retry-after,x-content-type-options,report-to,nel], Via-Proxy[1.1 varnish], X-Frame-Options[SAMEORIGIN], X-XSS-Protection[1; mode=block]
+
+Detected Plugins:
+[ HTTPServer ]
+        HTTP server header string. This plugin also attempts to 
+        identify the operating system from the server header. 
+
+        String       : snooserv (from server string)
+
+[ RedirectLocation ]
+        HTTP Server string location. used with http-status 301 and 
+        302 
+
+        String       : https://www.reddit.com/ (from location)
+
+[ Strict-Transport-Security ]
+        Strict-Transport-Security is an HTTP header that restricts 
+        a web browser from accessing a website without the security 
+        of the HTTPS protocol. 
+
+        String       : max-age=31536000; includeSubdomains; preload
+
+[ UncommonHeaders ]
+        Uncommon HTTP server headers. The blacklist includes all 
+        the standard headers and many non standard but common ones. 
+        Interesting but fairly common headers should have their own 
+        plugins, eg. x-powered-by, server and x-aspnet-version. 
+        Info about headers can be found at www.http-stats.com 
+
+        String       : retry-after,x-content-type-options,report-to,nel (from headers)
+
+[ Via-Proxy ]
+        This plugin extracts the proxy server details from the Via 
+        param of the HTTP header. 
+
+        String       : 1.1 varnish
+
+[ X-Frame-Options ]
+        This plugin retrieves the X-Frame-Options value from the 
+        HTTP header. - More Info: 
+        http://msdn.microsoft.com/en-us/library/cc288472%28VS.85%29.
+        aspx
+
+        String       : SAMEORIGIN
+
+[ X-XSS-Protection ]
+        This plugin retrieves the X-XSS-Protection value from the 
+        HTTP header. - More Info: 
+        http://msdn.microsoft.com/en-us/library/cc288472%28VS.85%29.
+        aspx
+
+        String       : 1; mode=block
+
+HTTP Headers:
+        HTTP/1.1 301 Moved Permanently
+        Connection: close
+        Content-Length: 0
+        Retry-After: 0
+        Location: https://www.reddit.com/
+        Accept-Ranges: bytes
+        Date: Thu, 19 Feb 2026 05:32:14 GMT
+        Via: 1.1 varnish
+        Strict-Transport-Security: max-age=31536000; includeSubdomains; preload
+        X-Content-Type-Options: nosniff
+        X-Frame-Options: SAMEORIGIN
+        X-XSS-Protection: 1; mode=block
+        Cache-Control: private, max-age=3600
+        Server: snooserv
+        Report-To: {"group": "w3-reporting-nel", "max_age": 14400, "include_subdomains": true,  "endpoints": [{ "url": "https://w3-reporting-nel.reddit.com/reports" }]}, {"group": "w3-reporting", "max_age": 14400, "include_subdomains": true, "endpoints": [{ "url": "https://w3-reporting.reddit.com/reports" }]}, {"group": "w3-reporting-csp", "max_age": 14400, "include_subdomains": true, "endpoints": [{ "url": "https://w3-reporting-csp.reddit.com/reports" }]}
+        NEL: {"report_to": "w3-reporting-nel", "max_age": 14400, "include_subdomains": false, "success_fraction": 1.0, "failure_fraction": 1.0}
+
+WhatWeb report for https://slashdot.org
+Status    : 200 OK
+Title     : Slashdot: News for nerds, stuff that matters, &amp; software
+IP        : 104.18.5.215
+Country   : UNITED STATES, US
+
+Summary   : Email[feedback@slashdot.org], Google-Analytics[Classic][UA-199823890-2], HTML5, HTTPServer[cloudflare], Matomo, Open-Graph-Protocol[100000696822412], PasswordField[upasswd], Script[text/javascript,text/x-handlebars-template], Strict-Transport-Security[max-age=31536000], UncommonHeaders[cf-ray,cf-cache-status,content-security-policy,cross-origin-opener-policy,feature-policy,permissions-policy,slash_log_data,x-xrds-location,alt-svc], X-Frame-Options[SAMEORIGIN], X-UA-Compatible[IE=edge]
+
+Detected Plugins:
+[ Email ]
+        Extract email addresses. Find valid email address and 
+        syntactically invalid email addresses from mailto: link 
+        tags. We match syntactically invalid links containing 
+        mailto: to catch anti-spam email addresses, eg. bob at 
+        gmail.com. This uses the simplified email regular 
+        expression from 
+        http://www.regular-expressions.info/email.html for valid 
+        email address matching. 
+
+        String       : feedback@slashdot.org
+        String       : feedback@slashdot.org
+
+[ Google-Analytics ]
+        This plugin identifies the Google Analytics account. 
+
+        Account      : UA-199823890-2
+        Version      : Classic
+        Website     : http://www.google.com/analytics/
+
+[ HTML5 ]
+        HTML version 5, detected by the doctype declaration 
+
+
+[ HTTPServer ]
+        HTTP server header string. This plugin also attempts to 
+        identify the operating system from the server header. 
+
+        String       : cloudflare (from server string)
+
+[ Matomo ]
+        Matomo is the leading open alternative to Google Analytics 
+        that gives you full control over your data. Matomo lets you 
+        easily collect data from websites, apps & the IoT and 
+        visualise this data and extract insights. Privacy is 
+        built-in. Matomo was formerly known as Piwik, and is 
+        developed in PHP. 
+
+        Aggressive function available (check plugin file or details).
+        Google Dorks: (1)
+        Website     : https://matomo.org
+
+[ Open-Graph-Protocol ]
+        The Open Graph protocol enables you to integrate your Web 
+        pages into the social graph. It is currently designed for 
+        Web pages representing profiles of real-world things . 
+        things like movies, sports teams, celebrities, and 
+        restaurants. Including Open Graph tags on your Web page, 
+        makes your page equivalent to a Facebook Page. 
+
+        Account      : 100000696822412
+
+[ PasswordField ]
+        find password fields 
+
+        String       : upasswd (from field name)
+
+[ Script ]
+        This plugin detects instances of script HTML elements and 
+        returns the script language/type. 
+
+        String       : text/javascript,text/x-handlebars-template
+
+[ Strict-Transport-Security ]
+        Strict-Transport-Security is an HTTP header that restricts 
+        a web browser from accessing a website without the security 
+        of the HTTPS protocol. 
+
+        String       : max-age=31536000
+
+[ UncommonHeaders ]
+        Uncommon HTTP server headers. The blacklist includes all 
+        the standard headers and many non standard but common ones. 
+        Interesting but fairly common headers should have their own 
+        plugins, eg. x-powered-by, server and x-aspnet-version. 
+        Info about headers can be found at www.http-stats.com 
+
+        String       : cf-ray,cf-cache-status,content-security-policy,cross-origin-opener-policy,feature-policy,permissions-policy,slash_log_data,x-xrds-location,alt-svc (from headers)
+
+[ X-Frame-Options ]
+        This plugin retrieves the X-Frame-Options value from the 
+        HTTP header. - More Info: 
+        http://msdn.microsoft.com/en-us/library/cc288472%28VS.85%29.
+        aspx
+
+        String       : SAMEORIGIN
+
+[ X-UA-Compatible ]
+        This plugin retrieves the X-UA-Compatible value from the 
+        HTTP header and meta http-equiv tag. - More Info: 
+        http://msdn.microsoft.com/en-us/library/cc817574.aspx 
+
+        String       : IE=edge
+
+HTTP Headers:
+        HTTP/1.1 200 OK
+        Date: Thu, 19 Feb 2026 05:32:10 GMT
+        Content-Type: text/html; charset=utf-8
+        Transfer-Encoding: chunked
+        Connection: close
+        Content-Encoding: gzip
+        CF-Ray: 9d0361d66997598b-PHX
+        CF-Cache-Status: DYNAMIC
+        Cache-Control: no-cache
+        Strict-Transport-Security: max-age=31536000
+        Pragma: no-cache
+        content-security-policy: frame-ancestors 'self'; upgrade-insecure-requests;form-action 'self' slashdot.org slashdot.us15.list-manage.com;fenced-frame-src https:; frame-src 'self' slashdot.org *.lijit.com btloader.com *.btloader.com *.btmessage.com http://*.pro-market.net *.crsspxl.com *.google.com *.googlesyndication.com *.safeframe.usercontent.goog *.doubleclick.net *.gstatic.com *.googleadservices.com *.adtrafficquality.google console.googletagservices.com *.amazon-adsystem.com challenges.cloudflare.com *.adnxs.com *.indexww.com *.rubiconproject.com *.pubmatic.com *.smartadserver.com *.tapad.com http://*.youtube.com http://*.youtube-nocookie.com player.twitch.tv slashdotmedia.com as.slashdot.org *.as.slashdot.org error-report.com *.error-report.com html-load.com *.html-load.com *.fb.html-load.com content-loader.com *.content-loader.com *.fb.content-loader.com css-load.com *.css-load.com 07c225f3.online *.07c225f3.online *.criteo.com *.openx.net *.pghub.io; object-src http://*.youtube.com;script-src 'self' slashdot.org *.slashdot.org slashdot.org *.slashdotmedia.com a.fsdn.com challenges.cloudflare.com *.lijit.com *.moatads.com *.adsafeprotected.com *.sharethrough.com *.2mdn.net *.adnxs.com *.bing.com *.script.ac *.ybp.yahoo.com *.adnxs-simple.com *.truste.com *.adrta.com pghub.io/js/pandg-sdk.js *.pubmatic.com ml314.com *.stack-sonar.com *.licdn.com translate.googleapis.com *.doubleclick.net *.googleadservices.com *.adtrafficquality.google translate.google.cn *.gstatic.cn *.google.com *.ampproject.org *.amazon-adsystem.com *.criteo.net *.creativecdn.com *.crwdcntrl.net *.uidapi.com *.im-apps.net *.euid.eu *.openxcdn.net *.id5-sync.com cdn.jsdelivr.net/gh/prebid/shared-id/ *.33across.com *.permutive.app *.consentmanager.net *.microsofttranslator.com *.gstatic.com *.googletagservices.com *.google-analytics.com *.googlesyndication.com *.cloudflareinsights.com d3tglifpd8whs6.cloudfront.net rpxnow.com btloader.com *.btmessage.com *.crsspxl.com http://*.pro-market.net *.4dex.io *.adnxs-simple.com *.s-onetag.com *.rubiconproject.com *.trustarc.com *.truste.com *.doubleverify.com *.tapad.com *.pghub.io pghub.io *.sharethru.com j.6sc.co as.slashdot.org *.as.slashdot.org html-load.com *.html-load.com *.fb.html-load.com content-loader.com *.content-loader.com *.fb.content-loader.com css-load.com *.css-load.com 07c225f3.online *.07c225f3.online cmp.inmobi.com *.inmobicdn.net blob: data: 'unsafe-inline' 'unsafe-eval';
+        cross-origin-opener-policy: same-origin
+        feature-policy: geolocation 'none'; microphone 'none'; camera 'none'; payment 'none'; document-domain 'none'; display-capture 'none'; autoplay 'none'
+        permissions-policy: geolocation=(), microphone=(), camera=(), payment=(), document-domain=(), display-capture=(), autoplay=()
+        slash_log_data: shtml
+        x-frame-options: SAMEORIGIN
+        x-xrds-location: https://slashdot.org/slashdot.xrds
+        Vary: Accept-Encoding
+        Server: cloudflare
+        alt-svc: h3=":443"; ma=86400
+
+WhatWeb report for https://slashdot.org/
+Status    : 200 OK
+Title     : Slashdot: News for nerds, stuff that matters, &amp; software
+IP        : 104.18.4.215
+Country   : UNITED STATES, US
+
+Summary   : Email[feedback@slashdot.org], Google-Analytics[Classic][UA-199823890-2], HTML5, HTTPServer[cloudflare], Matomo, Open-Graph-Protocol[100000696822412], PasswordField[upasswd], Script[text/javascript,text/x-handlebars-template], Strict-Transport-Security[max-age=31536000], UncommonHeaders[cf-ray,cf-cache-status,content-security-policy,cross-origin-opener-policy,feature-policy,permissions-policy,slash_log_data,x-xrds-location,alt-svc], X-Frame-Options[SAMEORIGIN], X-UA-Compatible[IE=edge]
+
+Detected Plugins:
+[ Email ]
+        Extract email addresses. Find valid email address and 
+        syntactically invalid email addresses from mailto: link 
+        tags. We match syntactically invalid links containing 
+        mailto: to catch anti-spam email addresses, eg. bob at 
+        gmail.com. This uses the simplified email regular 
+        expression from 
+        http://www.regular-expressions.info/email.html for valid 
+        email address matching. 
+
+        String       : feedback@slashdot.org
+        String       : feedback@slashdot.org
+
+[ Google-Analytics ]
+        This plugin identifies the Google Analytics account. 
+
+        Account      : UA-199823890-2
+        Version      : Classic
+        Website     : http://www.google.com/analytics/
+
+[ HTML5 ]
+        HTML version 5, detected by the doctype declaration 
+
+
+[ HTTPServer ]
+        HTTP server header string. This plugin also attempts to 
+        identify the operating system from the server header. 
+
+        String       : cloudflare (from server string)
+
+[ Matomo ]
+        Matomo is the leading open alternative to Google Analytics 
+        that gives you full control over your data. Matomo lets you 
+        easily collect data from websites, apps & the IoT and 
+        visualise this data and extract insights. Privacy is 
+        built-in. Matomo was formerly known as Piwik, and is 
+        developed in PHP. 
+
+        Aggressive function available (check plugin file or details).
+        Google Dorks: (1)
+        Website     : https://matomo.org
+
+[ Open-Graph-Protocol ]
+        The Open Graph protocol enables you to integrate your Web 
+        pages into the social graph. It is currently designed for 
+        Web pages representing profiles of real-world things . 
+        things like movies, sports teams, celebrities, and 
+        restaurants. Including Open Graph tags on your Web page, 
+        makes your page equivalent to a Facebook Page. 
+
+        Account      : 100000696822412
+
+[ PasswordField ]
+        find password fields 
+
+        String       : upasswd (from field name)
+
+[ Script ]
+        This plugin detects instances of script HTML elements and 
+        returns the script language/type. 
+
+        String       : text/javascript,text/x-handlebars-template
+
+[ Strict-Transport-Security ]
+        Strict-Transport-Security is an HTTP header that restricts 
+        a web browser from accessing a website without the security 
+        of the HTTPS protocol. 
+
+        String       : max-age=31536000
+
+[ UncommonHeaders ]
+        Uncommon HTTP server headers. The blacklist includes all 
+        the standard headers and many non standard but common ones. 
+        Interesting but fairly common headers should have their own 
+        plugins, eg. x-powered-by, server and x-aspnet-version. 
+        Info about headers can be found at www.http-stats.com 
+
+        String       : cf-ray,cf-cache-status,content-security-policy,cross-origin-opener-policy,feature-policy,permissions-policy,slash_log_data,x-xrds-location,alt-svc (from headers)
+
+[ X-Frame-Options ]
+        This plugin retrieves the X-Frame-Options value from the 
+        HTTP header. - More Info: 
+        http://msdn.microsoft.com/en-us/library/cc288472%28VS.85%29.
+        aspx
+
+        String       : SAMEORIGIN
+
+[ X-UA-Compatible ]
+        This plugin retrieves the X-UA-Compatible value from the 
+        HTTP header and meta http-equiv tag. - More Info: 
+        http://msdn.microsoft.com/en-us/library/cc817574.aspx 
+
+        String       : IE=edge
+
+HTTP Headers:
+        HTTP/1.1 200 OK
+        Date: Thu, 19 Feb 2026 05:32:16 GMT
+        Content-Type: text/html; charset=utf-8
+        Transfer-Encoding: chunked
+        Connection: close
+        Content-Encoding: gzip
+        CF-Ray: 9d0361fa6cb9c0c4-PHX
+        CF-Cache-Status: DYNAMIC
+        Cache-Control: no-cache
+        Strict-Transport-Security: max-age=31536000
+        Pragma: no-cache
+        content-security-policy: frame-ancestors 'self'; upgrade-insecure-requests;form-action 'self' slashdot.org slashdot.us15.list-manage.com;fenced-frame-src https:; frame-src 'self' slashdot.org *.lijit.com btloader.com *.btloader.com *.btmessage.com http://*.pro-market.net *.crsspxl.com *.google.com *.googlesyndication.com *.safeframe.usercontent.goog *.doubleclick.net *.gstatic.com *.googleadservices.com *.adtrafficquality.google console.googletagservices.com *.amazon-adsystem.com challenges.cloudflare.com *.adnxs.com *.indexww.com *.rubiconproject.com *.pubmatic.com *.smartadserver.com *.tapad.com http://*.youtube.com http://*.youtube-nocookie.com player.twitch.tv slashdotmedia.com as.slashdot.org *.as.slashdot.org error-report.com *.error-report.com html-load.com *.html-load.com *.fb.html-load.com content-loader.com *.content-loader.com *.fb.content-loader.com css-load.com *.css-load.com 07c225f3.online *.07c225f3.online *.criteo.com *.openx.net *.pghub.io; object-src http://*.youtube.com;script-src 'self' slashdot.org *.slashdot.org slashdot.org *.slashdotmedia.com a.fsdn.com challenges.cloudflare.com *.lijit.com *.moatads.com *.adsafeprotected.com *.sharethrough.com *.2mdn.net *.adnxs.com *.bing.com *.script.ac *.ybp.yahoo.com *.adnxs-simple.com *.truste.com *.adrta.com pghub.io/js/pandg-sdk.js *.pubmatic.com ml314.com *.stack-sonar.com *.licdn.com translate.googleapis.com *.doubleclick.net *.googleadservices.com *.adtrafficquality.google translate.google.cn *.gstatic.cn *.google.com *.ampproject.org *.amazon-adsystem.com *.criteo.net *.creativecdn.com *.crwdcntrl.net *.uidapi.com *.im-apps.net *.euid.eu *.openxcdn.net *.id5-sync.com cdn.jsdelivr.net/gh/prebid/shared-id/ *.33across.com *.permutive.app *.consentmanager.net *.microsofttranslator.com *.gstatic.com *.googletagservices.com *.google-analytics.com *.googlesyndication.com *.cloudflareinsights.com d3tglifpd8whs6.cloudfront.net rpxnow.com btloader.com *.btmessage.com *.crsspxl.com http://*.pro-market.net *.4dex.io *.adnxs-simple.com *.s-onetag.com *.rubiconproject.com *.trustarc.com *.truste.com *.doubleverify.com *.tapad.com *.pghub.io pghub.io *.sharethru.com j.6sc.co as.slashdot.org *.as.slashdot.org html-load.com *.html-load.com *.fb.html-load.com content-loader.com *.content-loader.com *.fb.content-loader.com css-load.com *.css-load.com 07c225f3.online *.07c225f3.online cmp.inmobi.com *.inmobicdn.net blob: data: 'unsafe-inline' 'unsafe-eval';
+        cross-origin-opener-policy: same-origin
+        feature-policy: geolocation 'none'; microphone 'none'; camera 'none'; payment 'none'; document-domain 'none'; display-capture 'none'; autoplay 'none'
+        permissions-policy: geolocation=(), microphone=(), camera=(), payment=(), document-domain=(), display-capture=(), autoplay=()
+        slash_log_data: shtml
+        x-frame-options: SAMEORIGIN
+        x-xrds-location: https://slashdot.org/slashdot.xrds
+        Vary: Accept-Encoding
+        Server: cloudflare
+        alt-svc: h3=":443"; ma=86400
+
+WhatWeb report for https://www.reddit.com/
+Status    : 200 OK
+Title     : Reddit - The heart of the internet
+IP        : 199.232.153.140
+Country   : UNITED STATES, US
+
+Summary   : Cookies[csrf_token,csv,edgebucket,loid,session_tracker,token_v2], Email[9f057df6115a4bb488c08ea12a835e6e@error-tracking.reddit.com], HTML5, HTTPServer[snooserv], HttpOnly[token_v2], Open-Graph-Protocol[website], Script[module], Strict-Transport-Security[max-age=31536000; includeSubdomains], UncommonHeaders[content-security-policy,content-security-policy-report-only,x-is-wrs,x-ratelimit-remaining,x-ratelimit-reset,x-ratelimit-used,x-suspense-enabled,x-content-type-options,report-to,nel], Via-Proxy[1.1 varnish], X-Frame-Options[SAMEORIGIN], X-XSS-Protection[1; mode=block]
+
+Detected Plugins:
+[ Cookies ]
+        Display the names of cookies in the HTTP headers. The 
+        values are not returned to save on space. 
+
+        String       : loid
+        String       : session_tracker
+        String       : csrf_token
+        String       : token_v2
+        String       : csv
+        String       : edgebucket
+
+[ Email ]
+        Extract email addresses. Find valid email address and 
+        syntactically invalid email addresses from mailto: link 
+        tags. We match syntactically invalid links containing 
+        mailto: to catch anti-spam email addresses, eg. bob at 
+        gmail.com. This uses the simplified email regular 
+        expression from 
+        http://www.regular-expressions.info/email.html for valid 
+        email address matching. 
+
+        String       : 9f057df6115a4bb488c08ea12a835e6e@error-tracking.reddit.com
+
+[ HTML5 ]
+        HTML version 5, detected by the doctype declaration 
+
+
+[ HTTPServer ]
+        HTTP server header string. This plugin also attempts to 
+        identify the operating system from the server header. 
+
+        String       : snooserv (from server string)
+
+[ HttpOnly ]
+        If the HttpOnly flag is included in the HTTP set-cookie 
+        response header and the browser supports it then the cookie 
+        cannot be accessed through client side script - More Info: 
+^C/usr/lib/ruby/vendor_ruby/whatweb/scan.rb:78:in `alive?': Interrupt
+        from /usr/lib/ruby/vendor_ruby/whatweb/scan.rb:78:in `block (2 levels) in scan'
+        from /usr/lib/ruby/vendor_ruby/whatweb/scan.rb:78:in `map'
+        from /usr/lib/ruby/vendor_ruby/whatweb/scan.rb:78:in `block in scan'
+        from <internal:kernel>:187:in `loop'
+        from /usr/lib/ruby/vendor_ruby/whatweb/scan.rb:74:in `scan'
+        from /usr/bin/whatweb:663:in `<main>'
+
+zooleous@PinkPinkPoke:~$ 
+zooleous@PinkPinkPoke:~$ antigravity 

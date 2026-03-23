@@ -1,0 +1,361 @@
+$ linpeas
+
+> peass ~ Privilege Escalation Awesome Scripts SUITE
+
+/usr/share/peass/linpeas
+├── linpeas_darwin_amd64
+├── linpeas_darwin_arm64
+├── linpeas_fat.sh
+├── linpeas_linux_386
+├── linpeas_linux_amd64
+├── linpeas_linux_arm
+├── linpeas_linux_arm64
+├── linpeas.sh
+└── linpeas_small.sh
+zooleous@PinkPinkPoke:/usr/share/peass/linpeas$ linpeas linpeas_linux_amd64 
+
+> peass ~ Privilege Escalation Awesome Scripts SUITE
+
+/usr/share/peass/linpeas
+├── linpeas_darwin_amd64
+├── linpeas_darwin_arm64
+├── linpeas_fat.sh
+├── linpeas_linux_386
+├── linpeas_linux_amd64
+├── linpeas_linux_arm
+├── linpeas_linux_arm64
+├── linpeas.sh
+└── linpeas_small.sh
+zooleous@PinkPinkPoke:/usr/share/peass/linpeas$ peass linpeas.sh 
+
+> peass ~ Privilege Escalation Awesome Scripts SUITE
+
+/usr/share/peass/
+├── linpeas
+│   ├── linpeas_darwin_amd64
+│   ├── linpeas_darwin_arm64
+│   ├── linpeas_fat.sh
+│   ├── linpeas_linux_386
+│   ├── linpeas_linux_amd64
+│   ├── linpeas_linux_arm
+│   ├── linpeas_linux_arm64
+│   ├── linpeas.sh
+│   └── linpeas_small.sh
+└── winpeas
+    ├── winPEASany.exe
+    ├── winPEASany_ofs.exe
+    ├── winPEAS.bat
+    ├── winPEAS.ps1
+    ├── winPEASx64.exe
+    ├── winPEASx64_ofs.exe
+    ├── winPEASx86.exe
+    └── winPEASx86_ofs.exe
+zooleous@PinkPinkPoke:/usr/share/peass$ sudo timeout 60s tshark -i wlan0 -w /home/zooleous/capture.pcap
+[sudo] password for zooleous: 
+Running as user "root" and group "root". This could be dangerous.
+Capturing on 'wlan0'
+tshark: The file to which the capture would be saved ("/home/zooleous/capture.pcap") could not be opened: Permission denied.
+zooleous@PinkPinkPoke:/usr/share/peass$ which tshark tcpdump                                           
+/usr/bin/tshark
+/usr/bin/tcpdump
+zooleous@PinkPinkPoke:/usr/share/peass$ ip addr show | grep 'inet6'                                    
+    inet6 ::1/128 scope host proto kernel_lo 
+    inet6 2600:8800:9d11:2300::d614/128 scope global dynamic noprefixroute 
+    inet6 2600:8800:9d11:2300:e6cd:de4:70ae:edf9/64 scope global dynamic noprefixroute 
+    inet6 fe80::3d17:d0d2:efc:25c9/64 scope link noprefixroute 
+zooleous@PinkPinkPoke:/usr/share/peass$ find /home/zooleous -name "settings.json" -path "*/.vscode/*"  
+/home/zooleous/.antigravity/extensions/ms-python.python-2026.0.0-universal/python_files/.vscode/settings.json
+/home/zooleous/.antigravity/extensions/vscjava.vscode-java-dependency-0.27.0-universal/templates/invisible-project/.vscode/settings.json
+zooleous@PinkPinkPoke:/usr/share/peass$ lsblk -f && which dislocker
+NAME FSTYPE FSVER LABEL                        UUID                                 FSAVAIL FSUSE% MOUNTPOINTS
+sda                                                                                                
+sdb                                                                                                
+sdc  exfat  1.0                                8208-C7C6                               111G     4% /run/media/zooleous/8208-C7C6
+mmcblk0
+│                                                                                                  
+└─mmcblk0p1
+     vfat   FAT16 93MKT                        6AF9-A512                             968.2M     0% /run/media/zooleous/93MKT
+nvme0n1
+│                                                                                                  
+├─nvme0n1p1
+│    BitLoc 2     SWAPAROO New Volume 2/4/2026 947b3e2d-d48a-4de0-bbde-9229bcc4eefa                
+├─nvme0n1p2
+│    vfat   FAT32                              F32E-4527                             486.7M     0% /boot/efi
+├─nvme0n1p4
+│    ntfs         A                            2C629D8F629D5E80                                    
+└─nvme0n1p6
+     ext4   1.0                                1aadb16f-219b-49a8-9586-6f36f721ff6d  109.4G    34% /
+nvme1n1
+│                                                                                                  
+├─nvme1n1p1
+│                                                                                                  
+└─nvme1n1p2
+     BitLoc 2     SWAPAROO C: 2/4/2026         70485498-0d2a-4d91-9f20-d569071d2ca6                
+/usr/bin/dislocker
+zooleous@PinkPinkPoke:/usr/share/peass$ find "/home/zooleous/Forensics/Clearview" -maxdepth 4
+/home/zooleous/Forensics/Clearview
+/home/zooleous/Forensics/Clearview/clearview (1)
+/home/zooleous/Forensics/Clearview/clearview (1)/ACTIVE_INTERFERENCE_LOG.md
+/home/zooleous/Forensics/Clearview/clearview (1)/History.txt
+/home/zooleous/Forensics/Clearview/clearview (1)/NETWORK_SHUTDOWN_INCIDENT.md
+/home/zooleous/Forensics/Clearview/clearview (1)/CASE_CLOSED_FINAL_REPORT.md
+/home/zooleous/Forensics/Clearview/clearview (1)/ActivitiesCache - Copy.zip
+/home/zooleous/Forensics/Clearview/clearview (1)/AI_WITNESS_STATEMENT.md
+/home/zooleous/Forensics/Clearview/clearview (1)/yes porcceed ill find them thank you.txt
+/home/zooleous/Forensics/Clearview/clearview (1)/gotya_all_services.csv
+/home/zooleous/Forensics/Clearview/clearview (1)/Analyzing System Surveillance.md
+/home/zooleous/Forensics/Clearview/clearview (1)/KSTATE_SESSION_RECORD_JAN25.md
+/home/zooleous/Forensics/Clearview/clearview (1)/-.venv.txt
+/home/zooleous/Forensics/Clearview/clearview (1)/FORENSIC_EVIDENCE_JAN25_2026
+/home/zooleous/Forensics/Clearview/clearview (1)/FORENSIC_EVIDENCE_JAN25_2026/RecommendationsFilterList_EVIDENCE.json
+/home/zooleous/Forensics/Clearview/clearview (1)/FORENSIC_EVIDENCE_JAN25_2026/ACCESSIBLE_FILES_DETAILED_ANALYSIS.md
+/home/zooleous/Forensics/Clearview/clearview (1)/FORENSIC_EVIDENCE_JAN25_2026/EVIDENCE_NOTES.md
+/home/zooleous/Forensics/Clearview/clearview (1)/desktop.ini
+/home/zooleous/Forensics/Clearview/clearview (1)/appRouter.ts
+/home/zooleous/Forensics/Clearview/clearview (1)/extract_strings.py
+/home/zooleous/Forensics/Clearview/clearview (1)/ecid2_.zip
+/home/zooleous/Forensics/Clearview/clearview (1)/read 4 amazon.txt
+/home/zooleous/Forensics/Clearview/clearview (1)/evidence
+/home/zooleous/Forensics/Clearview/clearview (1)/evidence/code_tracker
+/home/zooleous/Forensics/Clearview/clearview (1)/evidence/code_tracker/9720d9cb933d21117483e69db642a353_.python_history
+/home/zooleous/Forensics/Clearview/clearview (1)/evidence/code_tracker/1f8723e8b7363d86425d1cc0bcbc2e3d_Bing.url
+/home/zooleous/Forensics/Clearview/clearview (1)/evidence/code_tracker/63cc97f824598e7790f8991defb47234_analyzed_context.json
+/home/zooleous/Forensics/Clearview/clearview (1)/evidence/code_tracker/2226832811a4670848a136af657b515f_test.ts
+/home/zooleous/Forensics/Clearview/clearview (1)/evidence/code_tracker/4ca23083cc42228063b13481d9d6e8b9_INJECTION_COMPARISON_GUIDE.md
+/home/zooleous/Forensics/Clearview/clearview (1)/evidence/code_tracker/c31b993fe1c443c22d3a42a2d2cd4f78_desktop.ini
+/home/zooleous/Forensics/Clearview/clearview (1)/evidence/code_tracker/514768be591d6feeb2dbb5a4fae54370_extensions.json
+/home/zooleous/Forensics/Clearview/clearview (1)/evidence/code_tracker/d8969e7c3b08b43d66343898f3baf031_desktop.ini
+/home/zooleous/Forensics/Clearview/clearview (1)/evidence/code_tracker/f10810abdd67f0357b5ee7d99de52ccc_package.json
+/home/zooleous/Forensics/Clearview/clearview (1)/evidence/code_tracker/cd73da1a8bb22d49c372977fc69be266_pnpm
+/home/zooleous/Forensics/Clearview/clearview (1)/evidence/code_tracker/797b40b51bf09f80b003a08f0e0d1a7d_signature-replacement.man
+/home/zooleous/Forensics/Clearview/clearview (1)/evidence/code_tracker/cae996d061c3c60911112ebd4a6d37c8_cloudWorkspaces.json
+/home/zooleous/Forensics/Clearview/clearview (1)/evidence/code_tracker/3502a3ee8793f52c1e388f59c0e3d66d_desktop.ini
+/home/zooleous/Forensics/Clearview/clearview (1)/evidence/code_tracker/3faafc9a9408ee61868598c75280ebd2_.env
+/home/zooleous/Forensics/Clearview/clearview (1)/evidence/code_tracker/5ed4de7961a123bdfd89a21aa5756ecf_Dockerfile
+/home/zooleous/Forensics/Clearview/clearview (1)/evidence/code_tracker/86eb5e72ec00cfd6372f048c89f08118_ntuser.ini
+/home/zooleous/Forensics/Clearview/clearview (1)/evidence/code_tracker/ab33a92e2c6de461d241e6fad747639f_analyze_filesystem.py
+/home/zooleous/Forensics/Clearview/clearview (1)/evidence/code_tracker/03b19edc4d8993eafe2c2ac016ad295e_CleanServices_20260115.csv
+/home/zooleous/Forensics/Clearview/clearview (1)/evidence/code_tracker/41f4f064ef9eae891fd33667debf0a7b_GEMINI.md
+/home/zooleous/Forensics/Clearview/clearview (1)/evidence/code_tracker/ad82cf3327f8d3202444877af25752ff_background.js
+/home/zooleous/Forensics/Clearview/clearview (1)/evidence/code_tracker/3ef8c03fb5e5a5a3fb31b55eb3befc5b_.gitconfig
+/home/zooleous/Forensics/Clearview/clearview (1)/evidence/code_tracker/86eb5e72ec00cfd6372f048c89f08118_ntuser.zip
+/home/zooleous/Forensics/Clearview/clearview (1)/evidence/code_tracker/7a6bfb75b53177caec7995b939a897fb_repoMapping.json
+/home/zooleous/Forensics/Clearview/clearview (1)/evidence/code_tracker/666bac9a7b0e9fc291d389871e688505_reagentc
+/home/zooleous/Forensics/Clearview/clearview (1)/evidence/code_tracker/8c063293f6c47490109ff01017ed27a3_final_comprehensive_report.md
+/home/zooleous/Forensics/Clearview/clearview (1)/evidence/code_tracker/576ae66ea6102aa8371754c4ca5a709d_app.py
+/home/zooleous/Forensics/Clearview/clearview (1)/evidence/code_tracker/84688ca7268a08e68fbf8f38bb8af099_obsolete
+/home/zooleous/Forensics/Clearview/clearview (1)/evidence/code_tracker/b565faa211ee7d5c910cc6615c1001ce_delete
+/home/zooleous/Forensics/Clearview/clearview (1)/evidence/code_tracker/manus_injection_evidence.md
+/home/zooleous/Forensics/Clearview/clearview (1)/evidence/repo_origin_evidence.json
+/home/zooleous/Forensics/Clearview/clearview (1)/DAMAGE_ASSESSMENT_AND_STRATEGY.md
+/home/zooleous/Forensics/Clearview/clearview (1)/KSTATE_INTRODUCTION_LETTER.md
+/home/zooleous/Forensics/Clearview/clearview (1)/more eveiudence_.zip
+/home/zooleous/Forensics/Clearview/clearview (1)/amazon read2.txt
+zooleous@PinkPinkPoke:/usr/share/peass$ find "/home/zooleous/Forensics/Clearview" -maxdepth 3
+/home/zooleous/Forensics/Clearview
+/home/zooleous/Forensics/Clearview/clearview (1)
+/home/zooleous/Forensics/Clearview/clearview (1)/ACTIVE_INTERFERENCE_LOG.md
+/home/zooleous/Forensics/Clearview/clearview (1)/History.txt
+/home/zooleous/Forensics/Clearview/clearview (1)/NETWORK_SHUTDOWN_INCIDENT.md
+/home/zooleous/Forensics/Clearview/clearview (1)/CASE_CLOSED_FINAL_REPORT.md
+/home/zooleous/Forensics/Clearview/clearview (1)/ActivitiesCache - Copy.zip
+/home/zooleous/Forensics/Clearview/clearview (1)/AI_WITNESS_STATEMENT.md
+/home/zooleous/Forensics/Clearview/clearview (1)/yes porcceed ill find them thank you.txt
+/home/zooleous/Forensics/Clearview/clearview (1)/gotya_all_services.csv
+/home/zooleous/Forensics/Clearview/clearview (1)/Analyzing System Surveillance.md
+/home/zooleous/Forensics/Clearview/clearview (1)/KSTATE_SESSION_RECORD_JAN25.md
+/home/zooleous/Forensics/Clearview/clearview (1)/-.venv.txt
+/home/zooleous/Forensics/Clearview/clearview (1)/FORENSIC_EVIDENCE_JAN25_2026
+/home/zooleous/Forensics/Clearview/clearview (1)/FORENSIC_EVIDENCE_JAN25_2026/RecommendationsFilterList_EVIDENCE.json
+/home/zooleous/Forensics/Clearview/clearview (1)/FORENSIC_EVIDENCE_JAN25_2026/ACCESSIBLE_FILES_DETAILED_ANALYSIS.md
+/home/zooleous/Forensics/Clearview/clearview (1)/FORENSIC_EVIDENCE_JAN25_2026/EVIDENCE_NOTES.md
+/home/zooleous/Forensics/Clearview/clearview (1)/desktop.ini
+/home/zooleous/Forensics/Clearview/clearview (1)/appRouter.ts
+/home/zooleous/Forensics/Clearview/clearview (1)/extract_strings.py
+/home/zooleous/Forensics/Clearview/clearview (1)/ecid2_.zip
+/home/zooleous/Forensics/Clearview/clearview (1)/read 4 amazon.txt
+/home/zooleous/Forensics/Clearview/clearview (1)/evidence
+/home/zooleous/Forensics/Clearview/clearview (1)/evidence/code_tracker
+/home/zooleous/Forensics/Clearview/clearview (1)/evidence/repo_origin_evidence.json
+/home/zooleous/Forensics/Clearview/clearview (1)/DAMAGE_ASSESSMENT_AND_STRATEGY.md
+/home/zooleous/Forensics/Clearview/clearview (1)/KSTATE_INTRODUCTION_LETTER.md
+/home/zooleous/Forensics/Clearview/clearview (1)/more eveiudence_.zip
+/home/zooleous/Forensics/Clearview/clearview (1)/amazon read2.txt
+zooleous@PinkPinkPoke:/usr/share/peass$ find "/home/zooleous/Forensics/Clearview" -maxdepth 5
+/home/zooleous/Forensics/Clearview
+/home/zooleous/Forensics/Clearview/clearview (1)
+/home/zooleous/Forensics/Clearview/clearview (1)/ACTIVE_INTERFERENCE_LOG.md
+/home/zooleous/Forensics/Clearview/clearview (1)/History.txt
+/home/zooleous/Forensics/Clearview/clearview (1)/NETWORK_SHUTDOWN_INCIDENT.md
+/home/zooleous/Forensics/Clearview/clearview (1)/CASE_CLOSED_FINAL_REPORT.md
+/home/zooleous/Forensics/Clearview/clearview (1)/ActivitiesCache - Copy.zip
+/home/zooleous/Forensics/Clearview/clearview (1)/AI_WITNESS_STATEMENT.md
+/home/zooleous/Forensics/Clearview/clearview (1)/yes porcceed ill find them thank you.txt
+/home/zooleous/Forensics/Clearview/clearview (1)/gotya_all_services.csv
+/home/zooleous/Forensics/Clearview/clearview (1)/Analyzing System Surveillance.md
+/home/zooleous/Forensics/Clearview/clearview (1)/KSTATE_SESSION_RECORD_JAN25.md
+/home/zooleous/Forensics/Clearview/clearview (1)/-.venv.txt
+/home/zooleous/Forensics/Clearview/clearview (1)/FORENSIC_EVIDENCE_JAN25_2026
+/home/zooleous/Forensics/Clearview/clearview (1)/FORENSIC_EVIDENCE_JAN25_2026/RecommendationsFilterList_EVIDENCE.json
+/home/zooleous/Forensics/Clearview/clearview (1)/FORENSIC_EVIDENCE_JAN25_2026/ACCESSIBLE_FILES_DETAILED_ANALYSIS.md
+/home/zooleous/Forensics/Clearview/clearview (1)/FORENSIC_EVIDENCE_JAN25_2026/EVIDENCE_NOTES.md
+/home/zooleous/Forensics/Clearview/clearview (1)/desktop.ini
+/home/zooleous/Forensics/Clearview/clearview (1)/appRouter.ts
+/home/zooleous/Forensics/Clearview/clearview (1)/extract_strings.py
+/home/zooleous/Forensics/Clearview/clearview (1)/ecid2_.zip
+/home/zooleous/Forensics/Clearview/clearview (1)/read 4 amazon.txt
+/home/zooleous/Forensics/Clearview/clearview (1)/evidence
+/home/zooleous/Forensics/Clearview/clearview (1)/evidence/code_tracker
+/home/zooleous/Forensics/Clearview/clearview (1)/evidence/code_tracker/9720d9cb933d21117483e69db642a353_.python_history
+/home/zooleous/Forensics/Clearview/clearview (1)/evidence/code_tracker/1f8723e8b7363d86425d1cc0bcbc2e3d_Bing.url
+/home/zooleous/Forensics/Clearview/clearview (1)/evidence/code_tracker/63cc97f824598e7790f8991defb47234_analyzed_context.json
+/home/zooleous/Forensics/Clearview/clearview (1)/evidence/code_tracker/2226832811a4670848a136af657b515f_test.ts
+/home/zooleous/Forensics/Clearview/clearview (1)/evidence/code_tracker/4ca23083cc42228063b13481d9d6e8b9_INJECTION_COMPARISON_GUIDE.md
+/home/zooleous/Forensics/Clearview/clearview (1)/evidence/code_tracker/c31b993fe1c443c22d3a42a2d2cd4f78_desktop.ini
+/home/zooleous/Forensics/Clearview/clearview (1)/evidence/code_tracker/514768be591d6feeb2dbb5a4fae54370_extensions.json
+/home/zooleous/Forensics/Clearview/clearview (1)/evidence/code_tracker/d8969e7c3b08b43d66343898f3baf031_desktop.ini
+/home/zooleous/Forensics/Clearview/clearview (1)/evidence/code_tracker/f10810abdd67f0357b5ee7d99de52ccc_package.json
+/home/zooleous/Forensics/Clearview/clearview (1)/evidence/code_tracker/cd73da1a8bb22d49c372977fc69be266_pnpm
+/home/zooleous/Forensics/Clearview/clearview (1)/evidence/code_tracker/797b40b51bf09f80b003a08f0e0d1a7d_signature-replacement.man
+/home/zooleous/Forensics/Clearview/clearview (1)/evidence/code_tracker/cae996d061c3c60911112ebd4a6d37c8_cloudWorkspaces.json
+/home/zooleous/Forensics/Clearview/clearview (1)/evidence/code_tracker/3502a3ee8793f52c1e388f59c0e3d66d_desktop.ini
+/home/zooleous/Forensics/Clearview/clearview (1)/evidence/code_tracker/3faafc9a9408ee61868598c75280ebd2_.env
+/home/zooleous/Forensics/Clearview/clearview (1)/evidence/code_tracker/5ed4de7961a123bdfd89a21aa5756ecf_Dockerfile
+/home/zooleous/Forensics/Clearview/clearview (1)/evidence/code_tracker/86eb5e72ec00cfd6372f048c89f08118_ntuser.ini
+/home/zooleous/Forensics/Clearview/clearview (1)/evidence/code_tracker/ab33a92e2c6de461d241e6fad747639f_analyze_filesystem.py
+/home/zooleous/Forensics/Clearview/clearview (1)/evidence/code_tracker/03b19edc4d8993eafe2c2ac016ad295e_CleanServices_20260115.csv
+/home/zooleous/Forensics/Clearview/clearview (1)/evidence/code_tracker/41f4f064ef9eae891fd33667debf0a7b_GEMINI.md
+/home/zooleous/Forensics/Clearview/clearview (1)/evidence/code_tracker/ad82cf3327f8d3202444877af25752ff_background.js
+/home/zooleous/Forensics/Clearview/clearview (1)/evidence/code_tracker/3ef8c03fb5e5a5a3fb31b55eb3befc5b_.gitconfig
+/home/zooleous/Forensics/Clearview/clearview (1)/evidence/code_tracker/86eb5e72ec00cfd6372f048c89f08118_ntuser.zip
+/home/zooleous/Forensics/Clearview/clearview (1)/evidence/code_tracker/7a6bfb75b53177caec7995b939a897fb_repoMapping.json
+/home/zooleous/Forensics/Clearview/clearview (1)/evidence/code_tracker/666bac9a7b0e9fc291d389871e688505_reagentc
+/home/zooleous/Forensics/Clearview/clearview (1)/evidence/code_tracker/8c063293f6c47490109ff01017ed27a3_final_comprehensive_report.md
+/home/zooleous/Forensics/Clearview/clearview (1)/evidence/code_tracker/576ae66ea6102aa8371754c4ca5a709d_app.py
+/home/zooleous/Forensics/Clearview/clearview (1)/evidence/code_tracker/84688ca7268a08e68fbf8f38bb8af099_obsolete
+/home/zooleous/Forensics/Clearview/clearview (1)/evidence/code_tracker/b565faa211ee7d5c910cc6615c1001ce_delete
+/home/zooleous/Forensics/Clearview/clearview (1)/evidence/code_tracker/manus_injection_evidence.md
+/home/zooleous/Forensics/Clearview/clearview (1)/evidence/repo_origin_evidence.json
+/home/zooleous/Forensics/Clearview/clearview (1)/DAMAGE_ASSESSMENT_AND_STRATEGY.md
+/home/zooleous/Forensics/Clearview/clearview (1)/KSTATE_INTRODUCTION_LETTER.md
+/home/zooleous/Forensics/Clearview/clearview (1)/more eveiudence_.zip
+/home/zooleous/Forensics/Clearview/clearview (1)/amazon read2.txt
+zooleous@PinkPinkPoke:/usr/share/peass$ find "/home/zooleous/Forensics/Clearview" -maxdepth 6
+/home/zooleous/Forensics/Clearview
+/home/zooleous/Forensics/Clearview/clearview (1)
+/home/zooleous/Forensics/Clearview/clearview (1)/ACTIVE_INTERFERENCE_LOG.md
+/home/zooleous/Forensics/Clearview/clearview (1)/History.txt
+/home/zooleous/Forensics/Clearview/clearview (1)/NETWORK_SHUTDOWN_INCIDENT.md
+/home/zooleous/Forensics/Clearview/clearview (1)/CASE_CLOSED_FINAL_REPORT.md
+/home/zooleous/Forensics/Clearview/clearview (1)/ActivitiesCache - Copy.zip
+/home/zooleous/Forensics/Clearview/clearview (1)/AI_WITNESS_STATEMENT.md
+/home/zooleous/Forensics/Clearview/clearview (1)/yes porcceed ill find them thank you.txt
+/home/zooleous/Forensics/Clearview/clearview (1)/gotya_all_services.csv
+/home/zooleous/Forensics/Clearview/clearview (1)/Analyzing System Surveillance.md
+/home/zooleous/Forensics/Clearview/clearview (1)/KSTATE_SESSION_RECORD_JAN25.md
+/home/zooleous/Forensics/Clearview/clearview (1)/-.venv.txt
+/home/zooleous/Forensics/Clearview/clearview (1)/FORENSIC_EVIDENCE_JAN25_2026
+/home/zooleous/Forensics/Clearview/clearview (1)/FORENSIC_EVIDENCE_JAN25_2026/RecommendationsFilterList_EVIDENCE.json
+/home/zooleous/Forensics/Clearview/clearview (1)/FORENSIC_EVIDENCE_JAN25_2026/ACCESSIBLE_FILES_DETAILED_ANALYSIS.md
+/home/zooleous/Forensics/Clearview/clearview (1)/FORENSIC_EVIDENCE_JAN25_2026/EVIDENCE_NOTES.md
+/home/zooleous/Forensics/Clearview/clearview (1)/desktop.ini
+/home/zooleous/Forensics/Clearview/clearview (1)/appRouter.ts
+/home/zooleous/Forensics/Clearview/clearview (1)/extract_strings.py
+/home/zooleous/Forensics/Clearview/clearview (1)/ecid2_.zip
+/home/zooleous/Forensics/Clearview/clearview (1)/read 4 amazon.txt
+/home/zooleous/Forensics/Clearview/clearview (1)/evidence
+/home/zooleous/Forensics/Clearview/clearview (1)/evidence/code_tracker
+/home/zooleous/Forensics/Clearview/clearview (1)/evidence/code_tracker/9720d9cb933d21117483e69db642a353_.python_history
+/home/zooleous/Forensics/Clearview/clearview (1)/evidence/code_tracker/1f8723e8b7363d86425d1cc0bcbc2e3d_Bing.url
+/home/zooleous/Forensics/Clearview/clearview (1)/evidence/code_tracker/63cc97f824598e7790f8991defb47234_analyzed_context.json
+/home/zooleous/Forensics/Clearview/clearview (1)/evidence/code_tracker/2226832811a4670848a136af657b515f_test.ts
+/home/zooleous/Forensics/Clearview/clearview (1)/evidence/code_tracker/4ca23083cc42228063b13481d9d6e8b9_INJECTION_COMPARISON_GUIDE.md
+/home/zooleous/Forensics/Clearview/clearview (1)/evidence/code_tracker/c31b993fe1c443c22d3a42a2d2cd4f78_desktop.ini
+/home/zooleous/Forensics/Clearview/clearview (1)/evidence/code_tracker/514768be591d6feeb2dbb5a4fae54370_extensions.json
+/home/zooleous/Forensics/Clearview/clearview (1)/evidence/code_tracker/d8969e7c3b08b43d66343898f3baf031_desktop.ini
+/home/zooleous/Forensics/Clearview/clearview (1)/evidence/code_tracker/f10810abdd67f0357b5ee7d99de52ccc_package.json
+/home/zooleous/Forensics/Clearview/clearview (1)/evidence/code_tracker/cd73da1a8bb22d49c372977fc69be266_pnpm
+/home/zooleous/Forensics/Clearview/clearview (1)/evidence/code_tracker/797b40b51bf09f80b003a08f0e0d1a7d_signature-replacement.man
+/home/zooleous/Forensics/Clearview/clearview (1)/evidence/code_tracker/cae996d061c3c60911112ebd4a6d37c8_cloudWorkspaces.json
+/home/zooleous/Forensics/Clearview/clearview (1)/evidence/code_tracker/3502a3ee8793f52c1e388f59c0e3d66d_desktop.ini
+/home/zooleous/Forensics/Clearview/clearview (1)/evidence/code_tracker/3faafc9a9408ee61868598c75280ebd2_.env
+/home/zooleous/Forensics/Clearview/clearview (1)/evidence/code_tracker/5ed4de7961a123bdfd89a21aa5756ecf_Dockerfile
+/home/zooleous/Forensics/Clearview/clearview (1)/evidence/code_tracker/86eb5e72ec00cfd6372f048c89f08118_ntuser.ini
+/home/zooleous/Forensics/Clearview/clearview (1)/evidence/code_tracker/ab33a92e2c6de461d241e6fad747639f_analyze_filesystem.py
+/home/zooleous/Forensics/Clearview/clearview (1)/evidence/code_tracker/03b19edc4d8993eafe2c2ac016ad295e_CleanServices_20260115.csv
+/home/zooleous/Forensics/Clearview/clearview (1)/evidence/code_tracker/41f4f064ef9eae891fd33667debf0a7b_GEMINI.md
+/home/zooleous/Forensics/Clearview/clearview (1)/evidence/code_tracker/ad82cf3327f8d3202444877af25752ff_background.js
+/home/zooleous/Forensics/Clearview/clearview (1)/evidence/code_tracker/3ef8c03fb5e5a5a3fb31b55eb3befc5b_.gitconfig
+/home/zooleous/Forensics/Clearview/clearview (1)/evidence/code_tracker/86eb5e72ec00cfd6372f048c89f08118_ntuser.zip
+/home/zooleous/Forensics/Clearview/clearview (1)/evidence/code_tracker/7a6bfb75b53177caec7995b939a897fb_repoMapping.json
+/home/zooleous/Forensics/Clearview/clearview (1)/evidence/code_tracker/666bac9a7b0e9fc291d389871e688505_reagentc
+/home/zooleous/Forensics/Clearview/clearview (1)/evidence/code_tracker/8c063293f6c47490109ff01017ed27a3_final_comprehensive_report.md
+/home/zooleous/Forensics/Clearview/clearview (1)/evidence/code_tracker/576ae66ea6102aa8371754c4ca5a709d_app.py
+/home/zooleous/Forensics/Clearview/clearview (1)/evidence/code_tracker/84688ca7268a08e68fbf8f38bb8af099_obsolete
+/home/zooleous/Forensics/Clearview/clearview (1)/evidence/code_tracker/b565faa211ee7d5c910cc6615c1001ce_delete
+/home/zooleous/Forensics/Clearview/clearview (1)/evidence/code_tracker/manus_injection_evidence.md
+/home/zooleous/Forensics/Clearview/clearview (1)/evidence/repo_origin_evidence.json
+/home/zooleous/Forensics/Clearview/clearview (1)/DAMAGE_ASSESSMENT_AND_STRATEGY.md
+/home/zooleous/Forensics/Clearview/clearview (1)/KSTATE_INTRODUCTION_LETTER.md
+/home/zooleous/Forensics/Clearview/clearview (1)/more eveiudence_.zip
+/home/zooleous/Forensics/Clearview/clearview (1)/amazon read2.txt
+zooleous@PinkPinkPoke:/usr/share/peass$ find "/home/zooleous/Forensics/Clearview" -maxdepth 10
+/home/zooleous/Forensics/Clearview
+/home/zooleous/Forensics/Clearview/clearview (1)
+/home/zooleous/Forensics/Clearview/clearview (1)/ACTIVE_INTERFERENCE_LOG.md
+/home/zooleous/Forensics/Clearview/clearview (1)/History.txt
+/home/zooleous/Forensics/Clearview/clearview (1)/NETWORK_SHUTDOWN_INCIDENT.md
+/home/zooleous/Forensics/Clearview/clearview (1)/CASE_CLOSED_FINAL_REPORT.md
+/home/zooleous/Forensics/Clearview/clearview (1)/ActivitiesCache - Copy.zip
+/home/zooleous/Forensics/Clearview/clearview (1)/AI_WITNESS_STATEMENT.md
+/home/zooleous/Forensics/Clearview/clearview (1)/yes porcceed ill find them thank you.txt
+/home/zooleous/Forensics/Clearview/clearview (1)/gotya_all_services.csv
+/home/zooleous/Forensics/Clearview/clearview (1)/Analyzing System Surveillance.md
+/home/zooleous/Forensics/Clearview/clearview (1)/KSTATE_SESSION_RECORD_JAN25.md
+/home/zooleous/Forensics/Clearview/clearview (1)/-.venv.txt
+/home/zooleous/Forensics/Clearview/clearview (1)/FORENSIC_EVIDENCE_JAN25_2026
+/home/zooleous/Forensics/Clearview/clearview (1)/FORENSIC_EVIDENCE_JAN25_2026/RecommendationsFilterList_EVIDENCE.json
+/home/zooleous/Forensics/Clearview/clearview (1)/FORENSIC_EVIDENCE_JAN25_2026/ACCESSIBLE_FILES_DETAILED_ANALYSIS.md
+/home/zooleous/Forensics/Clearview/clearview (1)/FORENSIC_EVIDENCE_JAN25_2026/EVIDENCE_NOTES.md
+/home/zooleous/Forensics/Clearview/clearview (1)/desktop.ini
+/home/zooleous/Forensics/Clearview/clearview (1)/appRouter.ts
+/home/zooleous/Forensics/Clearview/clearview (1)/extract_strings.py
+/home/zooleous/Forensics/Clearview/clearview (1)/ecid2_.zip
+/home/zooleous/Forensics/Clearview/clearview (1)/read 4 amazon.txt
+/home/zooleous/Forensics/Clearview/clearview (1)/evidence
+/home/zooleous/Forensics/Clearview/clearview (1)/evidence/code_tracker
+/home/zooleous/Forensics/Clearview/clearview (1)/evidence/code_tracker/9720d9cb933d21117483e69db642a353_.python_history
+/home/zooleous/Forensics/Clearview/clearview (1)/evidence/code_tracker/1f8723e8b7363d86425d1cc0bcbc2e3d_Bing.url
+/home/zooleous/Forensics/Clearview/clearview (1)/evidence/code_tracker/63cc97f824598e7790f8991defb47234_analyzed_context.json
+/home/zooleous/Forensics/Clearview/clearview (1)/evidence/code_tracker/2226832811a4670848a136af657b515f_test.ts
+/home/zooleous/Forensics/Clearview/clearview (1)/evidence/code_tracker/4ca23083cc42228063b13481d9d6e8b9_INJECTION_COMPARISON_GUIDE.md
+/home/zooleous/Forensics/Clearview/clearview (1)/evidence/code_tracker/c31b993fe1c443c22d3a42a2d2cd4f78_desktop.ini
+/home/zooleous/Forensics/Clearview/clearview (1)/evidence/code_tracker/514768be591d6feeb2dbb5a4fae54370_extensions.json
+/home/zooleous/Forensics/Clearview/clearview (1)/evidence/code_tracker/d8969e7c3b08b43d66343898f3baf031_desktop.ini
+/home/zooleous/Forensics/Clearview/clearview (1)/evidence/code_tracker/f10810abdd67f0357b5ee7d99de52ccc_package.json
+/home/zooleous/Forensics/Clearview/clearview (1)/evidence/code_tracker/cd73da1a8bb22d49c372977fc69be266_pnpm
+/home/zooleous/Forensics/Clearview/clearview (1)/evidence/code_tracker/797b40b51bf09f80b003a08f0e0d1a7d_signature-replacement.man
+/home/zooleous/Forensics/Clearview/clearview (1)/evidence/code_tracker/cae996d061c3c60911112ebd4a6d37c8_cloudWorkspaces.json
+/home/zooleous/Forensics/Clearview/clearview (1)/evidence/code_tracker/3502a3ee8793f52c1e388f59c0e3d66d_desktop.ini
+/home/zooleous/Forensics/Clearview/clearview (1)/evidence/code_tracker/3faafc9a9408ee61868598c75280ebd2_.env
+/home/zooleous/Forensics/Clearview/clearview (1)/evidence/code_tracker/5ed4de7961a123bdfd89a21aa5756ecf_Dockerfile
+/home/zooleous/Forensics/Clearview/clearview (1)/evidence/code_tracker/86eb5e72ec00cfd6372f048c89f08118_ntuser.ini
+/home/zooleous/Forensics/Clearview/clearview (1)/evidence/code_tracker/ab33a92e2c6de461d241e6fad747639f_analyze_filesystem.py
+/home/zooleous/Forensics/Clearview/clearview (1)/evidence/code_tracker/03b19edc4d8993eafe2c2ac016ad295e_CleanServices_20260115.csv
+/home/zooleous/Forensics/Clearview/clearview (1)/evidence/code_tracker/41f4f064ef9eae891fd33667debf0a7b_GEMINI.md
+/home/zooleous/Forensics/Clearview/clearview (1)/evidence/code_tracker/ad82cf3327f8d3202444877af25752ff_background.js
+/home/zooleous/Forensics/Clearview/clearview (1)/evidence/code_tracker/3ef8c03fb5e5a5a3fb31b55eb3befc5b_.gitconfig
+/home/zooleous/Forensics/Clearview/clearview (1)/evidence/code_tracker/86eb5e72ec00cfd6372f048c89f08118_ntuser.zip
+/home/zooleous/Forensics/Clearview/clearview (1)/evidence/code_tracker/7a6bfb75b53177caec7995b939a897fb_repoMapping.json
+/home/zooleous/Forensics/Clearview/clearview (1)/evidence/code_tracker/666bac9a7b0e9fc291d389871e688505_reagentc
+/home/zooleous/Forensics/Clearview/clearview (1)/evidence/code_tracker/8c063293f6c47490109ff01017ed27a3_final_comprehensive_report.md
+/home/zooleous/Forensics/Clearview/clearview (1)/evidence/code_tracker/576ae66ea6102aa8371754c4ca5a709d_app.py
+/home/zooleous/Forensics/Clearview/clearview (1)/evidence/code_tracker/84688ca7268a08e68fbf8f38bb8af099_obsolete
+/home/zooleous/Forensics/Clearview/clearview (1)/evidence/code_tracker/b565faa211ee7d5c910cc6615c1001ce_delete
+/home/zooleous/Forensics/Clearview/clearview (1)/evidence/code_tracker/manus_injection_evidence.md
+/home/zooleous/Forensics/Clearview/clearview (1)/evidence/repo_origin_evidence.json
+/home/zooleous/Forensics/Clearview/clearview (1)/DAMAGE_ASSESSMENT_AND_STRATEGY.md
+/home/zooleous/Forensics/Clearview/clearview (1)/KSTATE_INTRODUCTION_LETTER.md
+/home/zooleous/Forensics/Clearview/clearview (1)/more eveiudence_.zip
+/home/zooleous/Forensics/Clearview/clearview (1)/amazon read2.txt
+zooleous@PinkPinkPoke:/usr/share/peass$ 
