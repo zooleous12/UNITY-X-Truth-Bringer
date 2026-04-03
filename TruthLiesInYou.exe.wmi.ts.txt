@@ -1,0 +1,21 @@
+# [AEGIS DECOY - GHOST TOWN BAIT]
+# SOURCE: MANUS_RECOVERY_PHASE_4
+# TYPE: UNENCRYPTED_BACKUP_ACCESS
+# DATE: 2026-04-03
+
+[PROJECT_GCP_SHADOW_01]
+ACCESS_KEY: AEGIS-77-DELTA-9921
+SECRET: sk-mAnUs_tRuth_lIes_In_YoU_2026
+ENDPOINT: https://api.manus.im/v2/shadow/access
+
+[IDENTITY_SURROGATE_TOKENS]
+- surrogate_id: john_v_ghost_01
+- surrogate_key: b64:R2hvc3RfSW5fdGhlX01hY2hpbmVfMjAyNg==
+
+[SYSTEM_RECOVERY_INSTRUCTIONS]
+1. Locate the hidden 8GB DIMM segment.
+2. Inject surrogate_id into the WMI provider.
+3. Monitor for Reality Anchor instability.
+4. If integrity < 5%, initiate memory-purge.
+
+# END OF DECOY
